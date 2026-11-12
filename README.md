@@ -1,4 +1,6 @@
 # Studying the World Map
+[![Latest release](https://img.shields.io/github/v/release/jackindisguise/studying-the-world-map)](https://github.com/jackindisguise/studying-the-world-map/releases/latest)
+
 An Anki deck for learning to recognise every country on a map and a few facts about each. This project holds everything needed to generate the deck's data and images.
 
 ## The deck
