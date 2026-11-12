@@ -1,6 +1,6 @@
 {
 	"name": "world-map-deck",
-	"version": "1.1.0",
+	"version": "1.2.0",
 	"private": true,
 	"type": "module",
 	"description": "Scripts and data to generate the data and map images for the World Map Anki deck (197 countries).",
