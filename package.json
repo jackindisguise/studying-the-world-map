@@ -13,6 +13,7 @@
     "religion": "node scripts/religion.js",
     "records": "node scripts/build-records.js",
     "notes": "node scripts/build-notes.js",
+    "apkg": "node scripts/build-apkg.js",
     "examples": "node scripts/build-examples.js",
     "flags:svg": "node scripts/fetch-svg-flags.js",
     "flags:copy": "node scripts/copy-flags.js",
@@ -22,12 +23,13 @@
   },
   "dependencies": {
     "@resvg/resvg-js": "^2.6.2",
+    "anki-apkg-export": "^5.0.0",
     "d3-geo": "^3.1.1",
     "topojson-client": "^3.1.0",
     "topojson-server": "^3.0.1",
     "world-atlas": "^2.0.2"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=22.12"
   }
 }
