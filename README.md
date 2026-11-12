@@ -26,12 +26,13 @@ It does not talk to Anki; getting the records, maps and flags into the deck is d
 - `build/` generated output: `build/media/map-<ISO>.svg`, `build/fit/boxes.json`.
 
 ## Dependencies
-Requires Node.js 18 or newer (developed on Node 26). Install with `npm install`.
+Requires Node.js 22.12 or newer (developed on Node 26). Install with `npm install`.
 
 npm packages:
 - `d3-geo`: map projections and geometry (area, bounds, distance, point-in-polygon).
 - `topojson-client` and `topojson-server`: build the country topology that gives land borders (shared arcs) and merged continent outlines.
 - `world-atlas`: 50m country shapes, used as the fast backdrop on every map.
+- `anki-apkg-export`: writes the `.apkg` package (custom note type, decks, tags and media).
 - `@resvg/resvg-js`: rasterizes outlines internally for the label-placement masks. No images are written with it.
 
 Data sources (already cached in `data/`, only fetched again by the refresh and fetch scripts, which need internet access):
@@ -54,6 +55,12 @@ npm run build
 ```
 Generates image files for maps (`map-XYZ.svg`) and flags (`flag-XYZ.svg`), and the `notes.csv` file.
 
+### Package
+```
+npm run apkg
+```
+Bundles `build/notes.csv`, the images in `build/media/` and the card templates into `build/studying-the-world-map-<version>.apkg`, ready to import into Anki. Run `npm run build` first.
+
 ### Render
 Render a few maps or all at once.
 ```
@@ -69,6 +76,13 @@ npm run refresh-data
 Re-fetches Wikidata/World Bank facts, re-parses `data/raw/wikipedia/heads.json`, then rebuilds leaders, religion and records.
 To get a fresh Wikipedia heads list, re-download it into `data/raw/wikipedia/heads.json` first.
 Hand overrides live in `scripts/leaders.js`.
+
+## Releases
+Releases are automated with [release-please](https://github.com/googleapis/release-please) (`.github/workflows/release.yml`):
+
+1. Commit to `main` with [conventional commit](https://www.conventionalcommits.org) titles (`feat:`, `fix:`, `docs:` and so on).
+2. release-please keeps a release pull request open that bumps the version in `package.json` and updates `CHANGELOG.md`.
+3. Merging that pull request creates the GitHub release and the `v<version>` tag. The workflow then runs `npm run build` and `npm run apkg` and attaches `studying-the-world-map-<version>.apkg` to the release.
 
 ## Full pipeline
 `countries` -> `facts` -> `heads` -> `leaders` -> `religion` -> `records` -> `flags:svg` -> `render`.
