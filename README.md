@@ -14,6 +14,7 @@ An Anki deck for learning to recognise every country on a map and a few facts ab
 - **Draws the maps:** renders every country's map SVG from Natural Earth shapes (`build/media/`).
 - **Fetches the flags:** downloads the original flag SVGs from Wikimedia Commons (`data/flags-svg/`).
 - **Writes the note file:** a single Anki-importable CSV, `build/notes.csv`, with one row per country, most populous first (`npm run notes`). It has import headers (note type, deck and tags columns); the Map and Flag fields are `<img>` tags that point at the files in `build/media/`, named `map-<ISO>.svg` and `flag-<ISO>.svg`. Import that folder's files into Anki's media folder as they are.
+- **Makes example images:** `npm run examples` renders card screenshots into `docs/images/` for the AnkiWeb page (`docs/ankiweb.md`). It needs Edge or Chrome and a rendered `build/media`.
 - **Keeps the card design:** stores the Anki card templates and CSS in `templates/`.
 
 It does not talk to Anki; getting the records, maps and flags into the deck is done separately.

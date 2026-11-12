@@ -1,32 +1,33 @@
 {
-	"name": "world-map-deck",
-	"version": "1.0.0",
-	"private": true,
-	"type": "module",
-	"description": "Scripts and data to generate the data and map images for the World Map Anki deck (197 countries).",
-	"scripts": {
-		"countries": "node scripts/list-countries.js",
-		"facts": "node scripts/fetch-all.js",
-		"facts:refresh": "node scripts/fetch-all.js --refresh",
-		"heads": "node scripts/parse-heads.js",
-		"leaders": "node scripts/leaders.js",
-		"religion": "node scripts/religion.js",
-		"records": "node scripts/build-records.js",
-		"notes": "node scripts/build-notes.js",
-		"flags:svg": "node scripts/fetch-svg-flags.js",
-		"flags:copy": "node scripts/copy-flags.js",
-		"render": "node scripts/render-all.js",
-		"build": "npm run records && npm run render && npm run flags:copy && npm run notes",
-		"refresh-data": "npm run facts:refresh && npm run heads && npm run leaders && npm run religion && npm run records"
-	},
-	"dependencies": {
-		"@resvg/resvg-js": "^2.6.2",
-		"d3-geo": "^3.1.1",
-		"topojson-client": "^3.1.0",
-		"topojson-server": "^3.0.1",
-		"world-atlas": "^2.0.2"
-	},
-	"engines": {
-		"node": ">=18"
-	}
+  "name": "world-map-deck",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scripts and data to generate the data and map images for the World Map Anki deck (197 countries).",
+  "scripts": {
+    "countries": "node scripts/list-countries.js",
+    "facts": "node scripts/fetch-all.js",
+    "facts:refresh": "node scripts/fetch-all.js --refresh",
+    "heads": "node scripts/parse-heads.js",
+    "leaders": "node scripts/leaders.js",
+    "religion": "node scripts/religion.js",
+    "records": "node scripts/build-records.js",
+    "notes": "node scripts/build-notes.js",
+    "examples": "node scripts/build-examples.js",
+    "flags:svg": "node scripts/fetch-svg-flags.js",
+    "flags:copy": "node scripts/copy-flags.js",
+    "render": "node scripts/render-all.js",
+    "build": "npm run records && npm run render && npm run flags:copy && npm run notes",
+    "refresh-data": "npm run facts:refresh && npm run heads && npm run leaders && npm run religion && npm run records"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1",
+    "world-atlas": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
 }
