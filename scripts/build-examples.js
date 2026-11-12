@@ -21,6 +21,7 @@ const SHOTS = [
   ['locate-front', 'locate', 'front', 'KEN', 1280, 720],
   ['locate-back', 'locate', 'back', 'KEN', 1280, 720],
   ['flag-front', 'flag-to-country', 'front', 'BRA', 1280, 720],
+  ['flag-back', 'flag-to-country', 'back', 'BRA', 1280, 720],
   ['phone-locate-front', 'locate', 'front', 'KEN', 390, 844, true],
   ['phone-locate-back', 'locate', 'back', 'KEN', 390, 844, true],
   ['phone-flag-front', 'flag-to-country', 'front', 'BRA', 390, 844, true],
