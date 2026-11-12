@@ -1,16 +1,27 @@
 ## Studying the World Map
 
+![Version](https://img.shields.io/static/v1?label=version&message=1.2.0&color=blue) <!-- x-release-please-version -->
+
 Learn to recognise every country on a map, and a few facts about each one. 197 countries, one note each: the 193 UN members plus Vatican City, Palestine, Taiwan and Kosovo.
 
 ### Cards
-#### 1. Locate
+#### 1. Map to Country
 
-![Locate, front](https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/locate-front.png)
-![Locate, back](https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/locate-back.png)
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/locate-front.png" alt="Locate, front" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/locate-back.png" alt="Locate, back" width="640">
 
 #### 2. Flag to Country
 
-![Flag to Country, front](https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/flag-front.png)
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/flag-front.png" alt="Flag to Country, front" width="640">
+
+#### On a phone
+
+The cards fill the screen on a phone too: the map on top, and the details below it on the back.
+
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-locate-front.png" alt="Locate on a phone, front" width="240">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-locate-back.png" alt="Locate on a phone, back" width="240">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-flag-front.png" alt="Flag to Country on a phone, front" width="240">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-flag-back.png" alt="Flag to Country on a phone, back" width="240">
 
 ### Maps
 Every map is an SVG, so it stays sharp at any zoom. Each is a north-up view at a similar ground scale, so you get a feel for relative size, with the country in red and its neighbours in grey. Tiny countries get a dot and an inset so they are still findable. The map is scaled to fill the card on desktop and phone.
