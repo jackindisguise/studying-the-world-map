@@ -1,35 +1,39 @@
 {
-  "name": "world-map-deck",
-  "version": "1.1.0",
-  "private": true,
-  "type": "module",
-  "description": "Scripts and data to generate the data and map images for the World Map Anki deck (197 countries).",
-  "scripts": {
-    "countries": "node scripts/list-countries.js",
-    "facts": "node scripts/fetch-all.js",
-    "facts:refresh": "node scripts/fetch-all.js --refresh",
-    "heads": "node scripts/parse-heads.js",
-    "leaders": "node scripts/leaders.js",
-    "religion": "node scripts/religion.js",
-    "records": "node scripts/build-records.js",
-    "notes": "node scripts/build-notes.js",
-    "apkg": "node scripts/build-apkg.js",
-    "examples": "node scripts/build-examples.js",
-    "flags:svg": "node scripts/fetch-svg-flags.js",
-    "flags:copy": "node scripts/copy-flags.js",
-    "render": "node scripts/render-all.js",
-    "build": "npm run records && npm run render && npm run flags:copy && npm run notes",
-    "refresh-data": "npm run facts:refresh && npm run heads && npm run leaders && npm run religion && npm run records"
-  },
-  "dependencies": {
-    "@resvg/resvg-js": "^2.6.2",
-    "anki-apkg-export": "^5.0.0",
-    "d3-geo": "^3.1.1",
-    "topojson-client": "^3.1.0",
-    "topojson-server": "^3.0.1",
-    "world-atlas": "^2.0.2"
-  },
-  "engines": {
-    "node": ">=22.12"
-  }
+	"name": "world-map-deck",
+	"version": "1.1.0",
+	"private": true,
+	"type": "module",
+	"description": "Scripts and data to generate the data and map images for the World Map Anki deck (197 countries).",
+	"scripts": {
+		"countries": "node scripts/list-countries.js",
+		"facts": "node scripts/fetch-all.js",
+		"facts:refresh": "node scripts/fetch-all.js --refresh",
+		"heads": "node scripts/parse-heads.js",
+		"leaders": "node scripts/leaders.js",
+		"religion": "node scripts/religion.js",
+		"records": "node scripts/build-records.js",
+		"notes": "node scripts/build-notes.js",
+		"apkg": "npm run apkg:build && npm run apkg:describe",
+		"apkg:build": "node scripts/build-apkg.js",
+		"apkg:describe": "node scripts/add-deck-descriptions.js",
+		"examples": "node scripts/build-examples.js",
+		"flags:svg": "node scripts/fetch-svg-flags.js",
+		"flags:copy": "node scripts/copy-flags.js",
+		"render": "node scripts/render-all.js",
+		"build": "npm run records && npm run render && npm run flags:copy && npm run notes",
+		"refresh-data": "npm run facts:refresh && npm run heads && npm run leaders && npm run religion && npm run records"
+	},
+	"dependencies": {
+		"@resvg/resvg-js": "^2.6.2",
+		"anki-apkg-export": "^5.0.0",
+		"d3-geo": "^3.1.1",
+		"jszip": "^3.10.2",
+		"sql.js": "^1.16.0",
+		"topojson-client": "^3.1.0",
+		"topojson-server": "^3.0.1",
+		"world-atlas": "^2.0.2"
+	},
+	"engines": {
+		"node": ">=22.12"
+	}
 }

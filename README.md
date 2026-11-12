@@ -55,11 +55,23 @@ npm run build
 ```
 Generates image files for maps (`map-XYZ.svg`) and flags (`flag-XYZ.svg`), and the `notes.csv` file.
 
-### Package
+### Anki Deck
 ```
 npm run apkg
 ```
-Bundles `build/notes.csv`, the images in `build/media/` and the card templates into `build/studying-the-world-map-<version>.apkg`, ready to import into Anki. Run `npm run build` first.
+Bundles `build/notes.csv`, the images in `build/media/` and the card templates into `build/studying-the-world-map-<version>.apkg`, ready to import into Anki, then adds the deck descriptions.
+
+### Anki Deck
+```
+npm run apkg:build
+```
+Builds the `build/studying-the-world-map-<version>.apkg` file without adding descriptions.
+
+### Anki Deck Descriptions
+```
+npm run apkg:describe
+```
+Fills in each deck's description (from `data/deck-descriptions.json`) in an existing package, in place. The descriptions are Markdown, and the script turns on each deck's Markdown option. It's a separate step so you can test it without rebuilding the deck: `node scripts/add-deck-descriptions.js in.apkg out.apkg` writes to a different file.
 
 ### Render
 Render a few maps or all at once.
@@ -83,6 +95,3 @@ Releases are automated with [release-please](https://github.com/googleapis/relea
 1. Commit to `main` with [conventional commit](https://www.conventionalcommits.org) titles (`feat:`, `fix:`, `docs:` and so on).
 2. release-please keeps a release pull request open that bumps the version in `package.json` and updates `CHANGELOG.md`.
 3. Merging that pull request creates the GitHub release and the `v<version>` tag. The workflow then runs `npm run build` and `npm run apkg` and attaches `studying-the-world-map-<version>.apkg` to the release.
-
-## Full pipeline
-`countries` -> `facts` -> `heads` -> `leaders` -> `religion` -> `records` -> `flags:svg` -> `render`.
