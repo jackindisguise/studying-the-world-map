@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/jackindisguise/studying-the-world-map/compare/v1.2.0...v1.2.1) (2026-11-12)
+
+
+### Bug Fixes
+
+* update the AnkiWeb page version on each release ([0fe8e8f](https://github.com/jackindisguise/studying-the-world-map/commit/0fe8e8fc8e7f3b791d05e26b5df3c12cac461207))
+
 ## [1.2.0](https://github.com/jackindisguise/studying-the-world-map/compare/v1.1.0...v1.2.0) (2026-11-12)
 
 

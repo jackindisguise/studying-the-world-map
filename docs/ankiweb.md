@@ -1,6 +1,6 @@
 ## Studying the World Map
 
-![Version](https://img.shields.io/static/v1?label=version&message=1.2.0&color=blue) <!-- x-release-please-version -->
+![Version](https://img.shields.io/static/v1?label=version&message=1.2.1&color=blue) <!-- x-release-please-version -->
 
 Learn to recognise every country on a map, and a few facts about each one. 197 countries, one note each: the 193 UN members plus Vatican City, Palestine, Taiwan and Kosovo.
 
