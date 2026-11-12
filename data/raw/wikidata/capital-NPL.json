@@ -1,0 +1,233 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1032",
+    "iso": "NER",
+    "s": "http://www.wikidata.org/entity/statement/q1032-00309B55-2893-4781-9CD8-47A9410BBA77",
+    "v": "http://www.wikidata.org/entity/Q3674",
+    "vLabel": "Niamey"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1033",
+    "iso": "NGA",
+    "s": "http://www.wikidata.org/entity/statement/q1033-C13480D3-E125-4C8C-A9EC-56BC8078ABAA",
+    "v": "http://www.wikidata.org/entity/Q3787",
+    "vLabel": "Abuja"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "s": "http://www.wikidata.org/entity/statement/q1037-CD4E46E0-6220-4EA9-8F12-36EB05CF4EDB",
+    "v": "http://www.wikidata.org/entity/Q3859",
+    "vLabel": "Kigali"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q159",
+    "iso": "RUS",
+    "s": "http://www.wikidata.org/entity/statement/q159-4379ECB7-0257-47EB-899D-66BB62F4B02E",
+    "v": "http://www.wikidata.org/entity/Q649",
+    "vLabel": "Moscow"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "s": "http://www.wikidata.org/entity/statement/q20-CB7CF181-7CB4-495D-883B-2AD6CFBD6872",
+    "v": "http://www.wikidata.org/entity/Q585",
+    "vLabel": "Oslo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q218",
+    "iso": "ROU",
+    "s": "http://www.wikidata.org/entity/statement/q218-B9CA8F0B-6E15-4F28-9FF6-297D55DC3A93",
+    "v": "http://www.wikidata.org/entity/Q19660",
+    "vLabel": "Bucharest"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "s": "http://www.wikidata.org/entity/statement/Q219060-3d272d96-40f1-8c4f-2726-0d27416285e5",
+    "v": "http://www.wikidata.org/entity/Q212938",
+    "vLabel": "East Jerusalem"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "s": "http://www.wikidata.org/entity/statement/Q219060-8bc3bee5-4949-4e56-4fa9-d1e5ae32e8f8",
+    "v": "http://www.wikidata.org/entity/Q158119",
+    "vLabel": "Ramallah"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q221",
+    "iso": "MKD",
+    "s": "http://www.wikidata.org/entity/statement/q221-BC8F710D-786A-400E-AFB5-4FDF3EFA5A18",
+    "v": "http://www.wikidata.org/entity/Q384",
+    "vLabel": "Skopje"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "s": "http://www.wikidata.org/entity/statement/q238-45DC2120-0AA2-4442-A144-759842CF91C0",
+    "v": "http://www.wikidata.org/entity/Q1848",
+    "vLabel": "San Marino"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "s": "http://www.wikidata.org/entity/statement/Q29999-92eeae08-4009-c3d8-8ab2-c0c477bb15d1",
+    "v": "http://www.wikidata.org/entity/Q36600",
+    "vLabel": "The Hague"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "s": "http://www.wikidata.org/entity/statement/q29999-D0DC9952-EE79-433A-8487-1AF89BB1CCC4",
+    "v": "http://www.wikidata.org/entity/Q727",
+    "vLabel": "Amsterdam"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q36",
+    "iso": "POL",
+    "s": "http://www.wikidata.org/entity/statement/q36-94D48ABA-3371-4101-8AD7-E85AB63F7B4F",
+    "v": "http://www.wikidata.org/entity/Q270",
+    "vLabel": "Warsaw"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q419",
+    "iso": "PER",
+    "s": "http://www.wikidata.org/entity/statement/q419-AF161359-F909-47FA-8DC9-9B5CC7168E42",
+    "v": "http://www.wikidata.org/entity/Q2868",
+    "vLabel": "Lima"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "s": "http://www.wikidata.org/entity/statement/q423-77EE033F-83F2-4C41-B953-660549372824",
+    "v": "http://www.wikidata.org/entity/Q18808",
+    "vLabel": "Pyongyang"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q45",
+    "iso": "PRT",
+    "s": "http://www.wikidata.org/entity/statement/q45-615BCF2B-6C0D-4A9C-A692-2CF29F230D6D",
+    "v": "http://www.wikidata.org/entity/Q597",
+    "vLabel": "Lisbon"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q664",
+    "iso": "NZL",
+    "s": "http://www.wikidata.org/entity/statement/q664-113F2588-9597-488E-833D-5EB70E604B1F",
+    "v": "http://www.wikidata.org/entity/Q23661",
+    "vLabel": "Wellington"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q683",
+    "iso": "WSM",
+    "s": "http://www.wikidata.org/entity/statement/q683-fd5d318e-4d98-98db-6f26-d75636449b6c",
+    "v": "http://www.wikidata.org/entity/Q36260",
+    "vLabel": "Apia"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q691",
+    "iso": "PNG",
+    "s": "http://www.wikidata.org/entity/statement/q691-8A024A0D-8F19-4D88-AFC2-E5324DD78181",
+    "v": "http://www.wikidata.org/entity/Q36526",
+    "vLabel": "Port Moresby"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q695",
+    "iso": "PLW",
+    "s": "http://www.wikidata.org/entity/statement/q695-C7B53E10-2B95-4D93-A800-3BE128E7CE02",
+    "v": "http://www.wikidata.org/entity/Q515229",
+    "vLabel": "Ngerulmud"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q733",
+    "iso": "PRY",
+    "s": "http://www.wikidata.org/entity/statement/q733-99241613-3CBE-4F2C-B7F6-3CA40C47E27E",
+    "v": "http://www.wikidata.org/entity/Q2933",
+    "vLabel": "Asunción"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q757",
+    "iso": "VCT",
+    "s": "http://www.wikidata.org/entity/statement/q757-FC82C1E4-1CD4-40E2-BC8D-2415E9B7AE4C",
+    "v": "http://www.wikidata.org/entity/Q41474",
+    "vLabel": "Kingstown"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q760",
+    "iso": "LCA",
+    "s": "http://www.wikidata.org/entity/statement/q760-F8DA84BE-C243-4ABC-8E79-339EB2107F21",
+    "v": "http://www.wikidata.org/entity/Q41699",
+    "vLabel": "Castries"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q763",
+    "iso": "KNA",
+    "s": "http://www.wikidata.org/entity/statement/q763-4E0C3F65-1DED-4811-A9CB-39DE2F2C91B1",
+    "v": "http://www.wikidata.org/entity/Q41295",
+    "vLabel": "Basseterre"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q804",
+    "iso": "PAN",
+    "s": "http://www.wikidata.org/entity/statement/q804-D95FC3A6-F20C-418B-ABFF-B14269CA7BBF",
+    "v": "http://www.wikidata.org/entity/Q3306",
+    "vLabel": "Panama City"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q837",
+    "iso": "NPL",
+    "s": "http://www.wikidata.org/entity/statement/Q837-5F693A55-8885-4B6A-A1F8-BB6F7D71C29F",
+    "v": "http://www.wikidata.org/entity/Q3037",
+    "vLabel": "Kathmandu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q842",
+    "iso": "OMN",
+    "s": "http://www.wikidata.org/entity/statement/q842-F2B607A2-F00D-4D71-8EF0-7CE150C5BC32",
+    "v": "http://www.wikidata.org/entity/Q3826",
+    "vLabel": "Muscat"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "s": "http://www.wikidata.org/entity/statement/q843-F7DB68C5-B8E0-4A08-B821-3A2348B22D11",
+    "v": "http://www.wikidata.org/entity/Q1362",
+    "vLabel": "Islamabad"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q846",
+    "iso": "QAT",
+    "s": "http://www.wikidata.org/entity/statement/q846-89F01413-BF1F-4D23-B98D-D84274069722",
+    "v": "http://www.wikidata.org/entity/Q3861",
+    "vLabel": "Doha"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "s": "http://www.wikidata.org/entity/statement/Q928-f8d0b41c-48a8-23ef-80b9-36229907e432",
+    "v": "http://www.wikidata.org/entity/Q1461",
+    "vLabel": "Manila"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q971",
+    "iso": "COG",
+    "s": "http://www.wikidata.org/entity/statement/q971-803F05B7-5A8B-4A07-902B-5C126EEC67AF",
+    "v": "http://www.wikidata.org/entity/Q3844",
+    "vLabel": "Brazzaville"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "s": "http://www.wikidata.org/entity/statement/Q219060-a58c4435-4263-d76b-f0de-9baa27f0368e",
+    "v": "http://www.wikidata.org/entity/Q1218",
+    "vLabel": "Jerusalem"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q811",
+    "iso": "NIC",
+    "s": "http://www.wikidata.org/entity/statement/Q811-F1128675-34FF-42FF-B605-21D9CB720592",
+    "v": "http://www.wikidata.org/entity/Q131546626",
+    "vLabel": "Managua"
+  }
+]

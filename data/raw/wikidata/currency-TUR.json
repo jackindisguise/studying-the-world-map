@@ -1,0 +1,191 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1036",
+    "iso": "UGA",
+    "s": "http://www.wikidata.org/entity/statement/q1036-F26DFC19-3432-4099-8832-3BC70D54FB3A",
+    "v": "http://www.wikidata.org/entity/Q4598",
+    "vLabel": "Ugandan shilling"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q145",
+    "iso": "GBR",
+    "s": "http://www.wikidata.org/entity/statement/q145-3D0CBFE0-8CBF-4FB5-9A96-DA84406D50C5",
+    "v": "http://www.wikidata.org/entity/Q25224",
+    "vLabel": "pound sterling"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q212",
+    "iso": "UKR",
+    "s": "http://www.wikidata.org/entity/statement/q212-CD2388AC-4CC1-4533-8D3C-FCBB8E66D633",
+    "v": "http://www.wikidata.org/entity/Q81893",
+    "vLabel": "hryvnia"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q237",
+    "iso": "VAT",
+    "s": "http://www.wikidata.org/entity/statement/q237-A1146123-CEEB-45CA-BCFF-9FA81E671D79",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q265",
+    "iso": "UZB",
+    "s": "http://www.wikidata.org/entity/statement/q265-59D644D8-68DB-4C33-94AA-42DC35152D6E",
+    "v": "http://www.wikidata.org/entity/Q487888",
+    "vLabel": "Uzbek som"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "s": "http://www.wikidata.org/entity/statement/q30-62800D38-8C8E-4EEE-BE8F-DD3DCFB9025F",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/q43-841CFB1B-C7C8-4006-94DD-AFE81678CFF3",
+    "v": "http://www.wikidata.org/entity/Q172872",
+    "vLabel": "Turkish lira"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q672",
+    "iso": "TUV",
+    "s": "http://www.wikidata.org/entity/statement/Q672-35FB998F-3D43-42E6-BEC3-14F44410DA1E",
+    "v": "http://www.wikidata.org/entity/Q4406",
+    "vLabel": "Tuvaluan dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q672",
+    "iso": "TUV",
+    "s": "http://www.wikidata.org/entity/statement/Q672-7d4518cd-4454-91f6-5da8-f6727e0646b4",
+    "v": "http://www.wikidata.org/entity/Q259502",
+    "vLabel": "Australian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "s": "http://www.wikidata.org/entity/statement/Q686-df2bd2f8-42a8-3a39-49db-2ffe5c9d287f",
+    "v": "http://www.wikidata.org/entity/Q207523",
+    "vLabel": "Vanuatu vatus"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q717",
+    "iso": "VEN",
+    "s": "http://www.wikidata.org/entity/statement/Q717-29cb303e-4908-055d-025e-2c6d7176e5d9",
+    "v": "http://www.wikidata.org/entity/Q56349362",
+    "vLabel": "sovereign bolivar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q77",
+    "iso": "URY",
+    "s": "http://www.wikidata.org/entity/statement/q77-57a67f1c-4b5a-8e4a-648f-02d8662e808f",
+    "v": "http://www.wikidata.org/entity/Q209272",
+    "vLabel": "Uruguayan peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q805",
+    "iso": "YEM",
+    "s": "http://www.wikidata.org/entity/statement/q805-AB8869F7-ACC4-4B2A-8DA3-58A59BF0D3EB",
+    "v": "http://www.wikidata.org/entity/Q240512",
+    "vLabel": "Yemeni rial"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q874",
+    "iso": "TKM",
+    "s": "http://www.wikidata.org/entity/statement/q874-D61FAD76-3FD7-40DA-B18C-4B4EC475F925",
+    "v": "http://www.wikidata.org/entity/Q486637",
+    "vLabel": "Turkmenistan new manat"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q878",
+    "iso": "ARE",
+    "s": "http://www.wikidata.org/entity/statement/q878-D743F85D-0421-43B2-B134-7CA27FFEE599",
+    "v": "http://www.wikidata.org/entity/Q200294",
+    "vLabel": "United Arab Emirates dirham"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q881",
+    "iso": "VNM",
+    "s": "http://www.wikidata.org/entity/statement/q881-DAC8AE2F-0383-44DE-B39F-1489F7272D11",
+    "v": "http://www.wikidata.org/entity/Q192090",
+    "vLabel": "Vietnamese đồng"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q953",
+    "iso": "ZMB",
+    "s": "http://www.wikidata.org/entity/statement/q953-9E51AB63-E024-4820-8A54-CACE5BB9429C",
+    "v": "http://www.wikidata.org/entity/Q73408",
+    "vLabel": "Zambian Kwacha"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-0951ea9b-453a-2d17-cc60-d3779e9eea46",
+    "v": "http://www.wikidata.org/entity/Q181907",
+    "vLabel": "rand"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-3d3950b0-4604-cabe-005d-97cf2a16bb06",
+    "v": "http://www.wikidata.org/entity/Q25224",
+    "vLabel": "pound sterling"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-5ca8a470-4cb3-1776-31ad-be7bc0ed5325",
+    "v": "http://www.wikidata.org/entity/Q182803",
+    "vLabel": "Zimbabwean dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-5f0c2e7b-4f77-d42f-54e9-cbf8c58eca4d",
+    "v": "http://www.wikidata.org/entity/Q259502",
+    "vLabel": "Australian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-784124E3-039A-492D-A1E3-63DD907CC2AD",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-7ef3834a-4120-ca56-1775-923c03ff06bd",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-9f365d64-451e-3322-e5f0-4a34ca289a52",
+    "v": "http://www.wikidata.org/entity/Q125352135",
+    "vLabel": "Zimbabwe ZiG"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-a694a40d-45ba-639e-0613-f482692f0758",
+    "v": "http://www.wikidata.org/entity/Q80524",
+    "vLabel": "Indian rupee"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-bb1872ca-4514-929e-5833-7c3fc3c9e93a",
+    "v": "http://www.wikidata.org/entity/Q8146",
+    "vLabel": "yen"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-cca4ffe1-42d9-36dc-1a4f-8587ef3804e5",
+    "v": "http://www.wikidata.org/entity/Q39099",
+    "vLabel": "renminbi"
+  }
+]

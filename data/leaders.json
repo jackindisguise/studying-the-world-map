@@ -1,0 +1,1381 @@
+{
+  "AFG": {
+    "leader": "Hibatullah Akhundzada",
+    "party": "Taliban",
+    "head": "Hasan Akhund",
+    "headParty": "Taliban",
+    "source": "wikipedia"
+  },
+  "ALB": {
+    "leader": "Edi Rama",
+    "party": "Socialist Party of Albania",
+    "head": "Bajram Begaj",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "DZA": {
+    "leader": "Abdelmadjid Tebboune",
+    "party": "National Liberation Front",
+    "head": "Sifi Ghrieb",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "AND": {
+    "leader": "Xavier Espot Zamora",
+    "party": "Democrats for Andorra",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "AGO": {
+    "leader": "João Lourenço",
+    "party": "People's Movement for the Liberation of Angola",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ATG": {
+    "leader": "Gaston Browne",
+    "party": "Antigua and Barbuda Labour Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ARG": {
+    "leader": "Javier Milei",
+    "party": "Freedom Advances",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ARM": {
+    "leader": "Nikol Pashinyan",
+    "party": "Civil Contract",
+    "head": "Vahagn Khachaturyan",
+    "headParty": "nonpartisanism",
+    "source": "wikipedia"
+  },
+  "AUS": {
+    "leader": "Anthony Albanese",
+    "party": "Australian Labor Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "AUT": {
+    "leader": "Christian Stocker",
+    "party": "Austrian People's Party",
+    "head": "Alexander Van der Bellen",
+    "headParty": "The Greens – The Green Alternative",
+    "source": "wikipedia"
+  },
+  "AZE": {
+    "leader": "Ilham Aliyev",
+    "party": "New Azerbaijan Party",
+    "head": "Ali Asadov",
+    "headParty": "New Azerbaijan Party",
+    "source": "wikipedia"
+  },
+  "BHS": {
+    "leader": "Philip Davis",
+    "party": "Progressive Liberal Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BHR": {
+    "leader": "Hamad bin Isa Al Khalifa",
+    "party": "",
+    "head": "Salman bin Hamad Al Khalifa",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BGD": {
+    "leader": "Tarique Rahman",
+    "party": "Bangladesh Nationalist Party",
+    "head": "Mirza Fakhrul Islam Alamgir",
+    "headParty": "Bangladesh Nationalist Party",
+    "source": "wikipedia"
+  },
+  "BRB": {
+    "leader": "Mia Mottley",
+    "party": "Barbados Labour Party",
+    "head": "Jeffrey Bostic",
+    "headParty": "Barbados Labour Party",
+    "source": "wikipedia"
+  },
+  "BLR": {
+    "leader": "Alexander Turchin",
+    "party": "",
+    "head": "Alexander Lukashenko",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "BEL": {
+    "leader": "Bart De Wever",
+    "party": "New Flemish Alliance",
+    "head": "Philippe",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BLZ": {
+    "leader": "Johnny Briceño",
+    "party": "People's United Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BEN": {
+    "leader": "Romuald Wadagni",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BTN": {
+    "leader": "Tshering Tobgay",
+    "party": "People's Democratic Party",
+    "head": "Jigme Khesar Namgyel Wangchuck",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BOL": {
+    "leader": "Rodrigo Paz",
+    "party": "",
+    "head": "Borjana Krišto",
+    "headParty": "Croatian Democratic Union of Bosnia and Herzegovina",
+    "source": "wikipedia"
+  },
+  "BIH": {
+    "leader": "Borjana Krišto",
+    "party": "Croatian Democratic Union of Bosnia and Herzegovina",
+    "head": "Željko Komšić",
+    "headParty": "Social Democratic Party of Bosnia and Herzegovina",
+    "source": "wikidata"
+  },
+  "BWA": {
+    "leader": "Duma Boko",
+    "party": "Umbrella for Democratic Change",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BRA": {
+    "leader": "Luiz Inácio Lula da Silva",
+    "party": "Workers' Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BRN": {
+    "leader": "Hassanal Bolkiah",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "override"
+  },
+  "BGR": {
+    "leader": "Rumen Radev",
+    "party": "Progressive Bulgaria",
+    "head": "Iliana Iotova",
+    "headParty": "Bulgarian Socialist Party",
+    "source": "wikipedia"
+  },
+  "BFA": {
+    "leader": "Jean Emmanuel Ouédraogo",
+    "party": "",
+    "head": "Ibrahim Traoré",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "BDI": {
+    "leader": "Évariste Ndayishimiye",
+    "party": "National Council for the Defense of Democracy–Forces for the Defense of Democracy",
+    "head": "Nestor Ntahontuye",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "KHM": {
+    "leader": "Hun Manet",
+    "party": "Cambodian People's Party",
+    "head": "Hun Sen",
+    "headParty": "Cambodian People's Party",
+    "source": "wikipedia"
+  },
+  "CMR": {
+    "leader": "Paul Biya",
+    "party": "Cameroon People's Democratic Movement",
+    "head": "Joseph Ngute",
+    "headParty": "Cameroon People's Democratic Movement",
+    "source": "wikipedia"
+  },
+  "CAN": {
+    "leader": "Mark Carney",
+    "party": "Liberal Party of Canada",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "CPV": {
+    "leader": "Francisco Carvalho",
+    "party": "African Party for the Independence of Cape Verde",
+    "head": "José Maria Neves",
+    "headParty": "African Party for the Independence of Cape Verde",
+    "source": "wikipedia"
+  },
+  "CAF": {
+    "leader": "Faustin-Archange Touadéra",
+    "party": "United Hearts Movement",
+    "head": "Félix Moloua",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "TCD": {
+    "leader": "Mahamat Déby",
+    "party": "Independent",
+    "head": "Allamaye Halina",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "CHL": {
+    "leader": "José Antonio Kast",
+    "party": "Independent",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "CHN": {
+    "leader": "Li Qiang",
+    "party": "Chinese Communist Party",
+    "head": "Xi Jinping",
+    "headParty": "Chinese Communist Party",
+    "source": "wikipedia"
+  },
+  "COL": {
+    "leader": "Abelardo de la Espriella",
+    "party": "Independent",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "COM": {
+    "leader": "Azali Assoumani",
+    "party": "Convention for the Renewal of the Comoros",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "CRI": {
+    "leader": "Laura Fernández",
+    "party": "Sovereign People's Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "HRV": {
+    "leader": "Andrej Plenković",
+    "party": "Croatian Democratic Union",
+    "head": "Zoran Milanović",
+    "headParty": "Social Democratic Party of Croatia",
+    "source": "wikipedia"
+  },
+  "CUB": {
+    "leader": "Manuel Marrero Cruz",
+    "party": "Communist Party of Cuba",
+    "head": "Miguel Díaz-Canel",
+    "headParty": "Communist Party of Cuba",
+    "source": "wikipedia"
+  },
+  "CYP": {
+    "leader": "Nikos Christodoulides",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "CZE": {
+    "leader": "Andrej Babiš",
+    "party": "ANO 2011",
+    "head": "Petr Pavel",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "COD": {
+    "leader": "Félix Tshisekedi",
+    "party": "Union for Democracy and Social Progress",
+    "head": "Judith Suminwa",
+    "headParty": "Union for Democracy and Social Progress",
+    "source": "wikipedia"
+  },
+  "DNK": {
+    "leader": "Mette Frederiksen",
+    "party": "Social Democrats",
+    "head": "Frederik X",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "DJI": {
+    "leader": "Ismaïl Omar Guelleh",
+    "party": "People's Rally for Progress",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "DMA": {
+    "leader": "Roosevelt Skerrit",
+    "party": "Dominica Labour Party",
+    "head": "Sylvanie Burton",
+    "headParty": "Dominica Labour Party",
+    "source": "wikipedia"
+  },
+  "DOM": {
+    "leader": "Luis Abinader",
+    "party": "Modern Revolutionary Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ECU": {
+    "leader": "Daniel Noboa",
+    "party": "National Democratic Action",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "EGY": {
+    "leader": "Abdel Fattah el-Sisi",
+    "party": "Independent",
+    "head": "Mostafa Madbouly",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "SLV": {
+    "leader": "Nayib Bukele",
+    "party": "Nuevas Ideas",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GNQ": {
+    "leader": "Teodoro Obiang Nguema Mbasogo",
+    "party": "Democratic Party of Equatorial Guinea",
+    "head": "Manuel Osa Nsue Nsua",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ERI": {
+    "leader": "Isaias Afwerki",
+    "party": "People's Front for Democracy and Justice",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "EST": {
+    "leader": "Kristen Michal",
+    "party": "Estonian Reform Party",
+    "head": "Ülle Madise",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SWZ": {
+    "leader": "Mswati III",
+    "party": "",
+    "head": "Russell Dlamini",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ETH": {
+    "leader": "Abiy Ahmed",
+    "party": "Prosperity Party",
+    "head": "Taye Atske Selassie",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "FJI": {
+    "leader": "Sitiveni Rabuka",
+    "party": "Soqosoqo ni Vakavulewa ni Taukei",
+    "head": "Naiqama Lalabalavu",
+    "headParty": "Social Democratic Liberal Party",
+    "source": "wikipedia"
+  },
+  "FIN": {
+    "leader": "Petteri Orpo",
+    "party": "National Coalition Party",
+    "head": "Alexander Stubb",
+    "headParty": "National Coalition Party",
+    "source": "wikipedia"
+  },
+  "FRA": {
+    "leader": "Emmanuel Macron",
+    "party": "Renaissance",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GAB": {
+    "leader": "Brice Oligui Nguema",
+    "party": "Democratic Union of Builders",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GMB": {
+    "leader": "Adama Barrow",
+    "party": "National People's Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GEO": {
+    "leader": "Irakli Kobakhidze",
+    "party": "Georgian Dream",
+    "head": "Mikheil Kavelashvili",
+    "headParty": "People's Power",
+    "source": "wikidata"
+  },
+  "DEU": {
+    "leader": "Friedrich Merz",
+    "party": "Christian Democratic Union",
+    "head": "Frank-Walter Steinmeier",
+    "headParty": "Social Democratic Party of Germany",
+    "source": "wikipedia"
+  },
+  "GHA": {
+    "leader": "John Mahama",
+    "party": "National Democratic Congress",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GRC": {
+    "leader": "Kyriakos Mitsotakis",
+    "party": "New Democracy",
+    "head": "Konstantinos Tasoulas",
+    "headParty": "New Democracy",
+    "source": "wikipedia"
+  },
+  "GRD": {
+    "leader": "Dickon Mitchell",
+    "party": "National Democratic Congress",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GTM": {
+    "leader": "Bernardo Arévalo",
+    "party": "Semilla Movement",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GIN": {
+    "leader": "Mamady Doumbouya",
+    "party": "",
+    "head": "Bah Oury",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GNB": {
+    "leader": "Ilídio Vieira Té",
+    "party": "",
+    "head": "Horta Inta-A Na Man",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GUY": {
+    "leader": "Irfaan Ali",
+    "party": "People's Progressive Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "HTI": {
+    "leader": "Alix Didier Fils-Aimé",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "HND": {
+    "leader": "Nasry Asfura",
+    "party": "National Party of Honduras",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "HUN": {
+    "leader": "Péter Magyar",
+    "party": "Respect and Freedom Party",
+    "head": "András Baka",
+    "headParty": "Hungarian Democratic Forum",
+    "source": "wikipedia"
+  },
+  "ISL": {
+    "leader": "Kristrún Frostadóttir",
+    "party": "Social Democratic Alliance",
+    "head": "Halla Tómasdóttir",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "IND": {
+    "leader": "Narendra Modi",
+    "party": "Bharatiya Janata Party",
+    "head": "Droupadi Murmu",
+    "headParty": "Bharatiya Janata Party",
+    "source": "wikipedia"
+  },
+  "IDN": {
+    "leader": "Prabowo Subianto",
+    "party": "Great Indonesia Movement Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "IRN": {
+    "leader": "Masoud Pezeshkian",
+    "party": "Independent",
+    "head": "Mojtaba Khamenei",
+    "headParty": "Independent",
+    "source": "wikidata"
+  },
+  "IRQ": {
+    "leader": "Ali al-Zaidi",
+    "party": "Independent",
+    "head": "Nizar Amidi",
+    "headParty": "Patriotic Union of Kurdistan",
+    "source": "wikipedia"
+  },
+  "IRL": {
+    "leader": "Micheál Martin",
+    "party": "Fianna Fáil",
+    "head": "Catherine Connolly",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "ISR": {
+    "leader": "Benjamin Netanyahu",
+    "party": "Likud",
+    "head": "Isaac Herzog",
+    "headParty": "Israeli Labor Party",
+    "source": "wikipedia"
+  },
+  "ITA": {
+    "leader": "Giorgia Meloni",
+    "party": "Brothers of Italy",
+    "head": "Sergio Mattarella",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "CIV": {
+    "leader": "Alassane Ouattara",
+    "party": "Democratic Party of Côte d'Ivoire – African Democratic Rally",
+    "head": "Robert Beugré Mambé",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "JAM": {
+    "leader": "Andrew Holness",
+    "party": "Jamaica Labour Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "JPN": {
+    "leader": "Sanae Takaichi",
+    "party": "Liberal Democratic Party",
+    "head": "Naruhito",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "JOR": {
+    "leader": "Abdullah II",
+    "party": "",
+    "head": "Jafar Hassan",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "KAZ": {
+    "leader": "Kassym-Jomart Tokayev",
+    "party": "Nur Otan",
+    "head": "Oljas Bektenov",
+    "headParty": "Amanat",
+    "source": "wikipedia"
+  },
+  "KEN": {
+    "leader": "William Ruto",
+    "party": "United Democratic Alliance",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "KIR": {
+    "leader": "Taneti Maamau",
+    "party": "Tobwaan Kiribati Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "XKX": {
+    "leader": "Albin Kurti",
+    "party": "Vetëvendosje!",
+    "head": "Justina Shiroka Pula",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "KWT": {
+    "leader": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+    "party": "",
+    "head": "Ahmad Al-Abdullah Al-Sabah",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "KGZ": {
+    "leader": "Sadyr Japarov",
+    "party": "Mekenchil",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "LAO": {
+    "leader": "Saleumxay Kommasith",
+    "party": "",
+    "head": "Thongloun Sisoulith",
+    "headParty": "Lao People's Revolutionary Party",
+    "source": "wikipedia"
+  },
+  "LVA": {
+    "leader": "Andris Kulbergs",
+    "party": "United List",
+    "head": "Edgars Rinkēvičs",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "LBN": {
+    "leader": "Nawaf Salam",
+    "party": "",
+    "head": "Joseph Aoun",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "LSO": {
+    "leader": "Sam Matekane",
+    "party": "Revolution for Prosperity",
+    "head": "Letsie III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "LBR": {
+    "leader": "Joseph Boakai",
+    "party": "Unity Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "LBY": {
+    "leader": "Abdul Hamid Dbeibeh",
+    "party": "Independent",
+    "head": "Mohamed al-Menfi",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "LIE": {
+    "leader": "Hans-Adam II",
+    "party": "",
+    "head": "Brigitte Haas",
+    "headParty": "Fatherland Union",
+    "source": "wikipedia"
+  },
+  "LTU": {
+    "leader": "Gitanas Nausėda",
+    "party": "Independent",
+    "head": "Mindaugas Sinkevičius",
+    "headParty": "Social Democratic Party of Lithuania",
+    "source": "wikipedia"
+  },
+  "LUX": {
+    "leader": "Luc Frieden",
+    "party": "Christian Social People's Party",
+    "head": "Guillaume V",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MDG": {
+    "leader": "Mamitiana Rajaonarison",
+    "party": "",
+    "head": "Michael Randrianirina",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MWI": {
+    "leader": "Peter Mutharika",
+    "party": "Democratic Progressive Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MYS": {
+    "leader": "Anwar Ibrahim",
+    "party": "People's Justice Party",
+    "head": "Ibrahim Iskandar",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MDV": {
+    "leader": "Mohamed Muizzu",
+    "party": "People's National Congress",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MLI": {
+    "leader": "Assimi Goïta",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MLT": {
+    "leader": "Robert Abela",
+    "party": "Labour Party",
+    "head": "Myriam Spiteri Debono",
+    "headParty": "Labour Party",
+    "source": "wikipedia"
+  },
+  "MHL": {
+    "leader": "Hilda Heine",
+    "party": "Independent",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MRT": {
+    "leader": "Mohamed Ould Ghazouani",
+    "party": "Union for the Republic",
+    "head": "Mokhtar Ould Djay",
+    "headParty": "Equity Party",
+    "source": "wikipedia"
+  },
+  "MUS": {
+    "leader": "Navin Ramgoolam",
+    "party": "Labour Party",
+    "head": "Dharam Gokhool",
+    "headParty": "Labour Party",
+    "source": "wikipedia"
+  },
+  "MEX": {
+    "leader": "Claudia Sheinbaum",
+    "party": "Morena",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "FSM": {
+    "leader": "Wesley Simina",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MDA": {
+    "leader": "Vasile Tofan",
+    "party": "",
+    "head": "Maia Sandu",
+    "headParty": "Liberal Democratic Party of Moldova",
+    "source": "wikipedia"
+  },
+  "MCO": {
+    "leader": "Albert II",
+    "party": "",
+    "head": "Christophe Mirmand",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MNG": {
+    "leader": "Nyam-Osoryn Uchral",
+    "party": "",
+    "head": "Ukhnaagiin Khürelsükh",
+    "headParty": "Mongolian People's Party",
+    "source": "wikipedia"
+  },
+  "MNE": {
+    "leader": "Milojko Spajić",
+    "party": "Europe Now",
+    "head": "Jakov Milatović",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MAR": {
+    "leader": "Mohammed VI",
+    "party": "",
+    "head": "Fatima Ezzahra El Mansouri",
+    "headParty": "Authenticity and Modernity Party",
+    "source": "wikipedia"
+  },
+  "MOZ": {
+    "leader": "Daniel Chapo",
+    "party": "FRELIMO",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "MMR": {
+    "leader": "Min Aung Hlaing",
+    "party": "Union Solidarity and Development Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "NAM": {
+    "leader": "Netumbo Nandi-Ndaitwah",
+    "party": "SWAPO Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "NRU": {
+    "leader": "David Adeang",
+    "party": "Nauru First",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "NPL": {
+    "leader": "Balen Shah",
+    "party": "Rastriya Swatantra Party",
+    "head": "Ram Chandra Paudel",
+    "headParty": "Nepali Congress",
+    "source": "wikipedia"
+  },
+  "NLD": {
+    "leader": "Rob Jetten",
+    "party": "Democrats 66",
+    "head": "William Alexander of the Netherlands",
+    "headParty": "",
+    "source": "wikidata"
+  },
+  "NZL": {
+    "leader": "Christopher Luxon",
+    "party": "New Zealand National Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "NIC": {
+    "leader": "Daniel Ortega",
+    "party": "Sandinista National Liberation Front",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "NER": {
+    "leader": "Ali Lamine Zeine",
+    "party": "National Movement for the Development of Society",
+    "head": "Abdourahamane Tiani",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "NGA": {
+    "leader": "Bola Tinubu",
+    "party": "All Progressives Congress",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "PRK": {
+    "leader": "Pak Thae-song",
+    "party": "Workers’ Party of Korea",
+    "head": "Kim Jong Un",
+    "headParty": "Workers’ Party of Korea",
+    "source": "wikipedia"
+  },
+  "MKD": {
+    "leader": "Hristijan Mickoski",
+    "party": "Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity",
+    "head": "Gordana Siljanovska-Davkova",
+    "headParty": "Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity",
+    "source": "wikipedia"
+  },
+  "NOR": {
+    "leader": "Jonas Gahr Støre",
+    "party": "Norwegian Labour Party",
+    "head": "Haakon VIII",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "OMN": {
+    "leader": "Haitham bin Tariq",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "PAK": {
+    "leader": "Shehbaz Sharif",
+    "party": "Pakistan Muslim League (N)",
+    "head": "Asif Ali Zardari",
+    "headParty": "Pakistan Peoples Party",
+    "source": "wikipedia"
+  },
+  "PLW": {
+    "leader": "Surangel Whipps Jr.",
+    "party": "Independent",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "PSE": {
+    "leader": "Mahmoud Abbas",
+    "party": "Fatah",
+    "head": "Mohammad Mustafa",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "PAN": {
+    "leader": "José Raúl Mulino",
+    "party": "Realizing Goals",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "PNG": {
+    "leader": "James Marape",
+    "party": "Pangu Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "PRY": {
+    "leader": "Santiago Peña",
+    "party": "Colorado Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "PER": {
+    "leader": "Keiko Fujimori",
+    "party": "People's Force",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "PHL": {
+    "leader": "Bongbong Marcos",
+    "party": "Partido Federal ng Pilipinas",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "POL": {
+    "leader": "Donald Tusk",
+    "party": "Civic Coalition",
+    "head": "Karol Nawrocki",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "PRT": {
+    "leader": "Luís Montenegro",
+    "party": "Social Democratic Party",
+    "head": "António José Seguro",
+    "headParty": "Socialist Party",
+    "source": "wikipedia"
+  },
+  "QAT": {
+    "leader": "Tamim bin Hamad Al Thani",
+    "party": "",
+    "head": "Mohammed bin Abdulrahman bin Jassim Al Thani",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "COG": {
+    "leader": "Denis Sassou Nguesso",
+    "party": "Congolese Party of Labour",
+    "head": "Anatole Collinet Makosso",
+    "headParty": "Congolese Party of Labour",
+    "source": "wikipedia"
+  },
+  "ROU": {
+    "leader": "Luca Niculescu",
+    "party": "Independent",
+    "head": "Nicușor Dan",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "RUS": {
+    "leader": "Vladimir Putin",
+    "party": "",
+    "head": "Mikhail Mishustin",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "RWA": {
+    "leader": "Paul Kagame",
+    "party": "Rwandan Patriotic Front",
+    "head": "Justin Nsengiyumva",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "KNA": {
+    "leader": "Terrance Drew",
+    "party": "Saint Kitts and Nevis Labour Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "LCA": {
+    "leader": "Philip J. Pierre",
+    "party": "Saint Lucia Labour Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "VCT": {
+    "leader": "Godwin Friday",
+    "party": "New Democratic Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "WSM": {
+    "leader": "Laʻauli Leuatea Schmidt",
+    "party": "Human Rights Protection Party",
+    "head": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "SMR": {
+    "leader": "Italo Righi",
+    "party": "Sammarinese Christian Democratic Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikidata"
+  },
+  "STP": {
+    "leader": "Américo Ramos",
+    "party": "",
+    "head": "Carlos Vila Nova",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "SAU": {
+    "leader": "Salman",
+    "party": "",
+    "head": "Mohammed bin Salman",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SEN": {
+    "leader": "Bassirou Diomaye Faye",
+    "party": "African Patriots of Senegal for Work, Ethics and Fraternity",
+    "head": "Ahmadou Al Aminou Lo",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SRB": {
+    "leader": "Đuro Macut",
+    "party": "Independent",
+    "head": "Aleksandar Vučić",
+    "headParty": "Serbian Progressive Party",
+    "source": "wikipedia"
+  },
+  "SYC": {
+    "leader": "Patrick Herminie",
+    "party": "United Seychelles Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SLE": {
+    "leader": "Julius Maada Bio",
+    "party": "Sierra Leone People's Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SGP": {
+    "leader": "Lawrence Wong",
+    "party": "People's Action Party",
+    "head": "Tharman Shanmugaratnam",
+    "headParty": "People's Action Party",
+    "source": "wikipedia"
+  },
+  "SVK": {
+    "leader": "Robert Fico",
+    "party": "Direction – Social Democracy",
+    "head": "Peter Pellegrini",
+    "headParty": "Voice – Social Democracy",
+    "source": "wikipedia"
+  },
+  "SVN": {
+    "leader": "Janez Janša",
+    "party": "Slovenian Democratic Party",
+    "head": "Nataša Pirc Musar",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "SLB": {
+    "leader": "Matthew Wale",
+    "party": "Democratic Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SOM": {
+    "leader": "Hamza Abdi Barre",
+    "party": "Union for Peace and Development Party",
+    "head": "Hassan Sheikh Mohamud",
+    "headParty": "Union for Peace and Development Party",
+    "source": "wikipedia"
+  },
+  "ZAF": {
+    "leader": "Cyril Ramaphosa",
+    "party": "African National Congress",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "KOR": {
+    "leader": "Lee Jae Myung",
+    "party": "Democratic Party of Korea",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SSD": {
+    "leader": "Salva Kiir",
+    "party": "Sudan People's Liberation Movement",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ESP": {
+    "leader": "Pedro Sánchez",
+    "party": "Spanish Socialist Workers' Party",
+    "head": "Felipe VI",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "LKA": {
+    "leader": "Anura Kumara Dissanayake",
+    "party": "Janatha Vimukthi Peramuna",
+    "head": "Kamil Idris",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SDN": {
+    "leader": "Abdel Fattah al-Burhan",
+    "party": "",
+    "head": "Kamil Idris",
+    "headParty": "",
+    "source": "override"
+  },
+  "SUR": {
+    "leader": "Jennifer Geerlings-Simons",
+    "party": "National Democratic Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "SWE": {
+    "leader": "Ulf Kristersson",
+    "party": "Moderate Party",
+    "head": "Carl XVI Gustaf",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "CHE": {
+    "leader": "Guy Parmelin",
+    "party": "Swiss People's Party",
+    "head": "",
+    "headParty": "",
+    "source": "override"
+  },
+  "SYR": {
+    "leader": "Ahmed al-Sharaa",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "TWN": {
+    "leader": "Lai Ching-te",
+    "party": "Democratic Progressive Party",
+    "head": "Cho Jung-tai",
+    "headParty": "Democratic Progressive Party",
+    "source": "wikipedia"
+  },
+  "TJK": {
+    "leader": "Emomali Rahmon",
+    "party": "People's Democratic Party of Tajikistan",
+    "head": "Qohir Rasulzoda",
+    "headParty": "People's Democratic Party of Tajikistan",
+    "source": "wikipedia"
+  },
+  "TZA": {
+    "leader": "Samia Suluhu Hassan",
+    "party": "Party of the Revolution",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "THA": {
+    "leader": "Anutin Charnvirakul",
+    "party": "Bhumjaithai Party",
+    "head": "Vajiralongkorn",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "TLS": {
+    "leader": "Xanana Gusmão",
+    "party": "National Congress for Timorese Reconstruction",
+    "head": "José Ramos-Horta",
+    "headParty": "Revolutionary Front for an Independent East Timor",
+    "source": "wikipedia"
+  },
+  "TGO": {
+    "leader": "Faure Gnassingbé",
+    "party": "Rally of the Togolese People",
+    "head": "Jean-Lucien Savi de Tové",
+    "headParty": "Patriotic Pan-African Convergence",
+    "source": "wikipedia"
+  },
+  "TON": {
+    "leader": "Fatafehi Fakafānua",
+    "party": "Independent",
+    "head": "Tupou VI",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "TTO": {
+    "leader": "Kamla Persad-Bissessar",
+    "party": "United National Congress",
+    "head": "Christine Kangaloo",
+    "headParty": "People's National Movement",
+    "source": "wikipedia"
+  },
+  "TUN": {
+    "leader": "Kais Saied",
+    "party": "",
+    "head": "Sara Zaafarani",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "TUR": {
+    "leader": "Recep Tayyip Erdoğan",
+    "party": "Justice and Development Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "TKM": {
+    "leader": "Serdar Berdimuhamedow",
+    "party": "Democratic Party of Turkmenistan",
+    "head": "Gurbanguly Berdimuhamedow",
+    "headParty": "Independent",
+    "source": "wikipedia"
+  },
+  "TUV": {
+    "leader": "Feleti Teo",
+    "party": "",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "UGA": {
+    "leader": "Yoweri Museveni",
+    "party": "National Resistance Movement",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "UKR": {
+    "leader": "Volodymyr Zelenskyy",
+    "party": "Independent",
+    "head": "Serhii Koretskyi",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ARE": {
+    "leader": "Mohamed bin Zayed Al Nahyan",
+    "party": "",
+    "head": "Mohammed bin Rashid Al Maktoum",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "GBR": {
+    "leader": "Andy Burnham",
+    "party": "Labour Party",
+    "head": "Charles III",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "USA": {
+    "leader": "Donald Trump",
+    "party": "Republican Party",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "URY": {
+    "leader": "Yamandú Orsi",
+    "party": "Broad Front",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "UZB": {
+    "leader": "Shavkat Mirziyoyev",
+    "party": "Uzbekistan Liberal Democratic Party",
+    "head": "Abdulla Aripov",
+    "headParty": "Uzbekistan Liberal Democratic Party",
+    "source": "wikipedia"
+  },
+  "VUT": {
+    "leader": "Jotham Napat",
+    "party": "",
+    "head": "Nikenike Vurobaravu",
+    "headParty": "Vanua'aku Pati",
+    "source": "wikipedia"
+  },
+  "VAT": {
+    "leader": "Leo XIV",
+    "party": "",
+    "head": "",
+    "headParty": "",
+    "source": "override"
+  },
+  "VEN": {
+    "leader": "Delcy Rodríguez",
+    "party": "United Socialist Party of Venezuela",
+    "head": "",
+    "headParty": "",
+    "source": "override"
+  },
+  "VNM": {
+    "leader": "Lê Minh Hưng",
+    "party": "",
+    "head": "Tô Lâm",
+    "headParty": "Communist Party of Vietnam",
+    "source": "wikipedia"
+  },
+  "YEM": {
+    "leader": "Rashad al-Alimi",
+    "party": "General People's Congress",
+    "head": "Shaya al-Zindani",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ZMB": {
+    "leader": "Hakainde Hichilema",
+    "party": "United Party for National Development",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  },
+  "ZWE": {
+    "leader": "Emmerson Mnangagwa",
+    "party": "Zimbabwe African National Union – Patriotic Front",
+    "head": "",
+    "headParty": "",
+    "source": "wikipedia"
+  }
+}

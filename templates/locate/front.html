@@ -1,0 +1,73 @@
+<div class="stage"><div class="land">{{Map}}</div></div>
+<script>
+	(function () {
+		var s = document.querySelector(".stage");
+		if (!s) return;
+		function boxFit(vw, vh, b, k) {
+			var bw = b[2] - b[0],
+				bh = b[3] - b[1],
+				side = Math.min((vw * k) / bw, (vh * k) / bh);
+			if (b[4])
+				side = Math.min(
+					side,
+					(b[5] ? Math.min(vw, vh) : Math.max(vw, vh)) / b[4],
+				);
+			side = Math.max(side, vw, vh);
+			return {
+				side: side,
+				left: vw / 2 - (b[0] + bw / 2) * side,
+				top: vh / 2 - (b[1] + bh / 2) * side,
+			};
+		}
+		function g() {
+			var im = s.querySelector("img[data-box]");
+			if (!im) return;
+			var b = im.getAttribute("data-box").split(",").map(Number),
+				r = boxFit(s.clientWidth, s.clientHeight, b, 0.92),
+				t = im.style;
+			s.style.overflow = "hidden";
+			t.position = "absolute";
+			t.maxWidth = "none";
+			t.maxHeight = "none";
+			t.objectFit = "fill";
+			t.width = t.height = r.side + "px";
+			t.left = r.left + "px";
+			t.top = r.top + "px";
+		}
+		if (s.querySelector(".details")) {
+			var n = /night/i.test(
+					document.body.className + document.documentElement.className,
+				),
+				c = n ? "#1c2228" : "#f7fafc";
+			document.documentElement.style.background = c;
+			document.body.style.background = c;
+		}
+		function f() {
+			var d =
+				window.matchMedia &&
+				window.matchMedia("(hover:hover) and (pointer:fine)").matches;
+			if (d) {
+				s.style.height = "";
+				s.style.paddingBottom = "";
+				return;
+			}
+			var h = Math.max(
+				window.innerHeight || 0,
+				document.documentElement.clientHeight || 0,
+				(window.visualViewport && window.visualViewport.height) || 0,
+			);
+			s.style.height = h + "px";
+			s.style.paddingBottom = "0";
+		}
+		function h() {
+			f();
+			g();
+		}
+		h();
+		window.addEventListener("resize", h);
+		window.addEventListener("orientationchange", h);
+		window.addEventListener("load", h);
+		setTimeout(h, 150);
+		setTimeout(h, 600);
+	})();
+</script>

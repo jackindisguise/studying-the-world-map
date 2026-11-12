@@ -1,0 +1,221 @@
+[
+  {
+    "p": "http://www.wikidata.org/entity/Q510523",
+    "ps": "http://www.wikidata.org/entity/statement/Q510523-1EB2381A-B4F8-4122-8530-8C13FA4298EA",
+    "party": "http://www.wikidata.org/entity/Q1910161",
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-21d9038b-4cc8-900f-2c94-4c3266185120",
+    "start": "2017-11-24T00:00:00Z",
+    "pLabel": "Emmerson Mnangagwa",
+    "partyLabel": "Zimbabwe African National Union – Patriotic Front"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q510523",
+    "ps": "http://www.wikidata.org/entity/statement/Q510523-584bba01-46c9-e4a2-7d2e-eed01aa66532",
+    "party": "http://www.wikidata.org/entity/Q1383387",
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-21d9038b-4cc8-900f-2c94-4c3266185120",
+    "start": "2017-11-24T00:00:00Z",
+    "pLabel": "Emmerson Mnangagwa",
+    "partyLabel": "United National Independence Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q510523",
+    "ps": "http://www.wikidata.org/entity/statement/Q510523-ed132501-42c5-96ea-adbb-6f044c7541bf",
+    "party": "http://www.wikidata.org/entity/Q203423",
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-21d9038b-4cc8-900f-2c94-4c3266185120",
+    "start": "2017-11-24T00:00:00Z",
+    "pLabel": "Emmerson Mnangagwa",
+    "partyLabel": "Zimbabwe African People's Union"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q717185",
+    "ps": "http://www.wikidata.org/entity/statement/Q717185-fa3b4b23-3772-4d3c-aa83-3ad36c8bccd4",
+    "party": "http://www.wikidata.org/entity/Q1781632",
+    "c": "http://www.wikidata.org/entity/Q953",
+    "iso": "ZMB",
+    "s": "http://www.wikidata.org/entity/statement/Q953-3740220a-4e30-1a05-036a-13fb9351a172",
+    "start": "2021-08-24T00:00:00Z",
+    "pLabel": "Hakainde Hichilema",
+    "partyLabel": "United Party for National Development"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q3874799",
+    "ps": "http://www.wikidata.org/entity/statement/Q3874799-5dd4a456-4a46-9919-c48c-55b47fe233b9",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "c": "http://www.wikidata.org/entity/Q212",
+    "iso": "UKR",
+    "s": "http://www.wikidata.org/entity/statement/Q212-e62c8458-43ad-ff4b-328c-e80277d4f9a2",
+    "start": "2019-05-20T00:00:00Z",
+    "pLabel": "Volodymyr Zelenskyy",
+    "partyLabel": "independent politician"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q10831196",
+    "ps": "http://www.wikidata.org/entity/statement/Q10831196-5ce1daf4-4820-1711-9999-736ffff9565b",
+    "party": "http://www.wikidata.org/entity/Q427325",
+    "c": "http://www.wikidata.org/entity/Q881",
+    "iso": "VNM",
+    "s": "http://www.wikidata.org/entity/statement/Q881-1c516683-43fc-f1b8-6052-3170b56bf3ab",
+    "start": "2024-05-22T00:00:00Z",
+    "pLabel": "Tô Lâm",
+    "partyLabel": "Communist Party of Vietnam"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q12213376",
+    "ps": "http://www.wikidata.org/entity/statement/Q12213376-39be04aa-25c6-40cb-9cb9-274cdcf657b8",
+    "party": "http://www.wikidata.org/entity/Q1460677",
+    "c": "http://www.wikidata.org/entity/Q805",
+    "iso": "YEM",
+    "s": "http://www.wikidata.org/entity/statement/Q805-ac231351-492b-eb74-dbdc-7621c2afee53",
+    "start": "2022-04-07T00:00:00Z",
+    "pLabel": "Rashad al-Alimi",
+    "partyLabel": "General People's Congress"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q15081116",
+    "ps": "http://www.wikidata.org/entity/statement/Q15081116-d27c4259-eacc-4b0a-83a1-38905bfbca55",
+    "party": "http://www.wikidata.org/entity/Q197864",
+    "c": "http://www.wikidata.org/entity/Q717",
+    "iso": "VEN",
+    "s": "http://www.wikidata.org/entity/statement/q717-6818485A-2ACB-402A-9455-55489491922E",
+    "start": "2026-01-03T00:00:00Z",
+    "pLabel": "Delcy Rodriguez",
+    "partyLabel": "United Socialist Party of Venezuela"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q19946921",
+    "ps": "http://www.wikidata.org/entity/statement/Q19946921-7221eaf0-1f93-448a-ad0c-95fc63c3baaf",
+    "party": "http://www.wikidata.org/entity/Q1066799",
+    "c": "http://www.wikidata.org/entity/Q77",
+    "iso": "URY",
+    "s": "http://www.wikidata.org/entity/statement/Q77-78fa69d3-47e6-5e53-59af-7080e6534127",
+    "start": "2025-03-01T00:00:00Z",
+    "pLabel": "Yamandú Orsi",
+    "partyLabel": "Broad Front"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q19946921",
+    "ps": "http://www.wikidata.org/entity/statement/Q19946921-d6025052-46e9-f07f-84d6-ce50830343a4",
+    "party": "http://www.wikidata.org/entity/Q1570461",
+    "c": "http://www.wikidata.org/entity/Q77",
+    "iso": "URY",
+    "s": "http://www.wikidata.org/entity/statement/Q77-78fa69d3-47e6-5e53-59af-7080e6534127",
+    "start": "2025-03-01T00:00:00Z",
+    "pLabel": "Yamandú Orsi",
+    "partyLabel": "Movement of Popular Participation"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q51874548",
+    "ps": "http://www.wikidata.org/entity/statement/Q51874548-406e2af7-4c28-2bd7-f691-7cc2dca97b0b",
+    "party": "http://www.wikidata.org/entity/Q1152752",
+    "c": "http://www.wikidata.org/entity/Q874",
+    "iso": "TKM",
+    "s": "http://www.wikidata.org/entity/statement/Q874-6df8a782-4a1b-3d93-2891-ac173692b04c",
+    "start": "2022-03-19T00:00:00Z",
+    "pLabel": "Serdar Berdimuhamedow",
+    "partyLabel": "Democratic Party of Turkmenistan"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q113239716",
+    "ps": "http://www.wikidata.org/entity/statement/Q113239716-cf8f3aa9-4659-6f73-0b0a-96c7a38e30f0",
+    "party": "http://www.wikidata.org/entity/Q31373",
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "s": "http://www.wikidata.org/entity/statement/Q686-bbe1bf24-4154-a827-0fa7-474acfd89ee8",
+    "start": "2022-07-23T00:00:00Z",
+    "pLabel": "Nikenike Vurobaravu",
+    "partyLabel": "Vanua'aku Pati"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q22686",
+    "ps": "http://www.wikidata.org/entity/statement/Q22686-bfb88c2e-41a0-2a49-97c1-b30d784e9f51",
+    "party": "http://www.wikidata.org/entity/Q29468",
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "s": "http://www.wikidata.org/entity/statement/Q30-1501cccc-441a-f85e-21bb-94b3b68bf44f",
+    "start": "2025-01-20T00:00:00Z",
+    "pLabel": "Donald Trump",
+    "partyLabel": "Republican Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q39259",
+    "ps": "http://www.wikidata.org/entity/statement/Q39259-cef8de61-4d5f-6274-ae87-5e03477a0b86",
+    "party": "http://www.wikidata.org/entity/Q19077",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/q43-A14E9B9F-7C52-4A5D-A21B-D7D2A791E7CB",
+    "start": "2014-08-28T00:00:00Z",
+    "pLabel": "Recep Tayyip Erdoğan",
+    "partyLabel": "Justice and Development Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q57274",
+    "ps": "http://www.wikidata.org/entity/statement/Q57274-937572CB-4A2D-4F1A-8A57-C37516BC6A2A",
+    "party": "http://www.wikidata.org/entity/Q382674",
+    "c": "http://www.wikidata.org/entity/Q1036",
+    "iso": "UGA",
+    "s": "http://www.wikidata.org/entity/statement/q1036-A59AFE9B-8713-486E-8018-82992F0DC691",
+    "start": "1986-01-29T00:00:00Z",
+    "pLabel": "Yoweri Museveni",
+    "partyLabel": "National Resistance Movement"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q57808",
+    "ps": "http://www.wikidata.org/entity/statement/q57808-54313E23-4717-4FF3-A6C1-F499AA012A08",
+    "party": "http://www.wikidata.org/entity/Q2945416",
+    "c": "http://www.wikidata.org/entity/Q265",
+    "iso": "UZB",
+    "s": "http://www.wikidata.org/entity/statement/Q265-9c4d0878-466f-6f69-7ae3-2870293984f2",
+    "start": "2016-09-08T00:00:00Z",
+    "pLabel": "Shavkat Mirziyoyev",
+    "partyLabel": "Self-Sacrifice National Democratic Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q57808",
+    "ps": "http://www.wikidata.org/entity/statement/Q57808-d6ee2b3f-4f4a-7123-df3a-86c6bdb8ab6a",
+    "party": "http://www.wikidata.org/entity/Q1146334",
+    "c": "http://www.wikidata.org/entity/Q265",
+    "iso": "UZB",
+    "s": "http://www.wikidata.org/entity/statement/Q265-9c4d0878-466f-6f69-7ae3-2870293984f2",
+    "start": "2016-09-08T00:00:00Z",
+    "pLabel": "Shavkat Mirziyoyev",
+    "partyLabel": "Uzbekistan Liberal Democratic Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q1951896",
+    "c": "http://www.wikidata.org/entity/Q878",
+    "iso": "ARE",
+    "s": "http://www.wikidata.org/entity/statement/q878-5DCFFEFD-63C3-4847-9545-D77CCDB6CEB1",
+    "start": "2022-05-14T00:00:00Z",
+    "pLabel": "Mohammed Bin Zayed Al Nahyan"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q6109517",
+    "c": "http://www.wikidata.org/entity/Q237",
+    "iso": "VAT",
+    "s": "http://www.wikidata.org/entity/statement/Q237-2439cec9-46c7-07b2-c205-140f7d6d2393",
+    "start": "2025-05-08T00:00:00Z",
+    "pLabel": "Leo XIV"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q43274",
+    "c": "http://www.wikidata.org/entity/Q672",
+    "iso": "TUV",
+    "s": "http://www.wikidata.org/entity/statement/q672-A83971A3-8341-4652-8051-CDA5F210455A",
+    "start": "2022-09-08T00:00:00Z",
+    "pLabel": "Charles III"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q43274",
+    "c": "http://www.wikidata.org/entity/Q145",
+    "iso": "GBR",
+    "s": "http://www.wikidata.org/entity/statement/Q145-780836b7-4332-9bb1-e8c6-a3ba52382cfb",
+    "start": "2022-09-08T00:00:00Z",
+    "pLabel": "Charles III"
+  }
+]

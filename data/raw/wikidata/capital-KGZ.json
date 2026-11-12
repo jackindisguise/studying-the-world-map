@@ -1,0 +1,219 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1013",
+    "iso": "LSO",
+    "s": "http://www.wikidata.org/entity/statement/q1013-A9C40647-42BB-4265-9ECC-47D1D959A618",
+    "v": "http://www.wikidata.org/entity/Q3909",
+    "vLabel": "Maseru"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "s": "http://www.wikidata.org/entity/statement/q1014-1224C9A5-E798-4993-A572-627A8D7E9750",
+    "v": "http://www.wikidata.org/entity/Q3748",
+    "vLabel": "Monrovia"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1016",
+    "iso": "LBY",
+    "s": "http://www.wikidata.org/entity/statement/Q1016-07a5e966-4c16-bb4b-522a-daf725762dfe",
+    "v": "http://www.wikidata.org/entity/Q3579",
+    "vLabel": "Tripoli"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1019",
+    "iso": "MDG",
+    "s": "http://www.wikidata.org/entity/statement/q1019-B8C00853-33BB-456A-9249-46E004DB9898",
+    "v": "http://www.wikidata.org/entity/Q3915",
+    "vLabel": "Antananarivo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1020",
+    "iso": "MWI",
+    "s": "http://www.wikidata.org/entity/statement/q1020-BC881EBD-4B91-40C7-A881-761033A1B373",
+    "v": "http://www.wikidata.org/entity/Q3876",
+    "vLabel": "Lilongwe"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1025",
+    "iso": "MRT",
+    "s": "http://www.wikidata.org/entity/statement/q1025-71DA6452-5CA5-4679-9273-BC7B992DAC86",
+    "v": "http://www.wikidata.org/entity/Q3688",
+    "vLabel": "Nouakchott"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1027",
+    "iso": "MUS",
+    "s": "http://www.wikidata.org/entity/statement/q1027-5BB2EE62-1F1F-429D-BDE6-F268CA7E7204",
+    "v": "http://www.wikidata.org/entity/Q3929",
+    "vLabel": "Port Louis"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1028",
+    "iso": "MAR",
+    "s": "http://www.wikidata.org/entity/statement/q1028-EF2DF7B3-8610-45B5-9021-C42B8E5CF783",
+    "v": "http://www.wikidata.org/entity/Q3551",
+    "vLabel": "Rabat"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1029",
+    "iso": "MOZ",
+    "s": "http://www.wikidata.org/entity/statement/q1029-ABCE4770-FBC3-4F2B-BE27-B82B97F2F538",
+    "v": "http://www.wikidata.org/entity/Q3889",
+    "vLabel": "Maputo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1030",
+    "iso": "NAM",
+    "s": "http://www.wikidata.org/entity/statement/q1030-BCFACD8E-7820-468B-A150-7877A448DF49",
+    "v": "http://www.wikidata.org/entity/Q3935",
+    "vLabel": "Windhoek"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q211",
+    "iso": "LVA",
+    "s": "http://www.wikidata.org/entity/statement/q211-6F7B0578-337F-4D2B-8B36-2095E8EB9E90",
+    "v": "http://www.wikidata.org/entity/Q1773",
+    "vLabel": "Riga"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q217",
+    "iso": "MDA",
+    "s": "http://www.wikidata.org/entity/statement/q217-A8BFF8F6-118A-419A-B814-A9A5AD03A2D5",
+    "v": "http://www.wikidata.org/entity/Q21197",
+    "vLabel": "Chișinău"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q233",
+    "iso": "MLT",
+    "s": "http://www.wikidata.org/entity/statement/q233-3CF8378E-96ED-41B7-83C8-DD8AD4DDFA70",
+    "v": "http://www.wikidata.org/entity/Q23800",
+    "vLabel": "Valletta"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q236",
+    "iso": "MNE",
+    "s": "http://www.wikidata.org/entity/statement/q236-8E45778F-1EC7-4E9B-9AFE-CC9D6376C1B2",
+    "v": "http://www.wikidata.org/entity/Q23564",
+    "vLabel": "Podgorica"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/q32-6b1578b3-43cc-ce6a-4435-0e703da6ccc4",
+    "v": "http://www.wikidata.org/entity/Q1842",
+    "vLabel": "Luxembourg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q347",
+    "iso": "LIE",
+    "s": "http://www.wikidata.org/entity/statement/q347-2973E565-D322-4AAB-BCAC-81AA917362CE",
+    "v": "http://www.wikidata.org/entity/Q1844",
+    "vLabel": "Vaduz"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q37",
+    "iso": "LTU",
+    "s": "http://www.wikidata.org/entity/statement/q37-3D28CAA8-857A-4A95-83EC-9F3F4E1C9CC2",
+    "v": "http://www.wikidata.org/entity/Q216",
+    "vLabel": "Vilnius"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "s": "http://www.wikidata.org/entity/statement/q697-7E47B2BA-8BC4-44AC-AFB4-47A5A2F04912",
+    "v": "http://www.wikidata.org/entity/Q31026",
+    "vLabel": "Yaren District"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q702",
+    "iso": "FSM",
+    "s": "http://www.wikidata.org/entity/statement/q702-DD281AFC-38A6-4943-AE41-FC7AFABF184B",
+    "v": "http://www.wikidata.org/entity/Q42751",
+    "vLabel": "Palikir"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q709",
+    "iso": "MHL",
+    "s": "http://www.wikidata.org/entity/statement/q709-FF96360F-0EAC-47AC-BB29-7AAF9F3CADEB",
+    "v": "http://www.wikidata.org/entity/Q12919",
+    "vLabel": "Majuro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q711",
+    "iso": "MNG",
+    "s": "http://www.wikidata.org/entity/statement/q711-A192B321-8FF5-4C93-84B5-6702C74EE0F8",
+    "v": "http://www.wikidata.org/entity/Q23430",
+    "vLabel": "Ulaanbaatar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q813",
+    "iso": "KGZ",
+    "s": "http://www.wikidata.org/entity/statement/q813-521E9182-15C1-49BF-A796-C49707BCC9F6",
+    "v": "http://www.wikidata.org/entity/Q9361",
+    "vLabel": "Bishkek"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q819",
+    "iso": "LAO",
+    "s": "http://www.wikidata.org/entity/statement/q819-B54C4421-EFDA-4810-B145-3BCB9E808068",
+    "v": "http://www.wikidata.org/entity/Q9326",
+    "vLabel": "Vientiane"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q822",
+    "iso": "LBN",
+    "s": "http://www.wikidata.org/entity/statement/q822-11A92997-CC60-4B41-A095-6C536542AA1B",
+    "v": "http://www.wikidata.org/entity/Q3820",
+    "vLabel": "Beirut"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q826",
+    "iso": "MDV",
+    "s": "http://www.wikidata.org/entity/statement/q826-E514568B-D5B2-4201-B652-52163921EDCE",
+    "v": "http://www.wikidata.org/entity/Q9347",
+    "vLabel": "Malé"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "s": "http://www.wikidata.org/entity/statement/Q833-3e629976-457f-992f-6842-befae8bd2eb1",
+    "v": "http://www.wikidata.org/entity/Q1865",
+    "vLabel": "Kuala Lumpur"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q836",
+    "iso": "MMR",
+    "s": "http://www.wikidata.org/entity/statement/q836-64BA2479-47A5-4379-999D-09E1716538D8",
+    "v": "http://www.wikidata.org/entity/Q37400",
+    "vLabel": "Naypyidaw"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q912",
+    "iso": "MLI",
+    "s": "http://www.wikidata.org/entity/statement/q912-67472538-589C-457D-8A7E-E5E326865409",
+    "v": "http://www.wikidata.org/entity/Q3703",
+    "vLabel": "Bamako"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "s": "http://www.wikidata.org/entity/statement/q96-4F416360-22E5-4453-9698-B8239BC31DA9",
+    "v": "http://www.wikidata.org/entity/Q1489",
+    "vLabel": "Mexico City"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q235",
+    "iso": "MCO",
+    "s": "http://www.wikidata.org/entity/statement/Q235-a978022a-4770-762f-7d7b-12d278ecdf94",
+    "v": "http://www.wikidata.org/entity/Q235",
+    "vLabel": "Monaco"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "s": "http://www.wikidata.org/entity/statement/Q833-a56ccce1-4cf3-7dc4-ffec-417ba60c7656",
+    "v": "http://www.wikidata.org/entity/Q182378",
+    "vLabel": "Putrajaya"
+  }
+]

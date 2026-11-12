@@ -1,0 +1,272 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "v": "82274812251"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "v": "85506243834"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q37",
+    "iso": "LTU",
+    "v": "70334299008"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "v": "1272838810896"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "v": "1414187193992"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q211",
+    "iso": "LVA",
+    "v": "39725383601"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q211",
+    "iso": "LVA",
+    "v": "41153912663"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q217",
+    "iso": "MDA",
+    "v": "13692230147"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q217",
+    "iso": "MDA",
+    "v": "14420947884"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q233",
+    "iso": "MLT",
+    "v": "17765270015"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q235",
+    "iso": "MCO",
+    "v": "8596156574"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q236",
+    "iso": "MNE",
+    "v": "5861430526"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q236",
+    "iso": "MNE",
+    "v": "6095978868"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q347",
+    "iso": "LIE",
+    "v": "7186428783"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "v": "145536603"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "v": "150922211"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q702",
+    "iso": "FSM",
+    "v": "404028900"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q702",
+    "iso": "FSM",
+    "v": "427094119"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q709",
+    "iso": "MHL",
+    "v": "259538700"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q709",
+    "iso": "MHL",
+    "v": "279667900"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q711",
+    "iso": "MNG",
+    "v": "15286441740"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q711",
+    "iso": "MNG",
+    "v": "16810883361"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q813",
+    "iso": "KGZ",
+    "v": "8740681889"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q813",
+    "iso": "KGZ",
+    "v": "10930644915"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q819",
+    "iso": "LAO",
+    "v": "15724383783"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q819",
+    "iso": "LAO",
+    "v": "18827148530"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q822",
+    "iso": "LBN",
+    "v": "23131941557"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q826",
+    "iso": "MDV",
+    "v": "5405557162"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q826",
+    "iso": "MDV",
+    "v": "6189865408"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "v": "372981073018"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "v": "406305924656"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q836",
+    "iso": "MMR",
+    "v": "59364362541"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q836",
+    "iso": "MMR",
+    "v": "65124769602"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q912",
+    "iso": "MLI",
+    "v": "18827176532"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q912",
+    "iso": "MLI",
+    "v": "19309463506"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1013",
+    "iso": "LSO",
+    "v": "2373416269"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1013",
+    "iso": "LSO",
+    "v": "2553459763"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "v": "3509000000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "v": "4001047150"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1016",
+    "iso": "LBY",
+    "v": "39798423941"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1016",
+    "iso": "LBY",
+    "v": "45752336036"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1019",
+    "iso": "MDG",
+    "v": "14554754115"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1019",
+    "iso": "MDG",
+    "v": "14954967604"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1020",
+    "iso": "MWI",
+    "v": "12602334124"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1020",
+    "iso": "MWI",
+    "v": "13164667627"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1025",
+    "iso": "MRT",
+    "v": "9996240419"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1025",
+    "iso": "MRT",
+    "v": "10375460680"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1027",
+    "iso": "MUS",
+    "v": "11476433604"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1027",
+    "iso": "MUS",
+    "v": "12898307089"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1028",
+    "iso": "MAR",
+    "v": "134181587770"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1028",
+    "iso": "MAR",
+    "v": "142866583125"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1029",
+    "iso": "MOZ",
+    "v": "17851491428"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1030",
+    "iso": "NAM",
+    "v": "12446290855"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1030",
+    "iso": "NAM",
+    "v": "12607436976"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "p": "http://www.wikidata.org/entity/Q195725",
+    "ps": "http://www.wikidata.org/entity/statement/Q195725-43e61170-477f-9811-fd3a-db2718ffe58e",
+    "party": "http://www.wikidata.org/entity/Q105637541",
+    "c": "http://www.wikidata.org/entity/Q114",
+    "iso": "KEN",
+    "s": "http://www.wikidata.org/entity/statement/Q114-bc4569f5-4e53-169d-520b-786a8a8d1a50",
+    "start": "2022-09-13T00:00:00Z",
+    "pLabel": "William Ruto",
+    "partyLabel": "United Democratic Alliance"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q441633",
+    "ps": "http://www.wikidata.org/entity/statement/Q441633-E868B080-5646-4F34-A4E8-692E53741F14",
+    "party": "http://www.wikidata.org/entity/Q29534",
+    "c": "http://www.wikidata.org/entity/Q1246",
+    "iso": "XKX",
+    "s": "http://www.wikidata.org/entity/statement/Q1246-2810570f-4c49-22e0-c09a-92cebad401e6",
+    "start": "2021-03-22T00:00:00Z",
+    "pLabel": "Albin Kurti",
+    "partyLabel": "Vetëvendosje!"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q451791",
+    "ps": "http://www.wikidata.org/entity/statement/Q451791-77E165BA-D43D-43B9-BD74-DC400DEFDA71",
+    "party": "http://www.wikidata.org/entity/Q1757843",
+    "c": "http://www.wikidata.org/entity/Q38",
+    "iso": "ITA",
+    "s": "http://www.wikidata.org/entity/statement/Q38-94e37535-44db-5926-b2b5-988e55e74a3b",
+    "start": "2022-10-22T00:00:00Z",
+    "pLabel": "Giorgia Meloni",
+    "partyLabel": "Brothers of Italy"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q505200",
+    "ps": "http://www.wikidata.org/entity/statement/Q505200-ECFAB030-E331-43C7-8A88-4FE77A0514FC",
+    "party": "http://www.wikidata.org/entity/Q1539301",
+    "c": "http://www.wikidata.org/entity/Q766",
+    "iso": "JAM",
+    "s": "http://www.wikidata.org/entity/statement/q766-48c92ec1-465b-8eb9-3202-787196e323ee",
+    "pLabel": "Andrew Holness",
+    "partyLabel": "Jamaica Labour Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q552751",
+    "ps": "http://www.wikidata.org/entity/statement/q552751-F0A7249D-5FBF-49BB-AB58-825B89E65843",
+    "party": "http://www.wikidata.org/entity/Q223153",
+    "c": "http://www.wikidata.org/entity/Q41",
+    "iso": "GRC",
+    "s": "http://www.wikidata.org/entity/statement/Q41-27e47c2d-4b21-6a2f-b7d1-d592b331a176",
+    "start": "2019-06-08T00:00:00Z",
+    "pLabel": "Kyriakos Mitsotakis",
+    "partyLabel": "New Democracy"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q566257",
+    "ps": "http://www.wikidata.org/entity/statement/Q566257-8AE1B045-8583-460F-8B8A-9A7C2FEC5926",
+    "party": "http://www.wikidata.org/entity/Q49762",
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "s": "http://www.wikidata.org/entity/statement/Q183-36d0b32b-47ca-e96e-cebb-5e0a49436e75",
+    "start": "2025-05-06T00:00:00Z",
+    "pLabel": "Friedrich Merz",
+    "partyLabel": "Christian Democratic Union"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q718601",
+    "ps": "http://www.wikidata.org/entity/statement/Q718601-ADC695A0-0788-4462-9482-DE65B584EAEF",
+    "party": "http://www.wikidata.org/entity/Q1148441",
+    "c": "http://www.wikidata.org/entity/Q117",
+    "iso": "GHA",
+    "s": "http://www.wikidata.org/entity/statement/q117-99d6b1f2-45cb-ff28-2ed5-da518747c705",
+    "start": "2017-01-01T00:00:00Z",
+    "pLabel": "Nana Akufo-Addo",
+    "partyLabel": "New Patriotic Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q920403",
+    "ps": "http://www.wikidata.org/entity/statement/Q920403-34BD357D-7E32-4DA0-9138-76DF65F9171E",
+    "party": "http://www.wikidata.org/entity/Q216517",
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "s": "http://www.wikidata.org/entity/statement/Q27-1bdc88bb-4ecf-3b61-424c-119cfcff2b26",
+    "start": "2025-01-23T00:00:00Z",
+    "pLabel": "Micheál Martin",
+    "partyLabel": "Fianna Fáil"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q1705028",
+    "ps": "http://www.wikidata.org/entity/statement/Q1705028-9C455499-F1B8-4A76-9418-3E08081885AF",
+    "party": "http://www.wikidata.org/entity/Q232595",
+    "c": "http://www.wikidata.org/entity/Q17",
+    "iso": "JPN",
+    "s": "http://www.wikidata.org/entity/statement/Q17-970ad9a4-4dee-191f-a8ea-c49e1d7038e9",
+    "start": "2025-10-21T00:00:00Z",
+    "pLabel": "Sanae Takaichi",
+    "partyLabel": "Liberal Democratic Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q2107268",
+    "ps": "http://www.wikidata.org/entity/statement/Q2107268-1D498D07-238B-4C91-95DF-5AA9B9FA73D6",
+    "party": "http://www.wikidata.org/entity/Q4261459",
+    "c": "http://www.wikidata.org/entity/Q252",
+    "iso": "IDN",
+    "s": "http://www.wikidata.org/entity/statement/q252-5873d4ee-4520-7054-3e08-ebf85def5910",
+    "pLabel": "Prabowo Subianto",
+    "partyLabel": "Great Indonesia Movement Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q3700793",
+    "ps": "http://www.wikidata.org/entity/statement/Q3700793-9e95cfb9-41fe-a481-377d-ca0275347386",
+    "party": "http://www.wikidata.org/entity/Q1048242",
+    "c": "http://www.wikidata.org/entity/Q796",
+    "iso": "IRQ",
+    "s": "http://www.wikidata.org/entity/statement/Q796-ff6550aa-4ddd-1218-560f-78436bc8f868",
+    "start": "2022-10-27T00:00:00Z",
+    "pLabel": "Muhammad Shia' al-Sudani",
+    "partyLabel": "Islamic Dawa Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q5933752",
+    "ps": "http://www.wikidata.org/entity/statement/Q5933752-2EA4FE07-3909-4D46-BA7C-BDC3D58769C9",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "s": "http://www.wikidata.org/entity/statement/Q794-37c1fc11-4c2d-91fa-b40b-e0746a51e769",
+    "start": "2024-07-28T00:00:00Z",
+    "pLabel": "Masoud Pezeshkian",
+    "partyLabel": "independent politician"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q12219691",
+    "ps": "http://www.wikidata.org/entity/statement/Q12219691-D9097551-44B0-4BCF-A21B-FD6BC65ADAB9",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "c": "http://www.wikidata.org/entity/Q817",
+    "iso": "KWT",
+    "s": "http://www.wikidata.org/entity/statement/q817-243084ec-4356-2487-be2d-021968134245",
+    "pLabel": "Sabah Al-Khalid Al-Sabah",
+    "partyLabel": "independent politician"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q16146159",
+    "ps": "http://www.wikidata.org/entity/statement/Q16146159-ECEE1074-1D45-4529-8458-1AF104C6029D",
+    "party": "http://www.wikidata.org/entity/Q1579466",
+    "c": "http://www.wikidata.org/entity/Q783",
+    "iso": "HND",
+    "s": "http://www.wikidata.org/entity/statement/Q783-F63BB0BC-79B7-4D18-8156-8310D77B6CFD",
+    "start": "2026-01-27T00:00:00Z",
+    "pLabel": "Nasry Asfura",
+    "partyLabel": "National Party of Honduras"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q22209348",
+    "ps": "http://www.wikidata.org/entity/statement/Q22209348-66d73c4c-4135-f38d-4c1c-147ac10d9d4c",
+    "party": "http://www.wikidata.org/entity/Q124254489",
+    "c": "http://www.wikidata.org/entity/Q1006",
+    "iso": "GIN",
+    "s": "http://www.wikidata.org/entity/statement/Q1006-111c47e0-426f-cf0c-49df-f0c83a42569a",
+    "start": "2024-02-27T00:00:00Z",
+    "pLabel": "Bah Oury",
+    "partyLabel": "Q124254489"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q23034482",
+    "ps": "http://www.wikidata.org/entity/statement/Q23034482-BC011E52-CC9D-4D77-87DC-3FB382A6C3A2",
+    "party": "http://www.wikidata.org/entity/Q23058731",
+    "c": "http://www.wikidata.org/entity/Q710",
+    "iso": "KIR",
+    "s": "http://www.wikidata.org/entity/statement/q710-b98f0edc-47c0-fab3-f446-500fd13a28de",
+    "start": "2016-03-11T00:00:00Z",
+    "pLabel": "Taneti Maamau",
+    "partyLabel": "Tobwaan Kiribati Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q27885302",
+    "ps": "http://www.wikidata.org/entity/statement/Q27885302-1ad5bb5d-41bd-352e-63fb-447676a39779",
+    "party": "http://www.wikidata.org/entity/Q46516",
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "s": "http://www.wikidata.org/entity/statement/Q230-02313856-CB98-49A5-A508-7EEA9A2E72B2",
+    "start": "2024-02-08T00:00:00Z",
+    "pLabel": "Irakli Kobakhidze",
+    "partyLabel": "Georgian Dream"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q27917049",
+    "ps": "http://www.wikidata.org/entity/statement/Q27917049-3eb75fad-4882-d551-ea04-053fabdef766",
+    "party": "http://www.wikidata.org/entity/Q97180861",
+    "c": "http://www.wikidata.org/entity/Q1005",
+    "iso": "GMB",
+    "s": "http://www.wikidata.org/entity/statement/Q1005-0fc7f207-4dee-ea16-5335-cc732708296f",
+    "start": "2017-01-21T00:00:00Z",
+    "pLabel": "Adama Barrow",
+    "partyLabel": "National People's Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q98053664",
+    "ps": "http://www.wikidata.org/entity/statement/Q98053664-daa86a14-4736-5ccd-a877-c7b28c92f126",
+    "party": "http://www.wikidata.org/entity/Q1972521",
+    "c": "http://www.wikidata.org/entity/Q734",
+    "iso": "GUY",
+    "s": "http://www.wikidata.org/entity/statement/Q734-a2c02d4c-4c22-77aa-179a-fb83e330c3af",
+    "start": "2020-08-02T00:00:00Z",
+    "pLabel": "Hugo Chávez",
+    "partyLabel": "People's Progressive Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q107254030",
+    "ps": "http://www.wikidata.org/entity/statement/Q107254030-f0df8195-4cda-a704-bf38-bbbce29f368e",
+    "party": "http://www.wikidata.org/entity/Q56274977",
+    "c": "http://www.wikidata.org/entity/Q774",
+    "iso": "GTM",
+    "s": "http://www.wikidata.org/entity/statement/q774-e48a8159-4212-2509-0f47-801301c6d70d",
+    "start": "2024-01-15T00:00:00Z",
+    "pLabel": "Bernardo Arévalo de León",
+    "partyLabel": "Semilla Movement"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q108856371",
+    "ps": "http://www.wikidata.org/entity/statement/Q108856371-83cd0266-4624-7d29-6e03-fedc5c19c5f4",
+    "party": "http://www.wikidata.org/entity/Q1141127",
+    "c": "http://www.wikidata.org/entity/Q189",
+    "iso": "ISL",
+    "s": "http://www.wikidata.org/entity/statement/Q189-4f2531c5-4641-7716-897e-3b89443c00a8",
+    "start": "2024-12-21T00:00:00Z",
+    "pLabel": "Kristrún Mjöll Frostadóttir",
+    "partyLabel": "Social Democratic Alliance"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q112679881",
+    "ps": "http://www.wikidata.org/entity/statement/Q112679881-d92506dd-4ec3-175e-284f-9f17a36bfaa4",
+    "party": "http://www.wikidata.org/entity/Q1254278",
+    "c": "http://www.wikidata.org/entity/Q769",
+    "iso": "GRD",
+    "s": "http://www.wikidata.org/entity/statement/Q769-55218c70-446f-e4f4-1fe6-1ab63b631a20",
+    "start": "2022-01-01T00:00:00Z",
+    "pLabel": "Dickon Mitchell",
+    "partyLabel": "National Democratic Congress"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q124436646",
+    "ps": "http://www.wikidata.org/entity/statement/Q124436646-7d986d8f-43e8-8848-f41c-f8322f254a02",
+    "party": "http://www.wikidata.org/entity/Q111077075",
+    "c": "http://www.wikidata.org/entity/Q232",
+    "iso": "KAZ",
+    "s": "http://www.wikidata.org/entity/statement/Q232-90bb6760-425e-4588-88c0-4166374f4df3",
+    "start": "2024-02-06T00:00:00Z",
+    "pLabel": "Olzhas Bektenov",
+    "partyLabel": "Amanat"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q124488292",
+    "ps": "http://www.wikidata.org/entity/statement/Q124488292-85a3ffc3-4e69-932d-ad94-39761fa14b05",
+    "party": "http://www.wikidata.org/entity/Q125418097",
+    "c": "http://www.wikidata.org/entity/Q28",
+    "iso": "HUN",
+    "s": "http://www.wikidata.org/entity/statement/Q28-fc7eed79-44ef-fe4c-745e-00cb282f9ca0",
+    "start": "2026-05-09T00:00:00Z",
+    "pLabel": "Péter Magyar",
+    "partyLabel": "Respect and Freedom Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q1058",
+    "ps": "http://www.wikidata.org/entity/statement/q1058-6A4E354B-0371-4D2F-9782-C1F774C80107",
+    "party": "http://www.wikidata.org/entity/Q10230",
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "s": "http://www.wikidata.org/entity/statement/q668-75213689-40d8-8e6e-8316-81693e813a28",
+    "start": "2014-05-26T00:00:00Z",
+    "pLabel": "Narendra Modi",
+    "partyLabel": "Bharatiya Janata Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q43723",
+    "ps": "http://www.wikidata.org/entity/statement/q43723-219AD893-853A-483F-89B4-D03A3A97DFF5",
+    "party": "http://www.wikidata.org/entity/Q187009",
+    "c": "http://www.wikidata.org/entity/Q801",
+    "iso": "ISR",
+    "s": "http://www.wikidata.org/entity/statement/Q801-d040ff70-4536-8b09-eaaf-0952333e5cf2",
+    "start": "2022-12-29T00:00:00Z",
+    "pLabel": "Benjamin Netanyahu",
+    "partyLabel": "Likud"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q627337",
+    "c": "http://www.wikidata.org/entity/Q1007",
+    "iso": "GNB",
+    "s": "http://www.wikidata.org/entity/statement/Q1007-a1a72a5b-4707-8f55-9d51-b034890a06ee",
+    "start": "2023-12-21T00:00:00Z",
+    "pLabel": "Rui Duarte de Barros"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q3434569",
+    "c": "http://www.wikidata.org/entity/Q1008",
+    "iso": "CIV",
+    "s": "http://www.wikidata.org/entity/statement/Q1008-ff3782ac-4170-34ed-dc73-09aa7c11ec34",
+    "start": "2023-10-16T00:00:00Z",
+    "pLabel": "Robert Beugré Mambé"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q97011032",
+    "c": "http://www.wikidata.org/entity/Q810",
+    "iso": "JOR",
+    "s": "http://www.wikidata.org/entity/statement/Q810-be4e93ce-4cba-8a7d-22ba-1ed3960ec1fb",
+    "start": "2024-09-15T00:00:00Z",
+    "pLabel": "Jafar Hassan"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q131140314",
+    "c": "http://www.wikidata.org/entity/Q790",
+    "iso": "HTI",
+    "s": "http://www.wikidata.org/entity/statement/Q790-A03A5C65-2BF0-4D78-93FA-076029B30A6B",
+    "start": "2024-11-11T00:00:00Z",
+    "pLabel": "Alix Didier Fils-Aimé"
+  }
+]

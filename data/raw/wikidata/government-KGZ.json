@@ -1,0 +1,236 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q37",
+    "iso": "LTU",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q37",
+    "iso": "LTU",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "v": "http://www.wikidata.org/entity/Q48349",
+    "vLabel": "empire"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "v": "http://www.wikidata.org/entity/Q1520223",
+    "vLabel": "constitutional republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "v": "http://www.wikidata.org/entity/Q5255892",
+    "vLabel": "democratic republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q211",
+    "iso": "LVA",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q211",
+    "iso": "LVA",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q217",
+    "iso": "MDA",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q217",
+    "iso": "MDA",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q233",
+    "iso": "MLT",
+    "v": "http://www.wikidata.org/entity/Q3043547",
+    "vLabel": "parliamentary democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q235",
+    "iso": "MCO",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q235",
+    "iso": "MCO",
+    "v": "http://www.wikidata.org/entity/Q849242",
+    "vLabel": "hereditary monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q236",
+    "iso": "MNE",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q347",
+    "iso": "LIE",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q702",
+    "iso": "FSM",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q711",
+    "iso": "MNG",
+    "v": "http://www.wikidata.org/entity/Q166747",
+    "vLabel": "parliamentary system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q813",
+    "iso": "KGZ",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q819",
+    "iso": "LAO",
+    "v": "http://www.wikidata.org/entity/Q465613",
+    "vLabel": "people's republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q819",
+    "iso": "LAO",
+    "v": "http://www.wikidata.org/entity/Q117405807",
+    "vLabel": "communist dictatorship"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q822",
+    "iso": "LBN",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "v": "http://www.wikidata.org/entity/Q43702",
+    "vLabel": "federation"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "v": "http://www.wikidata.org/entity/Q584683",
+    "vLabel": "elective monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "v": "http://www.wikidata.org/entity/Q3208952",
+    "vLabel": "federal monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "v": "http://www.wikidata.org/entity/Q3330103",
+    "vLabel": "parliamentary monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q836",
+    "iso": "MMR",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1013",
+    "iso": "LSO",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "v": "http://www.wikidata.org/entity/Q1520223",
+    "vLabel": "constitutional republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "v": "http://www.wikidata.org/entity/Q17023307",
+    "vLabel": "Herrenvolk democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1016",
+    "iso": "LBY",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1019",
+    "iso": "MDG",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1025",
+    "iso": "MRT",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1027",
+    "iso": "MUS",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1028",
+    "iso": "MAR",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  }
+]

@@ -1,0 +1,254 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1013",
+    "iso": "LSO",
+    "s": "http://www.wikidata.org/entity/statement/q1013-58646A79-C6C6-42BE-9956-4FEF361E5370",
+    "v": "http://www.wikidata.org/entity/Q208039",
+    "vLabel": "loti"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1013",
+    "iso": "LSO",
+    "s": "http://www.wikidata.org/entity/statement/Q1013-8d174a6b-49a6-04d7-904c-a0f95fb92d7c",
+    "v": "http://www.wikidata.org/entity/Q181907",
+    "vLabel": "rand"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "s": "http://www.wikidata.org/entity/statement/q1014-3F04735E-2095-4D61-9BC1-0882C65462C7",
+    "v": "http://www.wikidata.org/entity/Q242988",
+    "vLabel": "Liberian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "s": "http://www.wikidata.org/entity/statement/Q1014-e67c67ed-44ae-b343-7449-aa20d4857b97",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1016",
+    "iso": "LBY",
+    "s": "http://www.wikidata.org/entity/statement/q1016-E2D3F446-F02B-44B4-8849-AEABDD7EBE1F",
+    "v": "http://www.wikidata.org/entity/Q190699",
+    "vLabel": "Libyan dinar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1019",
+    "iso": "MDG",
+    "s": "http://www.wikidata.org/entity/statement/q1019-9661BCBB-374E-41CC-9AA2-DAB83E0EBDFC",
+    "v": "http://www.wikidata.org/entity/Q4584",
+    "vLabel": "ariary"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1020",
+    "iso": "MWI",
+    "s": "http://www.wikidata.org/entity/statement/q1020-56909E50-C87E-4BC5-98EF-7EDACD050F98",
+    "v": "http://www.wikidata.org/entity/Q211694",
+    "vLabel": "Malawian kwacha"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1025",
+    "iso": "MRT",
+    "s": "http://www.wikidata.org/entity/statement/Q1025-779abd10-4016-ada0-5ca1-d6f84e927e2b",
+    "v": "http://www.wikidata.org/entity/Q207024",
+    "vLabel": "Mauritanian ouguiya"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1027",
+    "iso": "MUS",
+    "s": "http://www.wikidata.org/entity/statement/q1027-9278C378-118D-4CB0-B0FC-3296D121CF0C",
+    "v": "http://www.wikidata.org/entity/Q212967",
+    "vLabel": "Mauritian rupee"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1028",
+    "iso": "MAR",
+    "s": "http://www.wikidata.org/entity/statement/q1028-8C478CBB-70DE-41E8-84D3-AFCED6F93D0B",
+    "v": "http://www.wikidata.org/entity/Q200192",
+    "vLabel": "Moroccan dirham"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1029",
+    "iso": "MOZ",
+    "s": "http://www.wikidata.org/entity/statement/q1029-7B0DA588-524E-468D-8763-0437E9F4F1E4",
+    "v": "http://www.wikidata.org/entity/Q200753",
+    "vLabel": "Mozambican metical"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1030",
+    "iso": "NAM",
+    "s": "http://www.wikidata.org/entity/statement/Q1030-0f3adc91-4fa8-479c-ed77-276c88961f12",
+    "v": "http://www.wikidata.org/entity/Q181907",
+    "vLabel": "rand"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1030",
+    "iso": "NAM",
+    "s": "http://www.wikidata.org/entity/statement/q1030-EEE9191A-C590-4A8B-BDE5-3BC5C0C70F5A",
+    "v": "http://www.wikidata.org/entity/Q202462",
+    "vLabel": "Namibian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q211",
+    "iso": "LVA",
+    "s": "http://www.wikidata.org/entity/statement/q211-55FA8913-D25B-42BF-99F8-A62EDDB5F40B",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q217",
+    "iso": "MDA",
+    "s": "http://www.wikidata.org/entity/statement/q217-3488D45D-E56B-42FC-8417-A8F0D8A2105D",
+    "v": "http://www.wikidata.org/entity/Q181129",
+    "vLabel": "Moldovan leu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q233",
+    "iso": "MLT",
+    "s": "http://www.wikidata.org/entity/statement/q233-FD7BEDAF-8D9F-4698-99BC-320AC8F6B1BB",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q235",
+    "iso": "MCO",
+    "s": "http://www.wikidata.org/entity/statement/q235-33B49CE7-604A-481B-833D-2DF6A94DC074",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q236",
+    "iso": "MNE",
+    "s": "http://www.wikidata.org/entity/statement/q236-034A29DB-FD57-4BBA-A5F9-515484A5E70B",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/q32-50DE14AE-C91C-45E2-A938-396125666F97",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q347",
+    "iso": "LIE",
+    "s": "http://www.wikidata.org/entity/statement/q347-EDE2BE8E-6519-4C86-996D-0EE27BE74D38",
+    "v": "http://www.wikidata.org/entity/Q25344",
+    "vLabel": "Swiss franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q37",
+    "iso": "LTU",
+    "s": "http://www.wikidata.org/entity/statement/Q37-1108ad93-4d5c-2e7e-95bf-3f6a87201a65",
+    "v": "http://www.wikidata.org/entity/Q1130620",
+    "vLabel": "Lithuanian talonas"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q37",
+    "iso": "LTU",
+    "s": "http://www.wikidata.org/entity/statement/Q37-e3438ac7-4fa4-6fe7-4882-ffc96f75321a",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "s": "http://www.wikidata.org/entity/statement/Q697-55BA6023-5F6E-4CC6-B2FA-878F8346DF78",
+    "v": "http://www.wikidata.org/entity/Q259502",
+    "vLabel": "Australian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q702",
+    "iso": "FSM",
+    "s": "http://www.wikidata.org/entity/statement/Q702-27C0FF59-4C53-4BAC-875D-0B22482584F3",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q709",
+    "iso": "MHL",
+    "s": "http://www.wikidata.org/entity/statement/Q709-869de9cb-4ee9-8efb-cac4-6fa54b045c0a",
+    "v": "http://www.wikidata.org/entity/Q96051466",
+    "vLabel": "SOV"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q709",
+    "iso": "MHL",
+    "s": "http://www.wikidata.org/entity/statement/q709-F6A21876-5744-4E99-AF65-79A65173BC6B",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q711",
+    "iso": "MNG",
+    "s": "http://www.wikidata.org/entity/statement/q711-FD7747C5-5096-4215-8089-34C015A34E1B",
+    "v": "http://www.wikidata.org/entity/Q183435",
+    "vLabel": "Mongolian tögrög"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q813",
+    "iso": "KGZ",
+    "s": "http://www.wikidata.org/entity/statement/q813-18169CD2-1C59-4148-BD20-9DDF90D44C98",
+    "v": "http://www.wikidata.org/entity/Q35881",
+    "vLabel": "Kyrgyz som"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q819",
+    "iso": "LAO",
+    "s": "http://www.wikidata.org/entity/statement/q819-24D13DC6-1FC7-4A0D-B991-F8E60C149583",
+    "v": "http://www.wikidata.org/entity/Q200055",
+    "vLabel": "Lao kip"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q822",
+    "iso": "LBN",
+    "s": "http://www.wikidata.org/entity/statement/q822-8DEF70E5-9E46-4BBE-A0D6-531AECFE8B48",
+    "v": "http://www.wikidata.org/entity/Q201880",
+    "vLabel": "Lebanese pound"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q826",
+    "iso": "MDV",
+    "s": "http://www.wikidata.org/entity/statement/Q826-C7376082-AB06-42D4-A640-99CE05B15E2E",
+    "v": "http://www.wikidata.org/entity/Q206600",
+    "vLabel": "Maldivian rufiyaa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "s": "http://www.wikidata.org/entity/statement/q833-b4e98426-440b-72ef-c3b4-3b380d9a9ae4",
+    "v": "http://www.wikidata.org/entity/Q163712",
+    "vLabel": "Malaysian ringgit"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q836",
+    "iso": "MMR",
+    "s": "http://www.wikidata.org/entity/statement/q836-93D5AA1A-C14B-46AE-8626-2CBFD932BC9E",
+    "v": "http://www.wikidata.org/entity/Q201875",
+    "vLabel": "kyat"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q912",
+    "iso": "MLI",
+    "s": "http://www.wikidata.org/entity/statement/q912-7E9C382E-31C7-4685-B2B9-F24A1A11F454",
+    "v": "http://www.wikidata.org/entity/Q861690",
+    "vLabel": "West African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q912",
+    "iso": "MLI",
+    "s": "http://www.wikidata.org/entity/statement/Q912-e623b2b7-4561-8f36-ed74-5b6e3eddda38",
+    "v": "http://www.wikidata.org/entity/Q2629054",
+    "vLabel": "Malian franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "s": "http://www.wikidata.org/entity/statement/q96-F1691274-F03C-4BA3-83A8-46984A520F3F",
+    "v": "http://www.wikidata.org/entity/Q4730",
+    "vLabel": "peso"
+  }
+]

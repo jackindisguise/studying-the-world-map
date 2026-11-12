@@ -1,0 +1,344 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "v": "http://www.wikidata.org/entity/Q188",
+    "vLabel": "German"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "v": "http://www.wikidata.org/entity/Q7411",
+    "vLabel": "Dutch"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "v": "http://www.wikidata.org/entity/Q188",
+    "vLabel": "German"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "v": "http://www.wikidata.org/entity/Q36668",
+    "vLabel": "Austrian Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q155",
+    "iso": "BRA",
+    "v": "http://www.wikidata.org/entity/Q5146",
+    "vLabel": "Portuguese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "v": "http://www.wikidata.org/entity/Q7737",
+    "vLabel": "Russian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "v": "http://www.wikidata.org/entity/Q9091",
+    "vLabel": "Belarusian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219",
+    "iso": "BGR",
+    "v": "http://www.wikidata.org/entity/Q7918",
+    "vLabel": "Bulgarian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q222",
+    "iso": "ALB",
+    "v": "http://www.wikidata.org/entity/Q8748",
+    "vLabel": "Albanian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q225",
+    "iso": "BIH",
+    "v": "http://www.wikidata.org/entity/Q6654",
+    "vLabel": "Croatian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q225",
+    "iso": "BIH",
+    "v": "http://www.wikidata.org/entity/Q9299",
+    "vLabel": "Serbian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q225",
+    "iso": "BIH",
+    "v": "http://www.wikidata.org/entity/Q9303",
+    "vLabel": "Bosnian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "v": "http://www.wikidata.org/entity/Q9292",
+    "vLabel": "Azerbaijani"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "v": "http://www.wikidata.org/entity/Q55698568",
+    "vLabel": "Azerbaijani Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q228",
+    "iso": "AND",
+    "v": "http://www.wikidata.org/entity/Q7026",
+    "vLabel": "Catalan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q242",
+    "iso": "BLZ",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q244",
+    "iso": "BRB",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q244",
+    "iso": "BRB",
+    "v": "http://www.wikidata.org/entity/Q2524014",
+    "vLabel": "Bajan Creole"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q262",
+    "iso": "DZA",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q262",
+    "iso": "DZA",
+    "v": "http://www.wikidata.org/entity/Q61053330",
+    "vLabel": "Standard Algerian Berber"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q398",
+    "iso": "BHR",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "v": "http://www.wikidata.org/entity/Q8785",
+    "vLabel": "Armenian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q408",
+    "iso": "AUS",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q414",
+    "iso": "ARG",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q424",
+    "iso": "KHM",
+    "v": "http://www.wikidata.org/entity/Q9205",
+    "vLabel": "Khmer"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "v": "http://www.wikidata.org/entity/Q4627",
+    "vLabel": "Aymara"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "v": "http://www.wikidata.org/entity/Q5218",
+    "vLabel": "Quechua"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "v": "http://www.wikidata.org/entity/Q35876",
+    "vLabel": "Guarani"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q778",
+    "iso": "BHS",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q781",
+    "iso": "ATG",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q781",
+    "iso": "ATG",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q9264",
+    "vLabel": "Uzbek"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q9267",
+    "vLabel": "Turkmen"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q33049",
+    "vLabel": "Balochi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q36670",
+    "vLabel": "Pashayi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q58680",
+    "vLabel": "Pashto"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q161804",
+    "vLabel": "Nuristani"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q178440",
+    "vLabel": "Dari"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q1772864",
+    "vLabel": "Pamir"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q902",
+    "iso": "BGD",
+    "v": "http://www.wikidata.org/entity/Q9610",
+    "vLabel": "Bangla"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "v": "http://www.wikidata.org/entity/Q5146",
+    "vLabel": "Portuguese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q917",
+    "iso": "BTN",
+    "v": "http://www.wikidata.org/entity/Q33081",
+    "vLabel": "Dzongkha"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "v": "http://www.wikidata.org/entity/Q7979",
+    "vLabel": "British English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "v": "http://www.wikidata.org/entity/Q9237",
+    "vLabel": "Malay"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q962",
+    "iso": "BEN",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q963",
+    "iso": "BWA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "v": "http://www.wikidata.org/entity/Q32706",
+    "vLabel": "Dioula"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "v": "http://www.wikidata.org/entity/Q32934",
+    "vLabel": "Bissa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "v": "http://www.wikidata.org/entity/Q36096",
+    "vLabel": "Mooré"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "v": "http://www.wikidata.org/entity/Q33583",
+    "vLabel": "Kirundi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1009",
+    "iso": "CMR",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1009",
+    "iso": "CMR",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  }
+]

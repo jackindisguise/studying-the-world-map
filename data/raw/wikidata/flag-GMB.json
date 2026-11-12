@@ -1,0 +1,152 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q17",
+    "iso": "JPN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Japan.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ireland.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q28",
+    "iso": "HUN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Hungary.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q38",
+    "iso": "ITA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Italy.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q41",
+    "iso": "GRC",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Greece.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q114",
+    "iso": "KEN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kenya.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q117",
+    "iso": "GHA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ghana.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Germany.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q189",
+    "iso": "ISL",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iceland.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Georgia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q232",
+    "iso": "KAZ",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kazakhstan.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q252",
+    "iso": "IDN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Indonesia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20India.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q710",
+    "iso": "KIR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kiribati.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q734",
+    "iso": "GUY",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guyana.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q766",
+    "iso": "JAM",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jamaica.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q769",
+    "iso": "GRD",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Grenada.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q774",
+    "iso": "GTM",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guatemala.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q783",
+    "iso": "HND",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Honduras%20%281949%E2%80%932022%2C%202026%E2%80%93present%29.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q790",
+    "iso": "HTI",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Haiti.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iran.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q796",
+    "iso": "IRQ",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Iraq.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q801",
+    "iso": "ISR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Israel.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q810",
+    "iso": "JOR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Jordan.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q817",
+    "iso": "KWT",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kuwait.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1005",
+    "iso": "GMB",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20The%20Gambia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1006",
+    "iso": "GIN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1007",
+    "iso": "GNB",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea-Bissau.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1008",
+    "iso": "CIV",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1246",
+    "iso": "XKX",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Kosovo.svg"
+  }
+]

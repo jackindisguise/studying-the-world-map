@@ -1,0 +1,152 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Norway.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q36",
+    "iso": "POL",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Poland.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q45",
+    "iso": "PRT",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Portugal%20%28official%29.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q159",
+    "iso": "RUS",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Russia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q218",
+    "iso": "ROU",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Romania.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q221",
+    "iso": "MKD",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Macedonia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20San%20Marino.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q419",
+    "iso": "PER",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Peru.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20North%20Korea.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q664",
+    "iso": "NZL",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20New%20Zealand.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q683",
+    "iso": "WSM",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Samoa.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q691",
+    "iso": "PNG",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Papua%20New%20Guinea.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q695",
+    "iso": "PLW",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palau.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q733",
+    "iso": "PRY",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Paraguay.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q757",
+    "iso": "VCT",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Vincent%20and%20the%20Grenadines.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q760",
+    "iso": "LCA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Lucia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q763",
+    "iso": "KNA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saint%20Kitts%20and%20Nevis.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q804",
+    "iso": "PAN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Panama.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q811",
+    "iso": "NIC",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nicaragua.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q837",
+    "iso": "NPL",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q842",
+    "iso": "OMN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Oman.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Pakistan.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q846",
+    "iso": "QAT",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Qatar.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Philippines.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q971",
+    "iso": "COG",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20the%20Congo.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1032",
+    "iso": "NER",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Niger.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1033",
+    "iso": "NGA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nigeria.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Rwanda.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Netherlands.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Palestine.svg"
+  }
+]

@@ -1,0 +1,219 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1039",
+    "iso": "STP",
+    "s": "http://www.wikidata.org/entity/statement/q1039-7D193634-7D8B-41DA-8EDC-88CCE362645D",
+    "v": "http://www.wikidata.org/entity/Q193712",
+    "vLabel": "São Tomé and Príncipe dobra"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1041",
+    "iso": "SEN",
+    "s": "http://www.wikidata.org/entity/statement/q1041-A1CF2772-E40B-47B3-B55A-9DE62F61EAFC",
+    "v": "http://www.wikidata.org/entity/Q861690",
+    "vLabel": "West African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1042",
+    "iso": "SYC",
+    "s": "http://www.wikidata.org/entity/statement/q1042-DA65A0AE-3BD5-479A-A22F-4FFA8057342D",
+    "v": "http://www.wikidata.org/entity/Q4595",
+    "vLabel": "Seychellois rupee"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1044",
+    "iso": "SLE",
+    "s": "http://www.wikidata.org/entity/statement/q1044-94917545-D398-4592-8B04-7FAAD4F7F4BF",
+    "v": "http://www.wikidata.org/entity/Q4587",
+    "vLabel": "leone"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1045",
+    "iso": "SOM",
+    "s": "http://www.wikidata.org/entity/statement/q1045-7DD2E570-8B05-4457-95A8-C2D795FF7DA7",
+    "v": "http://www.wikidata.org/entity/Q4603",
+    "vLabel": "Somali shilling"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1049",
+    "iso": "SDN",
+    "s": "http://www.wikidata.org/entity/statement/q1049-0C6BCBB2-D0C8-4902-88BD-29C73FEB97BC",
+    "v": "http://www.wikidata.org/entity/Q271206",
+    "vLabel": "Sudanese pound"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q214",
+    "iso": "SVK",
+    "s": "http://www.wikidata.org/entity/statement/q214-6D2D0F72-D8E5-4E13-BFAD-85F907CAF407",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q215",
+    "iso": "SVN",
+    "s": "http://www.wikidata.org/entity/statement/q215-7217426D-02F3-475B-868E-D2728D2CA523",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "s": "http://www.wikidata.org/entity/statement/q258-D9E774CD-B331-401F-A768-FDDB2BB0C5B1",
+    "v": "http://www.wikidata.org/entity/Q181907",
+    "vLabel": "rand"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29",
+    "iso": "ESP",
+    "s": "http://www.wikidata.org/entity/statement/q29-9A31EA3A-AA0A-426D-A398-0F698A340778",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q334",
+    "iso": "SGP",
+    "s": "http://www.wikidata.org/entity/statement/q334-8BF1549C-08A1-4886-BE71-4B5C1DD79556",
+    "v": "http://www.wikidata.org/entity/Q190951",
+    "vLabel": "Singapore dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q34",
+    "iso": "SWE",
+    "s": "http://www.wikidata.org/entity/statement/q34-183BCD4D-8600-441D-98B4-E5AC28EA92E9",
+    "v": "http://www.wikidata.org/entity/Q122922",
+    "vLabel": "Swedish krona"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q39",
+    "iso": "CHE",
+    "s": "http://www.wikidata.org/entity/statement/q39-72855B76-C494-4CAF-B7E4-E3FD2687DF03",
+    "v": "http://www.wikidata.org/entity/Q25344",
+    "vLabel": "Swiss franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q403",
+    "iso": "SRB",
+    "s": "http://www.wikidata.org/entity/statement/q403-DE2637DE-A87E-4AD3-AB54-A93F6213F5E0",
+    "v": "http://www.wikidata.org/entity/Q172524",
+    "vLabel": "Serbian dinar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q574",
+    "iso": "TLS",
+    "s": "http://www.wikidata.org/entity/statement/q574-0FF5D92D-BC10-4268-9EAD-BA6063F8D639",
+    "v": "http://www.wikidata.org/entity/Q572213",
+    "vLabel": "East Timor centavo coins"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q574",
+    "iso": "TLS",
+    "s": "http://www.wikidata.org/entity/statement/q574-178EAA64-5DFD-4FF5-BA13-B64C46E14D8A",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q678",
+    "iso": "TON",
+    "s": "http://www.wikidata.org/entity/statement/q678-A2AC5DC4-90CB-4FC5-8212-13E01A7721AD",
+    "v": "http://www.wikidata.org/entity/Q4613",
+    "vLabel": "Tongan paʻanga"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q685",
+    "iso": "SLB",
+    "s": "http://www.wikidata.org/entity/statement/q685-67d51181-4e5a-6dc2-a7a9-1df6fbdd11bf",
+    "v": "http://www.wikidata.org/entity/Q4597",
+    "vLabel": "Solomon Islands dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q730",
+    "iso": "SUR",
+    "s": "http://www.wikidata.org/entity/statement/q730-A9574E56-A112-4841-977C-7605C2594FDB",
+    "v": "http://www.wikidata.org/entity/Q202036",
+    "vLabel": "Surinamese dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q754",
+    "iso": "TTO",
+    "s": "http://www.wikidata.org/entity/statement/q754-0B5FAEDD-DA4E-4E9D-A58C-D0F0808EDEDB",
+    "v": "http://www.wikidata.org/entity/Q242890",
+    "vLabel": "Trinidad and Tobago dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q851",
+    "iso": "SAU",
+    "s": "http://www.wikidata.org/entity/statement/q851-8CF59366-5753-49FB-ADF8-4EDE9EDEE4F1",
+    "v": "http://www.wikidata.org/entity/Q199857",
+    "vLabel": "Saudi riyal"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q854",
+    "iso": "LKA",
+    "s": "http://www.wikidata.org/entity/statement/q854-AF934BF2-FD14-4E9B-825E-E0E115D4752E",
+    "v": "http://www.wikidata.org/entity/Q4596",
+    "vLabel": "Sri Lankan rupee"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q858",
+    "iso": "SYR",
+    "s": "http://www.wikidata.org/entity/statement/Q858-D25FFB33-8515-445A-BCD9-D58AF58FE72F",
+    "v": "http://www.wikidata.org/entity/Q240468",
+    "vLabel": "Syrian pound"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q863",
+    "iso": "TJK",
+    "s": "http://www.wikidata.org/entity/statement/Q863-60D7DB5A-141E-4708-A143-6BEF2C86CD57",
+    "v": "http://www.wikidata.org/entity/Q199886",
+    "vLabel": "Tajikistani somoni"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "s": "http://www.wikidata.org/entity/statement/q865-642C429D-4F22-4ECE-B7DE-DD4DA215AD39",
+    "v": "http://www.wikidata.org/entity/Q208526",
+    "vLabel": "New Taiwan dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q869",
+    "iso": "THA",
+    "s": "http://www.wikidata.org/entity/statement/q869-67F4A017-9135-4FE0-AD1B-A0D76D07E583",
+    "v": "http://www.wikidata.org/entity/Q177882",
+    "vLabel": "baht"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q884",
+    "iso": "KOR",
+    "s": "http://www.wikidata.org/entity/statement/q884-045A681B-3093-4B3F-8B55-21915D8D8D9E",
+    "v": "http://www.wikidata.org/entity/Q202040",
+    "vLabel": "won"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q924",
+    "iso": "TZA",
+    "s": "http://www.wikidata.org/entity/statement/q924-5E60C574-FB6C-40F6-A251-CE15E2077396",
+    "v": "http://www.wikidata.org/entity/Q4589",
+    "vLabel": "Tanzanian shilling"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q945",
+    "iso": "TGO",
+    "s": "http://www.wikidata.org/entity/statement/q945-0ACBE6FF-28DD-4B79-BED0-2B053DCFE52E",
+    "v": "http://www.wikidata.org/entity/Q861690",
+    "vLabel": "West African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q948",
+    "iso": "TUN",
+    "s": "http://www.wikidata.org/entity/statement/q948-C1584645-C5D2-4934-87A3-A7449E56BAF6",
+    "v": "http://www.wikidata.org/entity/Q4602",
+    "vLabel": "Tunisian dinar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q958",
+    "iso": "SSD",
+    "s": "http://www.wikidata.org/entity/statement/q958-F2D367E6-F0C1-43ED-9BCE-16B2729FABD7",
+    "v": "http://www.wikidata.org/entity/Q244366",
+    "vLabel": "South Sudanese pound"
+  }
+]

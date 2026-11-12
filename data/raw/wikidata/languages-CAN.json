@@ -1,0 +1,290 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q16",
+    "iso": "CAN",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q16",
+    "iso": "CAN",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q33",
+    "iso": "FIN",
+    "v": "http://www.wikidata.org/entity/Q1412",
+    "vLabel": "Finnish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q33",
+    "iso": "FIN",
+    "v": "http://www.wikidata.org/entity/Q9027",
+    "vLabel": "Swedish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q35",
+    "iso": "DNK",
+    "v": "http://www.wikidata.org/entity/Q9035",
+    "vLabel": "Danish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q79",
+    "iso": "EGY",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q115",
+    "iso": "ETH",
+    "v": "http://www.wikidata.org/entity/Q28244",
+    "vLabel": "Amharic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q142",
+    "iso": "FRA",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q148",
+    "iso": "CHN",
+    "v": "http://www.wikidata.org/entity/Q24841726",
+    "vLabel": "Putonghua"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q191",
+    "iso": "EST",
+    "v": "http://www.wikidata.org/entity/Q9072",
+    "vLabel": "Estonian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q213",
+    "iso": "CZE",
+    "v": "http://www.wikidata.org/entity/Q9056",
+    "vLabel": "Czech"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q224",
+    "iso": "HRV",
+    "v": "http://www.wikidata.org/entity/Q6654",
+    "vLabel": "Croatian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "v": "http://www.wikidata.org/entity/Q256",
+    "vLabel": "Turkish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "v": "http://www.wikidata.org/entity/Q36510",
+    "vLabel": "Modern Greek"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q241",
+    "iso": "CUB",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q298",
+    "iso": "CHL",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q657",
+    "iso": "TCD",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q657",
+    "iso": "TCD",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "v": "http://www.wikidata.org/entity/Q33295",
+    "vLabel": "Fijian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "v": "http://www.wikidata.org/entity/Q46728",
+    "vLabel": "Fiji Hindi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "v": "http://www.wikidata.org/entity/Q617291",
+    "vLabel": "Shuar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "v": "http://www.wikidata.org/entity/Q1740805",
+    "vLabel": "Northern Quichua"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q739",
+    "iso": "COL",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q784",
+    "iso": "DMA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q786",
+    "iso": "DOM",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q792",
+    "iso": "SLV",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q800",
+    "iso": "CRI",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q929",
+    "iso": "CAF",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q929",
+    "iso": "CAF",
+    "v": "http://www.wikidata.org/entity/Q33954",
+    "vLabel": "Sango"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q970",
+    "iso": "COM",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q970",
+    "iso": "COM",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q970",
+    "iso": "COM",
+    "v": "http://www.wikidata.org/entity/Q33077",
+    "vLabel": "Comorian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q974",
+    "iso": "COD",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q977",
+    "iso": "DJI",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q977",
+    "iso": "DJI",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q983",
+    "iso": "GNQ",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q983",
+    "iso": "GNQ",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q983",
+    "iso": "GNQ",
+    "v": "http://www.wikidata.org/entity/Q5146",
+    "vLabel": "Portuguese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q986",
+    "iso": "ERI",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q986",
+    "iso": "ERI",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q986",
+    "iso": "ERI",
+    "v": "http://www.wikidata.org/entity/Q34124",
+    "vLabel": "Tigrinya"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1000",
+    "iso": "GAB",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1011",
+    "iso": "CPV",
+    "v": "http://www.wikidata.org/entity/Q5146",
+    "vLabel": "Portuguese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1011",
+    "iso": "CPV",
+    "v": "http://www.wikidata.org/entity/Q35963",
+    "vLabel": "Cape Verdean Creole"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1050",
+    "iso": "SWZ",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1050",
+    "iso": "SWZ",
+    "v": "http://www.wikidata.org/entity/Q34014",
+    "vLabel": "Swazi"
+  }
+]

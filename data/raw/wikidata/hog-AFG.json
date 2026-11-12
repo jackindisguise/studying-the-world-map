@@ -1,0 +1,329 @@
+[
+  {
+    "p": "http://www.wikidata.org/entity/Q316901",
+    "ps": "http://www.wikidata.org/entity/statement/Q316901-A4D35513-791B-49FD-A0D9-D6334A398514",
+    "party": "http://www.wikidata.org/entity/Q642882",
+    "c": "http://www.wikidata.org/entity/Q222",
+    "iso": "ALB",
+    "s": "http://www.wikidata.org/entity/statement/Q222-eadb6676-4712-d6f5-4c0b-d00b4a37a65e",
+    "pLabel": "Edi Rama",
+    "partyLabel": "Socialist Party of Albania"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q335697",
+    "ps": "http://www.wikidata.org/entity/statement/Q335697-008E7903-BA7B-4770-B820-F5314529880D",
+    "party": "http://www.wikidata.org/entity/Q216082",
+    "c": "http://www.wikidata.org/entity/Q408",
+    "iso": "AUS",
+    "s": "http://www.wikidata.org/entity/statement/Q408-5b625bea-4f8c-80cc-5af2-bc220652e9b9",
+    "pLabel": "Anthony Albanese",
+    "partyLabel": "Australian Labor Party",
+    "start": "2022-05-23T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q336599",
+    "ps": "http://www.wikidata.org/entity/statement/q336599-90E76FF4-50CC-4C06-8DF1-EBDAED577D9C",
+    "party": "http://www.wikidata.org/entity/Q28982",
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "s": "http://www.wikidata.org/entity/statement/Q31-4a51d2df-4e01-9210-8181-c6f1573869eb",
+    "pLabel": "Bart De Wever",
+    "partyLabel": "New Flemish Alliance",
+    "start": "2025-02-03T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q336599",
+    "ps": "http://www.wikidata.org/entity/statement/Q336599-D775FFCB-E9A4-4AE2-A2D6-8DAC5C1F7F45",
+    "party": "http://www.wikidata.org/entity/Q1725837",
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "s": "http://www.wikidata.org/entity/statement/Q31-4a51d2df-4e01-9210-8181-c6f1573869eb",
+    "pLabel": "Bart De Wever",
+    "partyLabel": "People's Union",
+    "start": "2025-02-03T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q387491",
+    "ps": "http://www.wikidata.org/entity/statement/Q387491-0D73277B-25F9-48B6-9646-4F8328D92EED",
+    "party": "http://www.wikidata.org/entity/Q16792",
+    "c": "http://www.wikidata.org/entity/Q225",
+    "iso": "BIH",
+    "s": "http://www.wikidata.org/entity/statement/Q225-D8F323CE-0E9B-478B-A277-355D0561C5C2",
+    "pLabel": "Borjana Krišto",
+    "partyLabel": "Croatian Democratic Union of Bosnia and Herzegovina",
+    "start": "2022-12-28T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q6266369",
+    "ps": "http://www.wikidata.org/entity/statement/Q6266369-5EBAAA52-B6E1-4DBC-9C72-9B9A1FFF8FFF",
+    "party": "http://www.wikidata.org/entity/Q1759613",
+    "c": "http://www.wikidata.org/entity/Q242",
+    "iso": "BLZ",
+    "s": "http://www.wikidata.org/entity/statement/Q242-d882938f-4426-aeba-9faa-f2c45178be0a",
+    "pLabel": "Johnny Briceño",
+    "partyLabel": "People's United Party",
+    "start": "2020-11-12T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q6827147",
+    "ps": "http://www.wikidata.org/entity/statement/Q6827147-E2F75167-DC19-47F3-A347-7DA3C0BC66EA",
+    "party": "http://www.wikidata.org/entity/Q740420",
+    "c": "http://www.wikidata.org/entity/Q244",
+    "iso": "BRB",
+    "s": "http://www.wikidata.org/entity/statement/Q244-f2de638a-4be9-bf69-3b31-d9a599ef7901",
+    "pLabel": "Mia Mottley",
+    "partyLabel": "Barbados Labour Party",
+    "start": "2018-05-25T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q7035479",
+    "ps": "http://www.wikidata.org/entity/statement/Q7035479-f6d2897d-4586-e0fd-6340-96b1201a373e",
+    "party": "http://www.wikidata.org/entity/Q17305307",
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "s": "http://www.wikidata.org/entity/statement/q399-3A67A596-0068-469D-89A6-17B33BC72B57",
+    "pLabel": "Nikol Pashinyan",
+    "partyLabel": "Civil Contract",
+    "start": "2018-05-08T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q7183082",
+    "ps": "http://www.wikidata.org/entity/statement/Q7183082-1FC413A0-DFE3-4779-AB98-80892446E28D",
+    "party": "http://www.wikidata.org/entity/Q2566823",
+    "c": "http://www.wikidata.org/entity/Q778",
+    "iso": "BHS",
+    "s": "http://www.wikidata.org/entity/statement/Q778-620b9d6d-4771-5ca6-7be7-4b21386cda83",
+    "pLabel": "Philip \"Brave\" Davis",
+    "partyLabel": "Progressive Liberal Party",
+    "start": "2021-09-17T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q7686199",
+    "ps": "http://www.wikidata.org/entity/statement/Q7686199-25116c04-e860-4b17-805d-ef404867136d",
+    "party": "http://www.wikidata.org/entity/Q496810",
+    "c": "http://www.wikidata.org/entity/Q902",
+    "iso": "BGD",
+    "s": "http://www.wikidata.org/entity/statement/Q902-95e914f9-47f6-c48a-dd37-edfc787012d6",
+    "pLabel": "Tarique Rahman",
+    "partyLabel": "Bangladesh Nationalist Party",
+    "start": "2026-02-17T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q7849613",
+    "ps": "http://www.wikidata.org/entity/statement/Q7849613-3A2CF0B0-A775-4100-8728-B3A7BACED3D5",
+    "party": "http://www.wikidata.org/entity/Q2578342",
+    "c": "http://www.wikidata.org/entity/Q917",
+    "iso": "BTN",
+    "s": "http://www.wikidata.org/entity/statement/q917-BEAAD7E7-6EB3-41E0-973B-02383BD9CFEC",
+    "pLabel": "Tshering Tobgay",
+    "partyLabel": "People's Democratic Party",
+    "start": "2024-01-28T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q12850075",
+    "ps": "http://www.wikidata.org/entity/statement/Q12850075-9fab9a6a-a0e5-4579-9cad-720c0fcc26e8",
+    "party": "http://www.wikidata.org/entity/Q876402",
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "s": "http://www.wikidata.org/entity/statement/q227-DFA7E808-4007-41C3-9CEB-6654DBC1DEC1",
+    "pLabel": "Ali Asadov",
+    "partyLabel": "New Azerbaijan Party",
+    "start": "2018-10-08T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q13024351",
+    "ps": "http://www.wikidata.org/entity/statement/Q13024351-1ae1ab07-2e86-439b-97e2-b35842ae32b7",
+    "party": "http://www.wikidata.org/entity/Q769308",
+    "c": "http://www.wikidata.org/entity/Q424",
+    "iso": "KHM",
+    "s": "http://www.wikidata.org/entity/statement/q424-8ECEC701-E70D-40A7-81DC-821682DE9F04",
+    "pLabel": "Hun Manet",
+    "partyLabel": "Cambodian People's Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q16669148",
+    "ps": "http://www.wikidata.org/entity/statement/Q16669148-D516128D-A2E8-4A90-8CB0-B7D5B56CE6F8",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "c": "http://www.wikidata.org/entity/Q962",
+    "iso": "BEN",
+    "s": "http://www.wikidata.org/entity/statement/Q962-a9b8ae40-45e7-aa9c-bd8f-873f9164b757",
+    "pLabel": "Patrice Talon",
+    "partyLabel": "independent politician",
+    "start": "2016-04-06T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q17177542",
+    "ps": "http://www.wikidata.org/entity/statement/Q17177542-9ab935b4-76b2-410f-85f2-b91c3a560f94",
+    "party": "http://www.wikidata.org/entity/Q1277738",
+    "c": "http://www.wikidata.org/entity/Q781",
+    "iso": "ATG",
+    "s": "http://www.wikidata.org/entity/statement/q781-D1B7214A-551E-4AC1-9F8A-3A9CDAEE877A",
+    "pLabel": "Gaston Browne",
+    "partyLabel": "Antigua and Barbuda Labour Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q21001195",
+    "ps": "http://www.wikidata.org/entity/statement/Q21001195-81b7fe50-41f6-b437-cc3f-b8c3bc13cb92",
+    "party": "http://www.wikidata.org/entity/Q24863",
+    "c": "http://www.wikidata.org/entity/Q228",
+    "iso": "AND",
+    "s": "http://www.wikidata.org/entity/statement/q228-441D0DDA-4960-44D7-9DA0-D6D9302D856F",
+    "pLabel": "Xavier Espot Zamora",
+    "partyLabel": "Democrats for Andorra",
+    "start": "2019-05-16T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q26257557",
+    "ps": "http://www.wikidata.org/entity/statement/Q26257557-8c492bd0-42fb-f35e-c3e8-79ebe6912ed6",
+    "party": "http://www.wikidata.org/entity/Q138546752",
+    "c": "http://www.wikidata.org/entity/Q219",
+    "iso": "BGR",
+    "s": "http://www.wikidata.org/entity/statement/Q219-75357348-4e24-988e-0d14-9e3319726d09",
+    "pLabel": "Rumen Radev",
+    "partyLabel": "Progressive Bulgaria",
+    "start": "2026-05-08T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q28650390",
+    "ps": "http://www.wikidata.org/entity/statement/Q28650390-1ef0ddda-4788-0267-aee6-fcd6fce23af4",
+    "party": "http://www.wikidata.org/entity/Q28551",
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "s": "http://www.wikidata.org/entity/statement/Q916-f37e6080-42f5-eaa2-e56f-5e4848691a63",
+    "pLabel": "João Lourenço",
+    "partyLabel": "People's Movement for the Liberation of Angola",
+    "start": "2017-09-26T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q52395487",
+    "ps": "http://www.wikidata.org/entity/statement/Q52395487-3d5d8635-4fec-f752-6091-091e114b92b2",
+    "party": "http://www.wikidata.org/entity/Q113554426",
+    "c": "http://www.wikidata.org/entity/Q414",
+    "iso": "ARG",
+    "s": "http://www.wikidata.org/entity/statement/Q414-da053058-4c33-f1d7-9b9a-de47e6f7dc1c",
+    "pLabel": "Javier Milei",
+    "partyLabel": "Libertarian Party",
+    "start": "2023-12-10T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q52395487",
+    "ps": "http://www.wikidata.org/entity/statement/Q52395487-b4e5f3fa-408a-e38f-5ab9-49ff943db6a6",
+    "party": "http://www.wikidata.org/entity/Q108454548",
+    "c": "http://www.wikidata.org/entity/Q414",
+    "iso": "ARG",
+    "s": "http://www.wikidata.org/entity/statement/Q414-da053058-4c33-f1d7-9b9a-de47e6f7dc1c",
+    "pLabel": "Javier Milei",
+    "partyLabel": "Freedom Advances",
+    "start": "2023-12-10T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q60441515",
+    "ps": "http://www.wikidata.org/entity/statement/Q60441515-eb0b2cdb-f819-43a0-8173-4cb3d0661b03",
+    "party": "http://www.wikidata.org/entity/Q953447",
+    "c": "http://www.wikidata.org/entity/Q1009",
+    "iso": "CMR",
+    "s": "http://www.wikidata.org/entity/statement/Q1009-2ddca975-4273-48b3-906c-e0034bce88e0",
+    "pLabel": "Joseph Ngute",
+    "partyLabel": "Cameroon People's Democratic Movement",
+    "start": "2019-01-04T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q64576653",
+    "ps": "http://www.wikidata.org/entity/statement/Q64576653-0f0d21d0-40fe-1381-0c0d-dbf15ff967e6",
+    "party": "http://www.wikidata.org/entity/Q186867",
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "s": "http://www.wikidata.org/entity/statement/Q40-fdddf5d3-48bb-c7be-d0f3-1099f22af0e3",
+    "pLabel": "Christian Stocker",
+    "partyLabel": "Austrian People's Party",
+    "start": "2025-03-03T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q106928258",
+    "ps": "http://www.wikidata.org/entity/statement/Q106928258-8333f6ab-4235-7ad5-f48d-5758f0a4190c",
+    "party": "http://www.wikidata.org/entity/Q108601789",
+    "c": "http://www.wikidata.org/entity/Q219",
+    "iso": "BGR",
+    "s": "http://www.wikidata.org/entity/statement/Q219-73e4e479-49ab-561a-ee73-11540e22a272",
+    "pLabel": "Kiril Petkov",
+    "partyLabel": "We Continue the Change",
+    "start": "2021-12-13T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q108444479",
+    "ps": "http://www.wikidata.org/entity/statement/Q108444479-5D1BF51E-0366-465D-B987-1FE22D632DEC",
+    "party": "http://www.wikidata.org/entity/Q42418",
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "s": "http://www.wikidata.org/entity/statement/Q889-a4aaab5e-4be9-6af4-6ef8-3622a7b43246",
+    "pLabel": "Mohammad Hasan Akhund",
+    "partyLabel": "Taliban",
+    "start": "2023-07-17T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q37181",
+    "ps": "http://www.wikidata.org/entity/statement/q37181-20a6cd78-4143-be2b-9623-3a9faa05cc0d",
+    "party": "http://www.wikidata.org/entity/Q657089",
+    "c": "http://www.wikidata.org/entity/Q155",
+    "iso": "BRA",
+    "s": "http://www.wikidata.org/entity/statement/Q155-9bc0c6d6-4381-258b-d80a-ca7ff1f518f1",
+    "pLabel": "Luiz Inácio Lula da Silva",
+    "partyLabel": "Workers' Party",
+    "start": "2023-01-01T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q56235580",
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "s": "http://www.wikidata.org/entity/statement/Q184-fed5ad71-4c9f-0eae-da8b-366c67a2e503",
+    "pLabel": "Alexander Turchyn",
+    "start": "2025-03-10T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q107136851",
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "s": "http://www.wikidata.org/entity/statement/Q967-8448a425-4ccf-80c2-cf25-12750d9e7155",
+    "pLabel": "Gervais Ndirakobuca",
+    "start": "2023-09-07T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q110520817",
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "s": "http://www.wikidata.org/entity/statement/Q750-9372bc30-4701-8325-1aaa-927f724b117b",
+    "pLabel": "Rodrigo Paz",
+    "start": "2025-11-08T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q114835874",
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "s": "http://www.wikidata.org/entity/statement/Q965-c590c1c9-4e47-08bc-61be-d73faecd869d",
+    "pLabel": "Apollinaire Joachim Kyélem de Tambèla",
+    "start": "2022-01-23T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q133540883",
+    "c": "http://www.wikidata.org/entity/Q262",
+    "iso": "DZA",
+    "s": "http://www.wikidata.org/entity/statement/Q262-61f5d50a-4176-93b1-be49-b8a718d18d95",
+    "pLabel": "Sifi Ghrieb",
+    "start": "2025-08-28T00:00:00Z"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q57327",
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "s": "http://www.wikidata.org/entity/statement/q921-E6A9F66A-C989-4031-B268-321B1DDC33D8",
+    "pLabel": "Hassanal Bolkiah I of Brunei"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q58140",
+    "c": "http://www.wikidata.org/entity/Q398",
+    "iso": "BHR",
+    "s": "http://www.wikidata.org/entity/statement/Q398-da52e57c-452f-300d-9671-48526107f20e",
+    "pLabel": "Salman bin Hamad, Crown Prince of Bahrain",
+    "start": "2020-11-11T00:00:00Z"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1036",
+    "iso": "UGA",
+    "s": "http://www.wikidata.org/entity/statement/q1036-5CF64F6B-B449-4B2B-A3F2-1E72D9FD4CA4",
+    "v": "http://www.wikidata.org/entity/Q3894",
+    "vLabel": "Kampala"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q145",
+    "iso": "GBR",
+    "s": "http://www.wikidata.org/entity/statement/q145-751E4062-0CF5-447F-9BCD-3BA56917AA98",
+    "v": "http://www.wikidata.org/entity/Q84",
+    "vLabel": "London"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q212",
+    "iso": "UKR",
+    "s": "http://www.wikidata.org/entity/statement/q212-02337F02-4EEB-4C22-A4FC-0B04479D5F3D",
+    "v": "http://www.wikidata.org/entity/Q1899",
+    "vLabel": "Kyiv"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q265",
+    "iso": "UZB",
+    "s": "http://www.wikidata.org/entity/statement/q265-80EB2F36-8598-4BA3-83FC-6489EEA71D4C",
+    "v": "http://www.wikidata.org/entity/Q269",
+    "vLabel": "Tashkent"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "s": "http://www.wikidata.org/entity/statement/q30-E0257E2F-A11D-40D9-8C58-6B5A8D3AF952",
+    "v": "http://www.wikidata.org/entity/Q61",
+    "vLabel": "Washington, D.C."
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/q43-75A03E47-8AAE-4906-BF2E-AA14C100CA7D",
+    "v": "http://www.wikidata.org/entity/Q3640",
+    "vLabel": "Ankara"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q672",
+    "iso": "TUV",
+    "s": "http://www.wikidata.org/entity/statement/q672-3c15b92c-40cf-e28c-7a04-15bd9d460221",
+    "v": "http://www.wikidata.org/entity/Q34126",
+    "vLabel": "Funafuti"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "s": "http://www.wikidata.org/entity/statement/q686-ab667c08-4981-8cf6-ad05-8d87682e173b",
+    "v": "http://www.wikidata.org/entity/Q37806",
+    "vLabel": "Port Vila"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q717",
+    "iso": "VEN",
+    "s": "http://www.wikidata.org/entity/statement/q717-D391B5D4-9E01-4531-B25F-966162A560DD",
+    "v": "http://www.wikidata.org/entity/Q1533",
+    "vLabel": "Caracas"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q77",
+    "iso": "URY",
+    "s": "http://www.wikidata.org/entity/statement/q77-C1CC0309-0658-4E5E-A0BA-290A9A09F10A",
+    "v": "http://www.wikidata.org/entity/Q1335",
+    "vLabel": "Montevideo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q805",
+    "iso": "YEM",
+    "s": "http://www.wikidata.org/entity/statement/q805-36D20697-189D-4D12-8F9B-919D975B288B",
+    "v": "http://www.wikidata.org/entity/Q2471",
+    "vLabel": "Sanaa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q805",
+    "iso": "YEM",
+    "s": "http://www.wikidata.org/entity/statement/Q805-6258613C-26F6-4EBF-93C8-13C0346EE7AD",
+    "v": "http://www.wikidata.org/entity/Q131694",
+    "vLabel": "Aden"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q874",
+    "iso": "TKM",
+    "s": "http://www.wikidata.org/entity/statement/q874-D6BD4AAE-097D-4435-B850-A691A4087821",
+    "v": "http://www.wikidata.org/entity/Q23438",
+    "vLabel": "Ashgabat"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q878",
+    "iso": "ARE",
+    "s": "http://www.wikidata.org/entity/statement/q878-2574995D-6E01-431B-AC0A-9FA1E266B361",
+    "v": "http://www.wikidata.org/entity/Q1519",
+    "vLabel": "Abu Dhabi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q881",
+    "iso": "VNM",
+    "s": "http://www.wikidata.org/entity/statement/q881-9E23BA05-3DC9-4378-9B41-63CA8AFF9BC5",
+    "v": "http://www.wikidata.org/entity/Q1858",
+    "vLabel": "Hanoi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q953",
+    "iso": "ZMB",
+    "s": "http://www.wikidata.org/entity/statement/q953-5E1C58E3-A0E6-469B-94D0-9DF033412AD2",
+    "v": "http://www.wikidata.org/entity/Q3881",
+    "vLabel": "Lusaka"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/q954-4E5E3F33-3D66-4387-8D66-4FCE3116F8BA",
+    "v": "http://www.wikidata.org/entity/Q3921",
+    "vLabel": "Harare"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q237",
+    "iso": "VAT",
+    "s": "http://www.wikidata.org/entity/statement/Q237-603984a4-44da-a134-ff51-cccc638c1895",
+    "v": "http://www.wikidata.org/entity/Q237",
+    "vLabel": "Vatican City"
+  }
+]

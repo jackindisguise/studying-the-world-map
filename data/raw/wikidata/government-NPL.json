@@ -1,0 +1,260 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://www.wikidata.org/entity/Q166747",
+    "vLabel": "parliamentary system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://www.wikidata.org/entity/Q188759",
+    "vLabel": "representative democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q36",
+    "iso": "POL",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q36",
+    "iso": "POL",
+    "v": "http://www.wikidata.org/entity/Q166747",
+    "vLabel": "parliamentary system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q36",
+    "iso": "POL",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q45",
+    "iso": "PRT",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q159",
+    "iso": "RUS",
+    "v": "http://www.wikidata.org/entity/Q4446300",
+    "vLabel": "super-presidential republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q218",
+    "iso": "ROU",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q218",
+    "iso": "ROU",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q221",
+    "iso": "MKD",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "v": "http://www.wikidata.org/entity/Q936648",
+    "vLabel": "diarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q419",
+    "iso": "PER",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q50686",
+    "vLabel": "one-party state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q181800",
+    "vLabel": "Juche"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q842112",
+    "vLabel": "socialist state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q5433328",
+    "vLabel": "family dictatorship"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q117405807",
+    "vLabel": "communist dictatorship"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q664",
+    "iso": "NZL",
+    "v": "http://www.wikidata.org/entity/Q3330103",
+    "vLabel": "parliamentary monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q757",
+    "iso": "VCT",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q760",
+    "iso": "LCA",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q763",
+    "iso": "KNA",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q763",
+    "iso": "KNA",
+    "v": "http://www.wikidata.org/entity/Q3208952",
+    "vLabel": "federal monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q804",
+    "iso": "PAN",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q811",
+    "iso": "NIC",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q837",
+    "iso": "NPL",
+    "v": "http://www.wikidata.org/entity/Q465613",
+    "vLabel": "people's republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q837",
+    "iso": "NPL",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q842",
+    "iso": "OMN",
+    "v": "http://www.wikidata.org/entity/Q184558",
+    "vLabel": "absolute monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q846",
+    "iso": "QAT",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q971",
+    "iso": "COG",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1033",
+    "iso": "NGA",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  }
+]

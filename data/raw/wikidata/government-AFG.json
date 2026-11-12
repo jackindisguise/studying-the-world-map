@@ -1,0 +1,320 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "v": "http://www.wikidata.org/entity/Q43702",
+    "vLabel": "federation"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "v": "http://www.wikidata.org/entity/Q5440547",
+    "vLabel": "federal parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q155",
+    "iso": "BRA",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q155",
+    "iso": "BRA",
+    "v": "http://www.wikidata.org/entity/Q188759",
+    "vLabel": "representative democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q155",
+    "iso": "BRA",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219",
+    "iso": "BGR",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q222",
+    "iso": "ALB",
+    "v": "http://www.wikidata.org/entity/Q166747",
+    "vLabel": "parliamentary system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q225",
+    "iso": "BIH",
+    "v": "http://www.wikidata.org/entity/Q5440547",
+    "vLabel": "federal parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q228",
+    "iso": "AND",
+    "v": "http://www.wikidata.org/entity/Q20105434",
+    "vLabel": "parliamentary coprincipality"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q242",
+    "iso": "BLZ",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q242",
+    "iso": "BLZ",
+    "v": "http://www.wikidata.org/entity/Q3330103",
+    "vLabel": "parliamentary monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q244",
+    "iso": "BRB",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q244",
+    "iso": "BRB",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q262",
+    "iso": "DZA",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q262",
+    "iso": "DZA",
+    "v": "http://www.wikidata.org/entity/Q465613",
+    "vLabel": "people's republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q398",
+    "iso": "BHR",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "v": "http://www.wikidata.org/entity/Q166747",
+    "vLabel": "parliamentary system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q408",
+    "iso": "AUS",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q408",
+    "iso": "AUS",
+    "v": "http://www.wikidata.org/entity/Q43702",
+    "vLabel": "federation"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q408",
+    "iso": "AUS",
+    "v": "http://www.wikidata.org/entity/Q188759",
+    "vLabel": "representative democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q414",
+    "iso": "ARG",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q424",
+    "iso": "KHM",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q778",
+    "iso": "BHS",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q781",
+    "iso": "ATG",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q189898",
+    "vLabel": "Emirate"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://www.wikidata.org/entity/Q138567551",
+    "vLabel": "islamic theocracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q902",
+    "iso": "BGD",
+    "v": "http://www.wikidata.org/entity/Q720477",
+    "vLabel": "Westminster system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q902",
+    "iso": "BGD",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q917",
+    "iso": "BTN",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "v": "http://www.wikidata.org/entity/Q184558",
+    "vLabel": "absolute monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "v": "http://www.wikidata.org/entity/Q4204060",
+    "vLabel": "Islamic state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q962",
+    "iso": "BEN",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q963",
+    "iso": "BWA",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "v": "http://www.wikidata.org/entity/Q25424534",
+    "vLabel": "military junta"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "v": "http://www.wikidata.org/entity/Q188759",
+    "vLabel": "representative democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1009",
+    "iso": "CMR",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  }
+]

@@ -1,0 +1,64 @@
+[
+  { "c": "http://www.wikidata.org/entity/Q20", "iso": "NOR", "v": "5627400" },
+  { "c": "http://www.wikidata.org/entity/Q36", "iso": "POL", "v": "37563071" },
+  { "c": "http://www.wikidata.org/entity/Q45", "iso": "PRT", "v": "10347892" },
+  {
+    "c": "http://www.wikidata.org/entity/Q159",
+    "iso": "RUS",
+    "v": "146119928"
+  },
+  { "c": "http://www.wikidata.org/entity/Q218", "iso": "ROU", "v": "19053815" },
+  { "c": "http://www.wikidata.org/entity/Q221", "iso": "MKD", "v": "1836713" },
+  { "c": "http://www.wikidata.org/entity/Q238", "iso": "SMR", "v": "34167" },
+  { "c": "http://www.wikidata.org/entity/Q419", "iso": "PER", "v": "34157732" },
+  { "c": "http://www.wikidata.org/entity/Q423", "iso": "PRK", "v": "26418204" },
+  { "c": "http://www.wikidata.org/entity/Q664", "iso": "NZL", "v": "5307800" },
+  { "c": "http://www.wikidata.org/entity/Q683", "iso": "WSM", "v": "200010" },
+  { "c": "http://www.wikidata.org/entity/Q691", "iso": "PNG", "v": "8935000" },
+  { "c": "http://www.wikidata.org/entity/Q695", "iso": "PLW", "v": "21729" },
+  { "c": "http://www.wikidata.org/entity/Q733", "iso": "PRY", "v": "6811297" },
+  { "c": "http://www.wikidata.org/entity/Q757", "iso": "VCT", "v": "109296" },
+  { "c": "http://www.wikidata.org/entity/Q760", "iso": "LCA", "v": "167591" },
+  { "c": "http://www.wikidata.org/entity/Q763", "iso": "KNA", "v": "46922" },
+  { "c": "http://www.wikidata.org/entity/Q804", "iso": "PAN", "v": "4570133" },
+  { "c": "http://www.wikidata.org/entity/Q811", "iso": "NIC", "v": "5142098" },
+  { "c": "http://www.wikidata.org/entity/Q837", "iso": "NPL", "v": "29164578" },
+  { "c": "http://www.wikidata.org/entity/Q842", "iso": "OMN", "v": "4829480" },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "v": "223773700"
+  },
+  { "c": "http://www.wikidata.org/entity/Q846", "iso": "QAT", "v": "2639211" },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "v": "112729484"
+  },
+  { "c": "http://www.wikidata.org/entity/Q971", "iso": "COG", "v": "6142180" },
+  {
+    "c": "http://www.wikidata.org/entity/Q1032",
+    "iso": "NER",
+    "v": "21477348"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1033",
+    "iso": "NGA",
+    "v": "211400708"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "v": "14569341"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "v": "17100715"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "v": "5227193"
+  }
+]

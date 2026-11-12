@@ -1,0 +1,152 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belgium.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Austria.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q155",
+    "iso": "BRA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brazil.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belarus.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219",
+    "iso": "BGR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bulgaria.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q222",
+    "iso": "ALB",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Albania.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q225",
+    "iso": "BIH",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bosnia%20and%20Herzegovina.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Azerbaijan.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q228",
+    "iso": "AND",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Andorra.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q242",
+    "iso": "BLZ",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Belize.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q244",
+    "iso": "BRB",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Barbados.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q262",
+    "iso": "DZA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Algeria.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q398",
+    "iso": "BHR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bahrain.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Armenia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q408",
+    "iso": "AUS",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Australia%20%28converted%29.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q414",
+    "iso": "ARG",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Argentina.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q424",
+    "iso": "KHM",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cambodia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bolivia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q778",
+    "iso": "BHS",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Bahamas.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q781",
+    "iso": "ATG",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Antigua%20and%20Barbuda.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Taliban.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q902",
+    "iso": "BGD",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bangladesh.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Angola.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q917",
+    "iso": "BTN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Bhutan.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Brunei.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q962",
+    "iso": "BEN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Benin.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q963",
+    "iso": "BWA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Botswana.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burkina%20Faso.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Burundi.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1009",
+    "iso": "CMR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Cameroon.svg"
+  }
+]

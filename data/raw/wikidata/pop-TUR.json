@@ -1,0 +1,19 @@
+[
+  { "c": "http://www.wikidata.org/entity/Q30", "iso": "USA", "v": "340110988" },
+  { "c": "http://www.wikidata.org/entity/Q43", "iso": "TUR", "v": "85372377" },
+  { "c": "http://www.wikidata.org/entity/Q77", "iso": "URY", "v": "3444263" },
+  { "c": "http://www.wikidata.org/entity/Q145", "iso": "GBR", "v": "67326569" },
+  { "c": "http://www.wikidata.org/entity/Q212", "iso": "UKR", "v": "41167335" },
+  { "c": "http://www.wikidata.org/entity/Q237", "iso": "VAT", "v": "882" },
+  { "c": "http://www.wikidata.org/entity/Q265", "iso": "UZB", "v": "34915100" },
+  { "c": "http://www.wikidata.org/entity/Q672", "iso": "TUV", "v": "10643" },
+  { "c": "http://www.wikidata.org/entity/Q686", "iso": "VUT", "v": "300019" },
+  { "c": "http://www.wikidata.org/entity/Q717", "iso": "VEN", "v": "31250306" },
+  { "c": "http://www.wikidata.org/entity/Q805", "iso": "YEM", "v": "28250420" },
+  { "c": "http://www.wikidata.org/entity/Q874", "iso": "TKM", "v": "6117933" },
+  { "c": "http://www.wikidata.org/entity/Q878", "iso": "ARE", "v": "9890400" },
+  { "c": "http://www.wikidata.org/entity/Q881", "iso": "VNM", "v": "96208984" },
+  { "c": "http://www.wikidata.org/entity/Q953", "iso": "ZMB", "v": "19610769" },
+  { "c": "http://www.wikidata.org/entity/Q954", "iso": "ZWE", "v": "15178979" },
+  { "c": "http://www.wikidata.org/entity/Q1036", "iso": "UGA", "v": "47123531" }
+]

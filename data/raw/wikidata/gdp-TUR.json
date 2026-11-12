@@ -1,0 +1,109 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "23315080560000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "25462700000000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "27720709000000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "28750956130000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "v": "819034484303"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "v": "905987824096"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q77",
+    "iso": "URY",
+    "v": "61412268249"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q77",
+    "iso": "URY",
+    "v": "71177146197"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q145",
+    "iso": "GBR",
+    "v": "3070667732359"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q212",
+    "iso": "UKR",
+    "v": "160502739236"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q212",
+    "iso": "UKR",
+    "v": "199765856765"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q265",
+    "iso": "UZB",
+    "v": "69238900000"
+  },
+  { "c": "http://www.wikidata.org/entity/Q672", "iso": "TUV", "v": "60196367" },
+  { "c": "http://www.wikidata.org/entity/Q672", "iso": "TUV", "v": "60349391" },
+  {
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "v": "971636098"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "v": "983582865"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q878",
+    "iso": "ARE",
+    "v": "514130432653"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q881",
+    "iso": "VNM",
+    "v": "366137590718"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q881",
+    "iso": "VNM",
+    "v": "408802379068"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q953",
+    "iso": "ZMB",
+    "v": "29784454056"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "20678055598"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1036",
+    "iso": "UGA",
+    "v": "40510241366"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1036",
+    "iso": "UGA",
+    "v": "45559202049"
+  }
+]

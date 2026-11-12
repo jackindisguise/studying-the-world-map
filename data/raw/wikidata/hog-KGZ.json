@@ -1,0 +1,542 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-840120d6-45cf-30fa-a4be-0e649fe3d742",
+    "p": "http://www.wikidata.org/entity/Q212178",
+    "pLabel": "Victor de Tornaco"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-5afdcd43-4163-4927-ea70-22f144eb4bb6",
+    "p": "http://www.wikidata.org/entity/Q269726",
+    "pLabel": "Emmanuel Servais"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-ca454853-4770-ee07-bf4b-c46589a80b62",
+    "p": "http://www.wikidata.org/entity/Q274460",
+    "pLabel": "Édouard Thilges"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "s": "http://www.wikidata.org/entity/statement/Q697-f00cfae3-4d3c-d6e7-a3b6-11d6aefb2301",
+    "p": "http://www.wikidata.org/entity/Q560557",
+    "pLabel": "René Harris",
+    "start": "2001-01-01T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q822",
+    "iso": "LBN",
+    "s": "http://www.wikidata.org/entity/statement/Q822-1ed08769-4772-e78b-fb2f-1ebb162a3d01",
+    "p": "http://www.wikidata.org/entity/Q638463",
+    "pLabel": "Nawaf Salam",
+    "start": "2025-02-08T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-ec17ffc9-41b1-773e-fe5a-29b6e3bce91c",
+    "p": "http://www.wikidata.org/entity/Q641102",
+    "pLabel": "Félix de Blochausen"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-b4bbbc29-4c90-67ca-8ed2-147f82172c7d",
+    "p": "http://www.wikidata.org/entity/Q665685",
+    "pLabel": "Mathias Mongenast"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-baa97729-4d1d-28f7-c561-8a1ba72120dc",
+    "p": "http://www.wikidata.org/entity/Q725755",
+    "pLabel": "Gaspard-Théodore-Ignace de la Fontaine"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-be70c997-47bc-66a5-5af5-f8c4e6398c14",
+    "p": "http://www.wikidata.org/entity/Q738855",
+    "pLabel": "Jean-Jacques Willmar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-52a031c4-4a01-f0a7-7752-1a0821a323df",
+    "p": "http://www.wikidata.org/entity/Q739463",
+    "pLabel": "Charles-Mathias Simons"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "s": "http://www.wikidata.org/entity/statement/Q697-e74c8e3b-49f4-e5ea-41de-76e0754be493",
+    "p": "http://www.wikidata.org/entity/Q888033",
+    "pLabel": "Derog Gioura",
+    "start": "2003-01-01T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-f8197fd6-4da8-555c-b463-269a50212ee5",
+    "p": "http://www.wikidata.org/entity/Q945406",
+    "pLabel": "Paul Eyschen"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1029",
+    "iso": "MOZ",
+    "s": "http://www.wikidata.org/entity/statement/Q1029-197f9444-40a7-fb39-bfc7-be39964a7ca8",
+    "p": "http://www.wikidata.org/entity/Q6761049",
+    "pLabel": "Maria Benvinda Levy",
+    "start": "2025-01-15T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q702",
+    "iso": "FSM",
+    "s": "http://www.wikidata.org/entity/statement/Q702-be9810fe-462e-6ff3-b767-61503c4af29a",
+    "p": "http://www.wikidata.org/entity/Q7984081",
+    "pLabel": "Wesley Simina",
+    "start": "2023-01-01T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q235",
+    "iso": "MCO",
+    "s": "http://www.wikidata.org/entity/statement/Q235-69c9b8bd-4065-4b63-e72a-f75aa50a7457",
+    "p": "http://www.wikidata.org/entity/Q29934395",
+    "pLabel": "Christophe Mirmand",
+    "start": "2025-07-21T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q819",
+    "iso": "LAO",
+    "s": "http://www.wikidata.org/entity/statement/Q819-54362606-4290-9e3e-3df5-451f23ca9689",
+    "p": "http://www.wikidata.org/entity/Q104914585",
+    "pLabel": "Sonexay Siphandone",
+    "start": "2022-12-30T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "s": "http://www.wikidata.org/entity/statement/Q697-8f114d59-44fd-6c15-8646-78a0ad046ae7",
+    "p": "http://www.wikidata.org/entity/Q109781648",
+    "pLabel": "Russ J Kun",
+    "start": "2022-09-28T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q711",
+    "iso": "MNG",
+    "s": "http://www.wikidata.org/entity/statement/Q711-f8c5214e-4296-3f98-98e9-bdda2bc4704d",
+    "p": "http://www.wikidata.org/entity/Q110962738",
+    "pLabel": "Uchral Nyam-Osor",
+    "start": "2026-03-30T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q813",
+    "iso": "KGZ",
+    "s": "http://www.wikidata.org/entity/statement/Q813-3a635121-4142-9d4a-f7f1-50a746d7c83b",
+    "p": "http://www.wikidata.org/entity/Q112703041",
+    "pLabel": "Adylbek Kasymaliev",
+    "start": "2024-12-16T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q912",
+    "iso": "MLI",
+    "s": "http://www.wikidata.org/entity/statement/Q912-1b064b69-4fae-618c-5119-36ab17fd2607",
+    "p": "http://www.wikidata.org/entity/Q113577661",
+    "pLabel": "Abdoulaye Maïga",
+    "start": "2022-08-21T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1019",
+    "iso": "MDG",
+    "s": "http://www.wikidata.org/entity/statement/Q1019-f4e76e4f-4c45-5813-ba03-7b1a61d4be8f",
+    "p": "http://www.wikidata.org/entity/Q138678989",
+    "pLabel": "Mamitiana Rajaonarison",
+    "start": "2026-03-15T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q217",
+    "iso": "MDA",
+    "s": "http://www.wikidata.org/entity/statement/Q217-7f57e62b-49e7-5415-27c8-2f1403a8676b",
+    "p": "http://www.wikidata.org/entity/Q140480413",
+    "pLabel": "Vasile Tofan",
+    "start": "2026-07-22T00:00:00Z"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-4403362f-4249-a6f8-8600-7bcc0efaa030",
+    "p": "http://www.wikidata.org/entity/Q286417",
+    "pLabel": "Émile Reuter",
+    "ps": "http://www.wikidata.org/entity/statement/Q286417-0014c43f-4237-fe0a-b4fb-576bb0db8c3c",
+    "party": "http://www.wikidata.org/entity/Q1344670",
+    "partyLabel": "Christian Social People's Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-4403362f-4249-a6f8-8600-7bcc0efaa030",
+    "p": "http://www.wikidata.org/entity/Q286417",
+    "pLabel": "Émile Reuter",
+    "ps": "http://www.wikidata.org/entity/statement/Q286417-6E8E9BD7-92C8-4AEF-A84C-C3AE3B7513C5",
+    "party": "http://www.wikidata.org/entity/Q2402740",
+    "partyLabel": "Party of the Right"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q833",
+    "iso": "MYS",
+    "s": "http://www.wikidata.org/entity/statement/Q833-eb17df0b-40ff-6fe3-ba1a-4299b55b121d",
+    "p": "http://www.wikidata.org/entity/Q299574",
+    "pLabel": "Anwar Ibrahim",
+    "start": "2022-11-24T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q299574-09AFEE82-F0B1-4AC0-A7DE-18D4A66E26A4",
+    "party": "http://www.wikidata.org/entity/Q1756601",
+    "partyLabel": "People's Justice Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-81541bbe-4d78-fcb1-61a2-016b87c09951",
+    "p": "http://www.wikidata.org/entity/Q315685",
+    "pLabel": "Joseph Bech",
+    "ps": "http://www.wikidata.org/entity/statement/Q315685-1D4B638E-BA18-477C-86D3-60377FE52FB0",
+    "party": "http://www.wikidata.org/entity/Q1344670",
+    "partyLabel": "Christian Social People's Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-d59a9fa0-4300-e046-7def-dfa3f56282d2",
+    "p": "http://www.wikidata.org/entity/Q592101",
+    "pLabel": "Luc Frieden",
+    "start": "2023-11-17T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q592101-FF4BC77C-8ECF-44A3-B15D-2F305A9A9C3F",
+    "party": "http://www.wikidata.org/entity/Q1344670",
+    "partyLabel": "Christian Social People's Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-aa71891f-49ac-92ab-e374-edc818fe4011",
+    "p": "http://www.wikidata.org/entity/Q706106",
+    "pLabel": "Pierre Frieden",
+    "ps": "http://www.wikidata.org/entity/statement/Q706106-3AF22DEA-3AE3-4350-961A-59C40B0B2441",
+    "party": "http://www.wikidata.org/entity/Q1344670",
+    "partyLabel": "Christian Social People's Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-c1ba1ac0-4794-6253-eafe-22f121f7da42",
+    "p": "http://www.wikidata.org/entity/Q730154",
+    "pLabel": "Hubert Loutsch",
+    "ps": "http://www.wikidata.org/entity/statement/Q730154-FA059F53-C74A-4B46-889E-4BEDF7A1586B",
+    "party": "http://www.wikidata.org/entity/Q1344670",
+    "partyLabel": "Christian Social People's Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-c86f81b5-489b-16a3-c371-1f2062f61e8a",
+    "p": "http://www.wikidata.org/entity/Q945927",
+    "pLabel": "Pierre Dupong",
+    "ps": "http://www.wikidata.org/entity/statement/Q945927-6f164253-4efc-1429-a26e-abcf1536a3e6",
+    "party": "http://www.wikidata.org/entity/Q2402740",
+    "partyLabel": "Party of the Right"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-c86f81b5-489b-16a3-c371-1f2062f61e8a",
+    "p": "http://www.wikidata.org/entity/Q945927",
+    "pLabel": "Pierre Dupong",
+    "ps": "http://www.wikidata.org/entity/statement/Q945927-CA4E439D-A933-4641-995F-70CB6842B32D",
+    "party": "http://www.wikidata.org/entity/Q1344670",
+    "partyLabel": "Christian Social People's Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-77d1e413-43fd-d641-9bf4-bb49ba64fe82",
+    "p": "http://www.wikidata.org/entity/Q975968",
+    "pLabel": "Léon Kauffman",
+    "ps": "http://www.wikidata.org/entity/statement/Q975968-10301306-4f24-f183-357b-8433dc2d6ad4",
+    "party": "http://www.wikidata.org/entity/Q2402740",
+    "partyLabel": "Party of the Right"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-77d1e413-43fd-d641-9bf4-bb49ba64fe82",
+    "p": "http://www.wikidata.org/entity/Q975968",
+    "pLabel": "Léon Kauffman",
+    "ps": "http://www.wikidata.org/entity/statement/Q975968-FD79D2E7-A0A8-411E-9E3D-C3353E5FC088",
+    "party": "http://www.wikidata.org/entity/Q1344670",
+    "partyLabel": "Christian Social People's Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-feb60770-4141-3b6f-cde8-7e111d33a607",
+    "p": "http://www.wikidata.org/entity/Q976032",
+    "pLabel": "Victor Thorn",
+    "ps": "http://www.wikidata.org/entity/statement/Q976032-6F1C7DFC-5691-40ED-B096-AD24DB9D1FFD",
+    "party": "http://www.wikidata.org/entity/Q1863697",
+    "partyLabel": "Liberal League"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q32",
+    "iso": "LUX",
+    "s": "http://www.wikidata.org/entity/statement/Q32-d034bf8b-4567-7d6f-a9cb-e48289871ae7",
+    "p": "http://www.wikidata.org/entity/Q981324",
+    "pLabel": "Pierre Prüm",
+    "ps": "http://www.wikidata.org/entity/statement/Q981324-CFFD1847-96CC-44D2-84B1-FE961C002464",
+    "party": "http://www.wikidata.org/entity/Q2505562",
+    "partyLabel": "Independent National Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q37",
+    "iso": "LTU",
+    "s": "http://www.wikidata.org/entity/statement/Q37-30dce593-4cee-068e-ae1a-8342dd54a442",
+    "p": "http://www.wikidata.org/entity/Q1936326",
+    "pLabel": "Mindaugas Sinkevičius",
+    "start": "2026-07-14T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q1936326-F5214C6B-4023-40B3-8B21-C700057B9638",
+    "party": "http://www.wikidata.org/entity/Q4362",
+    "partyLabel": "Social Democratic Party of Lithuania"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1014",
+    "iso": "LBR",
+    "s": "http://www.wikidata.org/entity/statement/Q1014-7e2123c1-418d-79a0-2cc3-ed56cc2a2a32",
+    "p": "http://www.wikidata.org/entity/Q2630483",
+    "pLabel": "Joseph Boakai",
+    "start": "2024-01-01T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q2630483-6AFFBAAF-370B-4370-92AE-53905B902433",
+    "party": "http://www.wikidata.org/entity/Q550159",
+    "partyLabel": "Unity Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1028",
+    "iso": "MAR",
+    "s": "http://www.wikidata.org/entity/statement/q1028-368A82A3-2AD9-4ACC-9AE4-3B45D448998C",
+    "p": "http://www.wikidata.org/entity/Q3067221",
+    "pLabel": "Fatima Ezzahra El Mansouri",
+    "start": "2026-09-29T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q3067221-e547f53c-6e1e-49f0-b9fe-0ae5bca21e3a",
+    "party": "http://www.wikidata.org/entity/Q784586",
+    "partyLabel": "Authenticity and Modernity Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1027",
+    "iso": "MUS",
+    "s": "http://www.wikidata.org/entity/statement/q1027-CDC3B741-CC06-4039-9A07-572F6DD52D9A",
+    "p": "http://www.wikidata.org/entity/Q3401447",
+    "pLabel": "Pravind Jugnauth",
+    "start": "2017-01-23T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q3401447-024697C6-294D-432A-B355-A15614BB74E0",
+    "party": "http://www.wikidata.org/entity/Q6851928",
+    "partyLabel": "Militant Socialist Movement"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q836",
+    "iso": "MMR",
+    "s": "http://www.wikidata.org/entity/statement/Q836-86ee7c13-4b88-8105-7446-6e7d3f259fcf",
+    "p": "http://www.wikidata.org/entity/Q3462649",
+    "pLabel": "Min Aung Hlaing",
+    "start": "2021-02-01T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q3462649-770203d2-4b95-87df-6033-851537e53a8f",
+    "party": "http://www.wikidata.org/entity/Q1318070",
+    "partyLabel": "Union Solidarity and Development Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1030",
+    "iso": "NAM",
+    "s": "http://www.wikidata.org/entity/statement/Q1030-9efa6f8e-4c66-152e-d5a9-f3e4fd4ee59f",
+    "p": "http://www.wikidata.org/entity/Q5360975",
+    "pLabel": "Elijah Ngurare",
+    "start": "2025-03-21T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q5360975-A3A2C3CA-EDCD-4626-B42E-B487ADB79F82",
+    "party": "http://www.wikidata.org/entity/Q467711",
+    "partyLabel": "SWAPO Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "s": "http://www.wikidata.org/entity/statement/Q96-89c320b2-428e-2b85-d8d0-7cf0ddba2a42",
+    "p": "http://www.wikidata.org/entity/Q5771800",
+    "pLabel": "Q5771800",
+    "start": "2024-09-30T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q5771800-8db1a850-428c-c3f4-439e-dfb0be46b93e",
+    "party": "http://www.wikidata.org/entity/Q767010",
+    "partyLabel": "Party of the Democratic Revolution"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q96",
+    "iso": "MEX",
+    "s": "http://www.wikidata.org/entity/statement/Q96-89c320b2-428e-2b85-d8d0-7cf0ddba2a42",
+    "p": "http://www.wikidata.org/entity/Q5771800",
+    "pLabel": "Q5771800",
+    "start": "2024-09-30T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q5771800-CB87F28F-B866-4D4D-B306-68D4473811AC",
+    "party": "http://www.wikidata.org/entity/Q15717618",
+    "partyLabel": "Morena"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1020",
+    "iso": "MWI",
+    "s": "http://www.wikidata.org/entity/statement/Q1020-e56a05d7-400e-ad3b-b96b-46849d66cedb",
+    "p": "http://www.wikidata.org/entity/Q16202782",
+    "pLabel": "Lazarus Chakwera",
+    "ps": "http://www.wikidata.org/entity/statement/Q16202782-be973d08-a5a1-43cd-ade0-2176b9845133",
+    "party": "http://www.wikidata.org/entity/Q1037389",
+    "partyLabel": "Malawi Congress Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q709",
+    "iso": "MHL",
+    "s": "http://www.wikidata.org/entity/statement/Q709-1e43be14-422a-ca53-13ac-13e1ed5edfbb",
+    "p": "http://www.wikidata.org/entity/Q20090884",
+    "pLabel": "Hilda Heine",
+    "start": "2024-01-03T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q20090884-435d48b8-4828-bb08-d755-c95e9f027a4f",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q233",
+    "iso": "MLT",
+    "s": "http://www.wikidata.org/entity/statement/q233-989AE8ED-7DF7-48B3-BEC3-481D01850669",
+    "p": "http://www.wikidata.org/entity/Q37860840",
+    "pLabel": "Robert Abela",
+    "start": "2020-01-01T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q37860840-020a73d9-012b-4d45-9998-87e4d9455d2c",
+    "party": "http://www.wikidata.org/entity/Q684886",
+    "partyLabel": "Labour Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "s": "http://www.wikidata.org/entity/statement/Q697-d06586c3-44e1-cf15-ab5f-f2c5d5826517",
+    "p": "http://www.wikidata.org/entity/Q66765492",
+    "pLabel": "Lionel Aingimea",
+    "start": "2019-08-27T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q66765492-8D4B395F-D94E-4052-A1D0-ECEC7F90B8EA",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1025",
+    "iso": "MRT",
+    "s": "http://www.wikidata.org/entity/statement/Q1025-e27fcf32-4ca7-5009-14d2-fca343df7bda",
+    "p": "http://www.wikidata.org/entity/Q66793577",
+    "pLabel": "Moctar Ould Djay",
+    "start": "2024-08-02T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q66793577-2343efc2-4bc2-cc5b-ac56-d79f130775cc",
+    "party": "http://www.wikidata.org/entity/Q112939010",
+    "partyLabel": "Equity Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q236",
+    "iso": "MNE",
+    "s": "http://www.wikidata.org/entity/statement/Q236-8db3e54a-4d6a-02dd-65c4-24ed1b5ddbc1",
+    "p": "http://www.wikidata.org/entity/Q101225458",
+    "pLabel": "Milojko Spajić",
+    "start": "2023-10-31T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q101225458-8638ae29-41e6-2af1-a722-0088e6c68b49",
+    "party": "http://www.wikidata.org/entity/Q113453660",
+    "partyLabel": "Europe Now"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1016",
+    "iso": "LBY",
+    "s": "http://www.wikidata.org/entity/statement/q1016-FFC2D700-7937-4E74-AAF1-30C4B179A72D",
+    "p": "http://www.wikidata.org/entity/Q105319569",
+    "pLabel": "Abd al-Hamid Al-Dabiba",
+    "start": "2021-02-05T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q105319569-8EFCBDC1-B294-4D27-BCD5-F8A8D67DAEC0",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1013",
+    "iso": "LSO",
+    "s": "http://www.wikidata.org/entity/statement/Q1013-c068b525-4a55-31a6-5046-80a790e142c5",
+    "p": "http://www.wikidata.org/entity/Q114588964",
+    "pLabel": "Sam Matekane",
+    "start": "2022-10-28T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q114588964-065316d6-461a-077d-ec48-20aeb61726e4",
+    "party": "http://www.wikidata.org/entity/Q114562488",
+    "partyLabel": "Revolution for Prosperity"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q211",
+    "iso": "LVA",
+    "s": "http://www.wikidata.org/entity/statement/Q211-a4359fd7-4954-d6a5-be54-ea785998887c",
+    "p": "http://www.wikidata.org/entity/Q115604300",
+    "pLabel": "Andris Kulbergs",
+    "start": "2026-05-28T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q115604300-36cd42d8-4e8b-e9a0-2a4b-49fcc4ebc43e",
+    "party": "http://www.wikidata.org/entity/Q113163582",
+    "partyLabel": "United List"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q211",
+    "iso": "LVA",
+    "s": "http://www.wikidata.org/entity/statement/Q211-a4359fd7-4954-d6a5-be54-ea785998887c",
+    "p": "http://www.wikidata.org/entity/Q115604300",
+    "pLabel": "Andris Kulbergs",
+    "start": "2026-05-28T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q115604300-79646cae-46dd-a225-1fc9-9df18435047f",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q826",
+    "iso": "MDV",
+    "s": "http://www.wikidata.org/entity/statement/Q826-4e28e546-46f3-0825-12c0-59f66dc501b7",
+    "p": "http://www.wikidata.org/entity/Q116293030",
+    "pLabel": "Mohamed Muizzu",
+    "start": "2023-11-17T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q116293030-c26b61ef-4f55-151d-7be2-be265030d0e8",
+    "party": "http://www.wikidata.org/entity/Q61750742",
+    "partyLabel": "People's National Congress"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q347",
+    "iso": "LIE",
+    "s": "http://www.wikidata.org/entity/statement/Q347-a8a554f9-4f40-96b1-9035-4f34f47018e3",
+    "p": "http://www.wikidata.org/entity/Q129676165",
+    "pLabel": "Brigitte Haas",
+    "start": "2025-04-10T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q129676165-12d919a5-45b7-ef87-18f6-c512c8fc51bc",
+    "party": "http://www.wikidata.org/entity/Q49673",
+    "partyLabel": "Fatherland Union"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "s": "http://www.wikidata.org/entity/statement/Q697-67906b6b-484f-de5e-4da5-e600b5f0d45a",
+    "p": "http://www.wikidata.org/entity/Q57543",
+    "pLabel": "Sprent Dabwido",
+    "start": "2011-11-01T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q57543-BCC31442-A684-4077-8A62-06A71CA1FFB1",
+    "party": "http://www.wikidata.org/entity/Q1964815",
+    "partyLabel": "Nauru First"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q697",
+    "iso": "NRU",
+    "s": "http://www.wikidata.org/entity/statement/Q697-0df0b8a0-43b7-04c1-f1f3-2e11c33a5db5",
+    "p": "http://www.wikidata.org/entity/Q58096",
+    "pLabel": "David Adeang",
+    "start": "2023-10-30T00:00:00Z",
+    "ps": "http://www.wikidata.org/entity/statement/Q58096-A63EF757-0845-4FE4-9523-C2CF2818C880",
+    "party": "http://www.wikidata.org/entity/Q1964815",
+    "partyLabel": "Nauru First"
+  }
+]

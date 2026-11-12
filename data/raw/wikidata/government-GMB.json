@@ -1,0 +1,224 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q17",
+    "iso": "JPN",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q28",
+    "iso": "HUN",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q38",
+    "iso": "ITA",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q41",
+    "iso": "GRC",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q117",
+    "iso": "GHA",
+    "v": "http://www.wikidata.org/entity/Q7174",
+    "vLabel": "democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "v": "http://www.wikidata.org/entity/Q5440547",
+    "vLabel": "federal parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q189",
+    "iso": "ISL",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "v": "http://www.wikidata.org/entity/Q49890",
+    "vLabel": "semi-presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q232",
+    "iso": "KAZ",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q252",
+    "iso": "IDN",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q252",
+    "iso": "IDN",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "v": "http://www.wikidata.org/entity/Q1520223",
+    "vLabel": "constitutional republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "v": "http://www.wikidata.org/entity/Q5255892",
+    "vLabel": "democratic republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q734",
+    "iso": "GUY",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q774",
+    "iso": "GTM",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q774",
+    "iso": "GTM",
+    "v": "http://www.wikidata.org/entity/Q188759",
+    "vLabel": "representative democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q783",
+    "iso": "HND",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "v": "http://www.wikidata.org/entity/Q49892",
+    "vLabel": "presidential system"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "v": "http://www.wikidata.org/entity/Q672729",
+    "vLabel": "Islamic Republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "v": "http://www.wikidata.org/entity/Q138567551",
+    "vLabel": "islamic theocracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q796",
+    "iso": "IRQ",
+    "v": "http://www.wikidata.org/entity/Q43702",
+    "vLabel": "federation"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q796",
+    "iso": "IRQ",
+    "v": "http://www.wikidata.org/entity/Q512187",
+    "vLabel": "federal republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q801",
+    "iso": "ISR",
+    "v": "http://www.wikidata.org/entity/Q179164",
+    "vLabel": "unitary state"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q801",
+    "iso": "ISR",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q817",
+    "iso": "KWT",
+    "v": "http://www.wikidata.org/entity/Q41614",
+    "vLabel": "constitutional monarchy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1005",
+    "iso": "GMB",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1006",
+    "iso": "GIN",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1008",
+    "iso": "CIV",
+    "v": "http://www.wikidata.org/entity/Q7270",
+    "vLabel": "republic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1246",
+    "iso": "XKX",
+    "v": "http://www.wikidata.org/entity/Q4198907",
+    "vLabel": "parliamentary republic"
+  }
+]

@@ -1,0 +1,247 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1000",
+    "iso": "GAB",
+    "s": "http://www.wikidata.org/entity/statement/q1000-4D339626-1EDE-446A-8D53-9178F20B7818",
+    "v": "http://www.wikidata.org/entity/Q847739",
+    "vLabel": "Central African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1011",
+    "iso": "CPV",
+    "s": "http://www.wikidata.org/entity/statement/q1011-E96701A2-5C01-4A92-A8DE-E3DBD0C1BEEB",
+    "v": "http://www.wikidata.org/entity/Q4591",
+    "vLabel": "Cape Verdean escudo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1050",
+    "iso": "SWZ",
+    "s": "http://www.wikidata.org/entity/statement/q1050-366A3725-C0D7-4D3F-8811-22B3E372C3BF",
+    "v": "http://www.wikidata.org/entity/Q4823",
+    "vLabel": "lilangeni"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q115",
+    "iso": "ETH",
+    "s": "http://www.wikidata.org/entity/statement/q115-543CEBF9-E199-4FF5-A69E-A259B5A8B9A8",
+    "v": "http://www.wikidata.org/entity/Q206243",
+    "vLabel": "bir"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q142",
+    "iso": "FRA",
+    "s": "http://www.wikidata.org/entity/statement/q142-3105C185-2E6F-4BEA-9693-30309F561BCF",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q142",
+    "iso": "FRA",
+    "s": "http://www.wikidata.org/entity/statement/q142-641AD9DC-15A4-44C3-98E4-E95C096C6E42",
+    "v": "http://www.wikidata.org/entity/Q214393",
+    "vLabel": "CFP Franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q148",
+    "iso": "CHN",
+    "s": "http://www.wikidata.org/entity/statement/q148-F8BFC911-EB7A-43AF-A5F0-B6A5E5791636",
+    "v": "http://www.wikidata.org/entity/Q39099",
+    "vLabel": "renminbi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q16",
+    "iso": "CAN",
+    "s": "http://www.wikidata.org/entity/statement/q16-DD99F835-19C0-4A6D-A692-B34096B0F91B",
+    "v": "http://www.wikidata.org/entity/Q1104069",
+    "vLabel": "Canadian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q191",
+    "iso": "EST",
+    "s": "http://www.wikidata.org/entity/statement/q191-65EDD602-AD02-4F54-B94B-D36A69F49187",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q213",
+    "iso": "CZE",
+    "s": "http://www.wikidata.org/entity/statement/q213-04F5421B-4168-49B2-B523-9907480D5AE0",
+    "v": "http://www.wikidata.org/entity/Q131016",
+    "vLabel": "Czech koruna"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q224",
+    "iso": "HRV",
+    "s": "http://www.wikidata.org/entity/statement/Q224-857aa843-423b-63b6-5c70-53002b5d9fb5",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "s": "http://www.wikidata.org/entity/statement/Q229-34e45645-4217-343e-8968-ba61b09c2571",
+    "v": "http://www.wikidata.org/entity/Q6442872",
+    "vLabel": "All-Russian Classifier of Currencies"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "s": "http://www.wikidata.org/entity/statement/q229-4BF41E6D-1D8F-4495-8CEC-126EFB838389",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q241",
+    "iso": "CUB",
+    "s": "http://www.wikidata.org/entity/statement/q241-17CD1FB3-0C85-47F1-B253-0AF301674B75",
+    "v": "http://www.wikidata.org/entity/Q731350",
+    "vLabel": "convertible peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q241",
+    "iso": "CUB",
+    "s": "http://www.wikidata.org/entity/statement/q241-B86AFEEC-A758-482E-9E08-9BC460647DDD",
+    "v": "http://www.wikidata.org/entity/Q201505",
+    "vLabel": "Cuban peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q298",
+    "iso": "CHL",
+    "s": "http://www.wikidata.org/entity/statement/q298-4CA8443B-02B6-462D-B0AD-3FA4B8289009",
+    "v": "http://www.wikidata.org/entity/Q1573250",
+    "vLabel": "Unidad de Fomento"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q298",
+    "iso": "CHL",
+    "s": "http://www.wikidata.org/entity/statement/q298-B9683CDC-98F1-4348-83AC-5CF154AC97CE",
+    "v": "http://www.wikidata.org/entity/Q200050",
+    "vLabel": "Chilean peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q33",
+    "iso": "FIN",
+    "s": "http://www.wikidata.org/entity/statement/q33-81C70A67-3B57-4872-A1E4-AB626824F9F4",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q35",
+    "iso": "DNK",
+    "s": "http://www.wikidata.org/entity/statement/q35-BF0FA4C8-5E24-4F46-A1C6-C49D355B3340",
+    "v": "http://www.wikidata.org/entity/Q25417",
+    "vLabel": "Danish krone"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q657",
+    "iso": "TCD",
+    "s": "http://www.wikidata.org/entity/statement/q657-4C8B9541-282D-4598-9CFD-CA241AADC33F",
+    "v": "http://www.wikidata.org/entity/Q847739",
+    "vLabel": "Central African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "s": "http://www.wikidata.org/entity/statement/q712-EEC071DE-B1C8-4E8C-9ED6-67C27818CBD3",
+    "v": "http://www.wikidata.org/entity/Q4592",
+    "vLabel": "Fijian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "s": "http://www.wikidata.org/entity/statement/q736-7B7F810D-BCE7-4840-AF31-5DDB403AC89F",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q739",
+    "iso": "COL",
+    "s": "http://www.wikidata.org/entity/statement/q739-FD51529D-0FD5-4418-8D90-6CE004DF086A",
+    "v": "http://www.wikidata.org/entity/Q244819",
+    "vLabel": "Colombian peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q784",
+    "iso": "DMA",
+    "s": "http://www.wikidata.org/entity/statement/q784-A3E6A124-22EB-4174-AA5A-14F9D6A2AC7A",
+    "v": "http://www.wikidata.org/entity/Q26365",
+    "vLabel": "Eastern Caribbean dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q786",
+    "iso": "DOM",
+    "s": "http://www.wikidata.org/entity/statement/q786-11524BE5-0140-4BA0-A1AA-436FFCA583E9",
+    "v": "http://www.wikidata.org/entity/Q242922",
+    "vLabel": "Dominican peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q792",
+    "iso": "SLV",
+    "s": "http://www.wikidata.org/entity/statement/Q792-927e5e66-4914-f849-2c3e-115ca4d35004",
+    "v": "http://www.wikidata.org/entity/Q131723",
+    "vLabel": "Bitcoin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q792",
+    "iso": "SLV",
+    "s": "http://www.wikidata.org/entity/statement/q792-97C08063-1EB6-43D7-9F67-070C098F0F45",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q79",
+    "iso": "EGY",
+    "s": "http://www.wikidata.org/entity/statement/q79-7AAEF53F-7F00-4ED3-A80D-B26369DA2391",
+    "v": "http://www.wikidata.org/entity/Q199462",
+    "vLabel": "Egyptian pound"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q800",
+    "iso": "CRI",
+    "s": "http://www.wikidata.org/entity/statement/q800-89353B64-998A-4D7A-88B3-0E309E962C90",
+    "v": "http://www.wikidata.org/entity/Q242915",
+    "vLabel": "Costa Rican colón"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q929",
+    "iso": "CAF",
+    "s": "http://www.wikidata.org/entity/statement/q929-4985C98F-CB5A-4E4B-88D0-A6DF51B3AC17",
+    "v": "http://www.wikidata.org/entity/Q847739",
+    "vLabel": "Central African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q970",
+    "iso": "COM",
+    "s": "http://www.wikidata.org/entity/statement/q970-2BFBEFC5-3812-4D3D-B9C3-357F53FCAD64",
+    "v": "http://www.wikidata.org/entity/Q267264",
+    "vLabel": "Comorian franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q974",
+    "iso": "COD",
+    "s": "http://www.wikidata.org/entity/statement/q974-D4CEAC85-1FB5-43AE-AD1F-361781B24B39",
+    "v": "http://www.wikidata.org/entity/Q4734",
+    "vLabel": "Congolese franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q977",
+    "iso": "DJI",
+    "s": "http://www.wikidata.org/entity/statement/q977-3E706952-19FE-4145-994D-71B2F2E25F18",
+    "v": "http://www.wikidata.org/entity/Q4594",
+    "vLabel": "Djiboutian franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q983",
+    "iso": "GNQ",
+    "s": "http://www.wikidata.org/entity/statement/q983-BDA57FE5-8B0F-433F-9ABB-7C307744D946",
+    "v": "http://www.wikidata.org/entity/Q847739",
+    "vLabel": "Central African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q986",
+    "iso": "ERI",
+    "s": "http://www.wikidata.org/entity/statement/q986-84D19C50-F41B-4EBA-BEA6-6DF97A60027A",
+    "v": "http://www.wikidata.org/entity/Q171503",
+    "vLabel": "nakfa"
+  }
+]

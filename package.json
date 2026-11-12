@@ -1,0 +1,32 @@
+{
+  "name": "world-map-deck",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scripts and data to generate the data and map images for the World Map Anki deck (197 countries).",
+  "scripts": {
+    "countries": "node scripts/list-countries.mjs",
+    "facts": "node scripts/fetch-all.mjs",
+    "facts:refresh": "node scripts/fetch-all.mjs --refresh",
+    "heads": "node scripts/parse-heads.mjs",
+    "leaders": "node scripts/leaders.mjs",
+    "religion": "node scripts/religion.mjs",
+    "records": "node scripts/build-records.mjs",
+    "notes": "node scripts/build-notes.mjs",
+    "flags:svg": "node scripts/fetch-svg-flags.mjs",
+    "flags:copy": "node scripts/copy-flags.mjs",
+    "render": "node scripts/render-all.mjs",
+    "build": "npm run records && npm run render && npm run flags:copy && npm run notes",
+    "refresh-data": "npm run facts:refresh && npm run heads && npm run leaders && npm run religion && npm run records"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2",
+    "d3-geo": "^3.1.1",
+    "topojson-client": "^3.1.0",
+    "topojson-server": "^3.0.1",
+    "world-atlas": "^2.0.2"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,1514 @@
+{
+  "AFG": {
+    "leader": "Hibatullah Akhundzada",
+    "leaderTitle": "Hibatullah Akhundzada",
+    "leaderRole": "Supreme Leader",
+    "head": "Hasan Akhund",
+    "headTitle": "Hasan Akhund",
+    "headRole": "Prime Minister"
+  },
+  "ALB": {
+    "leader": "Edi Rama",
+    "leaderTitle": "Edi Rama",
+    "leaderRole": "Prime Minister",
+    "head": "Bajram Begaj",
+    "headTitle": "Bajram Begaj",
+    "headRole": "President"
+  },
+  "DZA": {
+    "leader": "Abdelmadjid Tebboune",
+    "leaderTitle": "Abdelmadjid Tebboune",
+    "leaderRole": "President",
+    "head": "Sifi Ghrieb",
+    "headTitle": "Sifi Ghrieb",
+    "headRole": "Prime Minister"
+  },
+  "AND": {
+    "leader": "Xavier Espot Zamora",
+    "leaderTitle": "Xavier Espot Zamora",
+    "leaderRole": "Prime Minister",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "AGO": {
+    "leader": "João Lourenço",
+    "leaderTitle": "João Lourenço",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "ATG": {
+    "leader": "Gaston Browne",
+    "leaderTitle": "Gaston Browne",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "ARG": {
+    "leader": "Javier Milei",
+    "leaderTitle": "Javier Milei",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "ARM": {
+    "leader": "Nikol Pashinyan",
+    "leaderTitle": "Nikol Pashinyan",
+    "leaderRole": "Prime Minister",
+    "head": "Vahagn Khachaturyan",
+    "headTitle": "Vahagn Khachaturyan",
+    "headRole": "President"
+  },
+  "AUS": {
+    "leader": "Anthony Albanese",
+    "leaderTitle": "Anthony Albanese",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "AUT": {
+    "leader": "Christian Stocker",
+    "leaderTitle": "Christian Stocker",
+    "leaderRole": "Chancellor",
+    "head": "Alexander Van der Bellen",
+    "headTitle": "Alexander Van der Bellen",
+    "headRole": "President"
+  },
+  "AZE": {
+    "leader": "Ilham Aliyev",
+    "leaderTitle": "Ilham Aliyev",
+    "leaderRole": "President",
+    "head": "Ali Asadov",
+    "headTitle": "Ali Asadov",
+    "headRole": "Prime Minister"
+  },
+  "BHS": {
+    "leader": "Philip Davis",
+    "leaderTitle": "Philip Davis (Bahamian politician)",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "BHR": {
+    "leader": "Hamad bin Isa Al Khalifa",
+    "leaderTitle": "Hamad bin Isa Al Khalifa",
+    "leaderRole": "King",
+    "head": "Salman bin Hamad Al Khalifa",
+    "headTitle": "Salman bin Hamad Al Khalifa",
+    "headRole": "Prime Minister"
+  },
+  "BGD": {
+    "leader": "Tarique Rahman",
+    "leaderTitle": "Tarique Rahman",
+    "leaderRole": "Prime Minister",
+    "head": "Mirza Fakhrul Islam Alamgir",
+    "headTitle": "Mirza Fakhrul Islam Alamgir",
+    "headRole": "President"
+  },
+  "BRB": {
+    "leader": "Mia Mottley",
+    "leaderTitle": "Mia Mottley",
+    "leaderRole": "Prime Minister",
+    "head": "Jeffrey Bostic",
+    "headTitle": "Jeffrey Bostic",
+    "headRole": "President"
+  },
+  "BLR": {
+    "leader": "Alexander Turchin",
+    "leaderTitle": "Alexander Turchin",
+    "leaderRole": "Prime Minister",
+    "head": "Alexander Lukashenko",
+    "headTitle": "Alexander Lukashenko",
+    "headRole": "Chairman of the All-Belarusian People's Assembly"
+  },
+  "BEL": {
+    "leader": "Bart De Wever",
+    "leaderTitle": "Bart De Wever",
+    "leaderRole": "Prime Minister",
+    "head": "Philippe",
+    "headTitle": "Philippe of Belgium",
+    "headRole": "King"
+  },
+  "BLZ": {
+    "leader": "Johnny Briceño",
+    "leaderTitle": "Johnny Briceño",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "BEN": {
+    "leader": "Romuald Wadagni",
+    "leaderTitle": "Romuald Wadagni",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "BTN": {
+    "leader": "Tshering Tobgay",
+    "leaderTitle": "Tshering Tobgay",
+    "leaderRole": "Prime Minister",
+    "head": "Jigme Khesar Namgyel Wangchuck",
+    "headTitle": "Jigme Khesar Namgyel Wangchuck",
+    "headRole": "King"
+  },
+  "BOL": {
+    "leader": "Rodrigo Paz",
+    "leaderTitle": "Rodrigo Paz",
+    "leaderRole": "President",
+    "head": "Borjana Krišto",
+    "headTitle": "Borjana Krišto",
+    "headRole": "Chairwoman of the Council of Ministers"
+  },
+  "BWA": {
+    "leader": "Duma Boko",
+    "leaderTitle": "Duma Boko",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "BRA": {
+    "leader": "Luiz Inácio Lula da Silva",
+    "leaderTitle": "Luiz Inácio Lula da Silva",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "BGR": {
+    "leader": "Rumen Radev",
+    "leaderTitle": "Rumen Radev",
+    "leaderRole": "Prime Minister",
+    "head": "Iliana Iotova",
+    "headTitle": "Iliana Iotova",
+    "headRole": "President"
+  },
+  "BFA": {
+    "leader": "Jean Emmanuel Ouédraogo",
+    "leaderTitle": "Jean Emmanuel Ouédraogo",
+    "leaderRole": "Prime Minister",
+    "head": "Ibrahim Traoré",
+    "headTitle": "Ibrahim Traoré",
+    "headRole": "Patriotic Movement for Safeguard and Restoration"
+  },
+  "BDI": {
+    "leader": "Évariste Ndayishimiye",
+    "leaderTitle": "Évariste Ndayishimiye",
+    "leaderRole": "President",
+    "head": "Nestor Ntahontuye",
+    "headTitle": "Nestor Ntahontuye",
+    "headRole": "Prime Minister"
+  },
+  "KHM": {
+    "leader": "Hun Manet",
+    "leaderTitle": "Hun Manet",
+    "leaderRole": "Prime Minister",
+    "head": "Hun Sen",
+    "headTitle": "Hun Sen",
+    "headRole": "People's Party"
+  },
+  "CMR": {
+    "leader": "Paul Biya",
+    "leaderTitle": "Paul Biya",
+    "leaderRole": "President",
+    "head": "Joseph Ngute",
+    "headTitle": "Joseph Ngute",
+    "headRole": "Prime Minister"
+  },
+  "CAN": {
+    "leader": "Mark Carney",
+    "leaderTitle": "Mark Carney",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "CPV": {
+    "leader": "Francisco Carvalho",
+    "leaderTitle": "Francisco Carvalho",
+    "leaderRole": "Prime Minister",
+    "head": "José Maria Neves",
+    "headTitle": "José Maria Neves",
+    "headRole": "President"
+  },
+  "CAF": {
+    "leader": "Faustin-Archange Touadéra",
+    "leaderTitle": "Faustin-Archange Touadéra",
+    "leaderRole": "President",
+    "head": "Félix Moloua",
+    "headTitle": "Félix Moloua",
+    "headRole": "Prime Minister"
+  },
+  "TCD": {
+    "leader": "Mahamat Déby",
+    "leaderTitle": "Mahamat Déby",
+    "leaderRole": "President",
+    "head": "Allamaye Halina",
+    "headTitle": "Allamaye Halina",
+    "headRole": "Prime Minister"
+  },
+  "CHL": {
+    "leader": "José Antonio Kast",
+    "leaderTitle": "José Antonio Kast",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "CHN": {
+    "leader": "Li Qiang",
+    "leaderTitle": "Li Qiang",
+    "leaderRole": "Premier",
+    "head": "Xi Jinping",
+    "headTitle": "Xi Jinping",
+    "headRole": "General Secretary of the Communist Party"
+  },
+  "COL": {
+    "leader": "Abelardo de la Espriella",
+    "leaderTitle": "Abelardo de la Espriella",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "COM": {
+    "leader": "Azali Assoumani",
+    "leaderTitle": "Azali Assoumani",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "COD": {
+    "leader": "Félix Tshisekedi",
+    "leaderTitle": "Félix Tshisekedi",
+    "leaderRole": "President",
+    "head": "Judith Suminwa",
+    "headTitle": "Judith Suminwa",
+    "headRole": "Prime Minister"
+  },
+  "COG": {
+    "leader": "Denis Sassou Nguesso",
+    "leaderTitle": "Denis Sassou Nguesso",
+    "leaderRole": "President",
+    "head": "Anatole Collinet Makosso",
+    "headTitle": "Anatole Collinet Makosso",
+    "headRole": "Prime Minister"
+  },
+  "CRI": {
+    "leader": "Laura Fernández",
+    "leaderTitle": "Laura Fernández",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "HRV": {
+    "leader": "Andrej Plenković",
+    "leaderTitle": "Andrej Plenković",
+    "leaderRole": "Prime Minister",
+    "head": "Zoran Milanović",
+    "headTitle": "Zoran Milanović",
+    "headRole": "President"
+  },
+  "CUB": {
+    "leader": "Manuel Marrero Cruz",
+    "leaderTitle": "Manuel Marrero Cruz",
+    "leaderRole": "Prime Minister",
+    "head": "Miguel Díaz-Canel",
+    "headTitle": "Miguel Díaz-Canel",
+    "headRole": "First Secretary of the Communist Party"
+  },
+  "CYP": {
+    "leader": "Nikos Christodoulides",
+    "leaderTitle": "Nikos Christodoulides",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "CZE": {
+    "leader": "Andrej Babiš",
+    "leaderTitle": "Andrej Babiš",
+    "leaderRole": "Prime Minister",
+    "head": "Petr Pavel",
+    "headTitle": "Petr Pavel",
+    "headRole": "President"
+  },
+  "DNK": {
+    "leader": "Mette Frederiksen",
+    "leaderTitle": "Mette Frederiksen",
+    "leaderRole": "Prime Minister",
+    "head": "Frederik X",
+    "headTitle": "Frederik X",
+    "headRole": "King"
+  },
+  "DJI": {
+    "leader": "Ismaïl Omar Guelleh",
+    "leaderTitle": "Ismaïl Omar Guelleh",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "DMA": {
+    "leader": "Roosevelt Skerrit",
+    "leaderTitle": "Roosevelt Skerrit",
+    "leaderRole": "Prime Minister",
+    "head": "Sylvanie Burton",
+    "headTitle": "Sylvanie Burton",
+    "headRole": "President"
+  },
+  "DOM": {
+    "leader": "Luis Abinader",
+    "leaderTitle": "Luis Abinader",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "ECU": {
+    "leader": "Daniel Noboa",
+    "leaderTitle": "Daniel Noboa",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "EGY": {
+    "leader": "Abdel Fattah el-Sisi",
+    "leaderTitle": "Abdel Fattah el-Sisi",
+    "leaderRole": "President",
+    "head": "Mostafa Madbouly",
+    "headTitle": "Mostafa Madbouly",
+    "headRole": "Prime Minister"
+  },
+  "SLV": {
+    "leader": "Nayib Bukele",
+    "leaderTitle": "Nayib Bukele",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "GNQ": {
+    "leader": "Teodoro Obiang Nguema Mbasogo",
+    "leaderTitle": "Teodoro Obiang Nguema Mbasogo",
+    "leaderRole": "President",
+    "head": "Manuel Osa Nsue Nsua",
+    "headTitle": "Manuel Osa Nsue Nsua",
+    "headRole": "Prime Minister"
+  },
+  "ERI": {
+    "leader": "Isaias Afwerki",
+    "leaderTitle": "Isaias Afwerki",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "EST": {
+    "leader": "Kristen Michal",
+    "leaderTitle": "Kristen Michal",
+    "leaderRole": "Prime Minister",
+    "head": "Ülle Madise",
+    "headTitle": "Ülle Madise",
+    "headRole": "President"
+  },
+  "SWZ": {
+    "leader": "Mswati III",
+    "leaderTitle": "Mswati III",
+    "leaderRole": "King",
+    "head": "Russell Dlamini",
+    "headTitle": "Russell Dlamini",
+    "headRole": "Prime Minister"
+  },
+  "ETH": {
+    "leader": "Abiy Ahmed",
+    "leaderTitle": "Abiy Ahmed",
+    "leaderRole": "Prime Minister",
+    "head": "Taye Atske Selassie",
+    "headTitle": "Taye Atske Selassie",
+    "headRole": "President"
+  },
+  "FJI": {
+    "leader": "Sitiveni Rabuka",
+    "leaderTitle": "Sitiveni Rabuka",
+    "leaderRole": "Prime Minister",
+    "head": "Naiqama Lalabalavu",
+    "headTitle": "Naiqama Lalabalavu",
+    "headRole": "President"
+  },
+  "FIN": {
+    "leader": "Petteri Orpo",
+    "leaderTitle": "Petteri Orpo",
+    "leaderRole": "Prime Minister",
+    "head": "Alexander Stubb",
+    "headTitle": "Alexander Stubb",
+    "headRole": "President"
+  },
+  "FRA": {
+    "leader": "Emmanuel Macron",
+    "leaderTitle": "Emmanuel Macron",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "GAB": {
+    "leader": "Brice Oligui Nguema",
+    "leaderTitle": "Brice Oligui Nguema",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "GMB": {
+    "leader": "Adama Barrow",
+    "leaderTitle": "Adama Barrow",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "DEU": {
+    "leader": "Friedrich Merz",
+    "leaderTitle": "Friedrich Merz",
+    "leaderRole": "Chancellor",
+    "head": "Frank-Walter Steinmeier",
+    "headTitle": "Frank-Walter Steinmeier",
+    "headRole": "President"
+  },
+  "GHA": {
+    "leader": "John Mahama",
+    "leaderTitle": "John Mahama",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "GRC": {
+    "leader": "Kyriakos Mitsotakis",
+    "leaderTitle": "Kyriakos Mitsotakis",
+    "leaderRole": "Prime Minister",
+    "head": "Konstantinos Tasoulas",
+    "headTitle": "Konstantinos Tasoulas",
+    "headRole": "President"
+  },
+  "GRD": {
+    "leader": "Dickon Mitchell",
+    "leaderTitle": "Dickon Mitchell",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "GTM": {
+    "leader": "Bernardo Arévalo",
+    "leaderTitle": "Bernardo Arévalo",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "GIN": {
+    "leader": "Mamady Doumbouya",
+    "leaderTitle": "Mamady Doumbouya",
+    "leaderRole": "President",
+    "head": "Bah Oury",
+    "headTitle": "Bah Oury",
+    "headRole": "Prime Minister"
+  },
+  "GNB": {
+    "leader": "Ilídio Vieira Té",
+    "leaderTitle": "Ilídio Vieira Té",
+    "leaderRole": "Prime Minister",
+    "head": "Horta Inta-A Na Man",
+    "headTitle": "Horta Inta-A Na Man",
+    "headRole": "Chief of the High Command"
+  },
+  "GUY": {
+    "leader": "Irfaan Ali",
+    "leaderTitle": "Irfaan Ali",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "HTI": {
+    "leader": "Alix Didier Fils-Aimé",
+    "leaderTitle": "Alix Didier Fils-Aimé",
+    "leaderRole": "Prime Minister",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "HND": {
+    "leader": "Nasry Asfura",
+    "leaderTitle": "Nasry Asfura",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "HUN": {
+    "leader": "Péter Magyar",
+    "leaderTitle": "Péter Magyar",
+    "leaderRole": "Prime Minister",
+    "head": "András Baka",
+    "headTitle": "András Baka",
+    "headRole": "President"
+  },
+  "ISL": {
+    "leader": "Kristrún Frostadóttir",
+    "leaderTitle": "Kristrún Frostadóttir",
+    "leaderRole": "Prime Minister",
+    "head": "Halla Tómasdóttir",
+    "headTitle": "Halla Tómasdóttir",
+    "headRole": "President"
+  },
+  "IND": {
+    "leader": "Narendra Modi",
+    "leaderTitle": "Narendra Modi",
+    "leaderRole": "Prime Minister",
+    "head": "Droupadi Murmu",
+    "headTitle": "Droupadi Murmu",
+    "headRole": "President"
+  },
+  "IDN": {
+    "leader": "Prabowo Subianto",
+    "leaderTitle": "Prabowo Subianto",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "IRQ": {
+    "leader": "Ali al-Zaidi",
+    "leaderTitle": "Ali al-Zaidi",
+    "leaderRole": "Prime Minister",
+    "head": "Nizar Amidi",
+    "headTitle": "Nizar Amidi",
+    "headRole": "President"
+  },
+  "IRL": {
+    "leader": "Micheál Martin",
+    "leaderTitle": "Micheál Martin",
+    "leaderRole": "Taoiseach",
+    "head": "Catherine Connolly",
+    "headTitle": "Catherine Connolly",
+    "headRole": "President"
+  },
+  "ISR": {
+    "leader": "Benjamin Netanyahu",
+    "leaderTitle": "Benjamin Netanyahu",
+    "leaderRole": "Prime Minister",
+    "head": "Isaac Herzog",
+    "headTitle": "Isaac Herzog",
+    "headRole": "President"
+  },
+  "ITA": {
+    "leader": "Giorgia Meloni",
+    "leaderTitle": "Giorgia Meloni",
+    "leaderRole": "Prime Minister",
+    "head": "Sergio Mattarella",
+    "headTitle": "Sergio Mattarella",
+    "headRole": "President"
+  },
+  "CIV": {
+    "leader": "Alassane Ouattara",
+    "leaderTitle": "Alassane Ouattara",
+    "leaderRole": "President",
+    "head": "Robert Beugré Mambé",
+    "headTitle": "Robert Beugré Mambé",
+    "headRole": "Prime Minister"
+  },
+  "JAM": {
+    "leader": "Andrew Holness",
+    "leaderTitle": "Andrew Holness",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "JPN": {
+    "leader": "Sanae Takaichi",
+    "leaderTitle": "Sanae Takaichi",
+    "leaderRole": "Prime Minister",
+    "head": "Naruhito",
+    "headTitle": "Naruhito",
+    "headRole": "Emperor"
+  },
+  "JOR": {
+    "leader": "Abdullah II",
+    "leaderTitle": "Abdullah II",
+    "leaderRole": "King",
+    "head": "Jafar Hassan",
+    "headTitle": "Jafar Hassan",
+    "headRole": "Prime Minister"
+  },
+  "KAZ": {
+    "leader": "Kassym-Jomart Tokayev",
+    "leaderTitle": "Kassym-Jomart Tokayev",
+    "leaderRole": "President",
+    "head": "Oljas Bektenov",
+    "headTitle": "Oljas Bektenov",
+    "headRole": "Prime Minister"
+  },
+  "KEN": {
+    "leader": "William Ruto",
+    "leaderTitle": "William Ruto",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "KIR": {
+    "leader": "Taneti Maamau",
+    "leaderTitle": "Taneti Maamau",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "KWT": {
+    "leader": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+    "leaderTitle": "Mishal Al-Ahmad Al-Jaber Al-Sabah",
+    "leaderRole": "Emir",
+    "head": "Ahmad Al-Abdullah Al-Sabah",
+    "headTitle": "Ahmad Al-Abdullah Al-Sabah",
+    "headRole": "Prime Minister"
+  },
+  "KGZ": {
+    "leader": "Sadyr Japarov",
+    "leaderTitle": "Sadyr Japarov",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "LAO": {
+    "leader": "Saleumxay Kommasith",
+    "leaderTitle": "Saleumxay Kommasith",
+    "leaderRole": "Prime Minister",
+    "head": "Thongloun Sisoulith",
+    "headTitle": "Thongloun Sisoulith",
+    "headRole": "General Secretary of the People's Revolutionary Party"
+  },
+  "LVA": {
+    "leader": "Andris Kulbergs",
+    "leaderTitle": "Andris Kulbergs",
+    "leaderRole": "Prime Minister",
+    "head": "Edgars Rinkēvičs",
+    "headTitle": "Edgars Rinkēvičs",
+    "headRole": "President"
+  },
+  "LBN": {
+    "leader": "Nawaf Salam",
+    "leaderTitle": "Nawaf Salam",
+    "leaderRole": "Prime Minister",
+    "head": "Joseph Aoun",
+    "headTitle": "Joseph Aoun",
+    "headRole": "President"
+  },
+  "LSO": {
+    "leader": "Sam Matekane",
+    "leaderTitle": "Sam Matekane",
+    "leaderRole": "Prime Minister",
+    "head": "Letsie III",
+    "headTitle": "Letsie III",
+    "headRole": "King"
+  },
+  "LBR": {
+    "leader": "Joseph Boakai",
+    "leaderTitle": "Joseph Boakai",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "LBY": {
+    "leader": "Abdul Hamid Dbeibeh",
+    "leaderTitle": "Abdul Hamid Dbeibeh",
+    "leaderRole": "Prime Minister",
+    "head": "Mohamed al-Menfi",
+    "headTitle": "Mohamed al-Menfi",
+    "headRole": "Presidential Council"
+  },
+  "LIE": {
+    "leader": "Hans-Adam II",
+    "leaderTitle": "Hans-Adam II",
+    "leaderRole": "Prince",
+    "head": "Brigitte Haas",
+    "headTitle": "Brigitte Haas",
+    "headRole": "Prime Minister"
+  },
+  "LTU": {
+    "leader": "Gitanas Nausėda",
+    "leaderTitle": "Gitanas Nausėda",
+    "leaderRole": "President",
+    "head": "Mindaugas Sinkevičius",
+    "headTitle": "Mindaugas Sinkevičius",
+    "headRole": "Prime Minister"
+  },
+  "LUX": {
+    "leader": "Luc Frieden",
+    "leaderTitle": "Luc Frieden",
+    "leaderRole": "Prime Minister",
+    "head": "Guillaume V",
+    "headTitle": "Guillaume V of Luxembourg",
+    "headRole": "Grand Duke"
+  },
+  "MDG": {
+    "leader": "Mamitiana Rajaonarison",
+    "leaderTitle": "Mamitiana Rajaonarison",
+    "leaderRole": "Prime Minister",
+    "head": "Michael Randrianirina",
+    "headTitle": "Michael Randrianirina",
+    "headRole": "Council of the Presidency for the Re-Foundation of the Republic"
+  },
+  "MWI": {
+    "leader": "Peter Mutharika",
+    "leaderTitle": "Peter Mutharika",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "MYS": {
+    "leader": "Anwar Ibrahim",
+    "leaderTitle": "Anwar Ibrahim",
+    "leaderRole": "Prime Minister",
+    "head": "Ibrahim Iskandar",
+    "headTitle": "Ibrahim Iskandar",
+    "headRole": "King"
+  },
+  "MDV": {
+    "leader": "Mohamed Muizzu",
+    "leaderTitle": "Mohamed Muizzu",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "MLI": {
+    "leader": "Assimi Goïta",
+    "leaderTitle": "Assimi Goïta",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "MLT": {
+    "leader": "Robert Abela",
+    "leaderTitle": "Robert Abela",
+    "leaderRole": "Prime Minister",
+    "head": "Myriam Spiteri Debono",
+    "headTitle": "Myriam Spiteri Debono",
+    "headRole": "President"
+  },
+  "MHL": {
+    "leader": "Hilda Heine",
+    "leaderTitle": "Hilda Heine",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "MRT": {
+    "leader": "Mohamed Ould Ghazouani",
+    "leaderTitle": "Mohamed Ould Ghazouani",
+    "leaderRole": "President",
+    "head": "Mokhtar Ould Djay",
+    "headTitle": "Mokhtar Ould Djay",
+    "headRole": "Prime Minister"
+  },
+  "MUS": {
+    "leader": "Navin Ramgoolam",
+    "leaderTitle": "Navin Ramgoolam",
+    "leaderRole": "Prime Minister",
+    "head": "Dharam Gokhool",
+    "headTitle": "Dharam Gokhool",
+    "headRole": "President"
+  },
+  "MEX": {
+    "leader": "Claudia Sheinbaum",
+    "leaderTitle": "Claudia Sheinbaum",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "FSM": {
+    "leader": "Wesley Simina",
+    "leaderTitle": "Wesley Simina",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "MDA": {
+    "leader": "Vasile Tofan",
+    "leaderTitle": "Vasile Tofan",
+    "leaderRole": "Prime Minister",
+    "head": "Maia Sandu",
+    "headTitle": "Maia Sandu",
+    "headRole": "President"
+  },
+  "MCO": {
+    "leader": "Albert II",
+    "leaderTitle": "Albert II of Monaco",
+    "leaderRole": "Sovereign Prince",
+    "head": "Christophe Mirmand",
+    "headTitle": "Christophe Mirmand",
+    "headRole": "Minister of State"
+  },
+  "MNG": {
+    "leader": "Nyam-Osoryn Uchral",
+    "leaderTitle": "Nyam-Osoryn Uchral",
+    "leaderRole": "Prime Minister",
+    "head": "Ukhnaagiin Khürelsükh",
+    "headTitle": "Ukhnaagiin Khürelsükh",
+    "headRole": "President"
+  },
+  "MNE": {
+    "leader": "Milojko Spajić",
+    "leaderTitle": "Milojko Spajić",
+    "leaderRole": "Prime Minister",
+    "head": "Jakov Milatović",
+    "headTitle": "Jakov Milatović",
+    "headRole": "President"
+  },
+  "MAR": {
+    "leader": "Mohammed VI",
+    "leaderTitle": "Mohammed VI of Morocco",
+    "leaderRole": "King",
+    "head": "Fatima Ezzahra El Mansouri",
+    "headTitle": "Fatima Ezzahra El Mansouri",
+    "headRole": "Prime Minister"
+  },
+  "MOZ": {
+    "leader": "Daniel Chapo",
+    "leaderTitle": "Daniel Chapo",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "MMR": {
+    "leader": "Min Aung Hlaing",
+    "leaderTitle": "Min Aung Hlaing",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "NAM": {
+    "leader": "Netumbo Nandi-Ndaitwah",
+    "leaderTitle": "Netumbo Nandi-Ndaitwah",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "NRU": {
+    "leader": "David Adeang",
+    "leaderTitle": "David Adeang",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "NPL": {
+    "leader": "Balen Shah",
+    "leaderTitle": "Balen Shah",
+    "leaderRole": "Prime Minister",
+    "head": "Ram Chandra Paudel",
+    "headTitle": "Ram Chandra Paudel",
+    "headRole": "President"
+  },
+  "NZL": {
+    "leader": "Christopher Luxon",
+    "leaderTitle": "Christopher Luxon",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "NIC": {
+    "leader": "Daniel Ortega",
+    "leaderTitle": "Daniel Ortega",
+    "leaderRole": "Co-Presidents",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "NER": {
+    "leader": "Ali Lamine Zeine",
+    "leaderTitle": "Ali Lamine Zeine",
+    "leaderRole": "Prime Minister",
+    "head": "Abdourahamane Tiani",
+    "headTitle": "Abdourahamane Tiani",
+    "headRole": "National Council for the Safeguard of the Homeland"
+  },
+  "NGA": {
+    "leader": "Bola Tinubu",
+    "leaderTitle": "Bola Tinubu",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "PRK": {
+    "leader": "Pak Thae-song",
+    "leaderTitle": "Pak Thae-song",
+    "leaderRole": "Premier",
+    "head": "Kim Jong Un",
+    "headTitle": "Kim Jong Un",
+    "headRole": "General Secretary of the Workers' Party"
+  },
+  "MKD": {
+    "leader": "Hristijan Mickoski",
+    "leaderTitle": "Hristijan Mickoski",
+    "leaderRole": "Prime Minister",
+    "head": "Gordana Siljanovska-Davkova",
+    "headTitle": "Gordana Siljanovska-Davkova",
+    "headRole": "President"
+  },
+  "NOR": {
+    "leader": "Jonas Gahr Støre",
+    "leaderTitle": "Jonas Gahr Støre",
+    "leaderRole": "Prime Minister",
+    "head": "Haakon VIII",
+    "headTitle": "Haakon VIII",
+    "headRole": "King"
+  },
+  "OMN": {
+    "leader": "Haitham bin Tariq",
+    "leaderTitle": "Haitham bin Tariq",
+    "leaderRole": "Sultan",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "PAK": {
+    "leader": "Shehbaz Sharif",
+    "leaderTitle": "Shehbaz Sharif",
+    "leaderRole": "Prime Minister",
+    "head": "Asif Ali Zardari",
+    "headTitle": "Asif Ali Zardari",
+    "headRole": "President"
+  },
+  "PLW": {
+    "leader": "Surangel Whipps Jr.",
+    "leaderTitle": "Surangel Whipps Jr.",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "PSE": {
+    "leader": "Mahmoud Abbas",
+    "leaderTitle": "Mahmoud Abbas",
+    "leaderRole": "President",
+    "head": "Mohammad Mustafa",
+    "headTitle": "Mohammad Mustafa (politician)",
+    "headRole": "Prime Minister"
+  },
+  "PAN": {
+    "leader": "José Raúl Mulino",
+    "leaderTitle": "José Raúl Mulino",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "PNG": {
+    "leader": "James Marape",
+    "leaderTitle": "James Marape",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "PRY": {
+    "leader": "Santiago Peña",
+    "leaderTitle": "Santiago Peña",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "PER": {
+    "leader": "Keiko Fujimori",
+    "leaderTitle": "Keiko Fujimori",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "PHL": {
+    "leader": "Bongbong Marcos",
+    "leaderTitle": "Bongbong Marcos",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "POL": {
+    "leader": "Donald Tusk",
+    "leaderTitle": "Donald Tusk",
+    "leaderRole": "Prime Minister",
+    "head": "Karol Nawrocki",
+    "headTitle": "Karol Nawrocki",
+    "headRole": "President"
+  },
+  "PRT": {
+    "leader": "Luís Montenegro",
+    "leaderTitle": "Luís Montenegro",
+    "leaderRole": "Prime Minister",
+    "head": "António José Seguro",
+    "headTitle": "António José Seguro",
+    "headRole": "President"
+  },
+  "QAT": {
+    "leader": "Tamim bin Hamad Al Thani",
+    "leaderTitle": "Tamim bin Hamad Al Thani",
+    "leaderRole": "Emir",
+    "head": "Mohammed bin Abdulrahman bin Jassim Al Thani",
+    "headTitle": "Mohammed bin Abdulrahman bin Jassim Al Thani",
+    "headRole": "Prime Minister"
+  },
+  "ROU": {
+    "leader": "Luca Niculescu",
+    "leaderTitle": "Luca Niculescu",
+    "leaderRole": "Prime Minister",
+    "head": "Nicușor Dan",
+    "headTitle": "Nicușor Dan",
+    "headRole": "President"
+  },
+  "RUS": {
+    "leader": "Vladimir Putin",
+    "leaderTitle": "Vladimir Putin",
+    "leaderRole": "President",
+    "head": "Mikhail Mishustin",
+    "headTitle": "Mikhail Mishustin",
+    "headRole": "Prime Minister"
+  },
+  "RWA": {
+    "leader": "Paul Kagame",
+    "leaderTitle": "Paul Kagame",
+    "leaderRole": "President",
+    "head": "Justin Nsengiyumva",
+    "headTitle": "Justin Nsengiyumva",
+    "headRole": "Prime Minister"
+  },
+  "KNA": {
+    "leader": "Terrance Drew",
+    "leaderTitle": "Terrance Drew",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "LCA": {
+    "leader": "Philip J. Pierre",
+    "leaderTitle": "Philip J. Pierre",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "VCT": {
+    "leader": "Godwin Friday",
+    "leaderTitle": "Godwin Friday",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "WSM": {
+    "leader": "Laʻauli Leuatea Schmidt",
+    "leaderTitle": "Laʻauli Leuatea Schmidt",
+    "leaderRole": "Prime Minister",
+    "head": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+    "headTitle": "Tuimalealiʻifano Vaʻaletoʻa Sualauvi II",
+    "headRole": "O le Ao o le Malo"
+  },
+  "STP": {
+    "leader": "Américo Ramos",
+    "leaderTitle": "Américo Ramos",
+    "leaderRole": "Prime Minister",
+    "head": "Carlos Vila Nova",
+    "headTitle": "Carlos Vila Nova",
+    "headRole": "President"
+  },
+  "SAU": {
+    "leader": "Salman",
+    "leaderTitle": "Salman of Saudi Arabia",
+    "leaderRole": "King",
+    "head": "Mohammed bin Salman",
+    "headTitle": "Mohammed bin Salman",
+    "headRole": "Crown Prince"
+  },
+  "SEN": {
+    "leader": "Bassirou Diomaye Faye",
+    "leaderTitle": "Bassirou Diomaye Faye",
+    "leaderRole": "President",
+    "head": "Ahmadou Al Aminou Lo",
+    "headTitle": "Ahmadou Al Aminou Lo",
+    "headRole": "Prime Minister"
+  },
+  "SRB": {
+    "leader": "Đuro Macut",
+    "leaderTitle": "Đuro Macut",
+    "leaderRole": "Prime Minister",
+    "head": "Aleksandar Vučić",
+    "headTitle": "Aleksandar Vučić",
+    "headRole": "President of Serbia"
+  },
+  "SYC": {
+    "leader": "Patrick Herminie",
+    "leaderTitle": "Patrick Herminie",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "SLE": {
+    "leader": "Julius Maada Bio",
+    "leaderTitle": "Julius Maada Bio",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "SGP": {
+    "leader": "Lawrence Wong",
+    "leaderTitle": "Lawrence Wong",
+    "leaderRole": "Prime Minister",
+    "head": "Tharman Shanmugaratnam",
+    "headTitle": "Tharman Shanmugaratnam",
+    "headRole": "President"
+  },
+  "SVK": {
+    "leader": "Robert Fico",
+    "leaderTitle": "Robert Fico",
+    "leaderRole": "Prime Minister",
+    "head": "Peter Pellegrini",
+    "headTitle": "Peter Pellegrini",
+    "headRole": "President"
+  },
+  "SVN": {
+    "leader": "Janez Janša",
+    "leaderTitle": "Janez Janša",
+    "leaderRole": "Prime Minister",
+    "head": "Nataša Pirc Musar",
+    "headTitle": "Nataša Pirc Musar",
+    "headRole": "President"
+  },
+  "SLB": {
+    "leader": "Matthew Wale",
+    "leaderTitle": "Matthew Wale",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "SOM": {
+    "leader": "Hamza Abdi Barre",
+    "leaderTitle": "Hamza Abdi Barre",
+    "leaderRole": "Prime Minister",
+    "head": "Hassan Sheikh Mohamud",
+    "headTitle": "Hassan Sheikh Mohamud",
+    "headRole": "President"
+  },
+  "ZAF": {
+    "leader": "Cyril Ramaphosa",
+    "leaderTitle": "Cyril Ramaphosa",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "KOR": {
+    "leader": "Lee Jae Myung",
+    "leaderTitle": "Lee Jae Myung",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "SSD": {
+    "leader": "Salva Kiir",
+    "leaderTitle": "Salva Kiir",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "ESP": {
+    "leader": "Pedro Sánchez",
+    "leaderTitle": "Pedro Sánchez",
+    "leaderRole": "Prime Minister",
+    "head": "Felipe VI",
+    "headTitle": "Felipe VI",
+    "headRole": "King"
+  },
+  "LKA": {
+    "leader": "Anura Kumara Dissanayake",
+    "leaderTitle": "Anura Kumara Dissanayake",
+    "leaderRole": "President",
+    "head": "Kamil Idris",
+    "headTitle": "Kamil Idris",
+    "headRole": "Prime Minister"
+  },
+  "SUR": {
+    "leader": "Jennifer Geerlings-Simons",
+    "leaderTitle": "Jennifer Geerlings-Simons",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "SWE": {
+    "leader": "Ulf Kristersson",
+    "leaderTitle": "Ulf Kristersson",
+    "leaderRole": "Prime Minister",
+    "head": "Carl XVI Gustaf",
+    "headTitle": "Carl XVI Gustaf",
+    "headRole": "King"
+  },
+  "SYR": {
+    "leader": "Ahmed al-Sharaa",
+    "leaderTitle": "Ahmed al-Sharaa",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "TJK": {
+    "leader": "Emomali Rahmon",
+    "leaderTitle": "Emomali Rahmon",
+    "leaderRole": "President",
+    "head": "Qohir Rasulzoda",
+    "headTitle": "Qohir Rasulzoda",
+    "headRole": "Prime Minister"
+  },
+  "TZA": {
+    "leader": "Samia Suluhu Hassan",
+    "leaderTitle": "Samia Suluhu Hassan",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "THA": {
+    "leader": "Anutin Charnvirakul",
+    "leaderTitle": "Anutin Charnvirakul",
+    "leaderRole": "Prime Minister",
+    "head": "Vajiralongkorn",
+    "headTitle": "Vajiralongkorn",
+    "headRole": "King"
+  },
+  "TLS": {
+    "leader": "Xanana Gusmão",
+    "leaderTitle": "Xanana Gusmão",
+    "leaderRole": "Prime Minister",
+    "head": "José Ramos-Horta",
+    "headTitle": "José Ramos-Horta",
+    "headRole": "President"
+  },
+  "TGO": {
+    "leader": "Faure Gnassingbé",
+    "leaderTitle": "Faure Gnassingbé",
+    "leaderRole": "Prime Minister",
+    "head": "Jean-Lucien Savi de Tové",
+    "headTitle": "Jean-Lucien Savi de Tové",
+    "headRole": "President"
+  },
+  "TON": {
+    "leader": "Fatafehi Fakafānua",
+    "leaderTitle": "Fatafehi Fakafānua",
+    "leaderRole": "Prime Minister",
+    "head": "Tupou VI",
+    "headTitle": "Tupou VI",
+    "headRole": "King"
+  },
+  "TTO": {
+    "leader": "Kamla Persad-Bissessar",
+    "leaderTitle": "Kamla Persad-Bissessar",
+    "leaderRole": "Prime Minister",
+    "head": "Christine Kangaloo",
+    "headTitle": "Christine Kangaloo",
+    "headRole": "President"
+  },
+  "TUN": {
+    "leader": "Kais Saied",
+    "leaderTitle": "Kais Saied",
+    "leaderRole": "President",
+    "head": "Sara Zaafarani",
+    "headTitle": "Sara Zaafarani",
+    "headRole": "Prime Minister"
+  },
+  "TUR": {
+    "leader": "Recep Tayyip Erdoğan",
+    "leaderTitle": "Recep Tayyip Erdoğan",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "TKM": {
+    "leader": "Serdar Berdimuhamedow",
+    "leaderTitle": "Serdar Berdimuhamedow",
+    "leaderRole": "President",
+    "head": "Gurbanguly Berdimuhamedow",
+    "headTitle": "Gurbanguly Berdimuhamedow",
+    "headRole": "People's Council"
+  },
+  "TUV": {
+    "leader": "Feleti Teo",
+    "leaderTitle": "Feleti Teo",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "UGA": {
+    "leader": "Yoweri Museveni",
+    "leaderTitle": "Yoweri Museveni",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "UKR": {
+    "leader": "Volodymyr Zelenskyy",
+    "leaderTitle": "Volodymyr Zelenskyy",
+    "leaderRole": "President",
+    "head": "Serhii Koretskyi",
+    "headTitle": "Serhii Koretskyi",
+    "headRole": "Prime Minister"
+  },
+  "ARE": {
+    "leader": "Mohamed bin Zayed Al Nahyan",
+    "leaderTitle": "Mohamed bin Zayed Al Nahyan",
+    "leaderRole": "President",
+    "head": "Mohammed bin Rashid Al Maktoum",
+    "headTitle": "Mohammed bin Rashid Al Maktoum",
+    "headRole": "Prime Minister"
+  },
+  "GBR": {
+    "leader": "Andy Burnham",
+    "leaderTitle": "Andy Burnham",
+    "leaderRole": "Prime Minister",
+    "head": "Charles III",
+    "headTitle": "Charles III",
+    "headRole": "King"
+  },
+  "USA": {
+    "leader": "Donald Trump",
+    "leaderTitle": "Donald Trump",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "URY": {
+    "leader": "Yamandú Orsi",
+    "leaderTitle": "Yamandú Orsi",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "UZB": {
+    "leader": "Shavkat Mirziyoyev",
+    "leaderTitle": "Shavkat Mirziyoyev",
+    "leaderRole": "President",
+    "head": "Abdulla Aripov",
+    "headTitle": "Abdulla Aripov",
+    "headRole": "Prime Minister"
+  },
+  "VUT": {
+    "leader": "Jotham Napat",
+    "leaderTitle": "Jotham Napat",
+    "leaderRole": "Prime Minister",
+    "head": "Nikenike Vurobaravu",
+    "headTitle": "Nikenike Vurobaravu",
+    "headRole": "President"
+  },
+  "VAT": {
+    "leader": "Leo XIV",
+    "leaderTitle": "Leo XIV",
+    "leaderRole": "Pope",
+    "head": "Raffaella Petrini",
+    "headTitle": "Raffaella Petrini",
+    "headRole": "President of the Governorate"
+  },
+  "VEN": {
+    "leader": "Nicolás Maduro",
+    "leaderTitle": "Nicolás Maduro",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "VNM": {
+    "leader": "Lê Minh Hưng",
+    "leaderTitle": "Lê Minh Hưng",
+    "leaderRole": "Prime Minister",
+    "head": "Tô Lâm",
+    "headTitle": "Tô Lâm",
+    "headRole": "General Secretary of the Communist Party"
+  },
+  "YEM": {
+    "leader": "Rashad al-Alimi",
+    "leaderTitle": "Rashad al-Alimi",
+    "leaderRole": "President of the Presidential Leadership Council",
+    "head": "Shaya al-Zindani",
+    "headTitle": "Shaya al-Zindani",
+    "headRole": "Prime Minister"
+  },
+  "ZMB": {
+    "leader": "Hakainde Hichilema",
+    "leaderTitle": "Hakainde Hichilema",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "ZWE": {
+    "leader": "Emmerson Mnangagwa",
+    "leaderTitle": "Emmerson Mnangagwa",
+    "leaderRole": "President",
+    "head": "",
+    "headTitle": "",
+    "headRole": ""
+  },
+  "XKX": {
+    "leader": "Albin Kurti",
+    "leaderTitle": "Albin Kurti",
+    "leaderRole": "Prime Minister",
+    "head": "Justina Shiroka Pula",
+    "headTitle": "Justina Shiroka Pula",
+    "headRole": "President"
+  },
+  "TWN": {
+    "leader": "Lai Ching-te",
+    "leaderTitle": "Lai Ching-te",
+    "leaderRole": "President",
+    "head": "Cho Jung-tai",
+    "headTitle": "Cho Jung-tai",
+    "headRole": "Premier"
+  }
+}

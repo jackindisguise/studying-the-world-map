@@ -1,0 +1,226 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1009",
+    "iso": "CMR",
+    "s": "http://www.wikidata.org/entity/statement/q1009-57012C54-2B95-4C5B-AEA6-A641FD29732A",
+    "v": "http://www.wikidata.org/entity/Q3808",
+    "vLabel": "Yaoundé"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q155",
+    "iso": "BRA",
+    "s": "http://www.wikidata.org/entity/statement/q155-14A8A9D4-F7D1-4B46-BB83-C015F95E7DF3",
+    "v": "http://www.wikidata.org/entity/Q2844",
+    "vLabel": "Brasília"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "s": "http://www.wikidata.org/entity/statement/q184-FCF06549-3FAA-4821-A5D4-C8E78D7B9F8D",
+    "v": "http://www.wikidata.org/entity/Q2280",
+    "vLabel": "Minsk"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219",
+    "iso": "BGR",
+    "s": "http://www.wikidata.org/entity/statement/q219-FFC15420-045E-4E3B-8897-B5F6335C74DE",
+    "v": "http://www.wikidata.org/entity/Q472",
+    "vLabel": "Sofia"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q222",
+    "iso": "ALB",
+    "s": "http://www.wikidata.org/entity/statement/q222-10130659-B24B-4A50-B2B1-5E216B3ED30E",
+    "v": "http://www.wikidata.org/entity/Q19689",
+    "vLabel": "Tirana"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q225",
+    "iso": "BIH",
+    "s": "http://www.wikidata.org/entity/statement/q225-737EEAAB-4BD3-42F5-9154-DF52565D600C",
+    "v": "http://www.wikidata.org/entity/Q11194",
+    "vLabel": "Sarajevo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "s": "http://www.wikidata.org/entity/statement/q227-81474C4E-FA58-46F5-A0F4-11899021CD5D",
+    "v": "http://www.wikidata.org/entity/Q9248",
+    "vLabel": "Baku"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q228",
+    "iso": "AND",
+    "s": "http://www.wikidata.org/entity/statement/q228-A8889A59-D4C7-43CF-94B8-7CF28057A968",
+    "v": "http://www.wikidata.org/entity/Q1863",
+    "vLabel": "Andorra la Vella"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q242",
+    "iso": "BLZ",
+    "s": "http://www.wikidata.org/entity/statement/q242-3750BFAD-54C1-4A4F-9E82-15444CB766FF",
+    "v": "http://www.wikidata.org/entity/Q3043",
+    "vLabel": "Belmopan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q244",
+    "iso": "BRB",
+    "s": "http://www.wikidata.org/entity/statement/q244-BCE9E26D-BDC4-4D1D-A456-6FA6445CFC5C",
+    "v": "http://www.wikidata.org/entity/Q36168",
+    "vLabel": "Bridgetown"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q262",
+    "iso": "DZA",
+    "s": "http://www.wikidata.org/entity/statement/q262-6497AEEC-6E95-4A0D-9EF8-6057EBB1A001",
+    "v": "http://www.wikidata.org/entity/Q3561",
+    "vLabel": "Algiers"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "s": "http://www.wikidata.org/entity/statement/q31-9B8AB21C-B781-48FC-B5BB-32056C1B7C06",
+    "v": "http://www.wikidata.org/entity/Q239",
+    "vLabel": "Brussels"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q398",
+    "iso": "BHR",
+    "s": "http://www.wikidata.org/entity/statement/q398-F8784405-50CE-44C5-AD75-C075F7556FFC",
+    "v": "http://www.wikidata.org/entity/Q3882",
+    "vLabel": "Manama"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "s": "http://www.wikidata.org/entity/statement/q399-C446B83C-C33B-4492-BABA-A2C17BFACEB9",
+    "v": "http://www.wikidata.org/entity/Q1953",
+    "vLabel": "Yerevan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q408",
+    "iso": "AUS",
+    "s": "http://www.wikidata.org/entity/statement/q408-0A27874B-64AE-4798-A26A-1CC6011516BF",
+    "v": "http://www.wikidata.org/entity/Q3114",
+    "vLabel": "Canberra"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "s": "http://www.wikidata.org/entity/statement/q40-5FCB125A-CAA5-4351-82AD-4ABD595E7A98",
+    "v": "http://www.wikidata.org/entity/Q1741",
+    "vLabel": "Vienna"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q414",
+    "iso": "ARG",
+    "s": "http://www.wikidata.org/entity/statement/q414-2CE9BB47-00C8-42FB-B226-ED8BF814C226",
+    "v": "http://www.wikidata.org/entity/Q1486",
+    "vLabel": "Buenos Aires"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q424",
+    "iso": "KHM",
+    "s": "http://www.wikidata.org/entity/statement/q424-BEF17195-D826-44DB-81DA-201F1F1BF158",
+    "v": "http://www.wikidata.org/entity/Q1850",
+    "vLabel": "Phnom Penh"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "s": "http://www.wikidata.org/entity/statement/Q750-2df55a60-4400-a0c9-f2a5-9fda7656a114",
+    "v": "http://www.wikidata.org/entity/Q1491",
+    "vLabel": "La Paz"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "s": "http://www.wikidata.org/entity/statement/Q750-7a026b7b-463f-c9b1-91c7-cb3112f7b02c",
+    "v": "http://www.wikidata.org/entity/Q2907",
+    "vLabel": "Sucre"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q778",
+    "iso": "BHS",
+    "s": "http://www.wikidata.org/entity/statement/q778-52E8E3FE-40BE-4408-855F-8C1284E702B0",
+    "v": "http://www.wikidata.org/entity/Q2467",
+    "vLabel": "Nassau"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q781",
+    "iso": "ATG",
+    "s": "http://www.wikidata.org/entity/statement/q781-E19ECD89-9864-41E2-92C2-693DD93B45BE",
+    "v": "http://www.wikidata.org/entity/Q36262",
+    "vLabel": "Q36262"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "s": "http://www.wikidata.org/entity/statement/q889-25D5F4DB-CDE3-42A9-952A-40CC30612CBD",
+    "v": "http://www.wikidata.org/entity/Q5838",
+    "vLabel": "Kabul"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q902",
+    "iso": "BGD",
+    "s": "http://www.wikidata.org/entity/statement/q902-A0593D51-34DF-4979-91F0-021C2ED25F2A",
+    "v": "http://www.wikidata.org/entity/Q1354",
+    "vLabel": "Dhaka"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "s": "http://www.wikidata.org/entity/statement/q916-6B20E52E-F10E-42C9-9667-2AD6F0E671F3",
+    "v": "http://www.wikidata.org/entity/Q3897",
+    "vLabel": "Luanda"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q917",
+    "iso": "BTN",
+    "s": "http://www.wikidata.org/entity/statement/q917-72A29554-0F5A-405C-A1AD-D5B63F6E38E1",
+    "v": "http://www.wikidata.org/entity/Q9270",
+    "vLabel": "Thimphu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "s": "http://www.wikidata.org/entity/statement/q921-C26BC80E-F64C-4E25-92AB-627100323661",
+    "v": "http://www.wikidata.org/entity/Q9279",
+    "vLabel": "Bandar Seri Begawan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q962",
+    "iso": "BEN",
+    "s": "http://www.wikidata.org/entity/statement/Q962-bc6e9129-4e10-ad0d-6bcb-dc04e1829e31",
+    "v": "http://www.wikidata.org/entity/Q43595",
+    "vLabel": "Cotonou"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q962",
+    "iso": "BEN",
+    "s": "http://www.wikidata.org/entity/statement/q962-DB0BD0C0-AAEB-4C1F-8D09-627F0C0C1F24",
+    "v": "http://www.wikidata.org/entity/Q3799",
+    "vLabel": "Porto-Novo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q963",
+    "iso": "BWA",
+    "s": "http://www.wikidata.org/entity/statement/q963-28494A0B-6028-4D54-9230-5AA7A356EBC9",
+    "v": "http://www.wikidata.org/entity/Q3919",
+    "vLabel": "Gaborone"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "s": "http://www.wikidata.org/entity/statement/q965-E4F0DFE9-0DE5-4FF5-B91B-803E42240126",
+    "v": "http://www.wikidata.org/entity/Q3777",
+    "vLabel": "Ouagadougou"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "s": "http://www.wikidata.org/entity/statement/Q967-f5631766-4600-3619-68e8-f71c406a8c95",
+    "v": "http://www.wikidata.org/entity/Q167551",
+    "vLabel": "Gitega"
+  }
+]

@@ -1,0 +1,257 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q16",
+    "iso": "CAN",
+    "v": "2206764000000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q33",
+    "iso": "FIN",
+    "v": "280825957768"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q33",
+    "iso": "FIN",
+    "v": "296387625264"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q35",
+    "iso": "DNK",
+    "v": "395403906582"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q35",
+    "iso": "DNK",
+    "v": "398303272764"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q79",
+    "iso": "EGY",
+    "v": "424671765456"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q79",
+    "iso": "EGY",
+    "v": "476747720365"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q115",
+    "iso": "ETH",
+    "v": "111261882913"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q115",
+    "iso": "ETH",
+    "v": "126783472501"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q142",
+    "iso": "FRA",
+    "v": "2782905325625"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q148",
+    "iso": "CHN",
+    "v": "17820459342451"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q148",
+    "iso": "CHN",
+    "v": "17963170521080"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q191",
+    "iso": "EST",
+    "v": "38100812959"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q213",
+    "iso": "CZE",
+    "v": "250681000000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q224",
+    "iso": "HRV",
+    "v": "70964606465"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "v": "28408064462"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "v": "28439052741"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q298",
+    "iso": "CHL",
+    "v": "301025249438"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q298",
+    "iso": "CHL",
+    "v": "316713577509"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q657",
+    "iso": "TCD",
+    "v": "11779981332"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q657",
+    "iso": "TCD",
+    "v": "12704149842"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "v": "4296235428"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "v": "4943248200"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "v": "106165866000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "v": "115049476000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q739",
+    "iso": "COL",
+    "v": "318511813577"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q739",
+    "iso": "COL",
+    "v": "343939445259"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q784",
+    "iso": "DMA",
+    "v": "555266667"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q784",
+    "iso": "DMA",
+    "v": "612048148"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q786",
+    "iso": "DOM",
+    "v": "94243426487"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q786",
+    "iso": "DOM",
+    "v": "113641857434"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q792",
+    "iso": "SLV",
+    "v": "29451240000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q792",
+    "iso": "SLV",
+    "v": "32488720000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q800",
+    "iso": "CRI",
+    "v": "64616482168"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q800",
+    "iso": "CRI",
+    "v": "68380838316"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q929",
+    "iso": "CAF",
+    "v": "2382618615"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q929",
+    "iso": "CAF",
+    "v": "2516498412"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q970",
+    "iso": "COM",
+    "v": "1242519407"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q970",
+    "iso": "COM",
+    "v": "1296089479"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q974",
+    "iso": "COD",
+    "v": "58065953573"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q977",
+    "iso": "DJI",
+    "v": "3372287462"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q977",
+    "iso": "DJI",
+    "v": "3515109075"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q983",
+    "iso": "GNQ",
+    "v": "11813908448"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q983",
+    "iso": "GNQ",
+    "v": "12269393392"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1000",
+    "iso": "GAB",
+    "v": "19388402.54"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1000",
+    "iso": "GAB",
+    "v": "141468977"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1000",
+    "iso": "GAB",
+    "v": "4800000000"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1011",
+    "iso": "CPV",
+    "v": "2091741774"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1011",
+    "iso": "CPV",
+    "v": "2314816792"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1050",
+    "iso": "SWZ",
+    "v": "4748702401"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1050",
+    "iso": "SWZ",
+    "v": "4854167638"
+  }
+]

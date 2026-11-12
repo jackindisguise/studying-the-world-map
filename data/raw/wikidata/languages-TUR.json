@@ -1,0 +1,248 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "http://www.wikidata.org/entity/Q28427",
+    "vLabel": "Carolinian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "http://www.wikidata.org/entity/Q33262",
+    "vLabel": "Chamorro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "http://www.wikidata.org/entity/Q33569",
+    "vLabel": "Hawaiian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "v": "http://www.wikidata.org/entity/Q34011",
+    "vLabel": "Samoan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "v": "http://www.wikidata.org/entity/Q256",
+    "vLabel": "Turkish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q145",
+    "iso": "GBR",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q212",
+    "iso": "UKR",
+    "v": "http://www.wikidata.org/entity/Q8798",
+    "vLabel": "Ukrainian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q237",
+    "iso": "VAT",
+    "v": "http://www.wikidata.org/entity/Q397",
+    "vLabel": "Latin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q237",
+    "iso": "VAT",
+    "v": "http://www.wikidata.org/entity/Q652",
+    "vLabel": "Italian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q265",
+    "iso": "UZB",
+    "v": "http://www.wikidata.org/entity/Q9264",
+    "vLabel": "Uzbek"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q672",
+    "iso": "TUV",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q672",
+    "iso": "TUV",
+    "v": "http://www.wikidata.org/entity/Q34055",
+    "vLabel": "Tuvaluan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "v": "http://www.wikidata.org/entity/Q35452",
+    "vLabel": "Bislama"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q717",
+    "iso": "VEN",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q717",
+    "iso": "VEN",
+    "v": "http://www.wikidata.org/entity/Q3322064",
+    "vLabel": "Venezuelan Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q805",
+    "iso": "YEM",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q874",
+    "iso": "TKM",
+    "v": "http://www.wikidata.org/entity/Q9267",
+    "vLabel": "Turkmen"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q878",
+    "iso": "ARE",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q881",
+    "iso": "VNM",
+    "v": "http://www.wikidata.org/entity/Q9199",
+    "vLabel": "Vietnamese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q953",
+    "iso": "ZMB",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q13218",
+    "vLabel": "Xhosa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q13311",
+    "vLabel": "Ndau"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q32704",
+    "vLabel": "Venda"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q33273",
+    "vLabel": "Chewa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q33614",
+    "vLabel": "Khoisan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q33672",
+    "vLabel": "Kalanga"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q34004",
+    "vLabel": "Shona"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q34101",
+    "vLabel": "Tonga"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q34137",
+    "vLabel": "Tswana"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q34327",
+    "vLabel": "Tsonga"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q34340",
+    "vLabel": "Sesotho"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q35613",
+    "vLabel": "Northern Ndebele"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q3553981",
+    "vLabel": "Nambya"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q8072097",
+    "vLabel": "Zimbabwe Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "v": "http://www.wikidata.org/entity/Q8826802",
+    "vLabel": "Barwe"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1036",
+    "iso": "UGA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1036",
+    "iso": "UGA",
+    "v": "http://www.wikidata.org/entity/Q7838",
+    "vLabel": "Swahili"
+  }
+]

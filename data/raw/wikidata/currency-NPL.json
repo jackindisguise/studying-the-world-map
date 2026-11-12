@@ -1,0 +1,254 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1032",
+    "iso": "NER",
+    "s": "http://www.wikidata.org/entity/statement/q1032-8A83E074-9245-4AB1-BAF5-15DEF9F7BE85",
+    "v": "http://www.wikidata.org/entity/Q861690",
+    "vLabel": "West African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1033",
+    "iso": "NGA",
+    "s": "http://www.wikidata.org/entity/statement/q1033-64F6D2E9-EEDE-472A-B6D6-8F4DD001C7B4",
+    "v": "http://www.wikidata.org/entity/Q203567",
+    "vLabel": "naira"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "s": "http://www.wikidata.org/entity/statement/q1037-48B61981-DFAB-4035-98B6-E08C623DFF50",
+    "v": "http://www.wikidata.org/entity/Q4741",
+    "vLabel": "Rwandan franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q159",
+    "iso": "RUS",
+    "s": "http://www.wikidata.org/entity/statement/q159-C104FC7E-8FA6-4B4C-9E21-8EA71F949899",
+    "v": "http://www.wikidata.org/entity/Q41044",
+    "vLabel": "Russian ruble"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "s": "http://www.wikidata.org/entity/statement/q20-38F18783-75D5-4C6B-B620-5E13878C78F3",
+    "v": "http://www.wikidata.org/entity/Q132643",
+    "vLabel": "Norwegian krone"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q218",
+    "iso": "ROU",
+    "s": "http://www.wikidata.org/entity/statement/q218-809A696E-80D1-4E79-9D1C-72DA2238B278",
+    "v": "http://www.wikidata.org/entity/Q131645",
+    "vLabel": "Romanian leu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "s": "http://www.wikidata.org/entity/statement/Q219060-059218e2-450d-8cb9-6383-9a40acd5d193",
+    "v": "http://www.wikidata.org/entity/Q203722",
+    "vLabel": "Jordanian dinar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "s": "http://www.wikidata.org/entity/statement/Q219060-496d3db0-436d-cc82-853b-dc832d383948",
+    "v": "http://www.wikidata.org/entity/Q199462",
+    "vLabel": "Egyptian pound"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "s": "http://www.wikidata.org/entity/statement/Q219060-ccf08254-4fbc-f3ce-e389-a36210322fbb",
+    "v": "http://www.wikidata.org/entity/Q131309",
+    "vLabel": "new shekel"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q221",
+    "iso": "MKD",
+    "s": "http://www.wikidata.org/entity/statement/q221-356A5113-A517-4B59-BADA-A4F1696BC476",
+    "v": "http://www.wikidata.org/entity/Q177875",
+    "vLabel": "Macedonian denar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "s": "http://www.wikidata.org/entity/statement/q238-4B1D5F09-4176-4CA1-B7E6-95990E6F59AD",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "s": "http://www.wikidata.org/entity/statement/Q29999-06f28ab3-4ef8-466f-078d-f399543c45cf",
+    "v": "http://www.wikidata.org/entity/Q232270",
+    "vLabel": "Aruban florin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "s": "http://www.wikidata.org/entity/statement/Q29999-c9d6a490-42b3-bbcf-c76b-acdadbffb84c",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "s": "http://www.wikidata.org/entity/statement/q29999-EF095ACE-EC08-4DEC-B27E-5757EFC35777",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q36",
+    "iso": "POL",
+    "s": "http://www.wikidata.org/entity/statement/q36-265E4A39-29A3-4920-A1A2-A1BA633C0144",
+    "v": "http://www.wikidata.org/entity/Q123213",
+    "vLabel": "złoty"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q419",
+    "iso": "PER",
+    "s": "http://www.wikidata.org/entity/statement/q419-d37156f3-4ec0-b518-997c-515d94d742c3",
+    "v": "http://www.wikidata.org/entity/Q204656",
+    "vLabel": "Nuevo sol"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "s": "http://www.wikidata.org/entity/statement/q423-D809FB83-CB56-4583-B058-0A6FFDF23E71",
+    "v": "http://www.wikidata.org/entity/Q106720",
+    "vLabel": "North Korean won"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q45",
+    "iso": "PRT",
+    "s": "http://www.wikidata.org/entity/statement/q45-525A5B2D-11B7-41DA-BF69-7DF5E822A33B",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q664",
+    "iso": "NZL",
+    "s": "http://www.wikidata.org/entity/statement/q664-5EB7F18B-0A08-46EB-A309-308D5C0EC6C5",
+    "v": "http://www.wikidata.org/entity/Q1472704",
+    "vLabel": "New Zealand dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q683",
+    "iso": "WSM",
+    "s": "http://www.wikidata.org/entity/statement/q683-42bd184f-431e-1c7f-7bcf-636893587216",
+    "v": "http://www.wikidata.org/entity/Q4588",
+    "vLabel": "Samoan tālā"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q691",
+    "iso": "PNG",
+    "s": "http://www.wikidata.org/entity/statement/q691-2046F0C7-B482-4294-9D00-6B9C46E48394",
+    "v": "http://www.wikidata.org/entity/Q200759",
+    "vLabel": "kina"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q695",
+    "iso": "PLW",
+    "s": "http://www.wikidata.org/entity/statement/Q695-A67403F0-2B56-42D7-ACEE-6804E95F7E8C",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q733",
+    "iso": "PRY",
+    "s": "http://www.wikidata.org/entity/statement/q733-5FAE85D0-3077-4CF6-BC76-A19C0DDC345D",
+    "v": "http://www.wikidata.org/entity/Q207514",
+    "vLabel": "Paraguayan guaraní"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q757",
+    "iso": "VCT",
+    "s": "http://www.wikidata.org/entity/statement/q757-00049168-4721-4617-A6B8-2F66C99FC835",
+    "v": "http://www.wikidata.org/entity/Q26365",
+    "vLabel": "Eastern Caribbean dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q760",
+    "iso": "LCA",
+    "s": "http://www.wikidata.org/entity/statement/q760-09F45F1E-C9A3-468A-8322-31240A81802F",
+    "v": "http://www.wikidata.org/entity/Q26365",
+    "vLabel": "Eastern Caribbean dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q763",
+    "iso": "KNA",
+    "s": "http://www.wikidata.org/entity/statement/q763-773517FD-7905-4FBB-9F34-A28B51D24A63",
+    "v": "http://www.wikidata.org/entity/Q26365",
+    "vLabel": "Eastern Caribbean dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q804",
+    "iso": "PAN",
+    "s": "http://www.wikidata.org/entity/statement/q804-62E8CBF7-AD53-42C5-9C17-B3E6166F3883",
+    "v": "http://www.wikidata.org/entity/Q210472",
+    "vLabel": "Panamanian balboa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q804",
+    "iso": "PAN",
+    "s": "http://www.wikidata.org/entity/statement/q804-D519F345-D85F-43E3-ABE2-D95AACAD9BC8",
+    "v": "http://www.wikidata.org/entity/Q4917",
+    "vLabel": "United States dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q811",
+    "iso": "NIC",
+    "s": "http://www.wikidata.org/entity/statement/q811-912CFA4B-A40C-4E24-B815-3BC99AE0EF78",
+    "v": "http://www.wikidata.org/entity/Q207312",
+    "vLabel": "Nicaraguan córdoba"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q837",
+    "iso": "NPL",
+    "s": "http://www.wikidata.org/entity/statement/Q837-7C53FC23-B267-4909-ADFA-D220693652D7",
+    "v": "http://www.wikidata.org/entity/Q202895",
+    "vLabel": "Nepalese rupee"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q842",
+    "iso": "OMN",
+    "s": "http://www.wikidata.org/entity/statement/q842-9AE17DC6-C437-4646-A8C7-790F538320BB",
+    "v": "http://www.wikidata.org/entity/Q272290",
+    "vLabel": "Omani rial"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "s": "http://www.wikidata.org/entity/statement/q843-8AC67070-8FDD-407B-B425-DA87962DD7C7",
+    "v": "http://www.wikidata.org/entity/Q188289",
+    "vLabel": "Pakistani rupee"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q846",
+    "iso": "QAT",
+    "s": "http://www.wikidata.org/entity/statement/Q846-2E106928-9577-4B5E-8CD1-065F09968B48",
+    "v": "http://www.wikidata.org/entity/Q206386",
+    "vLabel": "Qatari riyal"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "s": "http://www.wikidata.org/entity/statement/q928-47654D09-32E6-4827-B494-68F747D31FD6",
+    "v": "http://www.wikidata.org/entity/Q17193",
+    "vLabel": "Philippine peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q971",
+    "iso": "COG",
+    "s": "http://www.wikidata.org/entity/statement/q971-706876A9-19DA-4495-A0DC-C1640070AAD4",
+    "v": "http://www.wikidata.org/entity/Q847739",
+    "vLabel": "Central African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "s": "http://www.wikidata.org/entity/statement/Q29999-64fe3618-4634-684d-52ff-57bbbfd8667a",
+    "v": "http://www.wikidata.org/entity/Q737779",
+    "vLabel": "Caribbean guilder"
+  }
+]

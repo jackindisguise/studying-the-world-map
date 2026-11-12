@@ -1,0 +1,488 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q29",
+    "iso": "ESP",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q34",
+    "iso": "SWE",
+    "v": "http://www.wikidata.org/entity/Q9027",
+    "vLabel": "Swedish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q39",
+    "iso": "CHE",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q39",
+    "iso": "CHE",
+    "v": "http://www.wikidata.org/entity/Q188",
+    "vLabel": "German"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q39",
+    "iso": "CHE",
+    "v": "http://www.wikidata.org/entity/Q652",
+    "vLabel": "Italian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q39",
+    "iso": "CHE",
+    "v": "http://www.wikidata.org/entity/Q13199",
+    "vLabel": "Romansh"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q214",
+    "iso": "SVK",
+    "v": "http://www.wikidata.org/entity/Q9058",
+    "vLabel": "Slovak"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q215",
+    "iso": "SVN",
+    "v": "http://www.wikidata.org/entity/Q9063",
+    "vLabel": "Slovene"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q10179",
+    "vLabel": "Zulu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q13218",
+    "vLabel": "Xhosa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q14196",
+    "vLabel": "Afrikaans"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q32704",
+    "vLabel": "Venda"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q33890",
+    "vLabel": "Northern Sotho"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q34014",
+    "vLabel": "Swazi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q34137",
+    "vLabel": "Tswana"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q34327",
+    "vLabel": "Tsonga"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q34340",
+    "vLabel": "Sesotho"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q36785",
+    "vLabel": "Southern Ndebele"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://www.wikidata.org/entity/Q3322093",
+    "vLabel": "South African Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q334",
+    "iso": "SGP",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q334",
+    "iso": "SGP",
+    "v": "http://www.wikidata.org/entity/Q5885",
+    "vLabel": "Tamil"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q334",
+    "iso": "SGP",
+    "v": "http://www.wikidata.org/entity/Q9237",
+    "vLabel": "Malay"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q334",
+    "iso": "SGP",
+    "v": "http://www.wikidata.org/entity/Q727694",
+    "vLabel": "Standard Chinese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q403",
+    "iso": "SRB",
+    "v": "http://www.wikidata.org/entity/Q9299",
+    "vLabel": "Serbian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q574",
+    "iso": "TLS",
+    "v": "http://www.wikidata.org/entity/Q5146",
+    "vLabel": "Portuguese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q574",
+    "iso": "TLS",
+    "v": "http://www.wikidata.org/entity/Q34125",
+    "vLabel": "Tetum"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q678",
+    "iso": "TON",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q678",
+    "iso": "TON",
+    "v": "http://www.wikidata.org/entity/Q34094",
+    "vLabel": "Tongan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q685",
+    "iso": "SLB",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q730",
+    "iso": "SUR",
+    "v": "http://www.wikidata.org/entity/Q7411",
+    "vLabel": "Dutch"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q754",
+    "iso": "TTO",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q851",
+    "iso": "SAU",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q854",
+    "iso": "LKA",
+    "v": "http://www.wikidata.org/entity/Q5885",
+    "vLabel": "Tamil"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q854",
+    "iso": "LKA",
+    "v": "http://www.wikidata.org/entity/Q13267",
+    "vLabel": "Sinhala"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q858",
+    "iso": "SYR",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q863",
+    "iso": "TJK",
+    "v": "http://www.wikidata.org/entity/Q9260",
+    "vLabel": "Tajik"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q34019",
+    "vLabel": "Taiwanese Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q35132",
+    "vLabel": "Amis"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q36778",
+    "vLabel": "Taiwanese Hokkien"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q49232",
+    "vLabel": "Rukai"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q56505",
+    "vLabel": "Bunun"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q172244",
+    "vLabel": "Kanakanavu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q262828",
+    "vLabel": "Standard Taiwanese Mandarin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q715755",
+    "vLabel": "Paiwan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q715760",
+    "vLabel": "Yami"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q715766",
+    "vLabel": "Atayal"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q716599",
+    "vLabel": "Saaroa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q716627",
+    "vLabel": "Kavalan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q716681",
+    "vLabel": "Tsou"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q716686",
+    "vLabel": "Seediq"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q716690",
+    "vLabel": "Puyuma"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q716695",
+    "vLabel": "Saisiyat"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q718269",
+    "vLabel": "Sakizaya"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q2391532",
+    "vLabel": "Taiwanese Hakka"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q11071864",
+    "vLabel": "Truku"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q19599280",
+    "vLabel": "Matsu dialect"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q56278342",
+    "vLabel": "Kinmen dialect"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://www.wikidata.org/entity/Q61055662",
+    "vLabel": "Wuqiu dialect"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q869",
+    "iso": "THA",
+    "v": "http://www.wikidata.org/entity/Q9217",
+    "vLabel": "Thai"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q884",
+    "iso": "KOR",
+    "v": "http://www.wikidata.org/entity/Q9176",
+    "vLabel": "Korean"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q884",
+    "iso": "KOR",
+    "v": "http://www.wikidata.org/entity/Q3073428",
+    "vLabel": "Korean Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q924",
+    "iso": "TZA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q924",
+    "iso": "TZA",
+    "v": "http://www.wikidata.org/entity/Q7838",
+    "vLabel": "Swahili"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q945",
+    "iso": "TGO",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q948",
+    "iso": "TUN",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q958",
+    "iso": "SSD",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1039",
+    "iso": "STP",
+    "v": "http://www.wikidata.org/entity/Q5146",
+    "vLabel": "Portuguese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1041",
+    "iso": "SEN",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1041",
+    "iso": "SEN",
+    "v": "http://www.wikidata.org/entity/Q34257",
+    "vLabel": "Wolof"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1041",
+    "iso": "SEN",
+    "v": "http://www.wikidata.org/entity/Q35006",
+    "vLabel": "Balanta"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1041",
+    "iso": "SEN",
+    "v": "http://www.wikidata.org/entity/Q35095",
+    "vLabel": "Badyara"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1042",
+    "iso": "SYC",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1042",
+    "iso": "SYC",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1042",
+    "iso": "SYC",
+    "v": "http://www.wikidata.org/entity/Q34015",
+    "vLabel": "Seychellois Creole"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1044",
+    "iso": "SLE",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1044",
+    "iso": "SLE",
+    "v": "http://www.wikidata.org/entity/Q35744",
+    "vLabel": "Krio"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1045",
+    "iso": "SOM",
+    "v": "http://www.wikidata.org/entity/Q13275",
+    "vLabel": "Somali"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1045",
+    "iso": "SOM",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1049",
+    "iso": "SDN",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1049",
+    "iso": "SDN",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  }
+]

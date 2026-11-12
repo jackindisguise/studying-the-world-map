@@ -1,0 +1,44 @@
+[
+  { "c": "http://www.wikidata.org/entity/Q16", "iso": "CAN", "v": "9984670" },
+  { "c": "http://www.wikidata.org/entity/Q33", "iso": "FIN", "v": "338478.34" },
+  { "c": "http://www.wikidata.org/entity/Q35", "iso": "DNK", "v": "42925.46" },
+  {
+    "c": "http://www.wikidata.org/entity/Q79",
+    "iso": "EGY",
+    "v": "1010407.87"
+  },
+  { "c": "http://www.wikidata.org/entity/Q115", "iso": "ETH", "v": "1104300" },
+  { "c": "http://www.wikidata.org/entity/Q142", "iso": "FRA", "v": "643801" },
+  { "c": "http://www.wikidata.org/entity/Q148", "iso": "CHN", "v": "9596961" },
+  { "c": "http://www.wikidata.org/entity/Q191", "iso": "EST", "v": "45335" },
+  { "c": "http://www.wikidata.org/entity/Q213", "iso": "CZE", "v": "78871" },
+  { "c": "http://www.wikidata.org/entity/Q224", "iso": "HRV", "v": "56594" },
+  { "c": "http://www.wikidata.org/entity/Q229", "iso": "CYP", "v": "9242.45" },
+  { "c": "http://www.wikidata.org/entity/Q241", "iso": "CUB", "v": "109884" },
+  { "c": "http://www.wikidata.org/entity/Q298", "iso": "CHL", "v": "756102" },
+  { "c": "http://www.wikidata.org/entity/Q657", "iso": "TCD", "v": "1284000" },
+  { "c": "http://www.wikidata.org/entity/Q712", "iso": "FJI", "v": "18274" },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "v": "257204.27"
+  },
+  { "c": "http://www.wikidata.org/entity/Q739", "iso": "COL", "v": "1141748" },
+  {
+    "c": "http://www.wikidata.org/entity/Q784",
+    "iso": "DMA",
+    "v": "751.096551"
+  },
+  { "c": "http://www.wikidata.org/entity/Q786", "iso": "DOM", "v": "48670.82" },
+  { "c": "http://www.wikidata.org/entity/Q792", "iso": "SLV", "v": "21041" },
+  { "c": "http://www.wikidata.org/entity/Q800", "iso": "CRI", "v": "51179.92" },
+  { "c": "http://www.wikidata.org/entity/Q929", "iso": "CAF", "v": "622984" },
+  { "c": "http://www.wikidata.org/entity/Q970", "iso": "COM", "v": "2034" },
+  { "c": "http://www.wikidata.org/entity/Q974", "iso": "COD", "v": "2344858" },
+  { "c": "http://www.wikidata.org/entity/Q977", "iso": "DJI", "v": "23200" },
+  { "c": "http://www.wikidata.org/entity/Q983", "iso": "GNQ", "v": "28051" },
+  { "c": "http://www.wikidata.org/entity/Q986", "iso": "ERI", "v": "117600" },
+  { "c": "http://www.wikidata.org/entity/Q1000", "iso": "GAB", "v": "267667" },
+  { "c": "http://www.wikidata.org/entity/Q1011", "iso": "CPV", "v": "4033" },
+  { "c": "http://www.wikidata.org/entity/Q1050", "iso": "SWZ", "v": "17364" }
+]

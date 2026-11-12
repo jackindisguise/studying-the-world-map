@@ -1,0 +1,40 @@
+[
+  { "c": "http://www.wikidata.org/entity/Q17", "iso": "JPN", "v": "377973.68" },
+  { "c": "http://www.wikidata.org/entity/Q27", "iso": "IRL", "v": "69797" },
+  { "c": "http://www.wikidata.org/entity/Q28", "iso": "HUN", "v": "93011.4" },
+  { "c": "http://www.wikidata.org/entity/Q38", "iso": "ITA", "v": "302068" },
+  { "c": "http://www.wikidata.org/entity/Q41", "iso": "GRC", "v": "131957" },
+  { "c": "http://www.wikidata.org/entity/Q114", "iso": "KEN", "v": "581309" },
+  { "c": "http://www.wikidata.org/entity/Q117", "iso": "GHA", "v": "238535" },
+  {
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "v": "357587.77"
+  },
+  { "c": "http://www.wikidata.org/entity/Q189", "iso": "ISL", "v": "103004" },
+  { "c": "http://www.wikidata.org/entity/Q230", "iso": "GEO", "v": "69700" },
+  { "c": "http://www.wikidata.org/entity/Q232", "iso": "KAZ", "v": "2724900" },
+  { "c": "http://www.wikidata.org/entity/Q252", "iso": "IDN", "v": "1904570" },
+  { "c": "http://www.wikidata.org/entity/Q668", "iso": "IND", "v": "3287263" },
+  { "c": "http://www.wikidata.org/entity/Q710", "iso": "KIR", "v": "811" },
+  { "c": "http://www.wikidata.org/entity/Q734", "iso": "GUY", "v": "214970" },
+  {
+    "c": "http://www.wikidata.org/entity/Q766",
+    "iso": "JAM",
+    "v": "10991.90954"
+  },
+  { "c": "http://www.wikidata.org/entity/Q769", "iso": "GRD", "v": "348.5" },
+  { "c": "http://www.wikidata.org/entity/Q774", "iso": "GTM", "v": "108889" },
+  { "c": "http://www.wikidata.org/entity/Q783", "iso": "HND", "v": "112492" },
+  { "c": "http://www.wikidata.org/entity/Q790", "iso": "HTI", "v": "27750" },
+  { "c": "http://www.wikidata.org/entity/Q794", "iso": "IRN", "v": "1648195" },
+  { "c": "http://www.wikidata.org/entity/Q796", "iso": "IRQ", "v": "437072" },
+  { "c": "http://www.wikidata.org/entity/Q801", "iso": "ISR", "v": "20770" },
+  { "c": "http://www.wikidata.org/entity/Q810", "iso": "JOR", "v": "89341" },
+  { "c": "http://www.wikidata.org/entity/Q817", "iso": "KWT", "v": "17818" },
+  { "c": "http://www.wikidata.org/entity/Q1005", "iso": "GMB", "v": "11300" },
+  { "c": "http://www.wikidata.org/entity/Q1006", "iso": "GIN", "v": "245857" },
+  { "c": "http://www.wikidata.org/entity/Q1007", "iso": "GNB", "v": "36125" },
+  { "c": "http://www.wikidata.org/entity/Q1008", "iso": "CIV", "v": "322463" },
+  { "c": "http://www.wikidata.org/entity/Q1246", "iso": "XKX", "v": "10909" }
+]

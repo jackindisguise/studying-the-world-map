@@ -1,0 +1,152 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q29",
+    "iso": "ESP",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Spain.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q34",
+    "iso": "SWE",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sweden.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q39",
+    "iso": "CHE",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Switzerland.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q214",
+    "iso": "SVK",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovakia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q215",
+    "iso": "SVN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Slovenia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q334",
+    "iso": "SGP",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Singapore.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q403",
+    "iso": "SRB",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Serbia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q574",
+    "iso": "TLS",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20East%20Timor.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q678",
+    "iso": "TON",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tonga.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q685",
+    "iso": "SLB",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Solomon%20Islands.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q730",
+    "iso": "SUR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Suriname.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q754",
+    "iso": "TTO",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Trinidad%20and%20Tobago.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q851",
+    "iso": "SAU",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Saudi%20Arabia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q854",
+    "iso": "LKA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sri%20Lanka.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q858",
+    "iso": "SYR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Syria%20%282025-%29.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q863",
+    "iso": "TJK",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tajikistan.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Republic%20of%20China.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q869",
+    "iso": "THA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Thailand.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q884",
+    "iso": "KOR",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Korea.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q924",
+    "iso": "TZA",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tanzania.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q945",
+    "iso": "TGO",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Togo%20%283-2%29.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q948",
+    "iso": "TUN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Tunisia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q958",
+    "iso": "SSD",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Sudan.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1039",
+    "iso": "STP",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20S%C3%A3o%20Tom%C3%A9%20and%20Pr%C3%ADncipe.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1041",
+    "iso": "SEN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1042",
+    "iso": "SYC",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Seychelles.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1044",
+    "iso": "SLE",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sierra%20Leone.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1045",
+    "iso": "SOM",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1049",
+    "iso": "SDN",
+    "v": "http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Sudan.svg"
+  }
+]

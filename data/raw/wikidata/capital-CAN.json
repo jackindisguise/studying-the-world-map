@@ -1,0 +1,226 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1000",
+    "iso": "GAB",
+    "s": "http://www.wikidata.org/entity/statement/q1000-8c49c984-4645-545d-44fc-97a478b76ecc",
+    "v": "http://www.wikidata.org/entity/Q3825",
+    "vLabel": "Libreville"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1011",
+    "iso": "CPV",
+    "s": "http://www.wikidata.org/entity/statement/q1011-C036BDC0-4ADC-4011-A994-89037618FDBA",
+    "v": "http://www.wikidata.org/entity/Q3751",
+    "vLabel": "Praia"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1050",
+    "iso": "SWZ",
+    "s": "http://www.wikidata.org/entity/statement/q1050-2C7AD801-4D5A-498D-B527-57ACA225A602",
+    "v": "http://www.wikidata.org/entity/Q3904",
+    "vLabel": "Mbabane"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1050",
+    "iso": "SWZ",
+    "s": "http://www.wikidata.org/entity/statement/q1050-DE85CA10-B693-4272-8453-DC5DC3D3D2FE",
+    "v": "http://www.wikidata.org/entity/Q101418",
+    "vLabel": "Lobamba"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q115",
+    "iso": "ETH",
+    "s": "http://www.wikidata.org/entity/statement/q115-B724F2F3-CC48-41E8-9E5B-AFB0D776EE1A",
+    "v": "http://www.wikidata.org/entity/Q3624",
+    "vLabel": "Addis Ababa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q142",
+    "iso": "FRA",
+    "s": "http://www.wikidata.org/entity/statement/q142-BBD442C6-E5D6-465D-ABD6-A23C8B08035D",
+    "v": "http://www.wikidata.org/entity/Q90",
+    "vLabel": "Paris"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q148",
+    "iso": "CHN",
+    "s": "http://www.wikidata.org/entity/statement/q148-2C0B3817-A4B6-43AD-9CD8-43E069E5983F",
+    "v": "http://www.wikidata.org/entity/Q956",
+    "vLabel": "Beijing"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q16",
+    "iso": "CAN",
+    "s": "http://www.wikidata.org/entity/statement/q16-B77FAC7C-4711-4C6E-8500-37A0F6EB5590",
+    "v": "http://www.wikidata.org/entity/Q1930",
+    "vLabel": "Ottawa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q191",
+    "iso": "EST",
+    "s": "http://www.wikidata.org/entity/statement/Q191-79196558-4f60-3630-d4d7-7f09882dc5b2",
+    "v": "http://www.wikidata.org/entity/Q1770",
+    "vLabel": "Tallinn"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q213",
+    "iso": "CZE",
+    "s": "http://www.wikidata.org/entity/statement/q213-1E56D764-BD62-4E9C-9A9C-BEA65531C905",
+    "v": "http://www.wikidata.org/entity/Q1085",
+    "vLabel": "Prague"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q224",
+    "iso": "HRV",
+    "s": "http://www.wikidata.org/entity/statement/q224-03EB33A0-5668-47BB-A348-9ABAC14DA421",
+    "v": "http://www.wikidata.org/entity/Q1435",
+    "vLabel": "Zagreb"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "s": "http://www.wikidata.org/entity/statement/q229-320F8EAE-42C1-42E6-8FE1-390031D0FF59",
+    "v": "http://www.wikidata.org/entity/Q3856",
+    "vLabel": "Nicosia"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q241",
+    "iso": "CUB",
+    "s": "http://www.wikidata.org/entity/statement/q241-8868eb5a-44e3-7eea-4661-5af39f055ee0",
+    "v": "http://www.wikidata.org/entity/Q1563",
+    "vLabel": "Havana"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q298",
+    "iso": "CHL",
+    "s": "http://www.wikidata.org/entity/statement/q298-F92FDF39-529E-46B5-BF71-4564BA21AF4E",
+    "v": "http://www.wikidata.org/entity/Q2887",
+    "vLabel": "Santiago"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q33",
+    "iso": "FIN",
+    "s": "http://www.wikidata.org/entity/statement/q33-D0472690-0F96-4CD5-9275-01DE9246835A",
+    "v": "http://www.wikidata.org/entity/Q1757",
+    "vLabel": "Helsinki"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q35",
+    "iso": "DNK",
+    "s": "http://www.wikidata.org/entity/statement/q35-BCF86804-9AC0-46FF-9DF6-6048212BD7C7",
+    "v": "http://www.wikidata.org/entity/Q1748",
+    "vLabel": "Copenhagen"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q657",
+    "iso": "TCD",
+    "s": "http://www.wikidata.org/entity/statement/q657-07A08158-CFCB-4983-B1F6-E61912B9AED8",
+    "v": "http://www.wikidata.org/entity/Q3659",
+    "vLabel": "N'Djamena"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "s": "http://www.wikidata.org/entity/statement/q712-A4E14F49-6D76-484E-88EB-838C72460A1F",
+    "v": "http://www.wikidata.org/entity/Q38807",
+    "vLabel": "Suva"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "s": "http://www.wikidata.org/entity/statement/q736-15023082-D446-4954-87A6-89438A8BA504",
+    "v": "http://www.wikidata.org/entity/Q2900",
+    "vLabel": "Quito"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q739",
+    "iso": "COL",
+    "s": "http://www.wikidata.org/entity/statement/q739-0848E6D1-CFA5-4F7C-8E52-50480CEBDAF9",
+    "v": "http://www.wikidata.org/entity/Q2841",
+    "vLabel": "Bogotá"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q784",
+    "iso": "DMA",
+    "s": "http://www.wikidata.org/entity/statement/q784-AA7AAD4A-1417-4190-B998-CE0E6C49720E",
+    "v": "http://www.wikidata.org/entity/Q36281",
+    "vLabel": "Roseau"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q786",
+    "iso": "DOM",
+    "s": "http://www.wikidata.org/entity/statement/q786-CBC2425A-1DDC-490E-ABFB-E832566E244D",
+    "v": "http://www.wikidata.org/entity/Q34820",
+    "vLabel": "Santo Domingo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q792",
+    "iso": "SLV",
+    "s": "http://www.wikidata.org/entity/statement/q792-5A6D9446-3A1F-46F2-9618-7FE954A466A7",
+    "v": "http://www.wikidata.org/entity/Q3110",
+    "vLabel": "San Salvador"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q79",
+    "iso": "EGY",
+    "s": "http://www.wikidata.org/entity/statement/Q79-77efdc4d-4dc6-73f2-222a-948fdc1d3ad1",
+    "v": "http://www.wikidata.org/entity/Q85",
+    "vLabel": "Cairo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q800",
+    "iso": "CRI",
+    "s": "http://www.wikidata.org/entity/statement/q800-D3A22FA3-4538-4D4C-9794-BDDF979D6312",
+    "v": "http://www.wikidata.org/entity/Q3070",
+    "vLabel": "San José"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q929",
+    "iso": "CAF",
+    "s": "http://www.wikidata.org/entity/statement/q929-731E11A3-E2C8-47B6-A00C-37613330AE89",
+    "v": "http://www.wikidata.org/entity/Q3832",
+    "vLabel": "Bangui"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q970",
+    "iso": "COM",
+    "s": "http://www.wikidata.org/entity/statement/q970-398C6380-2E53-4F09-A077-D43E7C8B94C6",
+    "v": "http://www.wikidata.org/entity/Q3901",
+    "vLabel": "Moroni"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q974",
+    "iso": "COD",
+    "s": "http://www.wikidata.org/entity/statement/q974-F8F5F746-C7DF-4259-9038-4A46955DF80F",
+    "v": "http://www.wikidata.org/entity/Q3838",
+    "vLabel": "Kinshasa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q977",
+    "iso": "DJI",
+    "s": "http://www.wikidata.org/entity/statement/q977-ECA6EDB8-6BE4-424F-BC8C-7B4069DEB574",
+    "v": "http://www.wikidata.org/entity/Q3604",
+    "vLabel": "Djibouti"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q983",
+    "iso": "GNQ",
+    "s": "http://www.wikidata.org/entity/statement/Q983-17a84117-4103-ad5c-e150-150b35cc3f60",
+    "v": "http://www.wikidata.org/entity/Q1140136",
+    "vLabel": "Ciudad de la Paz"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q986",
+    "iso": "ERI",
+    "s": "http://www.wikidata.org/entity/statement/q986-CBBB759D-5A1C-49F1-932D-5561C4B55DFB",
+    "v": "http://www.wikidata.org/entity/Q3642",
+    "vLabel": "Asmara"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "s": "http://www.wikidata.org/entity/statement/Q229-364687ba-488b-3d0c-9847-4f3739cd372d",
+    "v": "http://www.wikidata.org/entity/Q3856",
+    "vLabel": "Nicosia"
+  }
+]

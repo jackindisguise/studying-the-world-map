@@ -1,0 +1,254 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1009",
+    "iso": "CMR",
+    "s": "http://www.wikidata.org/entity/statement/q1009-0F49ED61-99FF-47F5-B728-6BA1565FDCA7",
+    "v": "http://www.wikidata.org/entity/Q847739",
+    "vLabel": "Central African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q155",
+    "iso": "BRA",
+    "s": "http://www.wikidata.org/entity/statement/q155-11037DE2-4842-4845-8A43-0136FD57FD5C",
+    "v": "http://www.wikidata.org/entity/Q173117",
+    "vLabel": "Brazilian real"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "s": "http://www.wikidata.org/entity/statement/Q184-fe78c916-4776-c4f4-c070-96ccdd748b08",
+    "v": "http://www.wikidata.org/entity/Q21531507",
+    "vLabel": "Belarusian ruble"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q222",
+    "iso": "ALB",
+    "s": "http://www.wikidata.org/entity/statement/q222-8963FCB1-10B1-4892-B5B4-DAE7447F44DF",
+    "v": "http://www.wikidata.org/entity/Q125999",
+    "vLabel": "Albanian lek"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q227",
+    "iso": "AZE",
+    "s": "http://www.wikidata.org/entity/statement/q227-CD2DFC57-D793-4A1F-8840-2C99A7E5CA0E",
+    "v": "http://www.wikidata.org/entity/Q483725",
+    "vLabel": "Azerbaijani manat"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q228",
+    "iso": "AND",
+    "s": "http://www.wikidata.org/entity/statement/q228-0667a7fb-41d3-b000-0b95-def15713439b",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q242",
+    "iso": "BLZ",
+    "s": "http://www.wikidata.org/entity/statement/q242-2CFC5801-5247-4FE5-8CE4-D4C6A4F7240B",
+    "v": "http://www.wikidata.org/entity/Q275112",
+    "vLabel": "Belize dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q244",
+    "iso": "BRB",
+    "s": "http://www.wikidata.org/entity/statement/q244-3547777C-862B-4D15-AC12-2383F0EAB653",
+    "v": "http://www.wikidata.org/entity/Q194351",
+    "vLabel": "Barbadian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q262",
+    "iso": "DZA",
+    "s": "http://www.wikidata.org/entity/statement/q262-31785106-A00B-435B-8B8F-786A253743C1",
+    "v": "http://www.wikidata.org/entity/Q199674",
+    "vLabel": "Algerian dinar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q31",
+    "iso": "BEL",
+    "s": "http://www.wikidata.org/entity/statement/q31-2AD587B8-A440-438E-A7E0-3F992600D36D",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q398",
+    "iso": "BHR",
+    "s": "http://www.wikidata.org/entity/statement/q398-87E1BBC8-6EED-4517-BAB9-91572A6EFA8D",
+    "v": "http://www.wikidata.org/entity/Q201871",
+    "vLabel": "Bahraini dinar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "s": "http://www.wikidata.org/entity/statement/q399-A999D452-B940-4765-93DB-EDCBB9ECFF5B",
+    "v": "http://www.wikidata.org/entity/Q130498",
+    "vLabel": "Armenian dram"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q408",
+    "iso": "AUS",
+    "s": "http://www.wikidata.org/entity/statement/q408-C6DD2D83-6B08-44E4-A2EE-C8B59D184958",
+    "v": "http://www.wikidata.org/entity/Q259502",
+    "vLabel": "Australian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q40",
+    "iso": "AUT",
+    "s": "http://www.wikidata.org/entity/statement/q40-A8C980CF-7E90-4118-8658-D09275750FBC",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q414",
+    "iso": "ARG",
+    "s": "http://www.wikidata.org/entity/statement/Q414-b1dfc6a6-4c36-dbca-798e-ad93d0fc7983",
+    "v": "http://www.wikidata.org/entity/Q199578",
+    "vLabel": "Argentine convertible peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q424",
+    "iso": "KHM",
+    "s": "http://www.wikidata.org/entity/statement/q424-9175EA6D-B4F0-4361-9B70-A3D442359D74",
+    "v": "http://www.wikidata.org/entity/Q204737",
+    "vLabel": "riel"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "s": "http://www.wikidata.org/entity/statement/q750-52C5D432-4AC6-4EA9-9065-D2755F0FC983",
+    "v": "http://www.wikidata.org/entity/Q200737",
+    "vLabel": "boliviano"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "s": "http://www.wikidata.org/entity/statement/Q750-6cdd9843-4da5-4b16-7298-bb5cd188ee8b",
+    "v": "http://www.wikidata.org/entity/Q2414435",
+    "vLabel": "Bolivian peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "s": "http://www.wikidata.org/entity/statement/Q750-6de02c24-446d-d5c3-ded0-03179cd1a0f8",
+    "v": "http://www.wikidata.org/entity/Q834305",
+    "vLabel": "Bolivian sol"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q750",
+    "iso": "BOL",
+    "s": "http://www.wikidata.org/entity/statement/Q750-f48191b4-4137-d654-e463-9984f331b2c2",
+    "v": "http://www.wikidata.org/entity/Q718101",
+    "vLabel": "Bolivian scudo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q778",
+    "iso": "BHS",
+    "s": "http://www.wikidata.org/entity/statement/q778-AFABCCE8-CD4D-447A-AD74-2D4B9AE740C8",
+    "v": "http://www.wikidata.org/entity/Q194339",
+    "vLabel": "Bahamian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q781",
+    "iso": "ATG",
+    "s": "http://www.wikidata.org/entity/statement/q781-2C37D328-0CF3-4959-BAE5-F01731E79F6D",
+    "v": "http://www.wikidata.org/entity/Q26365",
+    "vLabel": "Eastern Caribbean dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q889",
+    "iso": "AFG",
+    "s": "http://www.wikidata.org/entity/statement/q889-2F108963-0A6D-43F0-AF16-82DA4E839997",
+    "v": "http://www.wikidata.org/entity/Q199471",
+    "vLabel": "afghani"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q902",
+    "iso": "BGD",
+    "s": "http://www.wikidata.org/entity/statement/q902-E99ECFA6-F789-410A-A199-2A3FD2F1857D",
+    "v": "http://www.wikidata.org/entity/Q194453",
+    "vLabel": "Bangladeshi taka"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "s": "http://www.wikidata.org/entity/statement/q916-1DF2369C-1938-4C10-8D7B-B8EA0F464272",
+    "v": "http://www.wikidata.org/entity/Q200337",
+    "vLabel": "kwanza"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "s": "http://www.wikidata.org/entity/statement/Q916-5d47ab16-4a09-e114-96a4-1749e5cce96c",
+    "v": "http://www.wikidata.org/entity/Q542238",
+    "vLabel": "Angolan real"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "s": "http://www.wikidata.org/entity/statement/Q916-7e5cf81d-48cd-e528-7593-a2b33ea4dfb2",
+    "v": "http://www.wikidata.org/entity/Q542304",
+    "vLabel": "Angolan angolar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q916",
+    "iso": "AGO",
+    "s": "http://www.wikidata.org/entity/statement/Q916-90bc10cb-404e-e5a4-03df-be1ed4b711a1",
+    "v": "http://www.wikidata.org/entity/Q542236",
+    "vLabel": "Angolan escudo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q917",
+    "iso": "BTN",
+    "s": "http://www.wikidata.org/entity/statement/q917-62425414-8582-410C-8A2F-933CD7C5E08E",
+    "v": "http://www.wikidata.org/entity/Q201799",
+    "vLabel": "ngultrum"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "s": "http://www.wikidata.org/entity/statement/q921-07B46213-E640-4879-8FC3-192F6AF26C07",
+    "v": "http://www.wikidata.org/entity/Q206319",
+    "vLabel": "Brunei dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q962",
+    "iso": "BEN",
+    "s": "http://www.wikidata.org/entity/statement/q962-8314C16A-7379-406C-B71D-64BBFDCEC5D9",
+    "v": "http://www.wikidata.org/entity/Q861690",
+    "vLabel": "West African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q963",
+    "iso": "BWA",
+    "s": "http://www.wikidata.org/entity/statement/q963-7184BE0A-ADF1-4695-A6B6-7CEA43C49399",
+    "v": "http://www.wikidata.org/entity/Q186794",
+    "vLabel": "Botswana pula"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q965",
+    "iso": "BFA",
+    "s": "http://www.wikidata.org/entity/statement/q965-E2EB5BBC-F412-4187-B6EC-8679AB926710",
+    "v": "http://www.wikidata.org/entity/Q861690",
+    "vLabel": "West African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q967",
+    "iso": "BDI",
+    "s": "http://www.wikidata.org/entity/statement/q967-000A4D03-EFD3-483D-B266-02DE9EC758DB",
+    "v": "http://www.wikidata.org/entity/Q238007",
+    "vLabel": "Burundian franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219",
+    "iso": "BGR",
+    "s": "http://www.wikidata.org/entity/statement/Q219-C90A1D57-7A1F-41DE-B2F0-9C856250DB4E",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q225",
+    "iso": "BIH",
+    "s": "http://www.wikidata.org/entity/statement/Q225-60D99C05-BE74-4C65-B5B4-CA3059CA0568",
+    "v": "http://www.wikidata.org/entity/Q179620",
+    "vLabel": "convertible mark"
+  }
+]

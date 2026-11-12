@@ -1,0 +1,360 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "s": "http://www.wikidata.org/entity/statement/Q229-cc3964a8-43a3-eebe-d00e-43e152f4e209",
+    "p": "http://www.wikidata.org/entity/Q48905549",
+    "start": "2023-02-12T00:00:00Z",
+    "pLabel": "Nicos Christodoulides"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q929",
+    "iso": "CAF",
+    "s": "http://www.wikidata.org/entity/statement/Q929-1a53d11b-45e6-0881-026e-07c657fb92b5",
+    "p": "http://www.wikidata.org/entity/Q88310768",
+    "start": "2022-02-07T00:00:00Z",
+    "pLabel": "Félix Moloua"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1050",
+    "iso": "SWZ",
+    "s": "http://www.wikidata.org/entity/statement/Q1050-c47c024f-48ae-4e6d-e908-a1078f5b0666",
+    "p": "http://www.wikidata.org/entity/Q123342092",
+    "start": "2023-11-04T00:00:00Z",
+    "pLabel": "Edeupa Yerimin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q983",
+    "iso": "GNQ",
+    "s": "http://www.wikidata.org/entity/statement/Q983-05099ceb-4148-a2e6-09be-80da7b81b226",
+    "p": "http://www.wikidata.org/entity/Q129263796",
+    "start": "2024-08-17T00:00:00Z",
+    "pLabel": "Manuel Osa Nsue Nsua"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1000",
+    "iso": "GAB",
+    "s": "http://www.wikidata.org/entity/statement/Q1000-d9628a84-405c-355b-9811-0364526c87e5",
+    "p": "http://www.wikidata.org/entity/Q57856",
+    "start": "2023-09-07T00:00:00Z",
+    "pLabel": "Raymond Ndong Sima"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q16",
+    "iso": "CAN",
+    "s": "http://www.wikidata.org/entity/statement/Q16-806603b9-4f4a-5071-718e-db5c31f679b5",
+    "p": "http://www.wikidata.org/entity/Q192533",
+    "start": "2025-03-14T00:00:00Z",
+    "pLabel": "Mark Carney",
+    "ps": "http://www.wikidata.org/entity/statement/Q192533-3a7f3889-4db7-1368-13bf-f5dd2571d47d",
+    "party": "http://www.wikidata.org/entity/Q138345",
+    "partyLabel": "Liberal Party of Canada"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q970",
+    "iso": "COM",
+    "s": "http://www.wikidata.org/entity/statement/q970-51AFC9FA-A465-4353-8AC4-48291D4C6B49",
+    "p": "http://www.wikidata.org/entity/Q515602",
+    "start": "2016-05-26T00:00:00Z",
+    "pLabel": "Azali Assoumani",
+    "ps": "http://www.wikidata.org/entity/statement/q515602-CC43A211-B218-47E9-AB5B-3B7DC59FA2EB",
+    "party": "http://www.wikidata.org/entity/Q5166253",
+    "partyLabel": "Convention for the Renewal of the Comoros"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "s": "http://www.wikidata.org/entity/statement/Q712-65a5c228-4c25-14a8-0b34-06b8c1e9e3aa",
+    "p": "http://www.wikidata.org/entity/Q981549",
+    "start": "2022-12-24T00:00:00Z",
+    "pLabel": "Sitiveni Rabuka",
+    "ps": "http://www.wikidata.org/entity/statement/Q981549-29308ece-48b5-268c-cd4f-d33e615da435",
+    "party": "http://www.wikidata.org/entity/Q110677493",
+    "partyLabel": "People's Alliance"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q712",
+    "iso": "FJI",
+    "s": "http://www.wikidata.org/entity/statement/Q712-65a5c228-4c25-14a8-0b34-06b8c1e9e3aa",
+    "p": "http://www.wikidata.org/entity/Q981549",
+    "start": "2022-12-24T00:00:00Z",
+    "pLabel": "Sitiveni Rabuka",
+    "ps": "http://www.wikidata.org/entity/statement/q981549-58296138-DA1C-4112-BD74-01A2CF2C647A",
+    "party": "http://www.wikidata.org/entity/Q7563246",
+    "partyLabel": "Soqosoqo ni Vakavulewa ni Taukei"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q191",
+    "iso": "EST",
+    "s": "http://www.wikidata.org/entity/statement/Q191-c8069d2f-49b1-d8c3-c960-2e0fa98c9f9c",
+    "p": "http://www.wikidata.org/entity/Q1789192",
+    "start": "2024-07-23T00:00:00Z",
+    "pLabel": "Kristen Michal",
+    "ps": "http://www.wikidata.org/entity/statement/Q1789192-46C610AA-ACBD-4237-9633-0E052A605BDD",
+    "party": "http://www.wikidata.org/entity/Q738947",
+    "partyLabel": "Estonian Reform Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q229",
+    "iso": "CYP",
+    "s": "http://www.wikidata.org/entity/statement/Q229-1924ccd5-4487-f87a-3459-189abc933fee",
+    "p": "http://www.wikidata.org/entity/Q2112764",
+    "pLabel": "Nikos Anastasiades",
+    "ps": "http://www.wikidata.org/entity/statement/Q2112764-1B90C8C0-1C7E-4D65-B365-0B498CECC3DF",
+    "party": "http://www.wikidata.org/entity/Q644973",
+    "partyLabel": "Democratic Rally"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q148",
+    "iso": "CHN",
+    "s": "http://www.wikidata.org/entity/statement/Q148-14229f06-42f5-59e0-12df-4743ada04694",
+    "p": "http://www.wikidata.org/entity/Q4414390",
+    "start": "2023-03-11T00:00:00Z",
+    "pLabel": "Li Qiang",
+    "ps": "http://www.wikidata.org/entity/statement/q4414390-D8D9D6AA-083D-4F8D-AB3B-BE3EF1D6FD52",
+    "party": "http://www.wikidata.org/entity/Q17427",
+    "partyLabel": "Chinese Communist Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q298",
+    "iso": "CHL",
+    "s": "http://www.wikidata.org/entity/statement/Q298-c0ad22a1-4b8a-252f-de30-0374d9967c88",
+    "p": "http://www.wikidata.org/entity/Q5937916",
+    "start": "2026-03-11T00:00:00Z",
+    "pLabel": "José Antonio Kast",
+    "ps": "http://www.wikidata.org/entity/statement/Q5937916-08a34e7d-4738-8c5f-fbb5-05a14a7d64bd",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q33",
+    "iso": "FIN",
+    "s": "http://www.wikidata.org/entity/statement/Q33-149afca3-4c79-b20a-d6e7-223cc9f92187",
+    "p": "http://www.wikidata.org/entity/Q6029546",
+    "start": "2023-06-20T00:00:00Z",
+    "pLabel": "Petteri Orpo",
+    "ps": "http://www.wikidata.org/entity/statement/Q6029546-C7E4139F-F09C-47CA-94DC-424C3D1FF154",
+    "party": "http://www.wikidata.org/entity/Q304191",
+    "partyLabel": "National Coalition Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q977",
+    "iso": "DJI",
+    "s": "http://www.wikidata.org/entity/statement/q977-535464a4-45d0-2584-64ec-1456ddc7e985",
+    "p": "http://www.wikidata.org/entity/Q10522744",
+    "start": "2013-04-01T00:00:00Z",
+    "pLabel": "Abdoulkader Kamil Mohamed",
+    "ps": "http://www.wikidata.org/entity/statement/Q10522744-7EC78FC0-C78A-47C3-BC0A-772070F42166",
+    "party": "http://www.wikidata.org/entity/Q1817797",
+    "partyLabel": "People's Rally for Progress"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q213",
+    "iso": "CZE",
+    "s": "http://www.wikidata.org/entity/statement/Q213-6953285b-4424-d662-5bde-d9fa0496bbab",
+    "p": "http://www.wikidata.org/entity/Q10819807",
+    "start": "2025-12-09T00:00:00Z",
+    "pLabel": "Andrej Babiš",
+    "ps": "http://www.wikidata.org/entity/statement/q10819807-906c3f7c-4ed9-078e-8482-7f3ef0f9ebbd",
+    "party": "http://www.wikidata.org/entity/Q10728124",
+    "partyLabel": "ANO 2011"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q224",
+    "iso": "HRV",
+    "s": "http://www.wikidata.org/entity/statement/Q224-f79ee65b-416e-3353-91cd-c5532ef1c53e",
+    "p": "http://www.wikidata.org/entity/Q11685764",
+    "start": "2016-10-19T00:00:00Z",
+    "pLabel": "Andrej Plenković",
+    "ps": "http://www.wikidata.org/entity/statement/Q11685764-08EED5F8-B059-4A4F-A453-1B6242A69F92",
+    "party": "http://www.wikidata.org/entity/Q738439",
+    "partyLabel": "Croatian Democratic Union"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q191",
+    "iso": "EST",
+    "s": "http://www.wikidata.org/entity/statement/Q191-2b9a5bf7-48ba-6b73-5fc8-ba5a3a813484",
+    "p": "http://www.wikidata.org/entity/Q11869065",
+    "start": "2021-01-26T00:00:00Z",
+    "pLabel": "Kaja Kallas",
+    "ps": "http://www.wikidata.org/entity/statement/Q11869065-8216166a-45b2-f39e-9370-752be132be63",
+    "party": "http://www.wikidata.org/entity/Q738947",
+    "partyLabel": "Estonian Reform Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q786",
+    "iso": "DOM",
+    "s": "http://www.wikidata.org/entity/statement/Q786-7dd6d4a5-4186-0e69-a050-1404d6bbbde2",
+    "p": "http://www.wikidata.org/entity/Q16594097",
+    "start": "2020-08-16T00:00:00Z",
+    "pLabel": "Luis Abinader",
+    "ps": "http://www.wikidata.org/entity/statement/Q16594097-6EB470CC-E1B6-4498-A7AA-B668D70E7672",
+    "party": "http://www.wikidata.org/entity/Q17515858",
+    "partyLabel": "Modern Revolutionary Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q792",
+    "iso": "SLV",
+    "s": "http://www.wikidata.org/entity/statement/Q792-73489067-43cb-3826-4a13-a725c0558b5a",
+    "p": "http://www.wikidata.org/entity/Q17712353",
+    "start": "2019-06-01T00:00:00Z",
+    "pLabel": "Nayib Bukele",
+    "ps": "http://www.wikidata.org/entity/statement/Q17712353-15823b73-4cf5-5928-d87a-5b44dbc67725",
+    "party": "http://www.wikidata.org/entity/Q57986086",
+    "partyLabel": "Nuevas Ideas"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q142",
+    "iso": "FRA",
+    "s": "http://www.wikidata.org/entity/statement/Q142-2970844b-4ff0-7b1b-0f21-19da68d34f6c",
+    "p": "http://www.wikidata.org/entity/Q20089181",
+    "start": "2025-09-09T00:00:00Z",
+    "pLabel": "Sébastien Lecornu",
+    "ps": "http://www.wikidata.org/entity/statement/Q20089181-b4395c81-4870-02d9-5178-31e3013f05b8",
+    "party": "http://www.wikidata.org/entity/Q23731823",
+    "partyLabel": "Renaissance"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q115",
+    "iso": "ETH",
+    "s": "http://www.wikidata.org/entity/statement/Q115-d897b58b-4ab8-2f8b-a1e2-f750100645d9",
+    "p": "http://www.wikidata.org/entity/Q50365049",
+    "start": "2018-04-01T00:00:00Z",
+    "pLabel": "Abiy Ahmed",
+    "ps": "http://www.wikidata.org/entity/statement/Q50365049-0fe1d5f7-4c54-73ed-0847-66f708a52332",
+    "party": "http://www.wikidata.org/entity/Q1145280",
+    "partyLabel": "Ethiopian People's Revolutionary Democratic Front"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q115",
+    "iso": "ETH",
+    "s": "http://www.wikidata.org/entity/statement/Q115-d897b58b-4ab8-2f8b-a1e2-f750100645d9",
+    "p": "http://www.wikidata.org/entity/Q50365049",
+    "start": "2018-04-01T00:00:00Z",
+    "pLabel": "Abiy Ahmed",
+    "ps": "http://www.wikidata.org/entity/statement/Q50365049-2beb3c61-04e0-4c87-8b4d-8c34ce347ef0",
+    "party": "http://www.wikidata.org/entity/Q1186219",
+    "partyLabel": "Oromo Democratic Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q115",
+    "iso": "ETH",
+    "s": "http://www.wikidata.org/entity/statement/Q115-d897b58b-4ab8-2f8b-a1e2-f750100645d9",
+    "p": "http://www.wikidata.org/entity/Q50365049",
+    "start": "2018-04-01T00:00:00Z",
+    "pLabel": "Abiy Ahmed",
+    "ps": "http://www.wikidata.org/entity/statement/Q50365049-97283a6a-446d-6828-b659-709bd7a2f86f",
+    "party": "http://www.wikidata.org/entity/Q78108696",
+    "partyLabel": "Prosperity Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q79",
+    "iso": "EGY",
+    "s": "http://www.wikidata.org/entity/statement/q79-8f960767-4c2c-9fdc-3ad3-9076785c7861",
+    "p": "http://www.wikidata.org/entity/Q54901515",
+    "start": "2018-06-14T00:00:00Z",
+    "pLabel": "Mostafa Madbouly",
+    "ps": "http://www.wikidata.org/entity/statement/Q54901515-4C76E3E2-A009-40E2-A9B4-2E18BE5D3590",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q974",
+    "iso": "COD",
+    "s": "http://www.wikidata.org/entity/statement/Q974-298265fd-4a98-1786-5ae6-c13288473379",
+    "p": "http://www.wikidata.org/entity/Q63967715",
+    "start": "2019-09-07T00:00:00Z",
+    "pLabel": "Ilunga Ilunkamba Sylvestre",
+    "ps": "http://www.wikidata.org/entity/statement/Q63967715-d91f22ee-bd1b-4093-bccd-755870d006f4",
+    "party": "http://www.wikidata.org/entity/Q1235589",
+    "partyLabel": "People's Party for Reconstruction and Democracy"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q241",
+    "iso": "CUB",
+    "s": "http://www.wikidata.org/entity/statement/Q241-2263658e-4072-71f9-bf2b-2e72dbaf4403",
+    "p": "http://www.wikidata.org/entity/Q79358625",
+    "start": "2019-12-21T00:00:00Z",
+    "pLabel": "Manuel Marrero Cruz",
+    "ps": "http://www.wikidata.org/entity/statement/Q79358625-1FE5C669-29B5-41F5-915E-674F2F142EFD",
+    "party": "http://www.wikidata.org/entity/Q371402",
+    "partyLabel": "Communist Party of Cuba"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q736",
+    "iso": "ECU",
+    "s": "http://www.wikidata.org/entity/statement/q736-8c21bc97-423f-5acc-8fb4-2757593f1eda",
+    "p": "http://www.wikidata.org/entity/Q112075625",
+    "start": "2023-11-23T00:00:00Z",
+    "pLabel": "Daniel Noboa",
+    "ps": "http://www.wikidata.org/entity/statement/Q112075625-786a1893-4300-87b6-6ad0-3df4681925c1",
+    "party": "http://www.wikidata.org/entity/Q120971997",
+    "partyLabel": "National Democratic Action"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q800",
+    "iso": "CRI",
+    "s": "http://www.wikidata.org/entity/statement/Q800-16b40033-41c5-7666-6458-55ee776cb1d2",
+    "p": "http://www.wikidata.org/entity/Q114705150",
+    "start": "2026-05-08T00:00:00Z",
+    "pLabel": "Laura Fernández Delgado",
+    "ps": "http://www.wikidata.org/entity/statement/Q114705150-216cffcd-4ee2-6bd7-3f0d-49f02f7c99b3",
+    "party": "http://www.wikidata.org/entity/Q135553930",
+    "partyLabel": "Sovereign People's Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q739",
+    "iso": "COL",
+    "s": "http://www.wikidata.org/entity/statement/Q739-e112afd9-4a6a-7d0f-949b-5b4e6bb4b7a6",
+    "p": "http://www.wikidata.org/entity/Q137204778",
+    "start": "2026-08-07T00:00:00Z",
+    "pLabel": "Abelardo de la Espriella",
+    "ps": "http://www.wikidata.org/entity/statement/Q137204778-b23e5346-488b-5beb-f08b-ec16e79d8f82",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1011",
+    "iso": "CPV",
+    "s": "http://www.wikidata.org/entity/statement/Q1011-038320fc-41b0-3710-8925-f1c9b89252d6",
+    "p": "http://www.wikidata.org/entity/Q139594211",
+    "start": "2026-06-19T00:00:00Z",
+    "pLabel": "Francisco Carvalho",
+    "ps": "http://www.wikidata.org/entity/statement/Q139594211-1dd9cdac-47d9-53cc-5c69-877b04c7220d",
+    "party": "http://www.wikidata.org/entity/Q497464",
+    "partyLabel": "African Party for the Independence of Cape Verde"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q35",
+    "iso": "DNK",
+    "s": "http://www.wikidata.org/entity/statement/Q35-c1b4e644-4c0f-99ec-e16c-17290c8b8282",
+    "p": "http://www.wikidata.org/entity/Q5015",
+    "start": "2019-06-27T00:00:00Z",
+    "pLabel": "Mette Frederiksen",
+    "ps": "http://www.wikidata.org/entity/statement/Q5015-4662D08E-82E7-49A3-9F8F-7A2914700986",
+    "party": "http://www.wikidata.org/entity/Q212101",
+    "partyLabel": "Social Democrats"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q986",
+    "iso": "ERI",
+    "s": "http://www.wikidata.org/entity/statement/Q986-073a466e-4a22-1f92-5d9a-9cc43588e9bd",
+    "p": "http://www.wikidata.org/entity/Q57348",
+    "start": "1993-01-01T00:00:00Z",
+    "pLabel": "Isaias Afwerki",
+    "ps": "http://www.wikidata.org/entity/statement/q57348-19FF6DA9-B825-46A4-BB64-7466957962B4",
+    "party": "http://www.wikidata.org/entity/Q863376",
+    "partyLabel": "People's Front for Democracy and Justice"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q784",
+    "iso": "DMA",
+    "s": "http://www.wikidata.org/entity/statement/q784-69E1926A-ED2B-4925-A01B-E5A1499DA07E",
+    "p": "http://www.wikidata.org/entity/Q57823",
+    "start": "2004-01-08T00:00:00Z",
+    "pLabel": "Roosevelt Skerrit",
+    "ps": "http://www.wikidata.org/entity/statement/q57823-C924DBDF-0BA4-4618-AD6F-F3BC8689AD15",
+    "party": "http://www.wikidata.org/entity/Q1287573",
+    "partyLabel": "Dominica Labour Party"
+  }
+]

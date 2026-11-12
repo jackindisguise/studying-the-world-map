@@ -1,0 +1,48 @@
+[
+  { "c": "http://www.wikidata.org/entity/Q32", "iso": "LUX", "v": "690959" },
+  { "c": "http://www.wikidata.org/entity/Q37", "iso": "LTU", "v": "2860002" },
+  { "c": "http://www.wikidata.org/entity/Q96", "iso": "MEX", "v": "132274416" },
+  { "c": "http://www.wikidata.org/entity/Q211", "iso": "LVA", "v": "1845096" },
+  { "c": "http://www.wikidata.org/entity/Q217", "iso": "MDA", "v": "2409207" },
+  { "c": "http://www.wikidata.org/entity/Q233", "iso": "MLT", "v": "553214" },
+  { "c": "http://www.wikidata.org/entity/Q235", "iso": "MCO", "v": "38857" },
+  { "c": "http://www.wikidata.org/entity/Q236", "iso": "MNE", "v": "617213" },
+  { "c": "http://www.wikidata.org/entity/Q347", "iso": "LIE", "v": "37922" },
+  { "c": "http://www.wikidata.org/entity/Q697", "iso": "NRU", "v": "13650" },
+  { "c": "http://www.wikidata.org/entity/Q702", "iso": "FSM", "v": "75817" },
+  { "c": "http://www.wikidata.org/entity/Q709", "iso": "MHL", "v": "53127" },
+  { "c": "http://www.wikidata.org/entity/Q711", "iso": "MNG", "v": "3409939" },
+  { "c": "http://www.wikidata.org/entity/Q813", "iso": "KGZ", "v": "7281800" },
+  { "c": "http://www.wikidata.org/entity/Q819", "iso": "LAO", "v": "6858160" },
+  { "c": "http://www.wikidata.org/entity/Q822", "iso": "LBN", "v": "6100075" },
+  { "c": "http://www.wikidata.org/entity/Q826", "iso": "MDV", "v": "436330" },
+  { "c": "http://www.wikidata.org/entity/Q833", "iso": "MYS", "v": "34231700" },
+  { "c": "http://www.wikidata.org/entity/Q836", "iso": "MMR", "v": "53370609" },
+  { "c": "http://www.wikidata.org/entity/Q912", "iso": "MLI", "v": "22395489" },
+  { "c": "http://www.wikidata.org/entity/Q1013", "iso": "LSO", "v": "2007201" },
+  { "c": "http://www.wikidata.org/entity/Q1014", "iso": "LBR", "v": "5214030" },
+  { "c": "http://www.wikidata.org/entity/Q1016", "iso": "LBY", "v": "7381023" },
+  {
+    "c": "http://www.wikidata.org/entity/Q1019",
+    "iso": "MDG",
+    "v": "31964956"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1020",
+    "iso": "MWI",
+    "v": "17563749"
+  },
+  { "c": "http://www.wikidata.org/entity/Q1025", "iso": "MRT", "v": "4736139" },
+  { "c": "http://www.wikidata.org/entity/Q1027", "iso": "MUS", "v": "1264613" },
+  {
+    "c": "http://www.wikidata.org/entity/Q1028",
+    "iso": "MAR",
+    "v": "36828330"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1029",
+    "iso": "MOZ",
+    "v": "29668834"
+  },
+  { "c": "http://www.wikidata.org/entity/Q1030", "iso": "NAM", "v": "2533794" }
+]

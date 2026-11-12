@@ -1,0 +1,233 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1039",
+    "iso": "STP",
+    "s": "http://www.wikidata.org/entity/statement/q1039-4061653E-4B8A-4FE7-BF4C-E60CEDD46FA2",
+    "v": "http://www.wikidata.org/entity/Q3932",
+    "vLabel": "São Tomé"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1041",
+    "iso": "SEN",
+    "s": "http://www.wikidata.org/entity/statement/q1041-3AAD1DDA-7166-43DD-95DE-BB3DCCEE4359",
+    "v": "http://www.wikidata.org/entity/Q3718",
+    "vLabel": "Dakar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1042",
+    "iso": "SYC",
+    "s": "http://www.wikidata.org/entity/statement/q1042-BE8CB932-A01B-43BF-A65A-7C9B4FAA8C20",
+    "v": "http://www.wikidata.org/entity/Q3940",
+    "vLabel": "Victoria"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1044",
+    "iso": "SLE",
+    "s": "http://www.wikidata.org/entity/statement/q1044-3A4735B8-788A-4843-A8D2-96FE5570E920",
+    "v": "http://www.wikidata.org/entity/Q3780",
+    "vLabel": "Freetown"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1045",
+    "iso": "SOM",
+    "s": "http://www.wikidata.org/entity/statement/q1045-087FC40D-E947-46C7-BFD1-DCCA3346DF5E",
+    "v": "http://www.wikidata.org/entity/Q2449",
+    "vLabel": "Mogadishu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1049",
+    "iso": "SDN",
+    "s": "http://www.wikidata.org/entity/statement/q1049-0BD0A115-37DD-4D86-AC0C-8DE221C8F09D",
+    "v": "http://www.wikidata.org/entity/Q1963",
+    "vLabel": "Khartoum"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q214",
+    "iso": "SVK",
+    "s": "http://www.wikidata.org/entity/statement/q214-38C3C689-4016-435B-9D9A-489FD3222A3F",
+    "v": "http://www.wikidata.org/entity/Q1780",
+    "vLabel": "Bratislava"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q215",
+    "iso": "SVN",
+    "s": "http://www.wikidata.org/entity/statement/q215-574447C5-B38A-48E4-93E8-A2AC97AD8ABC",
+    "v": "http://www.wikidata.org/entity/Q437",
+    "vLabel": "Ljubljana"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "s": "http://www.wikidata.org/entity/statement/Q258-27941c24-4459-00e6-3aba-0c42f18dfcdd",
+    "v": "http://www.wikidata.org/entity/Q5465",
+    "vLabel": "Cape Town"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "s": "http://www.wikidata.org/entity/statement/q258-45FA18AF-AD77-46AF-8C4F-80E0B0B66797",
+    "v": "http://www.wikidata.org/entity/Q3926",
+    "vLabel": "Pretoria"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q258",
+    "iso": "ZAF",
+    "s": "http://www.wikidata.org/entity/statement/Q258-6cfdfa49-4730-bbcc-5c63-5f34469f270a",
+    "v": "http://www.wikidata.org/entity/Q37701",
+    "vLabel": "Bloemfontein"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29",
+    "iso": "ESP",
+    "s": "http://www.wikidata.org/entity/statement/q29-946C671C-6198-4B49-B8E5-A9E616E125BF",
+    "v": "http://www.wikidata.org/entity/Q2807",
+    "vLabel": "Madrid"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q334",
+    "iso": "SGP",
+    "s": "http://www.wikidata.org/entity/statement/q334-52FBDD66-15FA-4610-BB15-9BAFE7F38360",
+    "v": "http://www.wikidata.org/entity/Q334",
+    "vLabel": "Singapore"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q34",
+    "iso": "SWE",
+    "s": "http://www.wikidata.org/entity/statement/Q34-29dffe8a-4325-956d-eb86-87b763bfb638",
+    "v": "http://www.wikidata.org/entity/Q1754",
+    "vLabel": "Stockholm"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q39",
+    "iso": "CHE",
+    "s": "http://www.wikidata.org/entity/statement/q39-ab4176f0-495a-275d-82ca-8bd7a4dbe889",
+    "v": "http://www.wikidata.org/entity/Q70",
+    "vLabel": "Bern"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q403",
+    "iso": "SRB",
+    "s": "http://www.wikidata.org/entity/statement/q403-6A9D98F3-8BCB-4F52-929D-BE27E73B38FB",
+    "v": "http://www.wikidata.org/entity/Q3711",
+    "vLabel": "Belgrade"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q574",
+    "iso": "TLS",
+    "s": "http://www.wikidata.org/entity/statement/q574-32a2ef00-419c-75ce-9bb6-ddab2b91488c",
+    "v": "http://www.wikidata.org/entity/Q9310",
+    "vLabel": "Dili"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q678",
+    "iso": "TON",
+    "s": "http://www.wikidata.org/entity/statement/q678-3E4D1475-FD32-4D17-967D-4EBC1BC1D5B8",
+    "v": "http://www.wikidata.org/entity/Q38834",
+    "vLabel": "Nukuʻalofa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q685",
+    "iso": "SLB",
+    "s": "http://www.wikidata.org/entity/statement/q685-1ba65eec-4fd9-aaea-758c-182ddcdadc97",
+    "v": "http://www.wikidata.org/entity/Q40921",
+    "vLabel": "Honiara"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q730",
+    "iso": "SUR",
+    "s": "http://www.wikidata.org/entity/statement/q730-CBCB32DB-AB31-454A-AC18-50569484448E",
+    "v": "http://www.wikidata.org/entity/Q3001",
+    "vLabel": "Paramaribo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q754",
+    "iso": "TTO",
+    "s": "http://www.wikidata.org/entity/statement/q754-68662422-ED4C-4503-B7EC-9A3B5C002759",
+    "v": "http://www.wikidata.org/entity/Q39178",
+    "vLabel": "Port of Spain"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q851",
+    "iso": "SAU",
+    "s": "http://www.wikidata.org/entity/statement/q851-FADAECB3-21B7-4273-9991-6745F9BF07D3",
+    "v": "http://www.wikidata.org/entity/Q3692",
+    "vLabel": "Riyadh"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q854",
+    "iso": "LKA",
+    "s": "http://www.wikidata.org/entity/statement/Q854-0e57747a-409c-e232-3513-ffaa308768fd",
+    "v": "http://www.wikidata.org/entity/Q41963",
+    "vLabel": "Sri Jayawardenepura Kotte"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q854",
+    "iso": "LKA",
+    "s": "http://www.wikidata.org/entity/statement/Q854-d23dbbdc-43a8-e460-66db-150dd54cd273",
+    "v": "http://www.wikidata.org/entity/Q35381",
+    "vLabel": "Colombo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q858",
+    "iso": "SYR",
+    "s": "http://www.wikidata.org/entity/statement/q858-417351A2-D165-459C-85E3-F2EA227320DC",
+    "v": "http://www.wikidata.org/entity/Q3766",
+    "vLabel": "Damascus"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q863",
+    "iso": "TJK",
+    "s": "http://www.wikidata.org/entity/statement/q863-668982C8-96A2-4010-B6F1-9C48B7C16E9B",
+    "v": "http://www.wikidata.org/entity/Q9365",
+    "vLabel": "Dushanbe"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q865",
+    "iso": "TWN",
+    "s": "http://www.wikidata.org/entity/statement/q865-A1971244-0B16-4E01-ADE8-A0C013E34D01",
+    "v": "http://www.wikidata.org/entity/Q1867",
+    "vLabel": "Taipei"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q869",
+    "iso": "THA",
+    "s": "http://www.wikidata.org/entity/statement/q869-AABBF66D-C714-43E0-8C37-C36F24CFA208",
+    "v": "http://www.wikidata.org/entity/Q1861",
+    "vLabel": "Bangkok"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q884",
+    "iso": "KOR",
+    "s": "http://www.wikidata.org/entity/statement/q884-ACA44C84-E9D5-4350-8B15-47DB5BFC72AB",
+    "v": "http://www.wikidata.org/entity/Q8684",
+    "vLabel": "Seoul"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q924",
+    "iso": "TZA",
+    "s": "http://www.wikidata.org/entity/statement/q924-4754E221-1E9A-4541-B1D1-C97DA1408A92",
+    "v": "http://www.wikidata.org/entity/Q3866",
+    "vLabel": "Dodoma"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q945",
+    "iso": "TGO",
+    "s": "http://www.wikidata.org/entity/statement/q945-F013E34B-E79E-46E6-95F2-AC475F98E7A7",
+    "v": "http://www.wikidata.org/entity/Q3792",
+    "vLabel": "Lomé"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q948",
+    "iso": "TUN",
+    "s": "http://www.wikidata.org/entity/statement/q948-14975458-6B86-493E-B686-205A31F8EF92",
+    "v": "http://www.wikidata.org/entity/Q3572",
+    "vLabel": "Tunis"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q958",
+    "iso": "SSD",
+    "s": "http://www.wikidata.org/entity/statement/q958-531C0BA9-9192-4EB5-A4A7-6C39EC02F823",
+    "v": "http://www.wikidata.org/entity/Q1947",
+    "vLabel": "Juba"
+  }
+]

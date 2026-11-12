@@ -1,0 +1,240 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1005",
+    "iso": "GMB",
+    "s": "http://www.wikidata.org/entity/statement/q1005-2002AACC-5828-4DC1-81B0-A1DE57548455",
+    "v": "http://www.wikidata.org/entity/Q202885",
+    "vLabel": "dalasi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1006",
+    "iso": "GIN",
+    "s": "http://www.wikidata.org/entity/statement/q1006-33CEDFC2-7FE4-4220-AACA-5B3F3121671A",
+    "v": "http://www.wikidata.org/entity/Q213311",
+    "vLabel": "Guinean franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1007",
+    "iso": "GNB",
+    "s": "http://www.wikidata.org/entity/statement/Q1007-22986d51-4bbf-1009-b8a6-5a49c7553e9e",
+    "v": "http://www.wikidata.org/entity/Q1329465",
+    "vLabel": "Guinea-Bissau peso"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1007",
+    "iso": "GNB",
+    "s": "http://www.wikidata.org/entity/statement/q1007-A9C39D2B-168F-407D-AC36-6955568ADF87",
+    "v": "http://www.wikidata.org/entity/Q861690",
+    "vLabel": "West African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1008",
+    "iso": "CIV",
+    "s": "http://www.wikidata.org/entity/statement/q1008-DB132759-8DA6-4CA7-BDB6-9E9FF592219E",
+    "v": "http://www.wikidata.org/entity/Q861690",
+    "vLabel": "West African CFA franc"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q114",
+    "iso": "KEN",
+    "s": "http://www.wikidata.org/entity/statement/q114-CB80A0AA-DA97-4AB6-874A-E046C06692FD",
+    "v": "http://www.wikidata.org/entity/Q202882",
+    "vLabel": "Kenyan shilling"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q117",
+    "iso": "GHA",
+    "s": "http://www.wikidata.org/entity/statement/q117-D80C0CDF-A850-44A2-B8EF-BDB1EE921413",
+    "v": "http://www.wikidata.org/entity/Q183530",
+    "vLabel": "Ghana cedi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q117",
+    "iso": "GHA",
+    "s": "http://www.wikidata.org/entity/statement/Q117-e4a1803d-4e8f-888f-65a0-ccbe81e44986",
+    "v": "http://www.wikidata.org/entity/Q134397947",
+    "vLabel": "Ghana Pesewa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1246",
+    "iso": "XKX",
+    "s": "http://www.wikidata.org/entity/statement/q1246-0321043E-D76D-4CA7-B3EA-DEB71EAF5444",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q17",
+    "iso": "JPN",
+    "s": "http://www.wikidata.org/entity/statement/q17-37158A50-995D-4FD3-9097-C39D048D5590",
+    "v": "http://www.wikidata.org/entity/Q8146",
+    "vLabel": "yen"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "s": "http://www.wikidata.org/entity/statement/q183-ED473691-C1BA-4C44-A377-9878C48E65B6",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q189",
+    "iso": "ISL",
+    "s": "http://www.wikidata.org/entity/statement/Q189-29D94021-87D1-4E03-B78E-B89E22A74E69",
+    "v": "http://www.wikidata.org/entity/Q131473",
+    "vLabel": "Icelandic króna"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "s": "http://www.wikidata.org/entity/statement/q230-1ADD8E97-86E9-45EF-8CA7-A251BF6C8FDA",
+    "v": "http://www.wikidata.org/entity/Q4608",
+    "vLabel": "Georgian lari"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q232",
+    "iso": "KAZ",
+    "s": "http://www.wikidata.org/entity/statement/q232-526B6686-B8D6-48BC-8EE5-B2C87D7F0893",
+    "v": "http://www.wikidata.org/entity/Q173751",
+    "vLabel": "Kazakhstani tenge"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q252",
+    "iso": "IDN",
+    "s": "http://www.wikidata.org/entity/statement/q252-47149586-EDFA-4BA6-8660-C3E14007816C",
+    "v": "http://www.wikidata.org/entity/Q41588",
+    "vLabel": "rupiah"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "s": "http://www.wikidata.org/entity/statement/q27-AC28765E-4674-461D-B6F8-63FBF22727D0",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "s": "http://www.wikidata.org/entity/statement/Q27-c6cf4b35-47b6-18c2-94bb-67952042fd81",
+    "v": "http://www.wikidata.org/entity/Q274474",
+    "vLabel": "Irish euro coin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q28",
+    "iso": "HUN",
+    "s": "http://www.wikidata.org/entity/statement/Q28-09f491c7-4ee7-08eb-e64f-07040609ee07",
+    "v": "http://www.wikidata.org/entity/Q47190",
+    "vLabel": "forint"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q38",
+    "iso": "ITA",
+    "s": "http://www.wikidata.org/entity/statement/q38-73565289-9384-4813-A2F8-AD223777999F",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q41",
+    "iso": "GRC",
+    "s": "http://www.wikidata.org/entity/statement/q41-F5DD82F5-6270-451C-A6B9-718D96E211F3",
+    "v": "http://www.wikidata.org/entity/Q4916",
+    "vLabel": "euro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "s": "http://www.wikidata.org/entity/statement/q668-F80305E3-3ACE-40BA-8BF3-A186BFEEC218",
+    "v": "http://www.wikidata.org/entity/Q80524",
+    "vLabel": "Indian rupee"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q710",
+    "iso": "KIR",
+    "s": "http://www.wikidata.org/entity/statement/q710-B1A80573-6D16-4EF6-9612-A1FB99C96AD0",
+    "v": "http://www.wikidata.org/entity/Q1049963",
+    "vLabel": "Kiribati dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q710",
+    "iso": "KIR",
+    "s": "http://www.wikidata.org/entity/statement/q710-F75B2C98-E02E-4B6F-BC31-5BF334FD23E3",
+    "v": "http://www.wikidata.org/entity/Q259502",
+    "vLabel": "Australian dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q734",
+    "iso": "GUY",
+    "s": "http://www.wikidata.org/entity/statement/q734-642BA2E9-185E-4EE7-A38B-5F565DB0DC04",
+    "v": "http://www.wikidata.org/entity/Q213005",
+    "vLabel": "Guyanese dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q766",
+    "iso": "JAM",
+    "s": "http://www.wikidata.org/entity/statement/q766-DBEB9379-17DD-4CC4-8A61-35432D9D5A38",
+    "v": "http://www.wikidata.org/entity/Q209792",
+    "vLabel": "Jamaican dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q769",
+    "iso": "GRD",
+    "s": "http://www.wikidata.org/entity/statement/q769-22C5817C-F800-400D-9D11-4E08873BCFB4",
+    "v": "http://www.wikidata.org/entity/Q26365",
+    "vLabel": "Eastern Caribbean dollar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q774",
+    "iso": "GTM",
+    "s": "http://www.wikidata.org/entity/statement/q774-7979B969-6765-4567-94C7-725FD349B5C6",
+    "v": "http://www.wikidata.org/entity/Q207396",
+    "vLabel": "quetzal"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q783",
+    "iso": "HND",
+    "s": "http://www.wikidata.org/entity/statement/q783-281B5E84-25BC-456F-AE4A-A8D88DDE920E",
+    "v": "http://www.wikidata.org/entity/Q4719",
+    "vLabel": "Honduran lempira"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q790",
+    "iso": "HTI",
+    "s": "http://www.wikidata.org/entity/statement/q790-442BF442-6CE8-4AE6-AFA2-9FC2C490FFA0",
+    "v": "http://www.wikidata.org/entity/Q203955",
+    "vLabel": "gourde"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "s": "http://www.wikidata.org/entity/statement/q794-200079CC-4C85-4C7A-BCA8-198A98840C7B",
+    "v": "http://www.wikidata.org/entity/Q188608",
+    "vLabel": "Iranian rial"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q796",
+    "iso": "IRQ",
+    "s": "http://www.wikidata.org/entity/statement/q796-A7290095-A1B3-45F8-BA16-9C1E15C7C982",
+    "v": "http://www.wikidata.org/entity/Q193094",
+    "vLabel": "Iraqi dinar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q801",
+    "iso": "ISR",
+    "s": "http://www.wikidata.org/entity/statement/q801-432D6F16-BE6F-4B74-8155-6D1881EFDB23",
+    "v": "http://www.wikidata.org/entity/Q131309",
+    "vLabel": "new shekel"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q810",
+    "iso": "JOR",
+    "s": "http://www.wikidata.org/entity/statement/q810-319BE189-61C5-442C-B98D-E0DF4A7494F7",
+    "v": "http://www.wikidata.org/entity/Q203722",
+    "vLabel": "Jordanian dinar"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q817",
+    "iso": "KWT",
+    "s": "http://www.wikidata.org/entity/statement/q817-384D760A-F4DF-44EB-8818-251517EE5036",
+    "v": "http://www.wikidata.org/entity/Q193098",
+    "vLabel": "Kuwaiti dinar"
+  }
+]

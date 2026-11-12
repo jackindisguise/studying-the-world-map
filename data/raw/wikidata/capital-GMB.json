@@ -1,0 +1,247 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q1005",
+    "iso": "GMB",
+    "s": "http://www.wikidata.org/entity/statement/q1005-1446A6E5-3D32-4658-8421-CDD58ED843AA",
+    "v": "http://www.wikidata.org/entity/Q3726",
+    "vLabel": "Banjul"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1006",
+    "iso": "GIN",
+    "s": "http://www.wikidata.org/entity/statement/q1006-B176A807-790D-4B69-BEA0-A31B26C52482",
+    "v": "http://www.wikidata.org/entity/Q3733",
+    "vLabel": "Conakry"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1007",
+    "iso": "GNB",
+    "s": "http://www.wikidata.org/entity/statement/q1007-FCDCE328-CD84-41B9-A536-ADB3309A9EE0",
+    "v": "http://www.wikidata.org/entity/Q3739",
+    "vLabel": "Bissau"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1008",
+    "iso": "CIV",
+    "s": "http://www.wikidata.org/entity/statement/q1008-E92D72DA-4C0E-427B-A365-DB7024A36783",
+    "v": "http://www.wikidata.org/entity/Q3768",
+    "vLabel": "Yamoussoukro"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q114",
+    "iso": "KEN",
+    "s": "http://www.wikidata.org/entity/statement/q114-A6BC1157-8300-4525-88DA-D02F79AD8B16",
+    "v": "http://www.wikidata.org/entity/Q3870",
+    "vLabel": "Nairobi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q117",
+    "iso": "GHA",
+    "s": "http://www.wikidata.org/entity/statement/q117-5D950DEF-6A10-4C11-B2B8-74CD61EB83C2",
+    "v": "http://www.wikidata.org/entity/Q3761",
+    "vLabel": "Accra"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1246",
+    "iso": "XKX",
+    "s": "http://www.wikidata.org/entity/statement/q1246-90C1C361-7B7B-48E4-B9A4-9A6D64239B2A",
+    "v": "http://www.wikidata.org/entity/Q25270",
+    "vLabel": "Pristina"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q17",
+    "iso": "JPN",
+    "s": "http://www.wikidata.org/entity/statement/Q17-7b5e8528-4dcd-04ee-eb80-b231abec34e5",
+    "v": "http://www.wikidata.org/entity/Q1490",
+    "vLabel": "Tokyo"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "s": "http://www.wikidata.org/entity/statement/Q183-0cf8133c-44be-a094-4c18-56434f7f4b9f",
+    "v": "http://www.wikidata.org/entity/Q64",
+    "vLabel": "Berlin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "s": "http://www.wikidata.org/entity/statement/q183-7068B86F-8E11-4456-8297-2CE3B50C38EA",
+    "v": "http://www.wikidata.org/entity/Q64",
+    "vLabel": "Berlin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q189",
+    "iso": "ISL",
+    "s": "http://www.wikidata.org/entity/statement/q189-9007C954-CCAF-4EE1-9D94-F87702FF646B",
+    "v": "http://www.wikidata.org/entity/Q1764",
+    "vLabel": "Reykjavík"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "s": "http://www.wikidata.org/entity/statement/q230-5E6C25E3-250B-4951-B5EE-2625A576B8BE",
+    "v": "http://www.wikidata.org/entity/Q994",
+    "vLabel": "Tbilisi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q232",
+    "iso": "KAZ",
+    "s": "http://www.wikidata.org/entity/statement/q232-42FF0727-37F9-4D93-93A4-7B72DD738EFD",
+    "v": "http://www.wikidata.org/entity/Q1520",
+    "vLabel": "Astana"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q252",
+    "iso": "IDN",
+    "s": "http://www.wikidata.org/entity/statement/Q252-2ba9e7da-4bb6-e9b8-a57b-945f7d06d9ba",
+    "v": "http://www.wikidata.org/entity/Q110601629",
+    "vLabel": "Nusantara"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q252",
+    "iso": "IDN",
+    "s": "http://www.wikidata.org/entity/statement/Q252-60ac5a52-4f6b-c85f-3509-540ed6386705",
+    "v": "http://www.wikidata.org/entity/Q3630",
+    "vLabel": "Jakarta"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "s": "http://www.wikidata.org/entity/statement/q27-C16D1E57-4D91-48E5-9BEB-0084216D7DEA",
+    "v": "http://www.wikidata.org/entity/Q1761",
+    "vLabel": "Dublin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q28",
+    "iso": "HUN",
+    "s": "http://www.wikidata.org/entity/statement/q28-5F675EBB-D9B0-4107-9576-A81A2A9CA4E6",
+    "v": "http://www.wikidata.org/entity/Q1781",
+    "vLabel": "Budapest"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q38",
+    "iso": "ITA",
+    "s": "http://www.wikidata.org/entity/statement/q38-D5EB0888-3275-4B9F-A371-ED66DA7CAAB2",
+    "v": "http://www.wikidata.org/entity/Q220",
+    "vLabel": "Rome"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q41",
+    "iso": "GRC",
+    "s": "http://www.wikidata.org/entity/statement/Q41-19957EA2-EC09-42C1-9769-B6F48A333226",
+    "v": "http://www.wikidata.org/entity/Q1524",
+    "vLabel": "Athens"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q41",
+    "iso": "GRC",
+    "s": "http://www.wikidata.org/entity/statement/q41-E6C6BEA5-EAFC-4AE3-950C-2FE16E11F910",
+    "v": "http://www.wikidata.org/entity/Q1524",
+    "vLabel": "Athens"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "s": "http://www.wikidata.org/entity/statement/q668-F5A99C88-77A2-4BC0-B17C-5557D19B2751",
+    "v": "http://www.wikidata.org/entity/Q987",
+    "vLabel": "New Delhi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q710",
+    "iso": "KIR",
+    "s": "http://www.wikidata.org/entity/statement/q710-2b1e74ac-4c70-5bcc-59fa-83070c0cf73c",
+    "v": "http://www.wikidata.org/entity/Q131233",
+    "vLabel": "South Tarawa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q734",
+    "iso": "GUY",
+    "s": "http://www.wikidata.org/entity/statement/q734-EDBD1C5F-A849-45D9-BDF4-2889B1F59038",
+    "v": "http://www.wikidata.org/entity/Q10717",
+    "vLabel": "Georgetown"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q766",
+    "iso": "JAM",
+    "s": "http://www.wikidata.org/entity/statement/q766-6C408043-56CF-469D-9974-DCFE2CE81528",
+    "v": "http://www.wikidata.org/entity/Q34692",
+    "vLabel": "Kingston"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q769",
+    "iso": "GRD",
+    "s": "http://www.wikidata.org/entity/statement/q769-D8ED61EE-2123-47E3-99EC-491A08727A9A",
+    "v": "http://www.wikidata.org/entity/Q41547",
+    "vLabel": "St. George's"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q774",
+    "iso": "GTM",
+    "s": "http://www.wikidata.org/entity/statement/q774-1FA998AC-B7CE-47AC-B753-1078865AB591",
+    "v": "http://www.wikidata.org/entity/Q1555",
+    "vLabel": "Guatemala City"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q783",
+    "iso": "HND",
+    "s": "http://www.wikidata.org/entity/statement/q783-98063A75-A31B-47C1-AD53-AB96E08F7EF1",
+    "v": "http://www.wikidata.org/entity/Q3238",
+    "vLabel": "Tegucigalpa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q790",
+    "iso": "HTI",
+    "s": "http://www.wikidata.org/entity/statement/q790-100D55DE-66B7-49CC-988C-CF5A2B53112D",
+    "v": "http://www.wikidata.org/entity/Q34261",
+    "vLabel": "Port-au-Prince"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "s": "http://www.wikidata.org/entity/statement/q794-739B6A4F-A954-4F91-AF2C-BFBC6D416117",
+    "v": "http://www.wikidata.org/entity/Q3616",
+    "vLabel": "Tehran"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q796",
+    "iso": "IRQ",
+    "s": "http://www.wikidata.org/entity/statement/q796-316082E6-291B-43C0-9F24-6375F4D49550",
+    "v": "http://www.wikidata.org/entity/Q1530",
+    "vLabel": "Baghdad"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q801",
+    "iso": "ISR",
+    "s": "http://www.wikidata.org/entity/statement/q801-43890632-9AAB-4D55-9BF4-7CF9C17CF72F",
+    "v": "http://www.wikidata.org/entity/Q1218",
+    "vLabel": "Jerusalem"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q801",
+    "iso": "ISR",
+    "s": "http://www.wikidata.org/entity/statement/Q801-9f7366b2-42d4-9b60-3ea7-e06192199e2e",
+    "v": "http://www.wikidata.org/entity/Q33935",
+    "vLabel": "Tel Aviv"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q810",
+    "iso": "JOR",
+    "s": "http://www.wikidata.org/entity/statement/q810-062FCA23-B0E4-4D1B-AD34-50B8A274FC9B",
+    "v": "http://www.wikidata.org/entity/Q3805",
+    "vLabel": "Amman"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q817",
+    "iso": "KWT",
+    "s": "http://www.wikidata.org/entity/statement/q817-D3CAD1B4-0742-4C85-A762-C2961295FF34",
+    "v": "http://www.wikidata.org/entity/Q35178",
+    "vLabel": "Kuwait City"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "s": "http://www.wikidata.org/entity/statement/Q183-f28369da-4f68-b2bb-29c9-ae986f663dc0",
+    "v": "http://www.wikidata.org/entity/Q64",
+    "vLabel": "Berlin"
+  }
+]

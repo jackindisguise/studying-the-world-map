@@ -1,0 +1,314 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://www.wikidata.org/entity/Q9043",
+    "vLabel": "Norwegian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://www.wikidata.org/entity/Q25164",
+    "vLabel": "Nynorsk"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://www.wikidata.org/entity/Q25167",
+    "vLabel": "Bokmål"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "v": "http://www.wikidata.org/entity/Q56463",
+    "vLabel": "Sámi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q36",
+    "iso": "POL",
+    "v": "http://www.wikidata.org/entity/Q809",
+    "vLabel": "Polish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q45",
+    "iso": "PRT",
+    "v": "http://www.wikidata.org/entity/Q5146",
+    "vLabel": "Portuguese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q159",
+    "iso": "RUS",
+    "v": "http://www.wikidata.org/entity/Q7737",
+    "vLabel": "Russian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q218",
+    "iso": "ROU",
+    "v": "http://www.wikidata.org/entity/Q7913",
+    "vLabel": "Romanian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q221",
+    "iso": "MKD",
+    "v": "http://www.wikidata.org/entity/Q8748",
+    "vLabel": "Albanian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q221",
+    "iso": "MKD",
+    "v": "http://www.wikidata.org/entity/Q9296",
+    "vLabel": "Macedonian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "v": "http://www.wikidata.org/entity/Q652",
+    "vLabel": "Italian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q419",
+    "iso": "PER",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q419",
+    "iso": "PER",
+    "v": "http://www.wikidata.org/entity/Q4627",
+    "vLabel": "Aymara"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q419",
+    "iso": "PER",
+    "v": "http://www.wikidata.org/entity/Q5218",
+    "vLabel": "Quechua"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q9176",
+    "vLabel": "Korean"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "v": "http://www.wikidata.org/entity/Q18784",
+    "vLabel": "North Korean standard language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q664",
+    "iso": "NZL",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q664",
+    "iso": "NZL",
+    "v": "http://www.wikidata.org/entity/Q36239",
+    "vLabel": "New Zealand Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q664",
+    "iso": "NZL",
+    "v": "http://www.wikidata.org/entity/Q36451",
+    "vLabel": "Māori"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q683",
+    "iso": "WSM",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q683",
+    "iso": "WSM",
+    "v": "http://www.wikidata.org/entity/Q34011",
+    "vLabel": "Samoan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q691",
+    "iso": "PNG",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q691",
+    "iso": "PNG",
+    "v": "http://www.wikidata.org/entity/Q33617",
+    "vLabel": "Hiri Motu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q691",
+    "iso": "PNG",
+    "v": "http://www.wikidata.org/entity/Q34159",
+    "vLabel": "Tok Pisin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q691",
+    "iso": "PNG",
+    "v": "http://www.wikidata.org/entity/Q25044405",
+    "vLabel": "Papua New Guinean Sign Language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q695",
+    "iso": "PLW",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q695",
+    "iso": "PLW",
+    "v": "http://www.wikidata.org/entity/Q5287",
+    "vLabel": "Japanese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q695",
+    "iso": "PLW",
+    "v": "http://www.wikidata.org/entity/Q33776",
+    "vLabel": "Palauan"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q733",
+    "iso": "PRY",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q733",
+    "iso": "PRY",
+    "v": "http://www.wikidata.org/entity/Q35876",
+    "vLabel": "Guarani"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q757",
+    "iso": "VCT",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q760",
+    "iso": "LCA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q763",
+    "iso": "KNA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q804",
+    "iso": "PAN",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q811",
+    "iso": "NIC",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q837",
+    "iso": "NPL",
+    "v": "http://www.wikidata.org/entity/Q33823",
+    "vLabel": "Nepali"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q842",
+    "iso": "OMN",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "v": "http://www.wikidata.org/entity/Q1617",
+    "vLabel": "Urdu"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q846",
+    "iso": "QAT",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "v": "http://www.wikidata.org/entity/Q33298",
+    "vLabel": "Filipino"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "v": "http://www.wikidata.org/entity/Q2530387",
+    "vLabel": "Taglish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q971",
+    "iso": "COG",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1032",
+    "iso": "NER",
+    "v": "http://www.wikidata.org/entity/Q56475",
+    "vLabel": "Hausa"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1033",
+    "iso": "NGA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "v": "http://www.wikidata.org/entity/Q7838",
+    "vLabel": "Swahili"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "v": "http://www.wikidata.org/entity/Q33573",
+    "vLabel": "Kinyarwanda"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "v": "http://www.wikidata.org/entity/Q7411",
+    "vLabel": "Dutch"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  }
+]

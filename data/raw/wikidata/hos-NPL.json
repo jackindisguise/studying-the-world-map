@@ -1,0 +1,393 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q29999",
+    "iso": "NLD",
+    "s": "http://www.wikidata.org/entity/statement/q29999-DC9D14ED-6CE4-4D16-BA94-3C4A49E1398C",
+    "p": "http://www.wikidata.org/entity/Q154952",
+    "start": "2013-04-30T00:00:00Z",
+    "pLabel": "William Alexander of the Netherlands"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q20",
+    "iso": "NOR",
+    "s": "http://www.wikidata.org/entity/statement/Q20-a610885c-4c3b-1bc7-594a-36f1a66fcac3",
+    "p": "http://www.wikidata.org/entity/Q165241",
+    "start": "2026-08-28T00:00:00Z",
+    "pLabel": "Haakon VIII of Norway"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q846",
+    "iso": "QAT",
+    "s": "http://www.wikidata.org/entity/statement/Q846-ec1f0021-453f-e39e-5d59-6de24bb3ab28",
+    "p": "http://www.wikidata.org/entity/Q1855372",
+    "start": "2013-06-25T00:00:00Z",
+    "pLabel": "Tamim bin Hamad Al Thani"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q842",
+    "iso": "OMN",
+    "s": "http://www.wikidata.org/entity/statement/q842-BA7531FF-9CD2-4685-8753-E61A268CACB3",
+    "p": "http://www.wikidata.org/entity/Q12250314",
+    "start": "2020-01-11T00:00:00Z",
+    "pLabel": "Haitham bin Tarik Al Said"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1032",
+    "iso": "NER",
+    "s": "http://www.wikidata.org/entity/statement/Q1032-783262c8-44e6-58c3-3e29-cfd2e77f789e",
+    "p": "http://www.wikidata.org/entity/Q120965176",
+    "start": "2023-07-28T00:00:00Z",
+    "pLabel": "Abdourahamane Tiani"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "s": "http://www.wikidata.org/entity/statement/Q238-3edc5fba-4c91-04b2-7a20-459e0e15842a",
+    "p": "http://www.wikidata.org/entity/Q130390817",
+    "start": "2024-10-01T00:00:00Z",
+    "pLabel": "Francesca Civerchia"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q159",
+    "iso": "RUS",
+    "s": "http://www.wikidata.org/entity/statement/Q159-d3ea9c8b-4a26-46f4-2436-eeeb01e1b2d6",
+    "p": "http://www.wikidata.org/entity/Q7747",
+    "start": "2012-05-07T00:00:00Z",
+    "pLabel": "Vladimir Putin"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q763",
+    "iso": "KNA",
+    "s": "http://www.wikidata.org/entity/statement/q763-9A3D0C6C-40F1-4C5D-AA94-2C06935A1FBF",
+    "p": "http://www.wikidata.org/entity/Q43274",
+    "start": "2022-09-08T00:00:00Z",
+    "pLabel": "Charles III"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q760",
+    "iso": "LCA",
+    "s": "http://www.wikidata.org/entity/statement/Q760-a0e605f6-43cd-8079-be0b-843d663f57dc",
+    "p": "http://www.wikidata.org/entity/Q43274",
+    "start": "2022-09-08T00:00:00Z",
+    "pLabel": "Charles III"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q757",
+    "iso": "VCT",
+    "s": "http://www.wikidata.org/entity/statement/q757-93E58CF8-6C5B-4B87-82DE-8AD632ED1C8F",
+    "p": "http://www.wikidata.org/entity/Q43274",
+    "start": "2022-09-08T00:00:00Z",
+    "pLabel": "Charles III"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q691",
+    "iso": "PNG",
+    "s": "http://www.wikidata.org/entity/statement/q691-C4AD0A70-E994-4BDD-812F-4751DA2F7D41",
+    "p": "http://www.wikidata.org/entity/Q43274",
+    "start": "2022-09-08T00:00:00Z",
+    "pLabel": "Charles III"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q664",
+    "iso": "NZL",
+    "s": "http://www.wikidata.org/entity/statement/Q664-54808729-4902-d589-bfb9-2873a390c96e",
+    "p": "http://www.wikidata.org/entity/Q43274",
+    "start": "2022-09-08T00:00:00Z",
+    "pLabel": "Charles III"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q219060",
+    "iso": "PSE",
+    "s": "http://www.wikidata.org/entity/statement/Q219060-9fbecf08-4a45-ee19-d69e-c260a4c50c51",
+    "p": "http://www.wikidata.org/entity/Q127998",
+    "start": "2005-01-15T00:00:00Z",
+    "pLabel": "Mahmoud Abbas",
+    "ps": "http://www.wikidata.org/entity/statement/Q127998-8D5AB398-03A8-41AD-A621-FADD9CFD2123",
+    "party": "http://www.wikidata.org/entity/Q178888",
+    "partyLabel": "Fatah"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q419",
+    "iso": "PER",
+    "s": "http://www.wikidata.org/entity/statement/Q419-130e7d8d-4a47-85a0-846f-bf8254d39557",
+    "p": "http://www.wikidata.org/entity/Q235137",
+    "start": "2026-07-28T00:00:00Z",
+    "pLabel": "Keiko Fujimori",
+    "ps": "http://www.wikidata.org/entity/statement/Q235137-50baff08-42e2-68df-2a7c-10c5a0d6c874",
+    "party": "http://www.wikidata.org/entity/Q1472820",
+    "partyLabel": "People's Force"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "s": "http://www.wikidata.org/entity/statement/Q238-58393f28-402d-4f96-f55d-9eed0007e9b1",
+    "p": "http://www.wikidata.org/entity/Q289413",
+    "pLabel": "Maria Luisa Berti",
+    "ps": "http://www.wikidata.org/entity/statement/Q289413-74721279-32FE-4B3F-A679-8972B130B06E",
+    "party": "http://www.wikidata.org/entity/Q3877750",
+    "partyLabel": "We Sammarinese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q928",
+    "iso": "PHL",
+    "s": "http://www.wikidata.org/entity/statement/Q928-ab5b8155-4fde-1668-a0e9-1342cee46bdf",
+    "p": "http://www.wikidata.org/entity/Q983324",
+    "start": "2022-06-30T00:00:00Z",
+    "pLabel": "Bongbong Marcos",
+    "ps": "http://www.wikidata.org/entity/statement/Q983324-1F7D0E2C-6E61-4260-A7B2-A63D46D593BE",
+    "party": "http://www.wikidata.org/entity/Q60749150",
+    "partyLabel": "Partido Federal ng Pilipinas"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1037",
+    "iso": "RWA",
+    "s": "http://www.wikidata.org/entity/statement/q1037-D61A2CC5-8BC4-4AE9-96D0-613E7E3802A3",
+    "p": "http://www.wikidata.org/entity/Q1231345",
+    "start": "2000-03-24T00:00:00Z",
+    "pLabel": "Paul Kagame",
+    "ps": "http://www.wikidata.org/entity/statement/q1231345-47c9037e-45ef-a94f-5131-2c4405f7e7f3",
+    "party": "http://www.wikidata.org/entity/Q690240",
+    "partyLabel": "Rwandan Patriotic Front"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "s": "http://www.wikidata.org/entity/statement/Q238-2fde4b63-4904-e304-3e20-8db0e16607d1",
+    "p": "http://www.wikidata.org/entity/Q1353628",
+    "start": "2025-04-01T00:00:00Z",
+    "pLabel": "Italo Righi",
+    "ps": "http://www.wikidata.org/entity/statement/Q1353628-723EB6AA-612D-4D12-80E7-2A69EE76BE82",
+    "party": "http://www.wikidata.org/entity/Q44282",
+    "partyLabel": "Sammarinese Christian Democratic Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q45",
+    "iso": "PRT",
+    "s": "http://www.wikidata.org/entity/statement/Q45-0f6d06a0-46c9-f20b-f993-ccb00f387d3a",
+    "p": "http://www.wikidata.org/entity/Q1580316",
+    "start": "2026-03-09T00:00:00Z",
+    "pLabel": "António José Seguro",
+    "ps": "http://www.wikidata.org/entity/statement/Q1580316-404A2785-B7CA-4B6D-AA90-152908044726",
+    "party": "http://www.wikidata.org/entity/Q847263",
+    "partyLabel": "Socialist Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q837",
+    "iso": "NPL",
+    "s": "http://www.wikidata.org/entity/statement/Q837-17d7c8d9-4fd8-3d68-88b2-77dbe57fa62d",
+    "p": "http://www.wikidata.org/entity/Q3183124",
+    "start": "2023-01-01T00:00:00Z",
+    "pLabel": "Ram Chandra Poudel",
+    "ps": "http://www.wikidata.org/entity/statement/Q3183124-6FE1B847-4EF7-46BC-ACAC-9B74DE35D622",
+    "party": "http://www.wikidata.org/entity/Q216660",
+    "partyLabel": "Nepali Congress"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q837",
+    "iso": "NPL",
+    "s": "http://www.wikidata.org/entity/statement/Q837-17d7c8d9-4fd8-3d68-88b2-77dbe57fa62d",
+    "p": "http://www.wikidata.org/entity/Q3183124",
+    "start": "2023-01-01T00:00:00Z",
+    "pLabel": "Ram Chandra Poudel",
+    "ps": "http://www.wikidata.org/entity/statement/Q3183124-b0d7d233-4023-df98-e94e-82629ebb775b",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1033",
+    "iso": "NGA",
+    "s": "http://www.wikidata.org/entity/statement/Q1033-c24afe47-40ee-a88f-ea55-72e4cc7cb5a4",
+    "p": "http://www.wikidata.org/entity/Q3510872",
+    "start": "2023-05-29T00:00:00Z",
+    "pLabel": "Bola Tinubu",
+    "ps": "http://www.wikidata.org/entity/statement/Q3510872-64a94b19-4c4e-ea59-e3d7-f68bc8f79bbe",
+    "party": "http://www.wikidata.org/entity/Q4729266",
+    "partyLabel": "All Progressives Congress"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1033",
+    "iso": "NGA",
+    "s": "http://www.wikidata.org/entity/statement/Q1033-c24afe47-40ee-a88f-ea55-72e4cc7cb5a4",
+    "p": "http://www.wikidata.org/entity/Q3510872",
+    "start": "2023-05-29T00:00:00Z",
+    "pLabel": "Bola Tinubu",
+    "ps": "http://www.wikidata.org/entity/statement/Q3510872-c4f89acf-4b63-b082-f704-3c016a4cdd90",
+    "party": "http://www.wikidata.org/entity/Q343617",
+    "partyLabel": "Action Congress of Nigeria"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1032",
+    "iso": "NER",
+    "s": "http://www.wikidata.org/entity/statement/q1032-B0BD47B9-3841-4C8C-9A15-6429D1C7D440",
+    "p": "http://www.wikidata.org/entity/Q5680106",
+    "start": "2023-07-27T00:00:00Z",
+    "pLabel": "Hassoumi Massoudou",
+    "ps": "http://www.wikidata.org/entity/statement/Q5680106-7D3F5172-21CF-4803-AB35-A4552EA0878E",
+    "party": "http://www.wikidata.org/entity/Q1968253",
+    "partyLabel": "Nigerien Party for Democracy and Socialism"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q218",
+    "iso": "ROU",
+    "s": "http://www.wikidata.org/entity/statement/Q218-f3f8f9a0-4b00-1219-4ef3-9d7d9ae53696",
+    "p": "http://www.wikidata.org/entity/Q11163124",
+    "start": "2025-05-26T00:00:00Z",
+    "pLabel": "Nicușor Dan",
+    "ps": "http://www.wikidata.org/entity/statement/Q11163124-5dae9955-46bc-c2db-4516-81ff83076f9f",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q221",
+    "iso": "MKD",
+    "s": "http://www.wikidata.org/entity/statement/Q221-03f22222-40a4-b14d-b0d0-528096418be5",
+    "p": "http://www.wikidata.org/entity/Q12277168",
+    "start": "2024-05-12T00:00:00Z",
+    "pLabel": "Gordana Siljanovska-Davkova",
+    "ps": "http://www.wikidata.org/entity/statement/Q12277168-8cabd9e9-4254-dc14-5965-85fa54d3400d",
+    "party": "http://www.wikidata.org/entity/Q945717",
+    "partyLabel": "Internal Macedonian Revolutionary Organization – Democratic Party for Macedonian National Unity"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q36",
+    "iso": "POL",
+    "s": "http://www.wikidata.org/entity/statement/Q36-d97cda1e-46c6-288d-99fc-b61f53aa19aa",
+    "p": "http://www.wikidata.org/entity/Q17704749",
+    "start": "2025-08-06T00:00:00Z",
+    "pLabel": "Karol Nawrocki",
+    "ps": "http://www.wikidata.org/entity/statement/Q17704749-86706A5D-0DD9-47C6-8603-EAD3021A1210",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q733",
+    "iso": "PRY",
+    "s": "http://www.wikidata.org/entity/statement/q733-36EB9ABB-AFC7-4474-82CA-26316C751EE0",
+    "p": "http://www.wikidata.org/entity/Q22695687",
+    "start": "2023-04-30T00:00:00Z",
+    "pLabel": "Santiago Peña Palacios",
+    "ps": "http://www.wikidata.org/entity/statement/Q22695687-2d6f8dcd-179b-4667-b9ab-89a42812052a",
+    "party": "http://www.wikidata.org/entity/Q928949",
+    "partyLabel": "Colorado Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q695",
+    "iso": "PLW",
+    "s": "http://www.wikidata.org/entity/statement/q695-175A6B20-FDEF-4EE4-A026-AF2C7870F900",
+    "p": "http://www.wikidata.org/entity/Q26703072",
+    "start": "2021-01-21T00:00:00Z",
+    "pLabel": "Surangel Whipps Jr.",
+    "ps": "http://www.wikidata.org/entity/statement/Q26703072-9160A070-16AC-45A3-87E1-263D7FD14015",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q683",
+    "iso": "WSM",
+    "s": "http://www.wikidata.org/entity/statement/Q683-beb740c4-4fc8-69b7-e8bd-23621a70c55b",
+    "p": "http://www.wikidata.org/entity/Q32014514",
+    "start": "2017-07-21T00:00:00Z",
+    "pLabel": "Va'aletoa Sualauvi II",
+    "ps": "http://www.wikidata.org/entity/statement/Q32014514-3DC43D9F-283C-4B9D-9752-E48B99684B2E",
+    "party": "http://www.wikidata.org/entity/Q327591",
+    "partyLabel": "independent politician"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q804",
+    "iso": "PAN",
+    "s": "http://www.wikidata.org/entity/statement/Q804-208c772a-478b-7570-b4a4-6b5cca1352ac",
+    "p": "http://www.wikidata.org/entity/Q108454869",
+    "start": "2024-07-01T00:00:00Z",
+    "pLabel": "José Raúl Mulino",
+    "ps": "http://www.wikidata.org/entity/statement/Q108454869-dd2b604a-4d7b-886f-1f5a-2a428b88f811",
+    "party": "http://www.wikidata.org/entity/Q106319619",
+    "partyLabel": "Realizing Goals"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "s": "http://www.wikidata.org/entity/statement/Q238-4e1a07f1-4223-9e6e-8962-74ff35dd3f40",
+    "p": "http://www.wikidata.org/entity/Q114239945",
+    "pLabel": "Manuel Ciavatta",
+    "ps": "http://www.wikidata.org/entity/statement/Q114239945-ad39786f-4e39-9e71-d7e7-0f43769f6e89",
+    "party": "http://www.wikidata.org/entity/Q44282",
+    "partyLabel": "Sammarinese Christian Democratic Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "s": "http://www.wikidata.org/entity/statement/Q238-466ad65b-416a-bc6c-39cf-e7586717527f",
+    "p": "http://www.wikidata.org/entity/Q130360479",
+    "start": "2024-10-01T00:00:00Z",
+    "pLabel": "Dalibor Riccardi",
+    "ps": "http://www.wikidata.org/entity/statement/Q130360479-95e563f3-4d4a-0941-9ce4-2e0874c2d93a",
+    "party": "http://www.wikidata.org/entity/Q107657249",
+    "partyLabel": "Libera San Marino"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q423",
+    "iso": "PRK",
+    "s": "http://www.wikidata.org/entity/statement/q423-8732E990-B92F-4408-8F09-CBB11E7241D2",
+    "p": "http://www.wikidata.org/entity/Q56226",
+    "start": "2011-12-30T00:00:00Z",
+    "pLabel": "Kim Jong-un",
+    "ps": "http://www.wikidata.org/entity/statement/q56226-772B3ADC-8AE8-4861-8F4C-BB205F7E680F",
+    "party": "http://www.wikidata.org/entity/Q49623",
+    "partyLabel": "Workers’ Party of Korea"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q843",
+    "iso": "PAK",
+    "s": "http://www.wikidata.org/entity/statement/Q843-5fc58b79-426b-5511-303b-bd85b161b0c8",
+    "p": "http://www.wikidata.org/entity/Q57373",
+    "start": "2024-01-01T00:00:00Z",
+    "pLabel": "Asif Ali Zardari",
+    "ps": "http://www.wikidata.org/entity/statement/q57373-C4198915-AB64-45FA-8283-FF6730E92D88",
+    "party": "http://www.wikidata.org/entity/Q186591",
+    "partyLabel": "Pakistan Peoples Party"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q811",
+    "iso": "NIC",
+    "s": "http://www.wikidata.org/entity/statement/q811-01FFA570-AC7E-4BE0-AE88-F962872D141C",
+    "p": "http://www.wikidata.org/entity/Q57402",
+    "start": "2007-01-10T00:00:00Z",
+    "pLabel": "Daniel Ortega",
+    "ps": "http://www.wikidata.org/entity/statement/q57402-E6BEE55D-B790-4067-9D14-736249190C60",
+    "party": "http://www.wikidata.org/entity/Q27389",
+    "partyLabel": "Sandinista National Liberation Front"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q971",
+    "iso": "COG",
+    "s": "http://www.wikidata.org/entity/statement/q971-4489554C-ADBB-4A04-B6FA-1022DF691AD4",
+    "p": "http://www.wikidata.org/entity/Q57418",
+    "start": "1997-10-25T00:00:00Z",
+    "pLabel": "Denis Sassou-Nguesso",
+    "ps": "http://www.wikidata.org/entity/statement/Q57418-01471854-40EF-426F-A0E9-59CB2E2A2D79",
+    "party": "http://www.wikidata.org/entity/Q1785816",
+    "partyLabel": "Congolese Party of Labour"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q238",
+    "iso": "SMR",
+    "s": "http://www.wikidata.org/entity/statement/Q238-402cee57-418d-7a12-64a0-59f6014f09f4",
+    "p": "http://www.wikidata.org/entity/Q57546",
+    "start": "2025-04-01T00:00:00Z",
+    "pLabel": "Denise Bronzetti",
+    "ps": "http://www.wikidata.org/entity/statement/Q57546-CF930CA4-6474-4B69-BC8D-F9526626BF49",
+    "party": "http://www.wikidata.org/entity/Q44102",
+    "partyLabel": "Party of Socialists and Democrats"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q683",
+    "iso": "WSM",
+    "s": "http://www.wikidata.org/entity/statement/Q683-4c4720a7-45d0-89a1-c7f9-4d1b5dcb9c4d",
+    "p": "http://www.wikidata.org/entity/Q57723",
+    "start": "1998-11-23T00:00:00Z",
+    "pLabel": "Tuilaʻepa Saʻilele Malielegaoi",
+    "ps": "http://www.wikidata.org/entity/statement/Q57723-094304D2-C43E-4469-9983-DFA3737FF931",
+    "party": "http://www.wikidata.org/entity/Q1256720",
+    "partyLabel": "Human Rights Protection Party"
+  }
+]

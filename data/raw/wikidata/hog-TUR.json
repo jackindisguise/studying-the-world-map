@@ -1,0 +1,280 @@
+[
+  {
+    "p": "http://www.wikidata.org/entity/Q269909",
+    "ps": "http://www.wikidata.org/entity/statement/Q269909-242A001D-C09D-42EB-BD4F-C8B339A64692",
+    "party": "http://www.wikidata.org/entity/Q9630",
+    "c": "http://www.wikidata.org/entity/Q145",
+    "iso": "GBR",
+    "s": "http://www.wikidata.org/entity/statement/Q145-7b63cf26-4df6-ee5b-dc35-f82cc9ba9d84",
+    "start": "2026-07-20T00:00:00Z",
+    "pLabel": "Andy Burnham",
+    "partyLabel": "Labour Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q269909",
+    "ps": "http://www.wikidata.org/entity/statement/Q269909-ca1f5b3d-4d7a-988a-7465-74844318dde7",
+    "party": "http://www.wikidata.org/entity/Q211931",
+    "c": "http://www.wikidata.org/entity/Q145",
+    "iso": "GBR",
+    "s": "http://www.wikidata.org/entity/statement/Q145-7b63cf26-4df6-ee5b-dc35-f82cc9ba9d84",
+    "start": "2026-07-20T00:00:00Z",
+    "pLabel": "Andy Burnham",
+    "partyLabel": "Co-operative Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q375687",
+    "ps": "http://www.wikidata.org/entity/statement/Q375687-0C26846F-F4A7-4149-BF53-A46423C2D838",
+    "party": "http://www.wikidata.org/entity/Q428886",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/Q43-006a0b36-4b25-c9c8-9b11-c11e6224be30",
+    "pLabel": "Bülent Ulusu",
+    "partyLabel": "Nationalist Democracy Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q510523",
+    "ps": "http://www.wikidata.org/entity/statement/Q510523-1EB2381A-B4F8-4122-8530-8C13FA4298EA",
+    "party": "http://www.wikidata.org/entity/Q1910161",
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-6809ddec-4f19-41ae-5768-643a0efe60fc",
+    "start": "2017-11-24T00:00:00Z",
+    "pLabel": "Emmerson Mnangagwa",
+    "partyLabel": "Zimbabwe African National Union – Patriotic Front"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q510523",
+    "ps": "http://www.wikidata.org/entity/statement/Q510523-584bba01-46c9-e4a2-7d2e-eed01aa66532",
+    "party": "http://www.wikidata.org/entity/Q1383387",
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-6809ddec-4f19-41ae-5768-643a0efe60fc",
+    "start": "2017-11-24T00:00:00Z",
+    "pLabel": "Emmerson Mnangagwa",
+    "partyLabel": "United National Independence Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q510523",
+    "ps": "http://www.wikidata.org/entity/statement/Q510523-ed132501-42c5-96ea-adbb-6f044c7541bf",
+    "party": "http://www.wikidata.org/entity/Q203423",
+    "c": "http://www.wikidata.org/entity/Q954",
+    "iso": "ZWE",
+    "s": "http://www.wikidata.org/entity/statement/Q954-6809ddec-4f19-41ae-5768-643a0efe60fc",
+    "start": "2017-11-24T00:00:00Z",
+    "pLabel": "Emmerson Mnangagwa",
+    "partyLabel": "Zimbabwe African People's Union"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q558287",
+    "ps": "http://www.wikidata.org/entity/statement/q558287-F3745CC4-FB0A-48D4-A2D1-82F7B28C1B5E",
+    "party": "http://www.wikidata.org/entity/Q488511",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/Q43-3d099cb8-49a6-eb77-bdcd-edcb890134f2",
+    "pLabel": "Yıldırım Akbulut",
+    "partyLabel": "Motherland Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q1348747",
+    "ps": "http://www.wikidata.org/entity/statement/Q1348747-741837a6-4b2d-cf0e-fe3e-65de9f6adcce",
+    "party": "http://www.wikidata.org/entity/Q19079",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/Q43-5e1bfe70-4437-5025-c6c0-3c2ceb6dbd5e",
+    "pLabel": "Erdal İnönü",
+    "partyLabel": "Republican People's Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q1348747",
+    "ps": "http://www.wikidata.org/entity/statement/Q1348747-F7711BAF-9873-4D1F-953F-EAB2210C2217",
+    "party": "http://www.wikidata.org/entity/Q1759655",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/Q43-5e1bfe70-4437-5025-c6c0-3c2ceb6dbd5e",
+    "pLabel": "Erdal İnönü",
+    "partyLabel": "Social Democracy Party (Turkey)"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q1348747",
+    "ps": "http://www.wikidata.org/entity/statement/Q1348747-fcfe9451-49e4-2a25-4da5-4913ca1aec2a",
+    "party": "http://www.wikidata.org/entity/Q929507",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/Q43-5e1bfe70-4437-5025-c6c0-3c2ceb6dbd5e",
+    "pLabel": "Erdal İnönü",
+    "partyLabel": "Social Democratic Populist Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q10806940",
+    "ps": "http://www.wikidata.org/entity/statement/Q10806940-aae44d38-43ca-365e-3762-c158ba8d50f5",
+    "party": "http://www.wikidata.org/entity/Q427325",
+    "c": "http://www.wikidata.org/entity/Q881",
+    "iso": "VNM",
+    "s": "http://www.wikidata.org/entity/statement/Q881-42781eef-4018-18ae-83cc-7cbbac12a7c9",
+    "start": "2021-04-05T00:00:00Z",
+    "pLabel": "Phạm Minh Chính",
+    "partyLabel": "Communist Party of Vietnam"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q16190741",
+    "ps": "http://www.wikidata.org/entity/statement/Q16190741-76e6e124-8fe0-4932-b73a-f227fd8978be",
+    "party": "http://www.wikidata.org/entity/Q31373",
+    "c": "http://www.wikidata.org/entity/Q686",
+    "iso": "VUT",
+    "s": "http://www.wikidata.org/entity/statement/Q686-e3151100-435d-dbb8-c9c9-e832b381b46d",
+    "start": "2020-04-20T00:00:00Z",
+    "pLabel": "Bob Loughman",
+    "partyLabel": "Vanua'aku Pati"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q18352991",
+    "ps": "http://www.wikidata.org/entity/statement/Q18352991-5D2F0905-A6D3-4477-A042-C1B2CBC45562",
+    "party": "http://www.wikidata.org/entity/Q2058159",
+    "c": "http://www.wikidata.org/entity/Q953",
+    "iso": "ZMB",
+    "s": "http://www.wikidata.org/entity/statement/Q953-5a012c59-4840-abeb-c804-f03e0d96b453",
+    "pLabel": "Edgar Lungu",
+    "partyLabel": "Patriotic Front"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q19946921",
+    "ps": "http://www.wikidata.org/entity/statement/Q19946921-7221eaf0-1f93-448a-ad0c-95fc63c3baaf",
+    "party": "http://www.wikidata.org/entity/Q1066799",
+    "c": "http://www.wikidata.org/entity/Q77",
+    "iso": "URY",
+    "s": "http://www.wikidata.org/entity/statement/Q77-ee66c9d3-4932-04f5-b01f-d9383c92e50c",
+    "start": "2025-03-01T00:00:00Z",
+    "pLabel": "Yamandú Orsi",
+    "partyLabel": "Broad Front"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q19946921",
+    "ps": "http://www.wikidata.org/entity/statement/Q19946921-d6025052-46e9-f07f-84d6-ce50830343a4",
+    "party": "http://www.wikidata.org/entity/Q1570461",
+    "c": "http://www.wikidata.org/entity/Q77",
+    "iso": "URY",
+    "s": "http://www.wikidata.org/entity/statement/Q77-ee66c9d3-4932-04f5-b01f-d9383c92e50c",
+    "start": "2025-03-01T00:00:00Z",
+    "pLabel": "Yamandú Orsi",
+    "partyLabel": "Movement of Popular Participation"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q51874548",
+    "ps": "http://www.wikidata.org/entity/statement/Q51874548-406e2af7-4c28-2bd7-f691-7cc2dca97b0b",
+    "party": "http://www.wikidata.org/entity/Q1152752",
+    "c": "http://www.wikidata.org/entity/Q874",
+    "iso": "TKM",
+    "s": "http://www.wikidata.org/entity/statement/Q874-a36115c6-42fc-76e0-0019-969c03f58f96",
+    "start": "2022-03-19T00:00:00Z",
+    "pLabel": "Serdar Berdimuhamedow",
+    "partyLabel": "Democratic Party of Turkmenistan"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q62481397",
+    "ps": "http://www.wikidata.org/entity/statement/Q62481397-65a37d60-4a7b-0aad-1b31-8dd674c8faf1",
+    "party": "http://www.wikidata.org/entity/Q382674",
+    "c": "http://www.wikidata.org/entity/Q1036",
+    "iso": "UGA",
+    "s": "http://www.wikidata.org/entity/statement/Q1036-a068b06f-49ec-0a5e-cc47-60c289a51ecd",
+    "start": "2021-06-01T00:00:00Z",
+    "pLabel": "Nabbanja Robinah",
+    "partyLabel": "National Resistance Movement"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q22686",
+    "ps": "http://www.wikidata.org/entity/statement/Q22686-bfb88c2e-41a0-2a49-97c1-b30d784e9f51",
+    "party": "http://www.wikidata.org/entity/Q29468",
+    "c": "http://www.wikidata.org/entity/Q30",
+    "iso": "USA",
+    "s": "http://www.wikidata.org/entity/statement/Q30-b587b1b3-4f0d-f4e3-9264-e6d727657b53",
+    "start": "2025-01-20T00:00:00Z",
+    "pLabel": "Donald Trump",
+    "partyLabel": "Republican Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q39259",
+    "ps": "http://www.wikidata.org/entity/statement/Q39259-cef8de61-4d5f-6274-ae87-5e03477a0b86",
+    "party": "http://www.wikidata.org/entity/Q19077",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/Q43-dca6581b-4cd0-7340-5bba-abafbeb119dd",
+    "start": "2018-06-24T00:00:00Z",
+    "pLabel": "Recep Tayyip Erdoğan",
+    "partyLabel": "Justice and Development Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q57808",
+    "ps": "http://www.wikidata.org/entity/statement/q57808-54313E23-4717-4FF3-A6C1-F499AA012A08",
+    "party": "http://www.wikidata.org/entity/Q2945416",
+    "c": "http://www.wikidata.org/entity/Q265",
+    "iso": "UZB",
+    "s": "http://www.wikidata.org/entity/statement/Q265-ea60a557-4cb6-685a-cccb-1b5e5b1a782f",
+    "start": "2016-12-14T00:00:00Z",
+    "pLabel": "Shavkat Mirziyoyev",
+    "partyLabel": "Self-Sacrifice National Democratic Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q57808",
+    "ps": "http://www.wikidata.org/entity/statement/Q57808-d6ee2b3f-4f4a-7123-df3a-86c6bdb8ab6a",
+    "party": "http://www.wikidata.org/entity/Q1146334",
+    "c": "http://www.wikidata.org/entity/Q265",
+    "iso": "UZB",
+    "s": "http://www.wikidata.org/entity/statement/Q265-ea60a557-4cb6-685a-cccb-1b5e5b1a782f",
+    "start": "2016-12-14T00:00:00Z",
+    "pLabel": "Shavkat Mirziyoyev",
+    "partyLabel": "Uzbekistan Liberal Democratic Party"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q151729",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/Q43-03624c5a-41b7-45d5-8e8d-a855af891c28",
+    "pLabel": "Süleyman Demirel"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q180280",
+    "c": "http://www.wikidata.org/entity/Q43",
+    "iso": "TUR",
+    "s": "http://www.wikidata.org/entity/statement/Q43-c36f5edc-4d13-7ea7-1a63-9a1fffe4bf57",
+    "pLabel": "Turgut Özal"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q5441662",
+    "c": "http://www.wikidata.org/entity/Q672",
+    "iso": "TUV",
+    "s": "http://www.wikidata.org/entity/statement/Q672-dcdb3cb5-48aa-d351-ac11-ae8012715fcb",
+    "start": "2024-02-26T00:00:00Z",
+    "pLabel": "Ben Do"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q68837007",
+    "c": "http://www.wikidata.org/entity/Q805",
+    "iso": "YEM",
+    "s": "http://www.wikidata.org/entity/statement/Q805-b16905b3-4425-30cf-bfce-0eb46ccbc667",
+    "start": "2025-05-03T00:00:00Z",
+    "pLabel": "Salem Saleh bin Braik"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q109385659",
+    "c": "http://www.wikidata.org/entity/Q237",
+    "iso": "VAT",
+    "s": "http://www.wikidata.org/entity/statement/Q237-af9e28d9-48c6-4b21-85d2-09ce0d1d76ff",
+    "start": "2025-03-01T00:00:00Z",
+    "pLabel": "Raffaella Petrini"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q124101558",
+    "c": "http://www.wikidata.org/entity/Q212",
+    "iso": "UKR",
+    "s": "http://www.wikidata.org/entity/statement/Q212-fad2fae7-48c2-7f71-e39c-23da87c82b66",
+    "start": "2026-07-16T00:00:00Z",
+    "pLabel": "Serhii Koretskyi"
+  },
+  {
+    "p": "http://www.wikidata.org/entity/Q57655",
+    "c": "http://www.wikidata.org/entity/Q878",
+    "iso": "ARE",
+    "s": "http://www.wikidata.org/entity/statement/q878-19EF4CF2-54B1-46FC-B4D0-7C1BBE3EC644",
+    "pLabel": "Mohammed bin Rashid Al Maktoum"
+  }
+]

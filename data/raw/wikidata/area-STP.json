@@ -1,0 +1,41 @@
+[
+  { "c": "http://www.wikidata.org/entity/Q29", "iso": "ESP", "v": "505990" },
+  { "c": "http://www.wikidata.org/entity/Q34", "iso": "SWE", "v": "447425.16" },
+  { "c": "http://www.wikidata.org/entity/Q39", "iso": "CHE", "v": "41291" },
+  {
+    "c": "http://www.wikidata.org/entity/Q214",
+    "iso": "SVK",
+    "v": "49033.720839"
+  },
+  { "c": "http://www.wikidata.org/entity/Q215", "iso": "SVN", "v": "20271" },
+  { "c": "http://www.wikidata.org/entity/Q258", "iso": "ZAF", "v": "1221037" },
+  { "c": "http://www.wikidata.org/entity/Q334", "iso": "SGP", "v": "719.1" },
+  { "c": "http://www.wikidata.org/entity/Q403", "iso": "SRB", "v": "88499" },
+  { "c": "http://www.wikidata.org/entity/Q574", "iso": "TLS", "v": "14918.72" },
+  {
+    "c": "http://www.wikidata.org/entity/Q678",
+    "iso": "TON",
+    "v": "748.506563"
+  },
+  { "c": "http://www.wikidata.org/entity/Q685", "iso": "SLB", "v": "28400" },
+  { "c": "http://www.wikidata.org/entity/Q730", "iso": "SUR", "v": "163270" },
+  { "c": "http://www.wikidata.org/entity/Q754", "iso": "TTO", "v": "5128" },
+  { "c": "http://www.wikidata.org/entity/Q851", "iso": "SAU", "v": "2250000" },
+  { "c": "http://www.wikidata.org/entity/Q854", "iso": "LKA", "v": "65610" },
+  { "c": "http://www.wikidata.org/entity/Q858", "iso": "SYR", "v": "185180" },
+  { "c": "http://www.wikidata.org/entity/Q863", "iso": "TJK", "v": "143100" },
+  { "c": "http://www.wikidata.org/entity/Q865", "iso": "TWN", "v": "36193" },
+  { "c": "http://www.wikidata.org/entity/Q869", "iso": "THA", "v": "513119.5" },
+  { "c": "http://www.wikidata.org/entity/Q884", "iso": "KOR", "v": "100295" },
+  { "c": "http://www.wikidata.org/entity/Q924", "iso": "TZA", "v": "947303" },
+  { "c": "http://www.wikidata.org/entity/Q945", "iso": "TGO", "v": "56785" },
+  { "c": "http://www.wikidata.org/entity/Q948", "iso": "TUN", "v": "163610" },
+  { "c": "http://www.wikidata.org/entity/Q958", "iso": "SSD", "v": "644329" },
+  { "c": "http://www.wikidata.org/entity/Q1039", "iso": "STP", "v": "1001" },
+  { "c": "http://www.wikidata.org/entity/Q1041", "iso": "SEN", "v": "196722" },
+  { "c": "http://www.wikidata.org/entity/Q1042", "iso": "SYC", "v": "459" },
+  { "c": "http://www.wikidata.org/entity/Q1044", "iso": "SLE", "v": "71740" },
+  { "c": "http://www.wikidata.org/entity/Q1045", "iso": "SOM", "v": "637657" },
+  { "c": "http://www.wikidata.org/entity/Q1049", "iso": "SDN", "v": "1840687" },
+  { "c": "http://www.wikidata.org/entity/Q1049", "iso": "SDN", "v": "1886068" }
+]

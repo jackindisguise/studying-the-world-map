@@ -1,0 +1,46 @@
+[
+  { "c": "http://www.wikidata.org/entity/Q31", "iso": "BEL", "v": "30688" },
+  { "c": "http://www.wikidata.org/entity/Q40", "iso": "AUT", "v": "83878.99" },
+  { "c": "http://www.wikidata.org/entity/Q155", "iso": "BRA", "v": "8515767" },
+  {
+    "c": "http://www.wikidata.org/entity/Q184",
+    "iso": "BLR",
+    "v": "207596.76"
+  },
+  { "c": "http://www.wikidata.org/entity/Q219", "iso": "BGR", "v": "110993.6" },
+  { "c": "http://www.wikidata.org/entity/Q222", "iso": "ALB", "v": "28748" },
+  { "c": "http://www.wikidata.org/entity/Q225", "iso": "BIH", "v": "10" },
+  { "c": "http://www.wikidata.org/entity/Q225", "iso": "BIH", "v": "51187" },
+  { "c": "http://www.wikidata.org/entity/Q225", "iso": "BIH", "v": "51209.2" },
+  { "c": "http://www.wikidata.org/entity/Q227", "iso": "AZE", "v": "86600" },
+  { "c": "http://www.wikidata.org/entity/Q228", "iso": "AND", "v": "468" },
+  { "c": "http://www.wikidata.org/entity/Q242", "iso": "BLZ", "v": "22966" },
+  { "c": "http://www.wikidata.org/entity/Q244", "iso": "BRB", "v": "439" },
+  { "c": "http://www.wikidata.org/entity/Q262", "iso": "DZA", "v": "2381741" },
+  { "c": "http://www.wikidata.org/entity/Q398", "iso": "BHR", "v": "786.5" },
+  {
+    "c": "http://www.wikidata.org/entity/Q399",
+    "iso": "ARM",
+    "v": "29743.423459"
+  },
+  { "c": "http://www.wikidata.org/entity/Q408", "iso": "AUS", "v": "7692024" },
+  { "c": "http://www.wikidata.org/entity/Q414", "iso": "ARG", "v": "2780400" },
+  { "c": "http://www.wikidata.org/entity/Q424", "iso": "KHM", "v": "181035" },
+  { "c": "http://www.wikidata.org/entity/Q750", "iso": "BOL", "v": "1098581" },
+  { "c": "http://www.wikidata.org/entity/Q778", "iso": "BHS", "v": "13878" },
+  { "c": "http://www.wikidata.org/entity/Q781", "iso": "ATG", "v": "440.29" },
+  { "c": "http://www.wikidata.org/entity/Q889", "iso": "AFG", "v": "652230" },
+  { "c": "http://www.wikidata.org/entity/Q902", "iso": "BGD", "v": "147570" },
+  { "c": "http://www.wikidata.org/entity/Q916", "iso": "AGO", "v": "1246700" },
+  { "c": "http://www.wikidata.org/entity/Q917", "iso": "BTN", "v": "38394" },
+  {
+    "c": "http://www.wikidata.org/entity/Q921",
+    "iso": "BRN",
+    "v": "5765.313533"
+  },
+  { "c": "http://www.wikidata.org/entity/Q962", "iso": "BEN", "v": "114763" },
+  { "c": "http://www.wikidata.org/entity/Q963", "iso": "BWA", "v": "581737" },
+  { "c": "http://www.wikidata.org/entity/Q965", "iso": "BFA", "v": "274200" },
+  { "c": "http://www.wikidata.org/entity/Q967", "iso": "BDI", "v": "27834" },
+  { "c": "http://www.wikidata.org/entity/Q1009", "iso": "CMR", "v": "475442" }
+]

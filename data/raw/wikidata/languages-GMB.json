@@ -1,0 +1,248 @@
+[
+  {
+    "c": "http://www.wikidata.org/entity/Q17",
+    "iso": "JPN",
+    "v": "http://www.wikidata.org/entity/Q5287",
+    "vLabel": "Japanese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q27",
+    "iso": "IRL",
+    "v": "http://www.wikidata.org/entity/Q9142",
+    "vLabel": "Irish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q28",
+    "iso": "HUN",
+    "v": "http://www.wikidata.org/entity/Q9067",
+    "vLabel": "Hungarian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q38",
+    "iso": "ITA",
+    "v": "http://www.wikidata.org/entity/Q652",
+    "vLabel": "Italian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q41",
+    "iso": "GRC",
+    "v": "http://www.wikidata.org/entity/Q9129",
+    "vLabel": "Greek"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q114",
+    "iso": "KEN",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q114",
+    "iso": "KEN",
+    "v": "http://www.wikidata.org/entity/Q7838",
+    "vLabel": "Swahili"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q117",
+    "iso": "GHA",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q183",
+    "iso": "DEU",
+    "v": "http://www.wikidata.org/entity/Q188",
+    "vLabel": "German"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q189",
+    "iso": "ISL",
+    "v": "http://www.wikidata.org/entity/Q294",
+    "vLabel": "Icelandic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q230",
+    "iso": "GEO",
+    "v": "http://www.wikidata.org/entity/Q8108",
+    "vLabel": "Georgian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q232",
+    "iso": "KAZ",
+    "v": "http://www.wikidata.org/entity/Q7737",
+    "vLabel": "Russian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q232",
+    "iso": "KAZ",
+    "v": "http://www.wikidata.org/entity/Q9252",
+    "vLabel": "Kazakh"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q252",
+    "iso": "IDN",
+    "v": "http://www.wikidata.org/entity/Q9240",
+    "vLabel": "Indonesian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "v": "http://www.wikidata.org/entity/Q1568",
+    "vLabel": "Hindi"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q668",
+    "iso": "IND",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q710",
+    "iso": "KIR",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q710",
+    "iso": "KIR",
+    "v": "http://www.wikidata.org/entity/Q30898",
+    "vLabel": "Gilbertese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q734",
+    "iso": "GUY",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q766",
+    "iso": "JAM",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q766",
+    "iso": "JAM",
+    "v": "http://www.wikidata.org/entity/Q35939",
+    "vLabel": "Jamaican Patois"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q769",
+    "iso": "GRD",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q769",
+    "iso": "GRD",
+    "v": "http://www.wikidata.org/entity/Q4252500",
+    "vLabel": "Grenadian Creole English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q774",
+    "iso": "GTM",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q783",
+    "iso": "HND",
+    "v": "http://www.wikidata.org/entity/Q1321",
+    "vLabel": "Spanish"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q790",
+    "iso": "HTI",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q790",
+    "iso": "HTI",
+    "v": "http://www.wikidata.org/entity/Q33491",
+    "vLabel": "Haitian Creole"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q794",
+    "iso": "IRN",
+    "v": "http://www.wikidata.org/entity/Q9168",
+    "vLabel": "Persian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q796",
+    "iso": "IRQ",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q796",
+    "iso": "IRQ",
+    "v": "http://www.wikidata.org/entity/Q36368",
+    "vLabel": "Kurdish language"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q801",
+    "iso": "ISR",
+    "v": "http://www.wikidata.org/entity/Q9288",
+    "vLabel": "Hebrew"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q810",
+    "iso": "JOR",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q817",
+    "iso": "KWT",
+    "v": "http://www.wikidata.org/entity/Q13955",
+    "vLabel": "Arabic"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1005",
+    "iso": "GMB",
+    "v": "http://www.wikidata.org/entity/Q1860",
+    "vLabel": "English"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1006",
+    "iso": "GIN",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1006",
+    "iso": "GIN",
+    "v": "http://www.wikidata.org/entity/Q1339026",
+    "vLabel": "languages of Guinea"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1007",
+    "iso": "GNB",
+    "v": "http://www.wikidata.org/entity/Q5146",
+    "vLabel": "Portuguese"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1008",
+    "iso": "CIV",
+    "v": "http://www.wikidata.org/entity/Q150",
+    "vLabel": "French"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1246",
+    "iso": "XKX",
+    "v": "http://www.wikidata.org/entity/Q8748",
+    "vLabel": "Albanian"
+  },
+  {
+    "c": "http://www.wikidata.org/entity/Q1246",
+    "iso": "XKX",
+    "v": "http://www.wikidata.org/entity/Q9299",
+    "vLabel": "Serbian"
+  }
+]
