@@ -1,5 +1,5 @@
 // Renders one PNG per country: a regional map with the country highlighted and no labels.
-// Tiny countries also get a ring on the main map and a zoomed inset. Usage: node render-maps.mjs [name ...]
+// Tiny countries also get a ring on the main map and a zoomed inset. Usage: node render-maps.js [name ...]
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';

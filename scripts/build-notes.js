@@ -1,6 +1,6 @@
 // Writes one Anki-importable CSV note file with a row per country to build/notes.csv.
 // Fields follow the Country Map note type; Map and Flag hold <img> tags that use the real file names.
-// Usage: node scripts/build-notes.mjs
+// Usage: node scripts/build-notes.js
 import fs from 'node:fs';
 
 const DECK = 'Studying the World Map', MODEL = 'Country Map', TAG = 'world-map';
@@ -23,7 +23,7 @@ for (const r of records) {
   const box = boxes[r.ISO];
   const f = {
     ...r,
-    // The img names are the real files: maps in build/media/map-ISO.svg, flags in build/media/flag-ISO.svg (copied by copy-flags.mjs).
+    // The img names are the real files: maps in build/media/map-ISO.svg, flags in build/media/flag-ISO.svg (copied by copy-flags.js).
     Map: box ? `<img src="map-${r.ISO}.svg" data-box="${box.join(',')}">` : `<img src="map-${r.ISO}.svg">`,
     Flag: `<img src="flag-${r.ISO}.svg">`,
   };

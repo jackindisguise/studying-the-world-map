@@ -1,8 +1,8 @@
 // Fetches facts for every country into data/facts-all.json. Wikidata (capital, flag, languages, currency, government,
 // leaders and parties), World Bank (population, GDP, land area, density), happiness CSV. Raw answers are cached in
-// data/raw/wikidata/ so a rerun only asks for what is missing. Usage: node fetch-all.mjs [--refresh]
+// data/raw/wikidata/ so a rerun only asks for what is missing. Usage: node fetch-all.js [--refresh]
 import fs from 'node:fs';
-import { happiness } from './happiness.mjs';
+import { happiness } from './happiness.js';
 
 const UA = { 'User-Agent': 'StudyDeckBuilder/1.0 (personal flashcard project)' };
 const COUNTRIES = JSON.parse(fs.readFileSync('data/countries.json', 'utf8'));

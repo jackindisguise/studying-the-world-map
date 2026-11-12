@@ -1,5 +1,5 @@
 // Picks the leader and head of state per country and looks up their party. Primary source is Wikipedia's current-leaders
-// list (data/heads-wikipedia.json, from parse-heads.mjs); Wikidata (data/facts-all.json) fills gaps; OVERRIDES covers
+// list (data/heads-wikipedia.json, from parse-heads.js); Wikidata (data/facts-all.json) fills gaps; OVERRIDES covers
 // cases both get wrong. Party comes from each person's Wikidata P102 (current, most recent start). Writes data/leaders.json.
 import fs from 'node:fs';
 const UA = { 'User-Agent': 'StudyDeckBuilder/1.0 (personal flashcard project)' };

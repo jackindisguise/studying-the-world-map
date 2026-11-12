@@ -7,8 +7,8 @@
 //   micro  (small + almost no land nearby, e.g. Fiji) keeps widening x1.2 from 2500 mi, up to ~10000, until other land covers 7% of the frame.
 import fs from 'node:fs';
 import { geoPath, geoArea, geoCentroid, geoContains, geoBounds, geoDistance, geoInterpolate, geoAzimuthalEquidistant } from 'd3-geo';
-import { COUNTRIES, shapes, numeric } from './geo.mjs';
-import { renderSvg, REGIONS, land, frameProjection } from './render-maps.mjs';
+import { COUNTRIES, shapes, numeric } from './geo.js';
+import { renderSvg, REGIONS, land, frameProjection } from './render-maps.js';
 
 const TIERS = [[600, 2500], [1800, 5600], [1e9, 9000]]; // [max country extent in miles, frame width in miles]
 // Frames shift toward the nearest-fitting landmass anchor by default (NO_SHIFT=1 for centred tiers); continent labels are on by default (NO_CONTINENTS=1 to drop them).

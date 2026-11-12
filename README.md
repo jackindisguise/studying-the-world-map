@@ -46,10 +46,10 @@ Data sources (already cached in `data/`, only fetched again by the refresh and f
 npm install
 npm run build        # data/records.json, all 197 maps and flags into build/media, and the note file build/notes.csv
 ```
-Render a few: `node scripts/render-all.mjs BLZ FJI`.
+Render a few: `node scripts/render-all.js BLZ FJI`.
 
 ## Refreshing data (leaders change often)
-`npm run refresh-data` re-fetches Wikidata/World Bank facts, re-parses `data/raw/wikipedia/heads.json`, then rebuilds leaders, religion and records. To get a fresh Wikipedia heads list, re-download it into `data/raw/wikipedia/heads.json` first. Hand overrides live in `scripts/leaders.mjs`.
+`npm run refresh-data` re-fetches Wikidata/World Bank facts, re-parses `data/raw/wikipedia/heads.json`, then rebuilds leaders, religion and records. To get a fresh Wikipedia heads list, re-download it into `data/raw/wikipedia/heads.json` first. Hand overrides live in `scripts/leaders.js`.
 
 ## Full pipeline (from scratch)
 `countries` (then hand-edit `data/countries.json`) -> `facts` -> `heads` -> `leaders` -> `religion` -> `records` -> `flags:svg` -> `render`.

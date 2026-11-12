@@ -1,6 +1,6 @@
 // Merges everything into data/records.json: one object per country with the exact note field values (except images).
 import fs from 'node:fs';
-import { COUNTRIES, borders, regionLabel } from './geo.mjs';
+import { COUNTRIES, borders, regionLabel } from './geo.js';
 const facts = JSON.parse(fs.readFileSync('data/facts-all.json', 'utf8'));
 const leaders = JSON.parse(fs.readFileSync('data/leaders.json', 'utf8'));
 const religion = JSON.parse(fs.readFileSync('data/religion.json', 'utf8'));
