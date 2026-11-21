@@ -67,7 +67,7 @@ Within the deck, countries are ordered by population, largest first.
 - Borders are land borders only. Island countries have none, and bridge or causeway links (Singapore, Bahrain) do not count.
 
 ### Sources
-Country shapes from Natural Earth (public domain). Capitals, languages, currency, government and flags from Wikidata and Wikimedia Commons. Population, GDP, land area and density from the World Bank. Leaders and religion (Pew, 2020) from Wikipedia. Happiness from the World Happiness Report, via Our World in Data.
+Country shapes from Natural Earth (public domain); the Monaco and Vatican City outlines in the zoom boxes are © OpenStreetMap contributors (ODbL, openstreetmap.org/copyright). Capitals, languages, currency, government and flags from Wikidata and Wikimedia Commons. Population, GDP, land area and density from the World Bank. Leaders and religion (Pew, 2020) from Wikipedia. Happiness from the World Happiness Report, via Our World in Data.
 
 ### Source code
 The scripts and data that generate this deck are on GitHub: [jackindisguise/studying-the-world-map](https://github.com/jackindisguise/studying-the-world-map).

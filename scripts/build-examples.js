@@ -2,7 +2,8 @@
 // Desktop shots use the browser's screenshot flag. Phone shots drive the browser over the DevTools protocol so they
 // get mobile and touch emulation (no hover, coarse pointer), which is what makes the cards use their phone layout.
 // Needs the maps in build/media (npm run render, or node scripts/render-all.js KEN BRA) and the flags (npm run flags:copy).
-// Usage: node scripts/build-examples.js
+// Usage: node scripts/build-examples.js           the documentation images, into docs/images/
+//        node scripts/build-examples.js MCO ...   a test set (desktop and phone, front and back) per ISO, into build/examples/
 import fs from 'node:fs';
 import os from 'node:os';
 import path from 'node:path';
@@ -17,7 +18,7 @@ const browser = BROWSERS.find((b) => fs.existsSync(b));
 if (!browser) throw new Error('No Edge or Chrome found');
 
 // [file name, card folder, side, ISO, width, height, phone?]
-const SHOTS = [
+const DOC_SHOTS = [
   ['locate-front', 'locate', 'front', 'KEN', 1280, 720],
   ['locate-back', 'locate', 'back', 'KEN', 1280, 720],
   ['flag-front', 'flag-to-country', 'front', 'BRA', 1280, 720],
@@ -27,6 +28,16 @@ const SHOTS = [
   ['phone-flag-front', 'flag-to-country', 'front', 'BRA', 390, 844, true],
   ['phone-flag-back', 'flag-to-country', 'back', 'BRA', 390, 844, true],
 ];
+const testIsos = process.argv.slice(2);
+const SHOTS = testIsos.length
+  ? testIsos.flatMap((iso) => [
+      [`${iso}-locate-front`, 'locate', 'front', iso, 1280, 720],
+      [`${iso}-locate-back`, 'locate', 'back', iso, 1280, 720],
+      [`${iso}-phone-front`, 'locate', 'front', iso, 390, 844, true],
+      [`${iso}-phone-back`, 'locate', 'back', iso, 390, 844, true],
+    ])
+  : DOC_SHOTS;
+const OUT_DIR = testIsos.length ? 'build/examples' : 'docs/images';
 
 const records = Object.fromEntries(JSON.parse(fs.readFileSync('data/records.json', 'utf8')).map((r) => [r.ISO, r]));
 const boxes = JSON.parse(fs.readFileSync('build/fit/boxes.json', 'utf8'));
@@ -47,7 +58,8 @@ const fieldsOf = (iso) => {
   const box = boxes[iso];
   return {
     ...r,
-    Map: `<img src="../media/map-${iso}.svg"${box ? ` data-box="${box.join(',')}"` : ''}>`,
+    Map: `<img src="../media/map-${iso}.svg"${box ? ` data-box="${box.join(',')}"` : ''}>`
+      + (fs.existsSync(`build/media/zoom-${iso}.svg`) ? `<img class="zoom" src="../media/zoom-${iso}.svg">` : ''),
     Flag: `<img src="../media/flag-${iso}.svg">`,
   };
 };
@@ -77,7 +89,7 @@ const startBrowser = async () => {
 };
 
 fs.mkdirSync('build/examples', { recursive: true });
-fs.mkdirSync('docs/images', { recursive: true });
+fs.mkdirSync(OUT_DIR, { recursive: true });
 let cdp;
 try {
   for (const [name, card, side, iso, w, h, phone] of SHOTS) {
@@ -85,7 +97,7 @@ try {
     const html = `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>${css}</style><body class="card"><div id="qa">${render(tpl, fieldsOf(iso))}</div>`;
     const page = path.resolve(`build/examples/${name}.html`);
     fs.writeFileSync(page, html);
-    const out = path.resolve(`docs/images/${name}.png`);
+    const out = path.resolve(`${OUT_DIR}/${name}.png`);
     if (phone) {
       cdp ??= await startBrowser();
       await cdp.send('Emulation.setDeviceMetricsOverride', { width: w, height: h, deviceScaleFactor: 1, mobile: true });
