@@ -24,7 +24,9 @@ for (const r of records) {
   const f = {
     ...r,
     // The img names are the real files: maps in build/media/map-ISO.svg, flags in build/media/flag-ISO.svg (copied by copy-flags.js).
-    Map: box ? `<img src="map-${r.ISO}.svg" data-box="${box.join(',')}">` : `<img src="map-${r.ISO}.svg">`,
+    Map: (box ? `<img src="map-${r.ISO}.svg" data-box="${box.join(',')}">` : `<img src="map-${r.ISO}.svg">`)
+      // Tiny countries also get a zoom box the card pins to its top-left corner (see ZOOM in render-all.js).
+      + (fs.existsSync(`build/media/zoom-${r.ISO}.svg`) ? `<img class="zoom" src="zoom-${r.ISO}.svg">` : ''),
     Flag: `<img src="flag-${r.ISO}.svg">`,
   };
   const deck = `${DECK}::${String(ORDER.indexOf(r.Region) + 1).padStart(2, '0')}. ${r.Region}`;

@@ -39,6 +39,7 @@ npm packages:
 
 Data sources (already cached in `data/`, only fetched again by the refresh and fetch scripts, which need internet access):
 - Natural Earth 10m admin-0 countries (public domain): the country shapes, in `data/raw/natural-earth/`.
+- OpenStreetMap (© OpenStreetMap contributors, ODbL): the detailed Monaco and Vatican City outlines for the zoom boxes, in `data/raw/outlines/`.
 - Wikidata (SPARQL): country list, capitals, flags, languages, currency, government, parties.
 - World Bank API: population, GDP, GDP per capita, land area, density.
 - Wikipedia: the current heads of state and government list, and Pew 2020 religion figures.

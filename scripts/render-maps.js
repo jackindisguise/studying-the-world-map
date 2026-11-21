@@ -278,5 +278,30 @@ export function renderSvg(target, regionName, { w = W, h = H, frac = 1, iw = 300
   return svg + '</svg>';
 }
 
+// Zoom box for tiny countries: a separate image the card pins to its top-left corner (so it stays in view however the
+// main map is scaled). It is the same renderer as the full-size maps, in a frame only a few miles wide with the country in
+// its middle (`share` of the frame), plus a scale bar. The backdrop should be the 10m shapes (the 50m atlas has no real outline).
+// surround: 'ocean' (default) or 'land' for an enclave, whose frame is all land (pass no backdrop shapes with it).
+export function renderZoomSvg(target, backdrop, { w = 600, h = 480, share = 0.55, isTarget = (f) => f === target, surround = 'ocean', maxMiles = 150 } = {}) {
+  const [[west, south], [east, north]] = geoBounds(target);
+  const lat = (south + north) / 2, lon = (west + east) / 2;
+  const miles = Math.max(((east - west) * Math.cos((lat * Math.PI) / 180) * 69.17) / share, (((north - south) * 69.17) / share) * (w / h));
+  // A country spread over a wide area (an archipelago, or one crossing the antimeridian) would only shrink to dots here.
+  if (east < west || miles > maxMiles) return null;
+  const key = `zoom:${target.id}`;
+  REGIONS[key] = { center: [lon, lat], miles };
+  let svg = renderSvg(target, key, { w, h, ui: 2, backdrop, isTarget });
+  if (surround === 'land') svg = svg.replace(`fill="${COLORS.ocean}"`, `fill="${COLORS.land}"`);
+  // Scale bar: the longest round distance that fits in about a quarter of the width.
+  const metres = (miles * 1609.344) / 4;
+  const bar = [5000, 2000, 1000, 500, 200, 100, 50, 20, 10].find((m) => m <= metres) || 10;
+  const bx = 24, by = h - 30, bx1 = +(bx + (bar / metres) * (w / 4)).toFixed(1);
+  const label = bar >= 1000 ? `${bar / 1000} km` : `${bar} m`;
+  const font = 'font-family="Segoe UI, Arial, sans-serif" font-size="34" fill="#1d2a35" stroke="#ffffff" stroke-width="7" stroke-linejoin="round" paint-order="stroke"';
+  return svg.replace('</svg>', `<path d="M${bx} ${by - 8}V${by}H${bx1}V${by - 8}" fill="none" stroke="#ffffff" stroke-width="9"/>`
+    + `<path d="M${bx} ${by - 8}V${by}H${bx1}V${by - 8}" fill="none" stroke="#1d2a35" stroke-width="5"/>`
+    + `<text x="${bx}" y="${by - 16}" ${font}>${label}</text></svg>`);
+}
+
 // Portrait (tall, 6:13) version for phones held upright: the region sits in the top half, the details panel covers the rest.
 export const PORTRAIT = { w: 720, h: 1560, frac: 0.5, iw: 250, ih: 200 };

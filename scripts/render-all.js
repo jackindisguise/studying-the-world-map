@@ -4,11 +4,34 @@
 //   small  (country <= 600 mi across)   2500 mi wide
 //   medium (<= 1800 mi)                 5600 mi wide
 //   large  (anything bigger)            9000 mi wide
+// Runs one worker process per core (JOBS=n to change, JOBS=1 for a single process); each renders a share of the countries.
 //   micro  (small + almost no land nearby, e.g. Fiji) keeps widening x1.2 from 2500 mi, up to ~10000, until other land covers 7% of the frame.
 import fs from 'node:fs';
+import os from 'node:os';
+import { spawn } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
 import { geoPath, geoArea, geoCentroid, geoContains, geoBounds, geoDistance, geoInterpolate, geoAzimuthalEquidistant } from 'd3-geo';
 import { COUNTRIES, shapes, numeric } from './geo.js';
-import { renderSvg, REGIONS, land, frameProjection } from './render-maps.js';
+import { renderSvg, renderZoomSvg, REGIONS, land, frameProjection } from './render-maps.js';
+
+// Countries that also get a zoom box (build/media/zoom-<ISO>.svg) the card pins to its top-left corner. Testing.
+// outline: an OpenStreetMap boundary (Nominatim search result file) to draw instead of the coarse Natural Earth shape.
+// backdrop: an OSM land polygon for the neighbouring country, drawn instead of the Natural Earth shapes (which do not line up with the OSM outline).
+// enclave: the frame is all land (Vatican City inside Rome), so no neighbour shapes and no ocean.
+// Any country with less land than ZOOM_MAX_KM2 (env ZOOM_MAX_KM2 overrides) gets a zoom box; this table only holds per-country overrides.
+const ZOOM_MAX_KM2 = Number(process.env.ZOOM_MAX_KM2 || 3000);
+const ZOOM = {
+  MCO: { outline: 'data/raw/outlines/MCO-osm.json', backdrop: 'data/raw/outlines/MCO-france-osm.json' },
+  VAT: { outline: 'data/raw/outlines/VAT-nominatim.json', enclave: true },
+};
+const landKm2 = Object.fromEntries(JSON.parse(fs.readFileSync('data/records.json', 'utf8')).map((r) => [r.ISO, Number((r['Land Area'] || '').split(' ')[0].replace(/[^0-9]/g, '')) || Infinity]));
+// d3 wants exterior rings clockwise on the sphere (GeoJSON from OpenStreetMap is the other way round).
+const rewind = (g) => {
+  const flip = (poly) => poly.map((ring) => ring.slice().reverse());
+  const fixed = (poly) => (geoArea({ type: 'Polygon', coordinates: poly }) > 2 * Math.PI ? flip(poly) : poly);
+  return g.type === 'MultiPolygon' ? { ...g, coordinates: g.coordinates.map(fixed) } : { ...g, coordinates: fixed(g.coordinates) };
+};
+const outlineFeature = (iso, file) => ({ type: 'Feature', id: iso, properties: {}, geometry: rewind(JSON.parse(fs.readFileSync(file, 'utf8'))[0].geojson) });
 
 const TIERS = [[600, 2500], [1800, 5600], [1e9, 9000]]; // [max country extent in miles, frame width in miles]
 // Frames shift toward the nearest-fitting landmass anchor by default (NO_SHIFT=1 for centred tiers); continent labels are on by default (NO_CONTINENTS=1 to drop them).
@@ -128,6 +151,7 @@ function scaleFrame(iso, target, skip) {
   return name;
 }
 
+const BOX_FILE = process.env.BOX_FILE || 'build/fit/boxes.json';
 const OUT = process.env.OUT_DIR || 'build/media';
 const only = process.argv.slice(2);
 fs.mkdirSync(OUT, { recursive: true });
@@ -135,7 +159,26 @@ const insetBackdrop = [...shapes.values()];
 let n = 0;
 const t0 = Date.now();
 const todo = COUNTRIES.filter((c) => !only.length || only.includes(c.iso));
-console.log(`Rendering ${todo.length} maps to ${OUT}`);
+const jobs = Math.min(Number(process.env.JOBS) || os.availableParallelism(), todo.length);
+if (jobs > 1 && !process.env.RENDER_WORKER) {
+  // Parent: hand every worker a share (interleaved, so big and small countries mix) and merge their fit boxes afterwards.
+  console.log(`Rendering ${todo.length} maps to ${OUT} on ${jobs} processes`);
+  fs.mkdirSync('build/fit', { recursive: true });
+  const parts = [];
+  const codes = await Promise.all(Array.from({ length: jobs }, (_, i) => new Promise((res) => {
+    const part = `build/fit/boxes.part${i}.json`;
+    fs.rmSync(part, { force: true });
+    parts.push(part);
+    const isos = todo.filter((_, k) => k % jobs === i).map((c) => c.iso);
+    spawn(process.execPath, [fileURLToPath(import.meta.url), ...isos], { stdio: 'inherit', env: { ...process.env, RENDER_WORKER: '1', BOX_FILE: part } }).on('exit', res);
+  })));
+  const merged = fs.existsSync(BOX_FILE) ? JSON.parse(fs.readFileSync(BOX_FILE, 'utf8')) : {};
+  for (const part of parts) if (fs.existsSync(part)) { Object.assign(merged, JSON.parse(fs.readFileSync(part, 'utf8'))); fs.rmSync(part); }
+  if (Object.keys(merged).length) fs.writeFileSync(BOX_FILE, JSON.stringify(merged));
+  console.log('rendered', todo.length, 'countries in', Math.round((Date.now() - t0) / 1000), 's');
+  process.exit(codes.some((c) => c) ? 1 : 0);
+}
+if (!process.env.RENDER_WORKER) console.log(`Rendering ${todo.length} maps to ${OUT}`);
 for (const c of todo) {
   const t1 = Date.now();
   const target = shapes.get(c.iso);
@@ -147,13 +190,20 @@ for (const c of todo) {
   if (fitMode) {
     const [[x0, y0], [x1, y1]] = geoPath(frameProjection(REGIONS[region].center, REGIONS[region].miles, FIT_SIZE, FIT_SIZE)).bounds(FIT[c.iso].geom);
     fs.mkdirSync('build/fit', { recursive: true });
-    const boxes = fs.existsSync('build/fit/boxes.json') ? JSON.parse(fs.readFileSync('build/fit/boxes.json', 'utf8')) : {};
+    const boxes = fs.existsSync(BOX_FILE) ? JSON.parse(fs.readFileSync(BOX_FILE, 'utf8')) : {};
     boxes[c.iso] = [x0, y0, x1, y1].map((v) => +(v / FIT_SIZE).toFixed(4)).concat(+(FIT_CONTEXT_MI / FIT[c.iso].mi).toFixed(4)); // 5th value: share of the canvas that is FIT_CONTEXT_MI miles (the card never zooms in past it)
-    fs.writeFileSync('build/fit/boxes.json', JSON.stringify(boxes));
+    fs.writeFileSync(BOX_FILE, JSON.stringify(boxes));
     console.log('   box', boxes[c.iso].join(','));
   }
   if (COVER_ISOS.has(c.iso)) svgText = svgText.replace('preserveAspectRatio="none"', 'preserveAspectRatio="xMidYMid slice"');
   fs.writeFileSync(`${OUT}/map-${c.iso}.svg`, svgText);
+  if (ZOOM[c.iso] || landKm2[c.iso] < ZOOM_MAX_KM2) {
+    const z = ZOOM[c.iso] || {};
+    const outline = z.outline ? outlineFeature(c.iso, z.outline) : target;
+    const zoom = renderZoomSvg(outline, z.enclave ? [] : z.backdrop ? [outlineFeature('backdrop', z.backdrop)] : insetBackdrop, { isTarget: (f) => isTarget(f) || f === outline, surround: z.enclave ? 'land' : 'ocean' });
+    if (zoom) fs.writeFileSync(`${OUT}/zoom-${c.iso}.svg`, zoom);
+    else console.log(`   no zoom for ${c.iso}: too spread out`);
+  }
   n++;
   const kb = Math.round(fs.statSync(`${OUT}/map-${c.iso}.svg`).size / 1024);
   const eta = Math.round(((Date.now() - t0) / n) * (todo.length - n) / 1000);
