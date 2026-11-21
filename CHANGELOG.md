@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://github.com/jackindisguise/studying-the-world-map/compare/v1.2.1...v1.3.0) (2026-11-21)
+
+
+### Features
+
+* add zoomed-in inset for tiny countries ([913cd82](https://github.com/jackindisguise/studying-the-world-map/commit/913cd82373b91ca0a47ec1156fced33d5b710428))
+
 ## [1.2.1](https://github.com/jackindisguise/studying-the-world-map/compare/v1.2.0...v1.2.1) (2026-11-12)
 
 
