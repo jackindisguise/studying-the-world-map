@@ -93,10 +93,13 @@
 	(function () {
 		var s = document.querySelector(".stage");
 		if (!s) return;
-		function boxFit(vw, vh, b, k) {
+		// dh, dw: height of the details panel along the bottom, or width of the one floating at the side (0 when absent); the map is centred in the space left over.
+		function boxFit(vw, vh, b, k, dh, dw) {
 			var bw = b[2] - b[0],
 				bh = b[3] - b[1],
-				side = Math.min((vw * k) / bw, (vh * k) / bh);
+				ev = vh - dh,
+				ew = vw - dw,
+				side = Math.min((ew * k) / bw, (ev * k) / bh);
 			if (b[4])
 				side = Math.min(
 					side,
@@ -105,15 +108,29 @@
 			side = Math.max(side, vw, vh);
 			return {
 				side: side,
-				left: vw / 2 - (b[0] + bw / 2) * side,
-				top: vh / 2 - (b[1] + bh / 2) * side,
+				left: dw
+					? Math.min(0, Math.max(vw - side, ew / 2 - (b[0] + bw / 2) * side))
+					: vw / 2 - (b[0] + bw / 2) * side,
+				top: dh
+					? Math.min(0, Math.max(vh - side, ev / 2 - (b[1] + bh / 2) * side))
+					: vh / 2 - (b[1] + bh / 2) * side,
 			};
+		}
+		// [height, width] the details panel takes from the stage: a full-width block at the bottom, or a card floating at the right.
+		function panelInset() {
+			var d = s.querySelector(".details");
+			if (!d) return [0, 0];
+			var q = d.getBoundingClientRect(),
+				p = s.getBoundingClientRect();
+			if (q.width >= s.clientWidth * 0.9)
+				return [q.top - p.top > s.clientHeight * 0.4 ? p.bottom - q.top : 0, 0];
+			return [0, q.left - p.left > s.clientWidth * 0.4 ? p.right - q.left : 0];
 		}
 		function g() {
 			var im = s.querySelector("img[data-box]");
 			if (!im) return;
 			var b = im.getAttribute("data-box").split(",").map(Number),
-				r = boxFit(s.clientWidth, s.clientHeight, b, 0.92),
+				r = boxFit(s.clientWidth, s.clientHeight, b, 0.92, panelInset()[0], panelInset()[1]),
 				t = im.style;
 			s.style.overflow = "hidden";
 			t.position = "absolute";
