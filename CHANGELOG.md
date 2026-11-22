@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://github.com/jackindisguise/studying-the-world-map/compare/v1.3.0...v1.4.0) (2026-11-22)
+
+
+### Features
+
+* centre the map in the space beside the details panel ([952b7e1](https://github.com/jackindisguise/studying-the-world-map/commit/952b7e172b8cea0eefc54d68ba4d672b74562352))
+
 ## [1.3.0](https://github.com/jackindisguise/studying-the-world-map/compare/v1.2.1...v1.3.0) (2026-11-21)
 
 
