@@ -11,6 +11,8 @@
 		"heads": "node scripts/parse-heads.js",
 		"leaders": "node scripts/leaders.js",
 		"religion": "node scripts/religion.js",
+		"pronunciation": "node scripts/pronunciation.js",
+		"pronunciation:refresh": "node scripts/pronunciation.js --refresh",
 		"records": "node scripts/build-records.js",
 		"notes": "node scripts/build-notes.js",
 		"apkg": "npm run apkg:build && npm run apkg:describe",
@@ -21,7 +23,7 @@
 		"flags:copy": "node scripts/copy-flags.js",
 		"render": "node scripts/render-all.js",
 		"build": "npm run records && npm run render && npm run flags:copy && npm run notes",
-		"refresh-data": "npm run facts:refresh && npm run heads && npm run leaders && npm run religion && npm run records"
+		"refresh-data": "npm run facts:refresh && npm run heads && npm run leaders && npm run religion && npm run pronunciation:refresh && npm run records"
 	},
 	"dependencies": {
 		"@resvg/resvg-js": "^2.6.2",

@@ -1,0 +1,790 @@
+{
+ "AFG": {
+  "ipa": "/æfˈɡænɪstæn/",
+  "respell": "af-GAN-i-stan"
+ },
+ "ALB": {
+  "ipa": "/ælˈbeɪ.ni.ə/",
+  "respell": "al-BAY-nee-uh"
+ },
+ "DZA": {
+  "ipa": "/ælˈdʒɪɹi.ə/",
+  "respell": "al-JIRR-ee-uh"
+ },
+ "AND": {
+  "ipa": "/ænˈdoɹ.ə/",
+  "respell": "an-DOH-ruh"
+ },
+ "AGO": {
+  "ipa": "/æŋˈɡoʊlə/",
+  "respell": "ang-GOH-luh"
+ },
+ "ATG": {
+  "ipa": "/ænˌti.ɡ(w)ə ənd bɑɹˈbju.də/",
+  "respell": "an-tee-guh and bar-BYOO-duh"
+ },
+ "ARG": {
+  "ipa": "/ɑːɹdʒənˈtiːnə/",
+  "respell": "ar-juhn-TEE-nuh"
+ },
+ "ARM": {
+  "ipa": "/ɑɹˈmi.ni.ə/",
+  "respell": "ar-MEE-nee-uh"
+ },
+ "AUS": {
+  "ipa": "/ɒˈstɹeɪ.liː.ə/",
+  "respell": "ah-STRAY-lee-uh"
+ },
+ "AUT": {
+  "ipa": "/ˈɒstɹiə/",
+  "respell": "AHS-tree-uh"
+ },
+ "AZE": {
+  "ipa": "/ˌæz.əɹ.baɪˈdʒɑn/",
+  "respell": "a-zuhr-beye-JAHN"
+ },
+ "BHS": {
+  "ipa": "/bəˈhɑː.məz/",
+  "respell": "buh-HAH-muhz"
+ },
+ "BHR": {
+  "ipa": "/bɑː(h)ˈɹeɪn/",
+  "respell": "bah-RAYN"
+ },
+ "BGD": {
+  "ipa": "/ˌbæŋ.ɡləˈdɛʃ/",
+  "respell": "bang-gluh-DESH"
+ },
+ "BRB": {
+  "ipa": "/bɑɹˈbeɪ.doʊs/",
+  "respell": "bar-BAY-dohs"
+ },
+ "BLR": {
+  "ipa": "/ˌbɛləˈɹus/",
+  "respell": "be-luh-ROOS"
+ },
+ "BEL": {
+  "ipa": "/ˈbɛld͡ʒəm/",
+  "respell": "BEL-juhm"
+ },
+ "BLZ": {
+  "ipa": "/bəˈliːz/",
+  "respell": "buh-LEEZ"
+ },
+ "BEN": {
+  "ipa": "/bəˈnin/",
+  "respell": "buh-NEEN"
+ },
+ "BTN": {
+  "ipa": "/buːˈtɑːn/",
+  "respell": "boo-TAHN"
+ },
+ "BOL": {
+  "ipa": "/boʊˈlɪvi.ə/",
+  "respell": "boh-LIV-ee-uh"
+ },
+ "BIH": {
+  "ipa": "/ˈbɒz.ni.ə ænd ˌhɜɹ.t͡sɪ.ɡoʊˈviː.nə/",
+  "respell": "BAHZ-nee-uh and hert-si-goh-VEE-nuh"
+ },
+ "BWA": {
+  "ipa": "/bɑːtˈswɑːnə/",
+  "respell": "baht-SWAH-nuh"
+ },
+ "BRA": {
+  "ipa": "/ˈbɹæzəl/",
+  "respell": "BRAZ-uhl"
+ },
+ "BRN": {
+  "ipa": "/bɹuˈnaɪ/",
+  "respell": "broo-NEYE"
+ },
+ "BGR": {
+  "ipa": "/bʌlˈɡɛəɹi.ə/",
+  "respell": "buhl-GAIR-ee-uh"
+ },
+ "BFA": {
+  "ipa": "/bəɹˈkiːnə ˈfɑsoʊ/",
+  "respell": "buhr-KEE-nuh FAH-soh"
+ },
+ "BDI": {
+  "ipa": "/bʊˈɹʊndi/",
+  "respell": "buu-RUUN-dee"
+ },
+ "KHM": {
+  "ipa": "/kæmˈboʊdi.ə/",
+  "respell": "kam-BOH-dee-uh"
+ },
+ "CMR": {
+  "ipa": "/kæməˈɹuːn/",
+  "respell": "ka-muh-ROON"
+ },
+ "CAN": {
+  "ipa": "/ˈkænədə/",
+  "respell": "KAN-uh-duh"
+ },
+ "CPV": {
+  "ipa": "/keɪp ˈvɜɹd/",
+  "respell": "kayp VERD"
+ },
+ "CAF": {
+  "ipa": "/ˈsɛntɹəl ˈæfɹɪkən ɹɪˈpʌblɪk/",
+  "respell": "SEN-truhl AF-ri-kuhn ri-PUHB-lik"
+ },
+ "TCD": {
+  "ipa": "/t͡ʃæd/",
+  "respell": "chad"
+ },
+ "CHL": {
+  "ipa": "/ˈt͡ʃiː.leɪ/",
+  "respell": "CHEE-lay"
+ },
+ "CHN": {
+  "ipa": "/ˈt͡ʃaɪnə/",
+  "respell": "CHEYE-nuh"
+ },
+ "COL": {
+  "ipa": "/kəˈlʌm.bi.ə/",
+  "respell": "kuh-LUHM-bee-uh"
+ },
+ "COM": {
+  "ipa": "/ˈkɒm.ə.ɹoʊz/",
+  "respell": "KAHM-uh-rohz"
+ },
+ "CRI": {
+  "ipa": "/ˌkoʊ.stə ˈɹi.kə/",
+  "respell": "koh-stuh REE-kuh"
+ },
+ "HRV": {
+  "ipa": "/ˌkɹoʊˈeɪ.ʃə/",
+  "respell": "kroh-AY-shuh"
+ },
+ "CUB": {
+  "ipa": "/ˈkjuːbə/",
+  "respell": "KYOO-buh"
+ },
+ "CYP": {
+  "ipa": "/ˈsaɪ.pɹəs/",
+  "respell": "SEYE-pruhs"
+ },
+ "CZE": {
+  "ipa": "/ˈt͡ʃɛk.i.ə/",
+  "respell": "CHEK-ee-uh"
+ },
+ "COD": {
+  "ipa": "/dɛməˈkɹætɪk ɹɪˈpʌblɪk əv ðə ˈkɑŋɡoʊ/",
+  "respell": "de-muh-KRAT-ik ri-PUHB-lik of the KAHNG-goh"
+ },
+ "DNK": {
+  "ipa": "/ˈdɛn.mɑɹk/",
+  "respell": "DEN-mark"
+ },
+ "DJI": {
+  "ipa": "/d͡ʒɪˈbuːtiː/",
+  "respell": "ji-BOO-tee"
+ },
+ "DMA": {
+  "ipa": "/ˌdɑ.mɪˈniː.kə/",
+  "respell": "dah-mi-NEE-kuh"
+ },
+ "DOM": {
+  "ipa": "/doʊˌmɪn.ɪ.kən ɹəˈpʌb.lɪk/",
+  "respell": "doh-mi-ni-kuhn ruh-PUHB-lik"
+ },
+ "ECU": {
+  "ipa": "/ˈɛk.wə.dɔɹ/",
+  "respell": "EK-wuh-dor"
+ },
+ "EGY": {
+  "ipa": "/ˈi.d͡ʒɪpt/",
+  "respell": "EE-jipt"
+ },
+ "SLV": {
+  "ipa": "/ɛl ˈsæl.və.dɔɹ/",
+  "respell": "el SAL-vuh-dor"
+ },
+ "GNQ": {
+  "ipa": "/ˌɛkwəˈtɔːɹiəl ˈɡɪni/",
+  "respell": "e-kwuh-TAW-ree-uhl GIN-ee"
+ },
+ "ERI": {
+  "ipa": "/ˌɛɹɪˈtɹeɪ.ə/",
+  "respell": "e-ri-TRAY-uh"
+ },
+ "EST": {
+  "ipa": "/ɛˈstoʊni.ə/",
+  "respell": "e-STOH-nee-uh"
+ },
+ "SWZ": {
+  "ipa": "/ˌɛ.swɑːˈti.ni/",
+  "respell": "e-swah-TEE-nee"
+ },
+ "ETH": {
+  "ipa": "/ˌi.θiˈoʊ.pi.ə/",
+  "respell": "ee-thee-OH-pee-uh"
+ },
+ "FJI": {
+  "ipa": "/ˈfiːdʒiː/",
+  "respell": "FEE-jee"
+ },
+ "FIN": {
+  "ipa": "/ˈfɪn.lənd/",
+  "respell": "FIN-luhnd"
+ },
+ "FRA": {
+  "ipa": "/fɹɑːns/",
+  "respell": "frahns"
+ },
+ "GAB": {
+  "ipa": "/ɡəˈbɒn/",
+  "respell": "guh-BAHN"
+ },
+ "GMB": {
+  "ipa": "/ˈɡæm.bi.ə/",
+  "respell": "GAM-bee-uh"
+ },
+ "GEO": {
+  "ipa": "/ˈd͡ʒɔɹ.d͡ʒə/",
+  "respell": "JOR-juh"
+ },
+ "DEU": {
+  "ipa": "/ˈd͡ʒɝ.mə.ni/",
+  "respell": "JER-muh-nee"
+ },
+ "GHA": {
+  "ipa": "/ˈɡɑnə/",
+  "respell": "GAH-nuh"
+ },
+ "GRC": {
+  "ipa": "/ɡɹiːs/",
+  "respell": "grees"
+ },
+ "GRD": {
+  "ipa": "/ɡɹəˈneɪdə/",
+  "respell": "gruh-NAY-duh"
+ },
+ "GTM": {
+  "ipa": "/ˌɡwɑː.təˈmɑː.lə/",
+  "respell": "gwah-tuh-MAH-luh"
+ },
+ "GIN": {
+  "ipa": "/ˈɡɪni/",
+  "respell": "GIN-ee"
+ },
+ "GNB": {
+  "ipa": "/ˌɡɪni bɪˈsaʊ/",
+  "respell": "gi-nee bi-SOW"
+ },
+ "GUY": {
+  "ipa": "/ɡaɪˈɑː.nə/",
+  "respell": "geye-AH-nuh"
+ },
+ "HTI": {
+  "ipa": "/ˈheɪ.ti/",
+  "respell": "HAY-tee"
+ },
+ "HND": {
+  "ipa": "/hɑnˈdʊɹ.əs/",
+  "respell": "hahn-DOOR-uhs"
+ },
+ "HUN": {
+  "ipa": "/ˈhʌŋɡ(ə)ɹi/",
+  "respell": "HUHNG-gree"
+ },
+ "ISL": {
+  "ipa": "/ˈaɪs.lənd/",
+  "respell": "EYE-sluhnd"
+ },
+ "IND": {
+  "ipa": "/ˈɪn.di.ə/",
+  "respell": "IN-dee-uh"
+ },
+ "IDN": {
+  "ipa": "/ˌɪndəˈniʒə/",
+  "respell": "in-duh-NEE-zhuh"
+ },
+ "IRN": {
+  "ipa": "/ɪˈɹɑn/",
+  "respell": "i-RAHN"
+ },
+ "IRQ": {
+  "ipa": "/ɪˈɹɑːk/",
+  "respell": "i-RAHK"
+ },
+ "IRL": {
+  "ipa": "/ˈaɪɚlənd/",
+  "respell": "EYE-er-luhnd"
+ },
+ "ISR": {
+  "ipa": "/ˈɪz.ɹeɪ.əl/",
+  "respell": "IZ-ray-uhl"
+ },
+ "ITA": {
+  "ipa": "/ˈɪtəli/",
+  "respell": "IT-uh-lee"
+ },
+ "CIV": {
+  "ipa": "/ˈaɪvəɹi ˈkoʊst/",
+  "respell": "EYE-vuh-ree KOHST"
+ },
+ "JAM": {
+  "ipa": "/d͡ʒəˈmeɪ.kə/",
+  "respell": "juh-MAY-kuh"
+ },
+ "JPN": {
+  "ipa": "/d͡ʒəˈpæn/",
+  "respell": "juh-PAN"
+ },
+ "JOR": {
+  "ipa": "/ˈd͡ʒɔɹdən/",
+  "respell": "JOR-duhn"
+ },
+ "KAZ": {
+  "ipa": "/ˈkɑzəkˌstæn/",
+  "respell": "KAH-zuhk-stan"
+ },
+ "KEN": {
+  "ipa": "/ˈkɛn.jə/",
+  "respell": "KEN-yuh"
+ },
+ "KIR": {
+  "ipa": "/ˈkiː.ɹɪ.bæs/",
+  "respell": "KEE-ri-bas"
+ },
+ "XKX": {
+  "ipa": "/ˈkoʊsəˌvoʊ/",
+  "respell": "KOH-suh-voh"
+ },
+ "KWT": {
+  "ipa": "/kuːˈweɪt/",
+  "respell": "koo-WAYT"
+ },
+ "KGZ": {
+  "ipa": "/ˌkɝ.ɡɪˈstɑn/",
+  "respell": "ker-gi-STAHN"
+ },
+ "LAO": {
+  "ipa": "/ˈlaʊs/",
+  "respell": "lows"
+ },
+ "LVA": {
+  "ipa": "/ˈlætvi.ə/",
+  "respell": "LAT-vee-uh"
+ },
+ "LBN": {
+  "ipa": "/ˈlɛbənən/",
+  "respell": "LEB-uh-nuhn"
+ },
+ "LSO": {
+  "ipa": "/ləˈsoʊ.toʊ/",
+  "respell": "luh-SOH-toh"
+ },
+ "LBR": {
+  "ipa": "/laɪˈbɪɹ.i.ə/",
+  "respell": "leye-BEER-ee-uh"
+ },
+ "LBY": {
+  "ipa": "/ˈlɪbi.ə/",
+  "respell": "LIB-ee-uh"
+ },
+ "LIE": {
+  "ipa": "/ˈlɪk.tən.staɪn/",
+  "respell": "LIK-tuhn-steyen"
+ },
+ "LTU": {
+  "ipa": "/ˌlɪθ.uˈeɪ.ni.ə/",
+  "respell": "li-thoo-AY-nee-uh"
+ },
+ "LUX": {
+  "ipa": "/ˈlʌk.səm.bɝɡ/",
+  "respell": "LUHK-suhm-berg"
+ },
+ "MDG": {
+  "ipa": "/mædəˈɡæskɑɹ/",
+  "respell": "ma-duh-GAS-kar"
+ },
+ "MWI": {
+  "ipa": "/məˈlɑwi/",
+  "respell": "muh-LAH-wee"
+ },
+ "MYS": {
+  "ipa": "/məˈleɪ̯ʒə/",
+  "respell": "muh-LAY-zhuh"
+ },
+ "MDV": {
+  "ipa": "/ˈmɔl.divz/",
+  "respell": "MAWL-deevz"
+ },
+ "MLI": {
+  "ipa": "/ˈmɑli/",
+  "respell": "MAH-lee"
+ },
+ "MLT": {
+  "ipa": "/ˈmɑl.tə/",
+  "respell": "MAHL-tuh"
+ },
+ "MHL": {
+  "ipa": "/ˈmɑɹ.ʃəl ˈaɪ.ləndz/",
+  "respell": "MAR-shuhl EYE-luhndz"
+ },
+ "MRT": {
+  "ipa": "/ˌmoɹɪˈteɪni.ə/",
+  "respell": "moh-ri-TAY-nee-uh"
+ },
+ "MUS": {
+  "ipa": "/məˈɹɪʃəs/",
+  "respell": "muh-RISH-uhs"
+ },
+ "MEX": {
+  "ipa": "/ˈmɛk.sɪ.koʊ/",
+  "respell": "MEK-si-koh"
+ },
+ "FSM": {
+  "ipa": "/ˌmaɪ.kɹoʊˈniː.ʒə/",
+  "respell": "meye-kroh-NEE-zhuh"
+ },
+ "MDA": {
+  "ipa": "/mɒlˈdəʊ.və/",
+  "respell": "mahl-DOH-vuh"
+ },
+ "MCO": {
+  "ipa": "/ˈmɑ.nə.koʊ/",
+  "respell": "MAH-nuh-koh"
+ },
+ "MNG": {
+  "ipa": "/mɑŋˈɡoʊli.ə/",
+  "respell": "mahng-GOH-lee-uh"
+ },
+ "MNE": {
+  "ipa": "/ˌmɑntəˈniɡɹoʊ/",
+  "respell": "mahn-tuh-NEE-groh"
+ },
+ "MAR": {
+  "ipa": "/məˈɹɒkəʊ/",
+  "respell": "muh-RAHK-oh"
+ },
+ "MOZ": {
+  "ipa": "/ˌmoʊzæmˈbik/",
+  "respell": "moh-zam-BEEK"
+ },
+ "MMR": {
+  "ipa": "/ˈmjɑnˌmɑɹ/",
+  "respell": "MYAHN-mar"
+ },
+ "NAM": {
+  "ipa": "/nəˈmɪbi.ə/",
+  "respell": "nuh-MIB-ee-uh"
+ },
+ "NRU": {
+  "ipa": "/ˈnaʊ.ɹu/",
+  "respell": "NOW-roo"
+ },
+ "NPL": {
+  "ipa": "/ˈneɪ.pɑl/",
+  "respell": "NAY-pahl"
+ },
+ "NLD": {
+  "ipa": "/ˈnɛðɚləndz/",
+  "respell": "NEDH-er-luhndz"
+ },
+ "NZL": {
+  "ipa": "/ˌnjuː ˈziːlənd/",
+  "respell": "nyoo ZEE-luhnd"
+ },
+ "NIC": {
+  "ipa": "/ˌnɪk.əˈɹɑ.ɡwə/",
+  "respell": "ni-kuh-RAH-gwuh"
+ },
+ "NER": {
+  "ipa": "/ˈnaɪ.d͡ʒɚ/",
+  "respell": "NEYE-jer"
+ },
+ "NGA": {
+  "ipa": "/naɪˈd͡ʒɪɹiə/",
+  "respell": "neye-JIRR-ee-uh"
+ },
+ "PRK": {
+  "ipa": "/noɹθ ˌkəˈɹi.ə/",
+  "respell": "nohrth kuh-REE-uh"
+ },
+ "MKD": {
+  "ipa": "/noɹθ ˌmæs.əˈdoʊ.ni.ə/",
+  "respell": "nohrth ma-suh-DOH-nee-uh"
+ },
+ "NOR": {
+  "ipa": "/ˈnɔɹweɪ/",
+  "respell": "NOR-way"
+ },
+ "OMN": {
+  "ipa": "/oʊˈmɑn/",
+  "respell": "oh-MAHN"
+ },
+ "PAK": {
+  "ipa": "/ˌpɑkɪˈstɑn/",
+  "respell": "pah-ki-STAHN"
+ },
+ "PLW": {
+  "ipa": "/pəˈlaʊ/",
+  "respell": "puh-LOW"
+ },
+ "PSE": {
+  "ipa": "/ˈpæləˌstaɪn/",
+  "respell": "PAL-uh-steyen"
+ },
+ "PAN": {
+  "ipa": "/ˈpænəmɑ/",
+  "respell": "PAN-uh-mah"
+ },
+ "PNG": {
+  "ipa": "/ˈpæp.u.ə ˌnu ˈɡɪn.i/",
+  "respell": "PAP-oo-uh noo GIN-ee"
+ },
+ "PRY": {
+  "ipa": "/ˈpæɹəɡwaɪ/",
+  "respell": "PARR-uh-gweye"
+ },
+ "PER": {
+  "ipa": "/pəˈɹu/",
+  "respell": "puh-ROO"
+ },
+ "PHL": {
+  "ipa": "/ˈfɪl.ɪ.piːnz/",
+  "respell": "FIL-i-peenz"
+ },
+ "POL": {
+  "ipa": "/ˈpoɫ.ənd/",
+  "respell": "POH-luhnd"
+ },
+ "PRT": {
+  "ipa": "/ˈpɔɹt͡ʃəɡəl/",
+  "respell": "POR-chuh-guhl"
+ },
+ "QAT": {
+  "ipa": "/ˈkɑtɚ/",
+  "respell": "KAH-ter"
+ },
+ "COG": {
+  "ipa": "/ɹɪˈpʌblɪk əv ðə ˈkɑŋɡoʊ/",
+  "respell": "ri-PUHB-lik of the KAHNG-goh"
+ },
+ "ROU": {
+  "ipa": "/ɹoʊˈmeɪ.ni.ə/",
+  "respell": "roh-MAY-nee-uh"
+ },
+ "RUS": {
+  "ipa": "/ˈɹʌʃə/",
+  "respell": "RUHSH-uh"
+ },
+ "RWA": {
+  "ipa": "/ɹuˈɑndə/",
+  "respell": "roo-AHN-duh"
+ },
+ "KNA": {
+  "ipa": "/seɪnt ˌkɪts ən ˈniː.vɪs/",
+  "respell": "saynt kits and NEE-vis"
+ },
+ "LCA": {
+  "ipa": "/seɪnt ˈlu.ʃə/",
+  "respell": "saynt LOO-shuh"
+ },
+ "VCT": {
+  "ipa": "/seɪnt ˈvɪn(t).sənt ən ðə ˈɡɹɛ.nəˌdiːnz/",
+  "respell": "saynt VIN-suhnt and the GREN-uh-deenz"
+ },
+ "WSM": {
+  "ipa": "/səˈmoʊ.ə/",
+  "respell": "suh-MOH-uh"
+ },
+ "SMR": {
+  "ipa": "/ˌsæn məˈɹi.noʊ/",
+  "respell": "san muh-REE-noh"
+ },
+ "STP": {
+  "ipa": "/ˌsaʊ təˈmeɪ ən ˈpɹɪnsɪpeɪ/",
+  "respell": "sow tuh-MAY and PRIN-si-pay"
+ },
+ "SAU": {
+  "ipa": "/ˌsaʊ.di əˈɹeɪ.bi.ə/",
+  "respell": "sow-dee uh-RAY-bee-uh"
+ },
+ "SEN": {
+  "ipa": "/ˌsɛn.ɪˈɡɔːl/",
+  "respell": "se-ni-GAWL"
+ },
+ "SRB": {
+  "ipa": "/ˈsɝ.bi.ə/",
+  "respell": "SER-bee-uh"
+ },
+ "SYC": {
+  "ipa": "/seɪˈʃɛlz/",
+  "respell": "say-SHELZ"
+ },
+ "SLE": {
+  "ipa": "/siˌɛɹə liˈoʊn/",
+  "respell": "see-e-ruh lee-OHN"
+ },
+ "SGP": {
+  "ipa": "/ˈsɪŋəpoɹ/",
+  "respell": "SING-uh-pohr"
+ },
+ "SVK": {
+  "ipa": "/sloʊˈvɑ.ki.ə/",
+  "respell": "sloh-VAH-kee-uh"
+ },
+ "SVN": {
+  "ipa": "/sloʊˈvi.ni.ə/",
+  "respell": "sloh-VEE-nee-uh"
+ },
+ "SLB": {
+  "ipa": "/ˈsɑ.lə.mən ˈaɪ.ləndz/",
+  "respell": "SAH-luh-muhn EYE-luhndz"
+ },
+ "SOM": {
+  "ipa": "/səˈmɑli.ə/",
+  "respell": "suh-MAH-lee-uh"
+ },
+ "ZAF": {
+  "ipa": "/ˌsaʊθ ˈæfɹɪkə/",
+  "respell": "sowth AF-ri-kuh"
+ },
+ "KOR": {
+  "ipa": "/ˌsaʊθ kəˈɹiːə/",
+  "respell": "sowth kuh-REE-uh"
+ },
+ "SSD": {
+  "ipa": "/ˌsaʊθ suˈdæn/",
+  "respell": "sowth soo-DAN"
+ },
+ "ESP": {
+  "ipa": "/speɪn/",
+  "respell": "spayn"
+ },
+ "LKA": {
+  "ipa": "/ʃɹiˈlɑːŋkə/",
+  "respell": "shree-LAHNG-kuh"
+ },
+ "SDN": {
+  "ipa": "/suˈdæn/",
+  "respell": "soo-DAN"
+ },
+ "SUR": {
+  "ipa": "/ˌsʊɹ.ɪˈnɑm/",
+  "respell": "soor-i-NAHM"
+ },
+ "SWE": {
+  "ipa": "/ˈswi.dən/",
+  "respell": "SWEE-duhn"
+ },
+ "CHE": {
+  "ipa": "/ˈswɪtsɚlənd/",
+  "respell": "SWIT-ser-luhnd"
+ },
+ "SYR": {
+  "ipa": "/ˈsɪɹi.ə/",
+  "respell": "SIRR-ee-uh"
+ },
+ "TWN": {
+  "ipa": "/ˌtaɪ̯ˈwɑn/",
+  "respell": "teye-WAHN"
+ },
+ "TJK": {
+  "ipa": "/təˈdʒiːkɪˌstɑːn/",
+  "respell": "tuh-JEE-ki-stahn"
+ },
+ "TZA": {
+  "ipa": "/ˌtæn.zəˈni.ə/",
+  "respell": "tan-zuh-NEE-uh"
+ },
+ "THA": {
+  "ipa": "/ˈtaɪlænd/",
+  "respell": "TEYE-land"
+ },
+ "TLS": {
+  "ipa": "/tiˈmɔːr ˈlɛʃteɪ/",
+  "respell": "tee-MAWR LESH-tay"
+ },
+ "TGO": {
+  "ipa": "/ˈtoʊɡoʊ/",
+  "respell": "TOH-goh"
+ },
+ "TON": {
+  "ipa": "/ˈtɑŋ.ɡə/",
+  "respell": "TAHNG-guh"
+ },
+ "TTO": {
+  "ipa": "/ˌtɹɪn.ɪ.dæd ænd toʊˈbeɪ.ɡoʊ/",
+  "respell": "tri-ni-dad and toh-BAY-goh"
+ },
+ "TUN": {
+  "ipa": "/tuˈni.ʒə/",
+  "respell": "too-NEE-zhuh"
+ },
+ "TUR": {
+  "ipa": "/ˈtɝki/",
+  "respell": "TER-kee"
+ },
+ "TKM": {
+  "ipa": "/tɚkˈmɛn.ɪ.stæn/",
+  "respell": "terk-MEN-i-stan"
+ },
+ "TUV": {
+  "ipa": "/tuˈvɑ.lu/",
+  "respell": "too-VAH-loo"
+ },
+ "UGA": {
+  "ipa": "/(j)uˈɡɑndə/",
+  "respell": "yoo-GAHN-duh"
+ },
+ "UKR": {
+  "ipa": "/juːˈkɹeɪn/",
+  "respell": "yoo-KRAYN"
+ },
+ "ARE": {
+  "ipa": "/juˈnaɪtɪd ˈɛɹəb ˈɛmɪɹɪts/",
+  "respell": "yoo-NEYE-tid ERR-uhb EM-i-rits"
+ },
+ "GBR": {
+  "ipa": "/juˌnaɪ.tɪd ˈkɪŋ.dəm/",
+  "respell": "yoo-neye-tid KING-duhm"
+ },
+ "USA": {
+  "ipa": "/juˌnaɪtɪ̈d ˈsteɪts/",
+  "respell": "yoo-neye-tid STAYTS"
+ },
+ "URY": {
+  "ipa": "/ˈjʊɹəɡwaɪ/",
+  "respell": "YUURR-uh-gweye"
+ },
+ "UZB": {
+  "ipa": "/ʊzˌbɛkɪˈstɑn/",
+  "respell": "uuz-be-ki-STAHN"
+ },
+ "VUT": {
+  "ipa": "/vɑ.nuˈɑ.tu/",
+  "respell": "vah-noo-AH-too"
+ },
+ "VAT": {
+  "ipa": "/ˈvæ.tɪ.kən ˈsɪt.i/",
+  "respell": "VAT-i-kuhn SIT-ee"
+ },
+ "VEN": {
+  "ipa": "/ˌvɛnəzˈweɪlə/",
+  "respell": "ve-nuhz-WAY-luh"
+ },
+ "VNM": {
+  "ipa": "/ˌvi.ɪtˈnɑm/",
+  "respell": "vee-it-NAHM"
+ },
+ "YEM": {
+  "ipa": "/ˈjɛmən/",
+  "respell": "YEM-uhn"
+ },
+ "ZMB": {
+  "ipa": "/ˈzæmbiə/",
+  "respell": "ZAM-bee-uh"
+ },
+ "ZWE": {
+  "ipa": "/zɪmˈbɑbweɪ/",
+  "respell": "zim-BAH-bway"
+ }
+}

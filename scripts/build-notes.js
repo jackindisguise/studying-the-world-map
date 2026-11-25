@@ -5,7 +5,7 @@ import fs from 'node:fs';
 
 const DECK = 'Studying the World Map', MODEL = 'Country Map', TAG = 'world-map';
 const ORDER = ['North America', 'South America', 'Europe', 'Africa', 'Central America', 'Caribbean', 'Asia', 'Oceania'];
-const FIELDS = ['Name', 'Map', 'Flag', 'Capital', 'Region', 'Population', 'GDP', 'GDP per Capita', 'Land Area', 'Density', 'Happiness', 'Leader', 'Party', 'As Of', 'ISO', 'Languages', 'Currency', 'Government', 'Religion', 'Borders', 'Head of State'];
+const FIELDS = ['Name', 'Map', 'Flag', 'Capital', 'Region', 'Population', 'GDP', 'GDP per Capita', 'Land Area', 'Density', 'Happiness', 'Leader', 'Party', 'As Of', 'ISO', 'Languages', 'Currency', 'Government', 'Religion', 'Borders', 'Head of State', 'IPA', 'Respelling'];
 
 // Most populous first (Population is formatted text like '43,844,111'); Anki shows new cards in this order.
 const pop = (r) => Number((r.Population || '').split(' (')[0].replace(/\D/g, '')) || 0;

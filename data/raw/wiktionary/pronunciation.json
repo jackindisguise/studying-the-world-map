@@ -1,0 +1,6724 @@
+{
+ "AFG": {
+  "title": "Afghanistan",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "SSB"
+    ],
+    "ipa": [
+     "/æfˈɡænɪstæn/",
+     "/æfˈɡænɪstɑːn/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "CA"
+    ],
+    "ipa": [
+     "/æfˈɡænɪstæn/",
+     "[æfˈɡɛənɪstɛən]",
+     "/æfˈɡænɪstɑn/",
+     "[æfˈɡɛənɪstɑn]"
+    ]
+   },
+   {
+    "labels": [
+     "weak vowel merger"
+    ],
+    "ipa": [
+     "/æfˈɡænəstæn/",
+     "/æfˈɡænəstɑːn/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "[æfˈɡænɪˌstɑːn]",
+     "[æfˈɡænɪˌstæn]"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "[afˈɡanɪˌstɑːn]",
+     "[afˈɡanɪˌstan]"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "[æfˈɡænəˌstæn]",
+     "[æfˈɡænəˌstɐːn]"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "[ɛfˈɡɛnəˌstɛn]",
+     "[ɛfˈɡɛnəˌstɐːn]"
+    ]
+   }
+  ]
+ },
+ "ALB": {
+  "title": "Albania",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ælˈbeɪ.nɪ.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ælˈbeɪ.ni.ə/",
+     "/ælˈbeɪn.jə/",
+     "/ɔlˈbeɪ.ni.ə/",
+     "/ɔlˈbeɪn.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "cot-caught"
+    ],
+    "ipa": [
+     "/ɑlˈbeɪ.ni.ə/",
+     "/ɑlˈbeɪn.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/alˈban̪.ja/"
+    ]
+   }
+  ]
+ },
+ "DZA": {
+  "title": "Algeria",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "AU"
+    ],
+    "ipa": [
+     "/ælˈdʒɪəɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/alˈdʒɪːɹɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ælˈdʒɪɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ɛlˈdʒiəɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/alˈdʒiɾe.ə/",
+     "[alˈdʒiːɾe.ə]"
+    ]
+   },
+   {
+    "labels": [
+     "East Anglia",
+     "cheer-chair"
+    ],
+    "ipa": [
+     "/alˈdʒɛːɹi.ə/"
+    ]
+   }
+  ]
+ },
+ "AND": {
+  "title": "Andorra",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ænˈdɔː.ɹə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ænˈdoɹ.ə/",
+     "[ænˈdo̞ɹ.ə]"
+    ]
+   },
+   {
+    "labels": [
+     "non-horse-hoarse"
+    ],
+    "ipa": [
+     "/ænˈdɔː.ɹə/"
+    ]
+   }
+  ]
+ },
+ "AGO": {
+  "title": "Angola",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/æŋˈɡoʊlə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "[æŋˈɡəʊlə]"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "[aŋˈɡəwlə]"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "[æŋˈɡəʉlə]"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "[ɛŋˈɡɐʉlə]"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "[aŋˈɡolə]"
+    ]
+   },
+   {
+    "labels": [
+     "Wales",
+     "non-toe-tow"
+    ],
+    "ipa": [
+     "[aŋˈɡoːlə]"
+    ]
+   }
+  ]
+ },
+ "ATG": {
+  "title": "Antigua and Barbuda",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ænˌtiː.ɡə ən(d) bɑːˈb(j)uː.də/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ænˌti.ɡ(w)ə ənd bɑɹˈbju.də/"
+    ]
+   }
+  ]
+ },
+ "ARG": {
+  "title": "Argentina",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ɑːɹdʒənˈtiːnə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "[ˌɑːd͡ʒənˈtiːnə]"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "[ˌɑɹ.d͡ʒənˈti.nə]"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "[ˌɑɾ.d͡ʒənˈti.nə]"
+    ]
+   }
+  ]
+ },
+ "ARM": {
+  "title": "Armenia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ɑːˈmiːni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ɑːˈmɪjnɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ɑɹˈmi.ni.ə/",
+     "[ɑɹˈmi.njə]"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/aɾˈmi.ne.ə/",
+     "/-nɪ.ə/",
+     "/-ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/aɹˈmen.ja/"
+    ]
+   }
+  ]
+ },
+ "AUS": {
+  "title": "Australia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ɒˈstɹeɪ.liː.ə/",
+     "/ɒˈstɹeɪ.li.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP",
+     "dated"
+    ],
+    "ipa": [
+     "/ɔːˈstɹeɪ.lɪ.ə/",
+     "/ɔːˈstɹeɪ.lɪ.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "Macquarie Dictionary"
+    ],
+    "ipa": [
+     "/ɒˈstɹeɪl.jə/",
+     "/əˈstɹeɪl.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/əˈstɹæɪl.jə/",
+     "/əˈstɹæɪ.liː.ə/",
+     "/əˈstɹæɪ.jə/",
+     "/-ɹɛl-/",
+     "/-ɹe.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "Tasmanian"
+    ],
+    "ipa": [
+     "/əˈstɹɛ.liː.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "non-cot-caught"
+    ],
+    "ipa": [
+     "/ɔˈstɹeɪl.jə/",
+     "/ɔˈstɹeɪl.i.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "cot-caught"
+    ],
+    "ipa": [
+     "/ɑˈstɹɛl.i.ə/",
+     "/ɑˈstɹɛl.jə/",
+     "/-ɹeɪl-/"
+    ]
+   }
+  ]
+ },
+ "AUT": {
+  "title": "Austria",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈɒstɹiə/",
+     "/ˈɔːstɹiə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈɒstɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP",
+     "dated"
+    ],
+    "ipa": [
+     "/ˈɔːstɹɪ.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈɔstɹɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈɔstɾe.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈɒstɾi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "non-cot-caught"
+    ],
+    "ipa": [
+     "/ˈɔstɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "cot-caught"
+    ],
+    "ipa": [
+     "/ˈɑstɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈɔstɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈɒstɹi.ə/",
+     "[ˈɔ̟stɹi.ə]"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˈɔstɹi.jɐ/"
+    ]
+   }
+  ]
+ },
+ "AZE": {
+  "title": "Azerbaijan",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌæz.ə.baɪˈdʒɑːn/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌæz.əɹ.baɪˈdʒɑn/",
+     "/ˌɑ.zəɹ.baɪˈdʒɑn/"
+    ]
+   },
+   {
+    "labels": [
+     "{{glossary"
+    ],
+    "ipa": [
+     "/ˌæz.ə(ɹ).baɪˈʒɑːn/",
+     "/ˌɑ.zə(ɹ).baɪˈʒɑːn/"
+    ]
+   }
+  ]
+ },
+ "BHS": {
+  "title": "Bahamas",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/bəˈhɑː.məz/"
+    ]
+   }
+  ]
+ },
+ "BHR": {
+  "title": "Bahrain",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/bɑː(h)ˈɹeɪn/"
+    ]
+   }
+  ]
+ },
+ "BGD": {
+  "title": "Bangladesh",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌbæŋ.ɡləˈdɛʃ/",
+     "/ˌbɑːŋ.ɡləˈdɛʃ/",
+     "/ˌbæŋ.ləˈdɛʃ/",
+     "/ˌbɑːŋ.ləˈdɛʃ/"
+    ]
+   },
+   {
+    "labels": [
+     "Indic"
+    ],
+    "ipa": [
+     "/bɑŋ(ɡ)lɑd̪eʃ/",
+     "/bəŋˈ(ɡ)lɑd̪eʃ/"
+    ]
+   }
+  ]
+ },
+ "BRB": {
+  "title": "Barbados",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/bɑː(ɹ)ˈbeɪ.dɒs/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/bɑɹˈbeɪ.doʊs/",
+     "/bɑɹˈbeɪ.dəs/",
+     "/bɑɹˈbeɪ.doʊz/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/baɹˈba.dos/"
+    ]
+   }
+  ]
+ },
+ "BLR": {
+  "title": "Belarus",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈbɛləɹuːs/",
+     "/ˌbɛləˈɹuːs/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈbɛləɹʉws/",
+     "/ˌbɛləˈɹʉws/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌbɛləˈɹus/",
+     "/ˈbɛlɑ.ɹus/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈbeləɹʉsː/",
+     "/ˌbeləˈɹʉːs/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈbɛləɾʉs/",
+     "/ˌbɛləˈɾʉs/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern Ireland"
+    ],
+    "ipa": [
+     "/ˈbɛləɻʉs/",
+     "/ˌbɛləˈɻʉs/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈbɛləɾuːs/",
+     "/ˌbɛləˈɾuːs/"
+    ]
+   }
+  ]
+ },
+ "BEL": {
+  "title": "Belgium",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈbɛld͡ʒəm/",
+     "[ˈbɛld͡ʒɱ̩]"
+    ]
+   }
+  ]
+ },
+ "BLZ": {
+  "title": "Belize",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/bəˈliːz/",
+     "/bɛlˈiːz/",
+     "/beɪlˈiːz/"
+    ]
+   }
+  ]
+ },
+ "BEN": {
+  "title": "Benin",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/bɪˈniːn/",
+     "/bɛˈniːn/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/bəˈnin/",
+     "/bəˈnɪn/"
+    ]
+   }
+  ]
+ },
+ "BTN": {
+  "title": "Bhutan",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/buːˈtɑːn/",
+     "/buːˈtæn/"
+    ]
+   }
+  ]
+ },
+ "BOL": {
+  "title": "Bolivia",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "AU"
+    ],
+    "ipa": [
+     "/bəˈlɪvi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/bəˈlɪvɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/boʊˈlɪvi.ə/",
+     "/bəˈlɪvi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/bəˈlɪve.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/bəˈləvi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/boˈliv.jɐ/"
+    ]
+   }
+  ]
+ },
+ "BIH": {
+  "title": "Bosnia and Herzegovina",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈbɒz.ni.ə ænd ˌhɜɹ.t͡sɪ.ɡoʊˈviː.nə/",
+     "/-hɜɹ.t͡sɪˈɡoʊ.vɪn.ə/",
+     "/-ənd/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˌbɒz.niːə ən(d) ˌhɜːtsəˈɡɒvɪ.nə/",
+     "/-hɜːtsə.ɡə(ʊ)ˈviːnə/"
+    ]
+   }
+  ]
+ },
+ "BWA": {
+  "title": "Botswana",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/bɒtˈswɑːnə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/bɑːtˈswɑːnə/"
+    ]
+   }
+  ]
+ },
+ "BRA": {
+  "title": "Brazil",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US",
+     "CA",
+     "AU"
+    ],
+    "ipa": [
+     "/bɹəˈzɪl/",
+     "[-ˈzɪɫ]"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈbɹæzəl/"
+    ]
+   }
+  ]
+ },
+ "BRN": {
+  "title": "Brunei",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/bɹuːˈnaɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/bɹʉwˈnɑj/"
+    ]
+   },
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/bɹuˈnaɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia",
+     "NZ"
+    ],
+    "ipa": [
+     "/bɹʉːˈnɑe/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/bɾʉˈnaɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/bɾɪʊˈnaɪ/"
+    ]
+   }
+  ]
+ },
+ "BGR": {
+  "title": "Bulgaria",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/bʌlˈɡɛəɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/bʌlˈɡɛːɹɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "nMmmm"
+    ],
+    "ipa": [
+     "/bʌlˈɡɛə̯ɹi.ə/",
+     "/bʊl-/",
+     "/-ɡeɹ-/"
+    ]
+   },
+   {
+    "labels": [
+     "Mmmm"
+    ],
+    "ipa": [
+     "/bʌlˈɡɛɹi.ə/",
+     "/bʊl-/"
+    ]
+   },
+   {
+    "labels": [
+     "non-near-square"
+    ],
+    "ipa": [
+     "/bɐlˈɡeə̯ɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "near-square"
+    ],
+    "ipa": [
+     "/bɐlˈɡiə̯ɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England"
+    ],
+    "ipa": [
+     "/bʊlˈɡɛːɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Lancashire",
+     "fair-fur"
+    ],
+    "ipa": [
+     "/bʊlˈɡɜːɹɪ.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/bʌlˈɡeɾe.ə/",
+     "/-ɾɪ.ə/",
+     "/-ɾi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/bʊlˈɡɐɹjɐ/"
+    ]
+   }
+  ]
+ },
+ "BFA": {
+  "title": "Burkina Faso",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/bəɹˈkiːnə ˈfɑsoʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/bəːˌkiːnə ˈfasəʊ/"
+    ]
+   }
+  ]
+ },
+ "BDI": {
+  "title": "Burundi",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/bʊˈɹʊndi/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/bʊˈɹundi/"
+    ]
+   }
+  ]
+ },
+ "KHM": {
+  "title": "Cambodia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/kæmˈbəʊdi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/kamˈbəwdɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/kæmˈboʊdi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/kæmˈbəʉdi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/kɛmˈbɐʉdi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/kamˈbode.ə/",
+     "/-dɪ.ə/",
+     "/-di.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/kamˈboːdi.ə/"
+    ]
+   }
+  ]
+ },
+ "CMR": {
+  "title": "Cameroon",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/kæməˈɹuːn/"
+    ]
+   }
+  ]
+ },
+ "CAN": {
+  "title": "Canada",
+  "lines": [
+   {
+    "labels": [
+     "Canada",
+     "RP",
+     "US",
+     "AU"
+    ],
+    "ipa": [
+     "/ˈkænədə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB",
+     "Northern England",
+     "Scotland",
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈkanədə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈkɛnədə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "CA",
+     "[[w:/æ/ raising"
+    ],
+    "ipa": [
+     "[kʰɛəɾ̃əɾə]"
+    ]
+   }
+  ]
+ },
+ "CPV": {
+  "title": "Cape Verde",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/keɪp ˈvɜɹd/",
+     "/keɪp ˈvɜɹ.di/"
+    ]
+   }
+  ]
+ },
+ "CAF": {
+  "title": "Central African Republic",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈsɛntɹəl ˈæfɹɪkən ɹɪˈpʌblɪk/"
+    ]
+   }
+  ]
+ },
+ "TCD": {
+  "title": "Chad",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA",
+     "AU"
+    ],
+    "ipa": [
+     "/t͡ʃæd/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB",
+     "Northern England",
+     "Scotland",
+     "Wales"
+    ],
+    "ipa": [
+     "/t͡ʃad/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/t͡ʃɛd/"
+    ]
+   }
+  ]
+ },
+ "CHL": {
+  "title": "Chile",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈt͡ʃɪl.i/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈt͡ʃiː.leɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈt͡ʃɪli/",
+     "/ˈt͡ʃileɪ/",
+     "/ˈt͡ʃilɛ/"
+    ]
+   }
+  ]
+ },
+ "CHN": {
+  "title": "China",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈt͡ʃaɪnə/",
+     "[ˈt͡ʃ(ʰ)aɪ̯nə]"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/tʃi.nɑː/"
+    ]
+   }
+  ]
+ },
+ "COL": {
+  "title": "Colombia",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "US"
+    ],
+    "ipa": [
+     "/kəˈlʌm.bi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England"
+    ],
+    "ipa": [
+     "/kəˈlʊm.bi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/kəˈlʌm.be.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/koˈlom.bjɐ/"
+    ]
+   }
+  ]
+ },
+ "COM": {
+  "title": "Comoros",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈkɒm.ə.ɹoʊz/"
+    ]
+   }
+  ]
+ },
+ "CRI": {
+  "title": "Costa Rica",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌkɒs.tə ˈɹiːkə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌkɔs.tə ˈɹɪjkə/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌkoʊ.stə ˈɹi.kə/",
+     "/ˌkɑ.stə ˈɹi.kə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌkɔs.tə ˈɹiːkə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌkɔs.tə ˈɾi.kə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˌkɒs.tə ˈɾiːkə/"
+    ]
+   }
+  ]
+ },
+ "HRV": {
+  "title": "Croatia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌkɹəʊˈeɪ.ʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "[kɹəwˈɛjʃə]"
+    ]
+   },
+   {
+    "labels": [
+     "MLE"
+    ],
+    "ipa": [
+     "[kɹoˈeʃɑ]"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌkɹoʊˈeɪ.ʃə/",
+     "/ˌkɹoʊˈeɪ.ʃi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌkɾoˈe.ʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˌkɾoːˈeː.ʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/kɾoˈat.jɐ/"
+    ]
+   }
+  ]
+ },
+ "CUB": {
+  "title": "Cuba",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈkjuːbə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "[ˈkjʉː.bə]"
+    ]
+   },
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "[ˈkjuː.bə]"
+    ]
+   }
+  ]
+ },
+ "CYP": {
+  "title": "Cyprus",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "US"
+    ],
+    "ipa": [
+     "/ˈsaɪ.pɹəs/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈsɑjpɹəs/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈsɑe.pɹəs/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈsʌɪ.pɾəs/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈsaɪ.pɾəs/"
+    ]
+   }
+  ]
+ },
+ "CZE": {
+  "title": "Czechia",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈt͡ʃɛk.i.ə/",
+     "/ˈt͡ʃɛk.jə/"
+    ]
+   }
+  ]
+ },
+ "COD": {
+  "title": "Democratic Republic of the Congo",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌdɛ.məˈkɹæ.tɪk ɹɪˈpʌ.blɪk əv ðə ˈkɒŋ.ɡəʊ/"
+    ]
+   }
+  ]
+ },
+ "DNK": {
+  "title": "Denmark",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈdɛn.mɑːk/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈdɛn.mɑɹk/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈden.mɐːk/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈdɛn.maɾk/"
+    ]
+   }
+  ]
+ },
+ "DJI": {
+  "title": "Djibouti",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/d͡ʒɪˈbuːtiː/"
+    ]
+   },
+   {
+    "labels": [
+     "weak vowel merger"
+    ],
+    "ipa": [
+     "/d͡ʒəˈbuːtiː/"
+    ]
+   },
+   {
+    "labels": [
+     "dated"
+    ],
+    "ipa": [
+     "/d͡ʒiː.buːˈtiː/"
+    ]
+   }
+  ]
+ },
+ "DMA": {
+  "title": "Dominica",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˌdɒ.mɪˈniː.kə/",
+     "/dəˈmɪ.nɪ.kə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌdɑ.mɪˈniː.kə/",
+     "/dəˈmɪ.nɪ.kə/"
+    ]
+   }
+  ]
+ },
+ "DOM": {
+  "title": "Dominican Republic",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/dəmˌɪn.ɪ.kən ɹɪˈpʌb.lɪk/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/doʊˌmɪn.ɪ.kən ɹəˈpʌb.lɪk/"
+    ]
+   }
+  ]
+ },
+ "ECU": {
+  "title": "Ecuador",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈɛk.wə.dɔː/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈɛk.wə.doː/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈɛk.wə.dɔɹ/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈek.wə.doː/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈɛk.wə.dɔɾ/"
+    ]
+   }
+  ]
+ },
+ "EGY": {
+  "title": "Egypt",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈiːd͡ʒɪpt/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈi.d͡ʒɪpt/"
+    ]
+   }
+  ]
+ },
+ "SLV": {
+  "title": "El Salvador",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ɛl ˈsæl.və.dɔː/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ɛl ˈsal.və.doː/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ɛl ˈsæl.və.dɔɹ/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/el ˈsæl.və.doː/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/el ˈsɛl.və.doː/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ɛl ˈsal.və.dɔɾ/"
+    ]
+   }
+  ]
+ },
+ "GNQ": {
+  "title": "Equatorial Guinea",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌɛkwəˈtɔːɹiəl ˈɡɪni/"
+    ]
+   }
+  ]
+ },
+ "ERI": {
+  "title": "Eritrea",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌɛɹɪˈtɹeɪ.ə/",
+     "/ˌɛɹɪˈtɹiː.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌɛɹɪˈtɹɛjə/",
+     "/ˌɛɹɪˈtɹɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌɛɹɪˈtɹeɪ.ə/",
+     "/ˌɛɹɪˈtɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌeɹəˈtɹæɪ.ə/",
+     "/ˌeɹəˈtɹiː.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌɛɾɪˈtɾe.ə/",
+     "/ˌɛɾɪˈtɾi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˌɛɾɪˈtɾeː.ə/",
+     "/ˌɛɾɪˈtɾiː.ə/"
+    ]
+   }
+  ]
+ },
+ "EST": {
+  "title": "Estonia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ɛˈstəʊni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ɛˈstoʊni.ə/",
+     "/ɛˈstoʊn.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ɛˈstone.ə/",
+     "/-nɪ.ə/",
+     "/-ni.ə/"
+    ]
+   }
+  ]
+ },
+ "SWZ": {
+  "title": "Eswatini",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌɛ.swɑːˈti.ni/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ɛˈswɑː.ti.ni/"
+    ]
+   }
+  ]
+ },
+ "ETH": {
+  "title": "Ethiopia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌiːθiˈəʊ.pi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌi.θiˈoʊ.pi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌi.θeˈo.pe.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˌiːθiːˈoːpi.ə/"
+    ]
+   }
+  ]
+ },
+ "FJI": {
+  "title": "Fiji",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈfiːdʒiː/",
+     "/fiːˈdʒiː/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈfiːdʒiː/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/fiːˈdʒiː/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/iː/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈfiː.d͡ʒi/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/fiːˈd͡ʒiː/"
+    ]
+   }
+  ]
+ },
+ "FIN": {
+  "title": "Finland",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ˈfɪn.lənd/"
+    ]
+   }
+  ]
+ },
+ "FRA": {
+  "title": "France",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/fɹɑːns/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "non-æ-tensing"
+    ],
+    "ipa": [
+     "/fɹæns/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "æ-tensing"
+    ],
+    "ipa": [
+     "/fɹeə̯ns/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England"
+    ],
+    "ipa": [
+     "/fɹans/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/fɾans/"
+    ]
+   }
+  ]
+ },
+ "GAB": {
+  "title": "Gabon",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ɡəˈbɒn/"
+    ]
+   }
+  ]
+ },
+ "GMB": {
+  "title": "Gambia",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈɡæm.bi.ə/"
+    ]
+   }
+  ]
+ },
+ "GEO": {
+  "title": "Georgia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔː.d͡ʒə/"
+    ]
+   },
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔɹ.d͡ʒə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔɾ.d͡ʒə/"
+    ]
+   },
+   {
+    "labels": [
+     "Southern US"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔʊ.d͡ʒə/"
+    ]
+   }
+  ]
+ },
+ "DEU": {
+  "title": "Germany",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɜː.mə.ni/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɝ.mə.ni/"
+    ]
+   }
+  ]
+ },
+ "GHA": {
+  "title": "Ghana",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈɡɑːnə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈɡɑnə/",
+     "/ˈɡænə/"
+    ]
+   }
+  ]
+ },
+ "GRC": {
+  "title": "Greece",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ɡɹiːs/"
+    ]
+   }
+  ]
+ },
+ "GRD": {
+  "title": "Grenada",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA"
+    ],
+    "ipa": [
+     "/ɡɹəˈneɪdə/"
+    ]
+   }
+  ]
+ },
+ "GTM": {
+  "title": "Guatemala",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ˌɡwɑː.təˈmɑː.lə/"
+    ]
+   }
+  ]
+ },
+ "GIN": {
+  "title": "Guinea",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US",
+     "CA",
+     "AU"
+    ],
+    "ipa": [
+     "/ˈɡɪni/"
+    ]
+   }
+  ]
+ },
+ "GNB": {
+  "title": "Guinea-Bissau",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌɡɪni bɪˈsaʊ/"
+    ]
+   }
+  ]
+ },
+ "GUY": {
+  "title": "Guyana",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ɡaɪˈɑː.nə/",
+     "/ɡaɪˈæn.ə/"
+    ]
+   }
+  ]
+ },
+ "HTI": {
+  "title": "Haiti",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ˈheɪ.ti/"
+    ]
+   }
+  ]
+ },
+ "HND": {
+  "title": "Honduras",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/hɒnˈdjʊə.ɹəs/",
+     "/-dʒʊə-/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/hɔnˈdʒɵːɹəs/",
+     "/-djɵː-/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/hɑnˈdʊɹ.əs/",
+     "/hɑnˈdjʊɹ.əs/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/hɔnˈdʒʉɾəs/",
+     "/-djʉ-/"
+    ]
+   }
+  ]
+ },
+ "HUN": {
+  "title": "Hungary",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "US"
+    ],
+    "ipa": [
+     "/ˈhʌŋɡ(ə)ɹi/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England"
+    ],
+    "ipa": [
+     "/ˈhʊŋɡ(ə)ɹi/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈhʌŋɡ(ə)ɾe/",
+     "/-ɾɪ/",
+     "/-ɾi/"
+    ]
+   }
+  ]
+ },
+ "ISL": {
+  "title": "Iceland",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ˈaɪs.lənd/"
+    ]
+   },
+   {
+    "labels": [
+     "Some speakers"
+    ],
+    "ipa": [
+     "[ˈaɪs.ln̩ʔd̚]"
+    ]
+   }
+  ]
+ },
+ "IND": {
+  "title": "India",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA"
+    ],
+    "ipa": [
+     "/ˈɪn.di.ə/"
+    ]
+   }
+  ]
+ },
+ "IDN": {
+  "title": "Indonesia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌɪndəˈniːʒə/",
+     "/-zi.ə/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌɪndəˈniʒə/",
+     "/-doʊ-/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˌɪn̪.d̪oˈn̪iː.ʃɐ/"
+    ]
+   }
+  ]
+ },
+ "IRN": {
+  "title": "Iran",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ɪˈɹɑːn/",
+     "/ɪˈɹæn/",
+     "/iːɹɑːn/",
+     "/iːɹæn/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ɪˈɹɑːn/",
+     "/ɪˈɹan/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "CA"
+    ],
+    "ipa": [
+     "/ɪˈɹɑn/",
+     "/ɪˈɹæn/",
+     "/iɹɑn/",
+     "/iɹæn/",
+     "/aɪˈɹæn/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia"
+    ],
+    "ipa": [
+     "/ɪˈɹɐːn/",
+     "/ɪˈɹæn/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/əˈɹɐːn/",
+     "/əˈɹɛn/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ɪˈɾan/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ɪˈɾaːn/",
+     "/ɪˈɾan/"
+    ]
+   }
+  ]
+ },
+ "IRQ": {
+  "title": "Iraq",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ɪˈɹɑːk/",
+     "/ɪˈɹæk/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ɪˈɹɑːk/",
+     "/ɪˈɹak/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "CA"
+    ],
+    "ipa": [
+     "/ɪˈɹɑːk/",
+     "/ɪˈɹæːk/",
+     "/aɪˈɹæk/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ɪˈɹɐːk/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/əˈɹɐːk/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ɪˈɾak/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ɪˈɾaːk/",
+     "/ɪˈɾak/"
+    ]
+   }
+  ]
+ },
+ "IRL": {
+  "title": "Ireland",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈaɪə(ɹ)lənd/"
+    ]
+   },
+   {
+    "labels": [
+     "Dublin / East"
+    ],
+    "ipa": [
+     "[ˈɑɪɚlənd]",
+     "[ˈʌɪɚlənd]",
+     "[ˈəɪɚlənd]",
+     "[ˈɑɚlənd]"
+    ]
+   },
+   {
+    "labels": [
+     "West"
+    ],
+    "ipa": [
+     "[ˈaɪɚlənd]"
+    ]
+   },
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "[ˈäɪɚɫɪ̈nd]"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "[ˈɑɪələnd]"
+    ]
+   }
+  ]
+ },
+ "ISR": {
+  "title": "Israel",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈɪz.ɹeɪ.əl/",
+     "/ˈɪz.ɹi.əl/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈɪz.ɹeɪl/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈɪz.ɹeɪ.ɛl/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈɪz.ɹaɪ.ɛl/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈɪz.ɹɛəl/"
+    ]
+   }
+  ]
+ },
+ "ITA": {
+  "title": "Italy",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈɪtəli/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "[ˈɪ.ɾə.li]"
+    ]
+   },
+   {
+    "labels": [
+     "some American dialects"
+    ],
+    "ipa": [
+     "[ˈɪʔ.li]"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "[ˈɪ.tə.lɪj]"
+    ]
+   },
+   {
+    "labels": [
+     "Ghanaian"
+    ],
+    "ipa": [
+     "[ˈi.tɐ.li]"
+    ]
+   },
+   {
+    "labels": [
+     "IE"
+    ],
+    "ipa": [
+     "[ˈɪθ̠əli]"
+    ]
+   },
+   {
+    "labels": [
+     "Local Dublin"
+    ],
+    "ipa": [
+     "[ˈɪhəli]",
+     "[ˈɪʔəli]"
+    ]
+   }
+  ]
+ },
+ "CIV": {
+  "title": "Ivory Coast",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈaɪvəɹi ˈkoʊst/"
+    ]
+   }
+  ]
+ },
+ "JAM": {
+  "title": "Jamaica",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GenAm",
+     "CanE"
+    ],
+    "ipa": [
+     "/d͡ʒəˈmeɪ.kə/"
+    ]
+   },
+   {
+    "labels": [
+     "AuE",
+     "NZE"
+    ],
+    "ipa": [
+     "/d͡ʒəˈmæɪ.kə/"
+    ]
+   },
+   {
+    "labels": [
+     "ScE"
+    ],
+    "ipa": [
+     "/d͡ʒəˈme.kə/"
+    ]
+   }
+  ]
+ },
+ "JPN": {
+  "title": "Japan",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA",
+     "AU"
+    ],
+    "ipa": [
+     "/d͡ʒəˈpæn/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB",
+     "Northern England",
+     "Scotland",
+     "Wales"
+    ],
+    "ipa": [
+     "/d͡ʒəˈpan/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/d͡ʒəˈpɛn/"
+    ]
+   }
+  ]
+ },
+ "JOR": {
+  "title": "Jordan",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔːdən/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB",
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈd͡ʒoːdən/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɔɹdən/"
+    ]
+   },
+   {
+    "labels": [
+     "US South"
+    ],
+    "ipa": [
+     "/ˈd͡ʒɝdən/",
+     "/ˈd͡ʒɝdn̩/"
+    ]
+   }
+  ]
+ },
+ "KAZ": {
+  "title": "Kazakhstan",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌkæzəkˈstɑːn/",
+     "/ˈkæzəkˌstɑːn/",
+     "/-stæn/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌkazəkˈstɑːn/",
+     "/ˈkazəkˌstɑːn/",
+     "/-stan/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈkɑzəkˌstæn/",
+     "/ˈkæzəkˌstæn/",
+     "/ˈkɑzəkˌstɑn/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia"
+    ],
+    "ipa": [
+     "/ˈkæzəkˌstæːn/",
+     "/ˈkæzəkˌstɐːn/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈkɛzəkˌstɛn/",
+     "/ˈkɛzəkˌstɐːn/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌkazəkˈstan/",
+     "/ˈkazəkˌstan/"
+    ]
+   }
+  ]
+ },
+ "KEN": {
+  "title": "Kenya",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈkɛn.jə/",
+     "/ˈkiːn.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "Kenya"
+    ],
+    "ipa": [
+     "[ˈkɛ.ɲa]"
+    ]
+   }
+  ]
+ },
+ "KIR": {
+  "title": "Kiribati",
+  "lines": [
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈkɪrəbæs/"
+    ]
+   },
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ˈkiː.ɹɪ.bæs/",
+     "/kiː.ɹɪˈbæs/",
+     "/ˌkiː.ɹɪˈbɑs/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌkiː.ɹɪˈbɑ.ti/"
+    ]
+   }
+  ]
+ },
+ "XKX": {
+  "title": "Kosovo",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈkɒsəvə/",
+     "/ˈkɒsəvəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈkoʊsəˌvoʊ/",
+     "/ˈkɔsəˌvoʊ/"
+    ]
+   }
+  ]
+ },
+ "KWT": {
+  "title": "Kuwait",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/k(j)uːˈweɪt/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/kuːˈweɪt/",
+     "/kʊˈweɪt/"
+    ]
+   },
+   {
+    "labels": [
+     "North India"
+    ],
+    "ipa": [
+     "/kʊˈʋɛːt̪/"
+    ]
+   },
+   {
+    "labels": [
+     "South India"
+    ],
+    "ipa": [
+     "/kʊˈʋejt̪/"
+    ]
+   }
+  ]
+ },
+ "KGZ": {
+  "title": "Kyrgyzstan",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌkɜː.ɡɪˈstɑːn/",
+     "/ˌkɪə.ɡɪˈstɑːn/",
+     "/-ˌstɑːn/",
+     "/-ˈstæn/",
+     "/-ˌstæn/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌkɝ.ɡɪˈstɑn/",
+     "/ˌkɪɹ.ɡɪˈstɑn/",
+     "/-ˈstæn/"
+    ]
+   }
+  ]
+ },
+ "LAO": {
+  "title": "Laos",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈlaʊs/",
+     "/ˈlɑː.oʊs/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/laʊz/"
+    ]
+   }
+  ]
+ },
+ "LVA": {
+  "title": "Latvia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈlætvi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈlatvɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈlætvi.ə/",
+     "/ˈlɑtvi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈlatve.ə/",
+     "/ˈlatvɪ.ə/",
+     "/ˈlatvi.ə/"
+    ]
+   }
+  ]
+ },
+ "LBN": {
+  "title": "Lebanon",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "SSBE"
+    ],
+    "ipa": [
+     "/ˈlɛbənən/"
+    ]
+   },
+   {
+    "labels": [
+     "SSBE",
+     "IE",
+     "South Africa"
+    ],
+    "ipa": [
+     "/ˈlɛbənɒn/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "Atlantic Canada"
+    ],
+    "ipa": [
+     "/ˈlɛbənɑn/",
+     "/ˈlɛbənən/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈlebənɔn/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈlebənɒn/",
+     "[ˈlebənɔ̟n]"
+    ]
+   }
+  ]
+ },
+ "LSO": {
+  "title": "Lesotho",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ləˈsəʊ.təʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/ləˈsoʊ.toʊ/"
+    ]
+   }
+  ]
+ },
+ "LBR": {
+  "title": "Liberia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/laɪˈbɪə̯.ri.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/laɪˈbɪɹ.i.ə/"
+    ]
+   }
+  ]
+ },
+ "LBY": {
+  "title": "Libya",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈlɪbi.ə/"
+    ]
+   }
+  ]
+ },
+ "LIE": {
+  "title": "Liechtenstein",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ˈlɪk.tən.staɪn/"
+    ]
+   }
+  ]
+ },
+ "LTU": {
+  "title": "Lithuania",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌlɪθ.juˈeɪ.ni.ə/",
+     "/ˌlɪð.juˈeɪ.ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌlɪθjʉwɛjnɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌlɪθ.uˈeɪ.ni.ə/",
+     "/lɪθˈweɪ.ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌlɪθjʉ.e.ne.ə/",
+     "/-nɪ.ə/",
+     "/-ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/lɪθˈwan̪.jɐ/"
+    ]
+   }
+  ]
+ },
+ "LUX": {
+  "title": "Luxembourg",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈlʌk.səm.bɜːɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈlʌk.səm.bəːɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England"
+    ],
+    "ipa": [
+     "/ˈlʊk.səm.bɜːɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scouse",
+     "fair-fur"
+    ],
+    "ipa": [
+     "/ˈlʊk.səm.beːɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "Humberside",
+     "Teesside",
+     "fair-fur"
+    ],
+    "ipa": [
+     "/ˈlʊk.səm.bɛːɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈlʌk.səm.bʌɾɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈlʌk.səm.bøːɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈlʌk.səm.bɝɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈlɐk.səm.bɜːɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈlɐk.səm.bøːɡ/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˈlʊk.sɛm.bɝɡ/",
+     "/ˈlʊk.sɛm.bɔ˞ɡ/"
+    ]
+   }
+  ]
+ },
+ "MDG": {
+  "title": "Madagascar",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "SSB"
+    ],
+    "ipa": [
+     "/mædəˈɡæskə/",
+     "/-skɑː/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England",
+     "Wales"
+    ],
+    "ipa": [
+     "/madəˈɡaskə/",
+     "/-skaː/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/mædəˈɡæskɑɹ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/madəˈɡaskəɾ/",
+     "/-skaɾ/"
+    ]
+   }
+  ]
+ },
+ "MWI": {
+  "title": "Malawi",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/məˈlɑːwi/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/məˈlɑwi/",
+     "/mɑˈlɑwi/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/məˈlɐːwi/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/məˈlawe/",
+     "/-wɪ/",
+     "/-wi/"
+    ]
+   }
+  ]
+ },
+ "MYS": {
+  "title": "Malaysia",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "US"
+    ],
+    "ipa": [
+     "/məˈleɪ̯ʒə/",
+     "/məˈleɪ̯zi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/məˈlɛjʒə/",
+     "/məˈlɛjzɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/məˈleʒə/",
+     "/məˈleze.ə/",
+     "/-ɪ.ə/",
+     "/-iə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales",
+     "non-toe-tow"
+    ],
+    "ipa": [
+     "/məˈleːʒə/",
+     "/məˈleːzi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Malaysia"
+    ],
+    "ipa": [
+     "/məlejsiə/",
+     "/məlejʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/mɐˈleɪ̯.ʃɐ/"
+    ]
+   }
+  ]
+ },
+ "MDV": {
+  "title": "Maldives",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈmɒl.diːvz/",
+     "/ˈmɔːl.diːvz/",
+     "/ˈmɔːl.daɪvz/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈmɔl.divz/",
+     "/ˈmæl.divz/",
+     "/ˈmɑl.divz/",
+     "/-daɪvz/"
+    ]
+   }
+  ]
+ },
+ "MLI": {
+  "title": "Mali",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈmɑːli/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "CA"
+    ],
+    "ipa": [
+     "/ˈmɑli/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈmɐːli/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈmale/",
+     "/-lɪ/",
+     "/-li/"
+    ]
+   }
+  ]
+ },
+ "MLT": {
+  "title": "Malta",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈmɒl.tə/",
+     "/ˈmɔːl.tə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈmɑl.tə/",
+     "/ˈmɔl.tə/"
+    ]
+   }
+  ]
+ },
+ "MHL": {
+  "title": "Marshall Islands",
+  "lines": [
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈmaːʃəl ˈaɪləndz/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈmɑː.ʃəl ˈaɪ.ləndz/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈmɑɹ.ʃəl ˈaɪ.ləndz/"
+    ]
+   }
+  ]
+ },
+ "MRT": {
+  "title": "Mauritania",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌmɒɹɪˈteɪni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌmɔɹɪˈtɛjnɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌmoɹɪˈteɪni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌmɔɹɪˈtæɪni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌmɒɹəˈtæɪni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌmɔɹɪˈtene.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˌmaʊ̯.ɹɪˈtan.jɐ/"
+    ]
+   }
+  ]
+ },
+ "MUS": {
+  "title": "Mauritius",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/məˈɹɪʃəs/",
+     "/məˈɹɪʃiəs/",
+     "/mɔːˈɹɪʃəs/"
+    ]
+   }
+  ]
+ },
+ "MEX": {
+  "title": "Mexico",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈmɛk.sɪ.kəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "RP",
+     "less commonly",
+     "imitating Spanish"
+    ],
+    "ipa": [
+     "/ˈmɛ.hi.kəʊ/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈmɛk.sɪ.koʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "less commonly",
+     "imitating Spanish"
+    ],
+    "ipa": [
+     "/ˈmɛ.hi.koʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈmek.sə.kəʉ/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈmek.sə.kɐʉ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland",
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˈmɛk.sɪ.ko/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales",
+     "non-toe-tow"
+    ],
+    "ipa": [
+     "/ˈmɛk.sɪ.koː/"
+    ]
+   }
+  ]
+ },
+ "FSM": {
+  "title": "Micronesia",
+  "lines": [
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌmaɪkroʊˈniːʒə/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˌmaɪ.kɹəʊˈniː.zi.ə/",
+     "/ˌmaɪ.kɹəʊˈniː.ʒə/",
+     "/ˌmaɪ.kɹəʊˈniː.ʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌmaɪ.kɹoʊˈniː.ʒə/",
+     "/ˌmaɪ.kɹoʊˈniː.zi.ə/"
+    ]
+   }
+  ]
+ },
+ "MDA": {
+  "title": "Moldova",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/mɒlˈdəʊ.və/",
+     "/ˈmɒl.də.və/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "non-cot-caught"
+    ],
+    "ipa": [
+     "/mɑlˈdoʊ.və/",
+     "/mɔl-/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "caught-cot"
+    ],
+    "ipa": [
+     "/mɑlˈdoʊ.və/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/mɔlˈdo.və/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/mɒlˈdoː.və/"
+    ]
+   }
+  ]
+ },
+ "MCO": {
+  "title": "Monaco",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈmɒ.nə.kəʊ/",
+     "/mɒˈnɑː.kəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈmɑ.nə.koʊ/"
+    ]
+   }
+  ]
+ },
+ "MNG": {
+  "title": "Mongolia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/mɒŋˈɡəʊli.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/mɔŋˈɡəwlɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/mɑŋˈɡoʊli.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia"
+    ],
+    "ipa": [
+     "/mɔŋˈɡəʉli.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/mɒŋˈɡɐʉli.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/mɔŋˈɡole.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/mɒŋˈɡoːli.ə/"
+    ]
+   }
+  ]
+ },
+ "MNE": {
+  "title": "Montenegro",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/mɒntɪˈniːɹəʊ/",
+     "/-ˈnɛɡ/",
+     "/-ˈneɪɡ-/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/mɔntɪˈnɪjɡɹəw/",
+     "/-ˈnɛɡ/",
+     "/-ˈnɛjɡ-/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌmɑntəˈniɡɹoʊ/",
+     "/ˈneɪɡ/",
+     "/-ˈnɛɡ-/"
+    ]
+   }
+  ]
+ },
+ "MAR": {
+  "title": "Morocco",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/məˈɹɒkəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/məˈɹɔkəw/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia"
+    ],
+    "ipa": [
+     "/məˈɹɔkəʉ/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/məˈɹɒkɐʉ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/məˈɾɔko/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/məˈɾɒkoː/"
+    ]
+   }
+  ]
+ },
+ "MOZ": {
+  "title": "Mozambique",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌməʊzæmˈbiːk/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌməwzamˈbɪjk/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌmoʊzæmˈbik/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌməʉzæmˈbiːk/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌmɐʉzəmˈbiːk/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌmozamˈbik/"
+    ]
+   }
+  ]
+ },
+ "MMR": {
+  "title": "Myanmar",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈmjɑnˌmɑɹ/",
+     "/ˌmjɑnˈmɑɹ/",
+     "/ˈmjænˌmɑɹ/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/mjænˈmɑː/",
+     "/ˈmjæn.mɑː/",
+     "/ˈmaɪ̯.ænˌmɑː/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/mjanˈmɑː/",
+     "/ˈmjan.mɑː/",
+     "/ˈmɑjanˌmɑː/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/mjanˈmaɾ/",
+     "/ˈmjan.maɾ/",
+     "/ˈmʌɪ̯.anˌmaɾ/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/mjanˈmaː/",
+     "/ˈmjan.maː/",
+     "/ˈmaɪ̯.anˌmaː/"
+    ]
+   }
+  ]
+ },
+ "NAM": {
+  "title": "Namibia",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA",
+     "CA",
+     "AU"
+    ],
+    "ipa": [
+     "/nəˈmɪbi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/nəˈmɪbijə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/nəˈmɪbe.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/nəˈməbi.ə/"
+    ]
+   }
+  ]
+ },
+ "NRU": {
+  "title": "Nauru",
+  "lines": [
+   {
+    "labels": [
+     "Nauru"
+    ],
+    "ipa": [
+     "/ˈn̪ʌ̯u.ɹu/",
+     "/n̪ʌ̯u.ˈɹu/"
+    ]
+   },
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/ˈnaʊ.ɹu/",
+     "/nɑːˈuː.ɹuː/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈnaʊ.ɹu/",
+     "/naʊˈɹu/",
+     "/naːˈɹuː/",
+     "/ˈnaːɹuː/"
+    ]
+   }
+  ]
+ },
+ "NPL": {
+  "title": "Nepal",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈneɪ.pɑl/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/nɪˈpɔːl/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/nəˈpoːl/",
+     "/nɪ-/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/nəˈpoːl/"
+    ]
+   },
+   {
+    "labels": [
+     "non-cot-caught"
+    ],
+    "ipa": [
+     "/nəˈpɔl/"
+    ]
+   },
+   {
+    "labels": [
+     "cot-caught"
+    ],
+    "ipa": [
+     "/nəˈpɑl/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/nəˈpɔl/"
+    ]
+   }
+  ]
+ },
+ "NLD": {
+  "title": "Netherlands",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈnɛðələndz/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈnɛðɚləndz/"
+    ]
+   }
+  ]
+ },
+ "NZL": {
+  "title": "New Zealand",
+  "lines": [
+   {
+    "labels": [
+     "NZ",
+     "AU"
+    ],
+    "ipa": [
+     "/njʉː ˈzɪələnd/",
+     "/- ˈziː-/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "[njʉ ˈzɪəɫənd]",
+     "[-ˈzeə-]"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌnjuː ˈziːlənd/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌnjʉw ˈzɪjlənd/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/nu ˈzi.lənd/",
+     "/ˌnu -/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌnjʉ ˈzilənd/"
+    ]
+   }
+  ]
+ },
+ "NIC": {
+  "title": "Nicaragua",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˌnɪk.əˈɹæɡ.ju.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌnɪk.əˈɹɑ.ɡwə/",
+     "/ˌnik.əˈɹɑ.ɡwə/"
+    ]
+   }
+  ]
+ },
+ "NER": {
+  "title": "Niger",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈnaɪ.d͡ʒə(ɹ)/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈnaɪ.d͡ʒɚ/"
+    ]
+   }
+  ]
+ },
+ "NGA": {
+  "title": "Nigeria",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/naɪˈd͡ʒɪə̯ɹiə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/naɪˈd͡ʒɪɹiə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/naɪˈd͡ʒiːɹiə/"
+    ]
+   }
+  ]
+ },
+ "PRK": {
+  "title": "North Korea",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/noɹθ ˌkəˈɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/nɔːθ ˌkəˈɹiː.ə/"
+    ]
+   }
+  ]
+ },
+ "MKD": {
+  "title": "North Macedonia",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/noɹθ ˌmæs.əˈdoʊ.ni.ə/",
+     "/noɹθ ˌmæs.əˈdoʊn.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/nɔːθ ˌmæs.əˈdəʊ.nɪ.ə/"
+    ]
+   }
+  ]
+ },
+ "NOR": {
+  "title": "Norway",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈnɔːweɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈnoːwɛj/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈnɔɹweɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈnoːwæɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈnɔɾwe/"
+    ]
+   }
+  ]
+ },
+ "OMN": {
+  "title": "Oman",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/əʊˈmɑːn/",
+     "/əˈmɑːn/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/oʊˈmɑn/",
+     "/oʊˈmæn/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/oˈman/"
+    ]
+   }
+  ]
+ },
+ "PAK": {
+  "title": "Pakistan",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌpɑːkɪˈstɑːn/",
+     "/ˌpækɪˈstɑːn/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌpakɪˈstɑːn/",
+     "/ˌpɑːkɪˈstɑːn/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌpɑkɪˈstɑn/",
+     "/ˈpækɪˌstæn/",
+     "/ˌpækɪˈstæn/"
+    ]
+   },
+   {
+    "labels": [
+     "CA"
+    ],
+    "ipa": [
+     "/ˈpækəˌstɑn/",
+     "/ˈpækəˌstæn/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌpakɪˈstan/",
+     "/ˈpakɪˈstan/"
+    ]
+   }
+  ]
+ },
+ "PLW": {
+  "title": "Palau",
+  "lines": [
+   {
+    "labels": [
+     "AU",
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/pəˈlaʊ/"
+    ]
+   }
+  ]
+ },
+ "PSE": {
+  "title": "Palestine",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈpæləˌstaɪn/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈpæləˌstiːn/"
+    ]
+   }
+  ]
+ },
+ "PAN": {
+  "title": "Panama",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈpænəmɑː/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈpanəmɑː/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈpænəmɑ/",
+     "/-mə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈpænəmɐː/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈpanəma/"
+    ]
+   }
+  ]
+ },
+ "PNG": {
+  "title": "Papua New Guinea",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈpæp.uː.ə ˌnjuː ˈɡɪn.i/",
+     "/ˈpæ.pjuː.ə ˌnjuː ˈɡɪ.ni/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈpæp.u.ə ˌnu ˈɡɪn.i/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈpaːpwə ˌnjuː ˈɡɪ.ni/"
+    ]
+   }
+  ]
+ },
+ "PRY": {
+  "title": "Paraguay",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈpæɹəɡwaɪ/",
+     "/ˈpæɹəɡweɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈpaɹəɡwɑj/",
+     "/ˈpaɹəɡwɛj/"
+    ]
+   },
+   {
+    "labels": [
+     "nMmmm"
+    ],
+    "ipa": [
+     "/ˈpæɹəɡweɪ/",
+     "/ˈpæɹəɡwaɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "Mmmm"
+    ],
+    "ipa": [
+     "/ˈpɛɹəɡweɪ/",
+     "/ˈpɛɹəɡwaɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈpaɾəɡwaɪ/",
+     "/ˈpaɾɹəɡwe/"
+    ]
+   }
+  ]
+ },
+ "PER": {
+  "title": "Peru",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/pəˈɹuː/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/pəˈɹʉw/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/pəˈɹu/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/pəˈɹʉː/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/pəˈɹʉ/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/pəˈɹɪʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "archaic",
+     "Indiana"
+    ],
+    "ipa": [
+     "/ˈpɪəɹuː/"
+    ]
+   }
+  ]
+ },
+ "PHL": {
+  "title": "Philippines",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈfɪl.ɪ.piːnz/",
+     "/ˈfɪl.ə.piːnz/",
+     "/ˈfɪl.ɪ.paɪnz/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈfɪl.ə.piːnz/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˈfi.lip.pins/",
+     "/ˈfi.li.pins/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines",
+     "colloquial"
+    ],
+    "ipa": [
+     "/ˈpi.lip.pins/",
+     "/ˈpi.li.pins/"
+    ]
+   }
+  ]
+ },
+ "POL": {
+  "title": "Poland",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈpəʊ.lənd/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈpoɫ.ənd/",
+     "/ˈpoʊ.lənd/"
+    ]
+   }
+  ]
+ },
+ "PRT": {
+  "title": "Portugal",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈpɔːt͡ʃəɡəl/",
+     "/ˈpɔːtjəɡəl/"
+    ]
+   },
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/ˈpɔɹt͡ʃəɡəl/"
+    ]
+   },
+   {
+    "labels": [
+     "GenAm",
+     "rare"
+    ],
+    "ipa": [
+     "/ˈpɔɹtuɡɑːl/"
+    ]
+   }
+  ]
+ },
+ "QAT": {
+  "title": "Qatar",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈkɑtɑː/",
+     "/kəˈtɑː/",
+     "/ˈkʌtəː/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "CA"
+    ],
+    "ipa": [
+     "/ˈkɑtɚ/",
+     "/kəˈtɑɹ/",
+     "/ˈkʌtəɹ/"
+    ]
+   }
+  ]
+ },
+ "COG": {
+  "title": "Republic of the Congo",
+  "lines": []
+ },
+ "ROU": {
+  "title": "Romania",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ɹəʊˈmeɪ.ni.ə/",
+     "/ɹəˈmeɪ.ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ɹoʊˈmeɪ.ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "RP",
+     "US"
+    ],
+    "ipa": [
+     "/ɹʊˈmeɪ.ni.ə/",
+     "/ɹuːˈmeɪ.ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ɾoˈme.ne.ə/",
+     "/-nɪ.ə/",
+     "/-ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ɾoːˈmeː.ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ɹoˈmaː.nja/"
+    ]
+   }
+  ]
+ },
+ "RUS": {
+  "title": "Russia",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "US"
+    ],
+    "ipa": [
+     "/ˈɹʌʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England"
+    ],
+    "ipa": [
+     "/ˈɹʊʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland",
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈɾʌʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˈɹʌ.ʃɐ/",
+     "/ˈɹʊ.ʃɐ/"
+    ]
+   }
+  ]
+ },
+ "RWA": {
+  "title": "Rwanda",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ɹuˈændə/",
+     "/ɹəˈwændə/",
+     "/ɹəˈwɒndə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ɹuˈɑndə/",
+     "/ɹəˈwɑndə/"
+    ]
+   }
+  ]
+ },
+ "KNA": {
+  "title": "Saint Kitts and Nevis",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "US"
+    ],
+    "ipa": [
+     "/seɪnt ˌkɪts ən ˈniː.vɪs/"
+    ]
+   },
+   {
+    "labels": [
+     "UK",
+     "also"
+    ],
+    "ipa": [
+     "/sənt ˌkɪts ən ˈniː.vɪs/"
+    ]
+   }
+  ]
+ },
+ "LCA": {
+  "title": "Saint Lucia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/seɪnt ˈluː.ʃə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/seɪnt ˈlu.ʃə/"
+    ]
+   }
+  ]
+ },
+ "VCT": {
+  "title": "Saint Vincent and the Grenadines",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA"
+    ],
+    "ipa": [
+     "/seɪnt ˈvɪn(t).sənt ən ðə ˈɡɹɛ.nəˌdiːnz/",
+     "/- ˌɡɹɛ.nəˈdiːnz/"
+    ]
+   }
+  ]
+ },
+ "WSM": {
+  "title": "Samoa",
+  "lines": [
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/səˈmoʊ.ə/",
+     "/ˈsaːˌmaʉ̯.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈsaːˌmaʉ̯.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Samoa"
+    ],
+    "ipa": [
+     "/saː.mo.a/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/səˈməʊ.ə/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/səˈmoʊ.ə/"
+    ]
+   }
+  ]
+ },
+ "SMR": {
+  "title": "San Marino",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌsæn məˈɹiː.nəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌsan məˈɹɪjnəw/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌsæn məˈɹi.noʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌsæn məˈɹiːnəʉ/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌsɛn məˈɹiːnɐʉ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌsan məˈɾi.no/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales",
+     "non-toe-tow"
+    ],
+    "ipa": [
+     "/ˌsan məˈɾiːnoː/"
+    ]
+   }
+  ]
+ },
+ "STP": {
+  "title": "São Tomé and Príncipe",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌsaʊ təˈmeɪ ən ˈpɹɪnsɪpeɪ/"
+    ]
+   }
+  ]
+ },
+ "SAU": {
+  "title": "Saudi Arabia",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌsaʊ.di əˈɹeɪ.bi.ə/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌsɔː.di əˈɹeɪ.bi.ə/"
+    ]
+   }
+  ]
+ },
+ "SEN": {
+  "title": "Senegal",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌsɛn.ɪˈɡɔːl/",
+     "/ˌsɛn.ɪˈɡɑːl/"
+    ]
+   }
+  ]
+ },
+ "SRB": {
+  "title": "Serbia",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈsɜː.bi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈsəːbɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈsɝ.bi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˈsɝb.jɐ/"
+    ]
+   }
+  ]
+ },
+ "SYC": {
+  "title": "Seychelles",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/seɪˈʃɛlz/",
+     "/seɪˈʃɛl/",
+     "/ˈseɪʃɛlz/",
+     "/ˈseɪʃɛl/"
+    ]
+   }
+  ]
+ },
+ "SLE": {
+  "title": "Sierra Leone",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/siˌɛɹə liˈoʊn/"
+    ]
+   }
+  ]
+ },
+ "SGP": {
+  "title": "Singapore",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/sɪŋəˈpɔː/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB",
+     "AU"
+    ],
+    "ipa": [
+     "/ˈsɪŋəpoː/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "CA"
+    ],
+    "ipa": [
+     "/ˈsɪŋəpoɹ/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈsəŋəpoː/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈsɪŋəpoɾ/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England",
+     "Midlands",
+     "non-ng-coalescence"
+    ],
+    "ipa": [
+     "/ˈsɪŋɡəpɔː/"
+    ]
+   },
+   {
+    "labels": [
+     "Singapore"
+    ],
+    "ipa": [
+     "/ˈsɪŋəpɔː/",
+     "/ˈsɪŋʌ-/"
+    ]
+   },
+   {
+    "labels": [
+     "dated"
+    ],
+    "ipa": [
+     "/ˈsɪŋɡəpɔː(ɹ)/",
+     "/sɪŋɡəˈpɔː(ɹ)/"
+    ]
+   }
+  ]
+ },
+ "SVK": {
+  "title": "Slovakia",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/sləʊˈvæ.ki.ə/",
+     "/sləʊˈvɑː.ki.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/sloʊˈvɑ.ki.ə/",
+     "/sloʊˈvæ.ki.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/sloˈvɐk.jɐ/"
+    ]
+   }
+  ]
+ },
+ "SVN": {
+  "title": "Slovenia",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/sləʊˈviː.ni.ə/",
+     "/sləʊˈviːn.jə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/sloʊˈvi.ni.ə/",
+     "/sloʊˈvin.jə/"
+    ]
+   }
+  ]
+ },
+ "SLB": {
+  "title": "Solomon Islands",
+  "lines": [
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˈsɒləmən ˈaɪləndz/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈsɒl.ə.mən ˈaɪ.ləndz/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈsɑ.lə.mən ˈaɪ.ləndz/"
+    ]
+   }
+  ]
+ },
+ "SOM": {
+  "title": "Somalia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/səˈmɑːli.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/səˈmɑli.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia",
+     "NZ"
+    ],
+    "ipa": [
+     "/səˈmɐːli.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/səˈmale.ə/"
+    ]
+   }
+  ]
+ },
+ "ZAF": {
+  "title": "South Africa",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA"
+    ],
+    "ipa": [
+     "/ˌsaʊθ ˈæfɹɪkə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌsawθ ˈafɹɪkə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌsæɔθ ˈæfɹɪkə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌsæʊθ ˈɛfɹɪkə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌsʌʊθ ˈafɹɪkə/"
+    ]
+   },
+   {
+    "labels": [
+     "South Africa"
+    ],
+    "ipa": [
+     "[sɑɤ̯ˈθɛ̞frɘkə]"
+    ]
+   }
+  ]
+ },
+ "KOR": {
+  "title": "South Korea",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˌsaʊθ kəˈɹiːə/"
+    ]
+   }
+  ]
+ },
+ "SSD": {
+  "title": "South Sudan",
+  "lines": [
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌsaʊθ suˈdæn/"
+    ]
+   }
+  ]
+ },
+ "ESP": {
+  "title": "Spain",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "US"
+    ],
+    "ipa": [
+     "/speɪn/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/spæɪn/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/spen/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales",
+     "non-pane-pain"
+    ],
+    "ipa": [
+     "/spein/"
+    ]
+   }
+  ]
+ },
+ "LKA": {
+  "title": "Sri Lanka",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ʃɹiˈlɑːŋkə/",
+     "/sɹiˈlɑːŋkə/",
+     "/sɹiˈlæŋkə/"
+    ]
+   }
+  ]
+ },
+ "SDN": {
+  "title": "Sudan",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/suːˈdɑːn/",
+     "/suːˈdæn/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/sʉwˈdɑːn/",
+     "/sʉwˈdan/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/suˈdæn/",
+     "/suˈdɑn/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/sʉːˈdæn/",
+     "/sʉːˈdɐːn/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/sʉˈdan/"
+    ]
+   }
+  ]
+ },
+ "SUR": {
+  "title": "Suriname",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˌsʊə.ɹɪˈnæm/",
+     "/ˌsjʊə.ɹɪˈnæm/",
+     "/ˈsʊə.ɹɪ.næm/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌsʊɹ.ɪˈnɑm/",
+     "/ˈsʊɹ.ɪ.nɑm/",
+     "/ˈsʊɹ.ɪ.næm/"
+    ]
+   }
+  ]
+ },
+ "SWE": {
+  "title": "Sweden",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈswiː.dən/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈswi.dən/"
+    ]
+   }
+  ]
+ },
+ "CHE": {
+  "title": "Switzerland",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈswɪtsələnd/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈswɪtsɚlənd/"
+    ]
+   },
+   {
+    "labels": [
+     "Indic"
+    ],
+    "ipa": [
+     "/ˈsʋɪzə(ɾ)ˌlaɳɖ/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˈswitsɚlɐnd/"
+    ]
+   },
+   {
+    "labels": [
+     "Hong Kong"
+    ],
+    "ipa": [
+     "/sʷit̚˥.sœ˧.lɐn˧/"
+    ]
+   },
+   {
+    "labels": [
+     "South Africa"
+    ],
+    "ipa": [
+     "/ˈswɨtsəˌland/"
+    ]
+   }
+  ]
+ },
+ "SYR": {
+  "title": "Syria",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA",
+     "AU"
+    ],
+    "ipa": [
+     "/ˈsɪɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈsəɹi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈsɪɾe.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈsɪɾi.ə/"
+    ]
+   }
+  ]
+ },
+ "TWN": {
+  "title": "Taiwan",
+  "lines": [
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˌtaɪ̯ˈwɑn/",
+     "/ˈtaɪ̯.wɑn/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌtɑɪ̯ˈwaːn/",
+     "/ˌtɑɪ̯ˈwɔn/",
+     "/ˌtɑɪ̯ˈwan/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˌtaɪ̯ˈwɑːn/",
+     "/ˌtaɪ̯ˈwæn/",
+     "/ˌtaɪ̯ˈwɒn/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˌt̪aɪ̯ˈwan̪/"
+    ]
+   }
+  ]
+ },
+ "TJK": {
+  "title": "Tajikistan",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/təˈdʒiːkɪˌstɑːn/",
+     "/təˈdʒɪkɪˌstɑːn/",
+     "/tɑː-/",
+     "/tæ-/",
+     "/-stæn/"
+    ]
+   }
+  ]
+ },
+ "TZA": {
+  "title": "Tanzania",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "AU"
+    ],
+    "ipa": [
+     "/ˌtæn.zəˈniːə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌtan.zəˈnɪjə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌtæn.zəˈni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌtan.zəˈne.ə/",
+     "/-nɪ.ə/",
+     "/-ni.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌtɛn.zəˈniːə/"
+    ]
+   },
+   {
+    "labels": [
+     "Philippines"
+    ],
+    "ipa": [
+     "/ˌtɐn.zɐnˈjɐ/"
+    ]
+   }
+  ]
+ },
+ "THA": {
+  "title": "Thailand",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA"
+    ],
+    "ipa": [
+     "/ˈtaɪlænd/",
+     "/ˈtaɪlənd/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˈtɑjland/",
+     "/ˈtɑjlənd/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia"
+    ],
+    "ipa": [
+     "/ˈtɑelænd/",
+     "/ˈtɑelənd/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈtɑelɛnd/",
+     "/ˈtɑelənd/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern England",
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈtaɪland/",
+     "/ˈtaɪlənd/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈtʌɪland/",
+     "/ˈtʌɪlənd/"
+    ]
+   }
+  ]
+ },
+ "TLS": {
+  "title": "Timor-Leste",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/tiˈmɔːr ˈlɛʃteɪ/"
+    ]
+   }
+  ]
+ },
+ "TGO": {
+  "title": "Togo",
+  "lines": [
+   {
+    "labels": [
+     "US",
+     "CA"
+    ],
+    "ipa": [
+     "/ˈtoʊɡoʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈtəʊɡəʊ/"
+    ]
+   }
+  ]
+ },
+ "TON": {
+  "title": "Tonga",
+  "lines": [
+   {
+    "labels": [
+     "Aus",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈtɒŋ.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˈtɒŋ.ə/",
+     "/ˈtɒŋ.ɡə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈtɑŋ.ɡə/",
+     "/ˈtɔŋ.ɡə/",
+     "/ˈtoʊŋ.ə/"
+    ]
+   }
+  ]
+ },
+ "TTO": {
+  "title": "Trinidad and Tobago",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/ˌtɹɪn.ɪ.dæd ænd təˈbeɪ.ɡəʊ/",
+     "/ˌtɹɪn.ə.dæd æn(d) təˈbeɪ.ɡəʊ/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌtɹɪn.ɪ.dæd ænd toʊˈbeɪ.ɡoʊ/",
+     "/ˌtɹɪn.ə.dæd ænd təˈbeɪ.ɡoʊ/"
+    ]
+   }
+  ]
+ },
+ "TUN": {
+  "title": "Tunisia",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/tjuːˈnɪzi.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA",
+     "CA"
+    ],
+    "ipa": [
+     "/tuˈni.ʒə/",
+     "/tuˈnɪʒ.ə/"
+    ]
+   },
+   {
+    "labels": [
+     "Ireland"
+    ],
+    "ipa": [
+     "/tʃuːˈnɪzi.ə/"
+    ]
+   }
+  ]
+ },
+ "TUR": {
+  "title": "Turkey",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "AU"
+    ],
+    "ipa": [
+     "/ˈtɜːki/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/ˈtɝki/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ",
+     "Wales"
+    ],
+    "ipa": [
+     "/ˈtøːki/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˈtʌɾke/",
+     "/-kɪ/",
+     "/-ki/"
+    ]
+   },
+   {
+    "labels": [
+     "Dublin"
+    ],
+    "ipa": [
+     "/ˈtʊːki/",
+     "/ˈtʊːɹki/"
+    ]
+   },
+   {
+    "labels": [
+     "Scouse",
+     "square-nurse"
+    ],
+    "ipa": [
+     "/ˈteːki/"
+    ]
+   },
+   {
+    "labels": [
+     "Humberside",
+     "Teesside",
+     "square-nurse"
+    ],
+    "ipa": [
+     "/ˈtɛːki/"
+    ]
+   }
+  ]
+ },
+ "TKM": {
+  "title": "Turkmenistan",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌtɜːkmɛn.ɪˈstɑːn/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/tɚkˈmɛn.ɪ.stæn/"
+    ]
+   }
+  ]
+ },
+ "TUV": {
+  "title": "Tuvalu",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌtuːvəˈluː/",
+     "/tuːˈvɑː.luː/",
+     "/ˈtuː.və.luː/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/tuˈvɑ.lu/",
+     "/ˈtu.və.lu/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/tʉːˈvɐːlʉː/"
+    ]
+   }
+  ]
+ },
+ "UGA": {
+  "title": "Uganda",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/juːˈɡændə/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/jʉwˈɡandə/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/(j)uˈɡɑndə/",
+     "/juˈɡændə/"
+    ]
+   },
+   {
+    "labels": [
+     "CA"
+    ],
+    "ipa": [
+     "/juˈɡændə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/jʉːˈɡændə/",
+     "[jʉːˈɡeːndə]"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/jʉːˈɡɛndə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/jʉˈɡandə/"
+    ]
+   }
+  ]
+ },
+ "UKR": {
+  "title": "Ukraine",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/juːˈkɹeɪn/",
+     "/ˈjuːkɹeɪn/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/juːˈkɹeɪn/",
+     "/ˈjuːkɹeɪn/",
+     "/ʊˈkɹeɪn/",
+     "/ˈʊkɹeɪn/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/jʉˈkɾen/",
+     "/ˈjʉkɾen/"
+    ]
+   },
+   {
+    "labels": [
+     "Northern Ireland"
+    ],
+    "ipa": [
+     "/jʉˈkɻeˑən/",
+     "/ˈjʉkɻeˑən/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales",
+     "non-pane-pain"
+    ],
+    "ipa": [
+     "/jɪʊˈkɾein/",
+     "/ˈjɪʊkɾein/"
+    ]
+   }
+  ]
+ },
+ "ARE": {
+  "title": "United Arab Emirates",
+  "lines": [
+   {
+    "labels": [
+     "UK"
+    ],
+    "ipa": [
+     "/juˌnaɪ̯tɪd ˌaɹəb ˈɛmɪɹɪ(t)s/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/jʊˌnaɪ̯ɾɪ̈d ˌɛɹəb ˈɛmɪɹɪts/"
+    ]
+   }
+  ]
+ },
+ "GBR": {
+  "title": "United Kingdom",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/juːˌnaɪ.tɪd ˈkɪŋ.dəm/",
+     "/jʊˌnaɪ.tɪd ˈkɪŋ.dəm/",
+     "/jəˌnaɪ.tɪd ˈkɪŋ.dəm/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/jʉwˌnɑj.tɪd ˈkɪŋ.dəm/",
+     "/jɵˌnɑj.tɪd ˈkɪŋ.dəm/",
+     "/jəˌnɑj.tɪd ˈkɪŋ.dəm/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/jʉˌnʌɪ.tɪd ˈkɪŋ.dəm/",
+     "/jəˌnʌɪ.tɪd ˈkɪŋ.dəm/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/jɪʊˌnaɪ.tɪd ˈkɪŋ.dəm/",
+     "/jʊˌnaɪ.tɪd ˈkɪŋ.dəm/",
+     "/jəˌnaɪ.tɪd ˈkɪŋ.dəm/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/juˌnaɪ.tɪd ˈkɪŋ.dəm/",
+     "/jʊˌnaɪ.tɪd ˈkɪŋ.dəm/",
+     "/jəˌnaɪ.tɪd ˈkɪŋ.dəm/"
+    ]
+   }
+  ]
+ },
+ "USA": {
+  "title": "United States",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/juːˌnaɪtɨd ˈsteɪts/",
+     "/jʊˌnaɪtɨd ˈsteɪts/"
+    ]
+   },
+   {
+    "labels": [],
+    "ipa": [
+     "/juˌnaɪtɪ̈d ˈsteɪts/",
+     "[juˌnaɪ̯ɾɪ̈d ˈsteɪ̯ts]",
+     "[jɪ̈-]"
+    ]
+   }
+  ]
+ },
+ "URY": {
+  "title": "Uruguay",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˈjʊəɹəɡwaɪ/",
+     "/ˈʊɹəɡweɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˈjʊɹəɡwaɪ/",
+     "/ˈʊɹəɡweɪ/"
+    ]
+   }
+  ]
+ },
+ "UZB": {
+  "title": "Uzbekistan",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ʊzˌbɛkɪˈstɑːn/",
+     "/-stæn/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ɵzˌbɛkɪˈstɑːn/",
+     "/-stan/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ʊzˌbɛkɪˈstɑn/",
+     "/-stæn/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ʉzˌbɛkɪˈstan/"
+    ]
+   }
+  ]
+ },
+ "VUT": {
+  "title": "Vanuatu",
+  "lines": [
+   {
+    "labels": [
+     "AU"
+    ],
+    "ipa": [
+     "/ˌvænuːˈaːtuː/"
+    ]
+   },
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/væn.uːˈɑː.tuː/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/vɑ.nuˈɑ.tu/"
+    ]
+   }
+  ]
+ },
+ "VAT": {
+  "title": "Vatican City",
+  "lines": [
+   {
+    "labels": [
+     "UK",
+     "GA"
+    ],
+    "ipa": [
+     "/ˈvæ.tɪ.kən ˈsɪt.i/"
+    ]
+   }
+  ]
+ },
+ "VEN": {
+  "title": "Venezuela",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌvɛnɪzˈweɪlə/",
+     "/-əz-/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌvɛnəzˈwɛjlə/"
+    ]
+   },
+   {
+    "labels": [
+     "US"
+    ],
+    "ipa": [
+     "/ˌvɛnəzˈweɪlə/",
+     "/ˌvɛnəzˈwɛlə/",
+     "/ˌvɛnɛzˈweɪlə/"
+    ]
+   },
+   {
+    "labels": [
+     "AU",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˌvenəzˈwæɪlə/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌvɛnəzˈwelə/"
+    ]
+   }
+  ]
+ },
+ "VNM": {
+  "title": "Vietnam",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/ˌviːətˈnɑːm/",
+     "/ˌviːətˈnæm/",
+     "/ˌvjɛtˈnɑːm/",
+     "/ˌvjɛtˈnæm/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/ˌvɪjətˈnɑːm/",
+     "/ˌvɪjətˈnam/",
+     "/ˌvjɛtˈnɑːm/",
+     "/ˌvjɛtˈnam/"
+    ]
+   },
+   {
+    "labels": [
+     "GenAm"
+    ],
+    "ipa": [
+     "/ˌvi.ɪtˈnɑm/",
+     "/ˌvi.ət-/",
+     "/(ˈ)vjɛt-/",
+     "/-ˈnæm/",
+     "/viˌɛt-/",
+     "/viˌɪt-/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/ˌvi.ətˈnam/",
+     "/ˌvjɛtˈnam/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "rare",
+     "perhaps modeled on ''piece'' etc",
+     "or the South Vietnamese pronunciation"
+    ],
+    "ipa": [
+     "/(ˈ)vitˈnɑm/",
+     "/(ˈ)vitˈnæm/"
+    ]
+   }
+  ]
+ },
+ "YEM": {
+  "title": "Yemen",
+  "lines": [
+   {
+    "labels": [
+     "RP",
+     "GA"
+    ],
+    "ipa": [
+     "/ˈjɛmən/"
+    ]
+   },
+   {
+    "labels": [
+     "US",
+     "pin-pen"
+    ],
+    "ipa": [
+     "/ˈjɪmən/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia",
+     "NZ"
+    ],
+    "ipa": [
+     "/ˈjemən/"
+    ]
+   }
+  ]
+ },
+ "ZMB": {
+  "title": "Zambia",
+  "lines": [
+   {
+    "labels": [],
+    "ipa": [
+     "/ˈzæmbiə/"
+    ]
+   }
+  ]
+ },
+ "ZWE": {
+  "title": "Zimbabwe",
+  "lines": [
+   {
+    "labels": [
+     "RP"
+    ],
+    "ipa": [
+     "/zɪmˈbɑːbweɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "SSB"
+    ],
+    "ipa": [
+     "/zɪmˈbɑːbwɛj/"
+    ]
+   },
+   {
+    "labels": [
+     "GA"
+    ],
+    "ipa": [
+     "/zɪmˈbɑbweɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "AU!Australia"
+    ],
+    "ipa": [
+     "/zɪmˈbɐːbwæɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "NZ"
+    ],
+    "ipa": [
+     "/zəmˈbɐːbwæɪ/"
+    ]
+   },
+   {
+    "labels": [
+     "Scotland"
+    ],
+    "ipa": [
+     "/zɪmˈbabwe/"
+    ]
+   },
+   {
+    "labels": [
+     "Wales"
+    ],
+    "ipa": [
+     "/zɪmˈbaːbweː/"
+    ]
+   }
+  ]
+ }
+}

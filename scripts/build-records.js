@@ -4,6 +4,7 @@ import { COUNTRIES, borders, regionLabel } from './geo.js';
 const facts = JSON.parse(fs.readFileSync('data/facts-all.json', 'utf8'));
 const leaders = JSON.parse(fs.readFileSync('data/leaders.json', 'utf8'));
 const religion = JSON.parse(fs.readFileSync('data/religion.json', 'utf8'));
+const pron = JSON.parse(fs.readFileSync('data/pronunciation.json', 'utf8')); // run scripts/pronunciation.js to refresh
 
 // Gaps neither source filled (checked by hand).
 const FIX = { ATG: { capital: ["St. John's"] }, URY: { languages: 'Spanish' } };
@@ -23,6 +24,7 @@ for (const c of COUNTRIES) {
     Languages: f.languages, Currency: f.currency, Government: f.government, Religion: religion[c.iso] || '',
     Leader: l.leader, Party: l.party, 'Head of State': l.head ? `${l.head}${l.headParty ? ` (${l.headParty})` : ''}` : '',
     Borders: b.join(', '), 'As Of': f.asOf,
+    IPA: pron[c.iso]?.ipa || '', Respelling: pron[c.iso]?.respell || '',
     _flag: f.flag, _iso: c.iso,
   });
 }
@@ -48,4 +50,4 @@ for (const [k, num] of Object.entries(NUMERIC)) {
 fs.writeFileSync('data/records.json', JSON.stringify(records, null, 1));
 const empty = (k) => records.filter((r) => !r[k]).length;
 console.log(records.length, 'records');
-for (const k of ['Capital', 'Population', 'GDP', 'GDP per Capita', 'Land Area', 'Density', 'Happiness', 'Languages', 'Currency', 'Government', 'Religion', 'Leader', 'Party', 'Head of State', 'Borders']) console.log(k.padEnd(14), 'empty', empty(k));
+for (const k of ['Capital', 'Population', 'GDP', 'GDP per Capita', 'Land Area', 'Density', 'Happiness', 'Languages', 'Currency', 'Government', 'Religion', 'Leader', 'Party', 'Head of State', 'Borders', 'IPA', 'Respelling']) console.log(k.padEnd(14), 'empty', empty(k));

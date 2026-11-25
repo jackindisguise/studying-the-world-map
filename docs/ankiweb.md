@@ -42,7 +42,7 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 ---
 
 ## What the back of the card shows
-- **Name**, flag and region
+- **Name**, how to say it (a respelling like *kroh-AY-shuh* and the IPA), flag and region
 - **Capital**
 - **Bordering countries**
 - **Languages** and **Currency**
@@ -79,6 +79,7 @@ Within the deck, countries are ordered by population, largest first.
 
 ## Sources
 - **Shapes:** Natural Earth (public domain). The Monaco and Vatican City outlines in the zoom boxes are OpenStreetMap contributors (ODbL, openstreetmap.org/copyright).
+- **Pronunciation:** US English IPA from Wiktionary (CC BY-SA); the respelling is generated from it.
 - **Capitals, languages, currency, government, flags:** Wikidata and Wikimedia Commons.
 - **Population, GDP, land area, density:** World Bank.
 - **Leaders and religion (Pew, 2020):** Wikipedia.
