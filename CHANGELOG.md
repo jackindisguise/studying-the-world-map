@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.0](https://github.com/jackindisguise/studying-the-world-map/compare/v1.4.0...v1.5.0) (2026-11-25)
+
+
+### Features
+
+* add IPA and respelling pronunciation fields ([6607e24](https://github.com/jackindisguise/studying-the-world-map/commit/6607e24c529c29e200aad41a62a66b520738c9fc))
+
 ## [1.4.0](https://github.com/jackindisguise/studying-the-world-map/compare/v1.3.0...v1.4.0) (2026-11-22)
 
 
