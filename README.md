@@ -14,7 +14,7 @@ This project holds everything needed to generate the deck's data, maps and packa
 - **Countries:** 197 in total, the 193 UN members plus Vatican City, Palestine, Taiwan and Kosovo (`data/countries.json`).
 - **Notes:** one *Country Map* note per country, keyed by its ISO 3166-1 alpha-3 code (Kosovo is `XKX`).
 - **Cards:** two per note. *Locate* shows a map with the country highlighted and asks which country it is. *Flag to Country* shows the flag and asks for the country.
-- **Back of the card:** name, flag, region, capital, bordering countries, languages, currency, government, religion, population, GDP, GDP per capita, land area, density, happiness score, leader, party, head of state and the date the data was gathered. Empty rows are hidden.
+- **Back of the card:** name, how to say it (a plain-English respelling like `kroh-AY-shuh` and the IPA), flag, region, capital, bordering countries, languages, currency, government, religion, population, GDP, GDP per capita, land area, density, happiness score, leader, party, head of state and the date the data was gathered. Empty rows are hidden.
 - **Sub-decks:** one per region (North America, South America, Europe, Africa, Central America, Caribbean, Asia, Oceania).
 - **Maps:** one SVG per country, a north-up Mercator view at a fixed ground scale, with the country in red and its neighbours in grey.
 - **Zoom boxes:** countries with under 3,000 km² of land also get a zoomed-in box (`zoom-<ISO>.svg`) pinned to the top-left of the card, with a scale bar. Island groups spread over more than about 150 miles are skipped, since they would only shrink to dots. Monaco and Vatican City use OpenStreetMap outlines; the rest use Natural Earth shapes.
@@ -169,6 +169,7 @@ Already cached in `data/`, and only fetched again by the refresh and fetch scrip
 - **Zoom outlines:** OpenStreetMap (© OpenStreetMap contributors, ODbL), the detailed Monaco and Vatican City outlines, in `data/raw/outlines/`.
 - **Wikidata (SPARQL):** country list, capitals, flags, languages, currency, government, parties.
 - **World Bank API:** population, GDP, GDP per capita, land area, density.
+- **Wiktionary (CC BY-SA):** the US English IPA of each name, in `data/raw/wiktionary/`. The respelling is generated from it by `scripts/respell.js` with one fixed key (`npm run pronunciation`).
 - **Wikipedia:** the current heads of state and government list, and Pew 2020 religion figures.
 - **Our World in Data:** the World Happiness Report export, for the happiness score.
 - **Wikimedia Commons:** the original flag SVGs.

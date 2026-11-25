@@ -78,6 +78,24 @@ body {
   font-weight: 700;
   line-height: 1.1;
 }
+.who {
+  min-width: 0;
+}
+.ipa {
+  margin-top: 2px;
+  font-size: 13px;
+  line-height: 1.2;
+  color: #7b8a96;
+}
+.say {
+  font-size: 13px;
+  line-height: 1.2;
+  color: #3d4f5e;
+}
+.nightMode .say,
+.night_mode .say {
+  color: #c3cdd5;
+}
 .region {
   display: inline-block;
   margin: 6px 0 4px;
@@ -164,6 +182,10 @@ td.k {
   .name {
     font-size: 20px;
   }
+  .say,
+  .ipa {
+    font-size: 11px;
+  }
   .flag img {
     height: 26px;
   }
@@ -231,6 +253,10 @@ td.k {
   }
   .name {
     font-size: 26px;
+  }
+  .say,
+  .ipa {
+    font-size: 14px;
   }
   .flag img {
     height: 40px;
