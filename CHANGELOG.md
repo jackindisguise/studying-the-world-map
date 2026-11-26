@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.5.1](https://github.com/jackindisguise/studying-the-world-map/compare/v1.5.0...v1.5.1) (2026-11-26)
+
+
+### Bug Fixes
+
+* correct American English pronunciations and respellings ([8916e8a](https://github.com/jackindisguise/studying-the-world-map/commit/8916e8aebaf8effa7de531461bf06d5c48d2513a))
+
 ## [1.5.0](https://github.com/jackindisguise/studying-the-world-map/compare/v1.4.0...v1.5.0) (2026-11-25)
 
 
