@@ -66,6 +66,7 @@ Countries with very little land (here Monaco) also get a zoomed-in box in the to
 ## What this project does
 
 - **Collects the data:** pulls facts from Wikidata, the World Bank, Wikipedia and the World Happiness Report, merges them with hand-written overrides, and writes one record per country to `data/records.json`. Each numeric value (population, GDP, GDP per capita, land area, density, happiness) carries its rank among the countries that have a value, as `43,844,111 (#36/197)`; 1 is the highest and ties share a rank.
+- **Adds pronunciation:** takes the US English IPA of each country name from Wiktionary and generates a plain-English respelling from it, with the same key for every country (`data/pronunciation.json`).
 - **Draws the maps:** renders every country's map SVG, and the zoom boxes, from Natural Earth shapes into `build/media/`. It uses every CPU core.
 - **Fetches the flags:** downloads the original flag SVGs from Wikimedia Commons (`data/flags-svg/`).
 - **Writes the note file:** a single Anki-importable CSV, `build/notes.csv`, with one row per country, most populous first. It has import headers (note type, deck and tags columns); the Map and Flag fields are `<img>` tags that point at the files in `build/media/`, named `map-<ISO>.svg`, `zoom-<ISO>.svg` and `flag-<ISO>.svg`. Import that folder's files into Anki's media folder as they are.
@@ -78,7 +79,7 @@ Countries with very little land (here Monaco) also get a zoomed-in box in the to
 ## Layout
 
 - `scripts/`: data pipeline and map renderer (run everything from the package root).
-- `data/`: committed inputs, which are the country list, cached Wikidata/Wikipedia/World Bank/Natural Earth/happiness sources (`data/raw`), OpenStreetMap outlines (`data/raw/outlines`), flags (`flags-svg`) and the derived JSON (`facts-all`, `leaders`, `religion`, `records`).
+- `data/`: committed inputs, which are the country list, cached Wikidata/Wikipedia/Wiktionary/World Bank/Natural Earth/happiness sources (`data/raw`), OpenStreetMap outlines (`data/raw/outlines`), flags (`flags-svg`) and the derived JSON (`facts-all`, `leaders`, `religion`, `pronunciation`, `records`).
 - `templates/`: the Anki card templates, saved from the *Country Map* note type. One folder per card (`locate`, `flag-to-country`) with `front.html`, `back.html` and `style.css`.
 - `docs/`: the AnkiWeb page (`ankiweb.md`) and its example images.
 - `build/`: generated output, including `build/media/`, `build/notes.csv`, `build/fit/boxes.json` and the `.apkg`.
@@ -141,13 +142,24 @@ node scripts/build-examples.js MCO LUX
 
 The first writes the AnkiWeb example images into `docs/images/`. With ISO codes it writes test screenshots (desktop and phone, front and back) into `build/examples/` instead.
 
+### Pronunciation
+
+```
+npm run pronunciation
+npm run records
+```
+
+Builds `data/pronunciation.json` from the cached Wiktionary lines, fetching only countries that are missing (`npm run pronunciation:refresh` fetches everything again), then puts it into the records. The US transcription is preferred, and a few countries are set by hand in `IPA_OVERRIDES` in `scripts/pronunciation.js`.
+
+The respelling key is at the top of `scripts/respell.js`: syllables are separated by hyphens, the one with the primary stress is in capitals, "and", "of" and "the" are written as plain words, and the vowel in "price" is `ai` on its own but `y` after a consonant (`CHY-nuh`). To try a transcription: `node scripts/respell.js "kroʊˈeɪʃə"`.
+
 ### Refresh data
 
 ```
 npm run refresh-data
 ```
 
-Re-fetches Wikidata/World Bank facts, re-parses `data/raw/wikipedia/heads.json`, then rebuilds leaders, religion and records. To get a fresh Wikipedia heads list, re-download it into `data/raw/wikipedia/heads.json` first. Hand overrides live in `scripts/leaders.js`.
+Re-fetches Wikidata/World Bank facts, re-parses `data/raw/wikipedia/heads.json`, rebuilds leaders and religion, re-fetches the pronunciations from Wiktionary, then rebuilds the records. To get a fresh Wikipedia heads list, re-download it into `data/raw/wikipedia/heads.json` first. Hand overrides live in `scripts/leaders.js`.
 
 ---
 

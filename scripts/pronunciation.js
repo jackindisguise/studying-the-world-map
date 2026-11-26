@@ -16,6 +16,20 @@ const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const TITLE = {};
 // Hand-checked IPA for countries Wiktionary has no usable entry for.
 const IPA_OVERRIDES = {
+  GNQ: '/ˌɛk.wəˈtɔɹ.i.əl ˈɡɪni/',
+  ISL: '/ˈaɪslənd/', // without the dot, so it is not respelled "AIS", which reads with a z sound
+  ISR: '/ˈɪz.ɹi.əl/',
+  MAR: '/məˈɹɑk.oʊ/',
+  // American readings where the entry's pick was British, unusual or marked a vowel the respelling key renders poorly
+  AUT: '/ˈɔstɹiə/',
+  BDI: '/bəˈɹundi/',
+  BIH: '/ˈbɑzniə ænd ˌhɜɹt.sɪɡoʊˈviːnə/',
+  DOM: '/dəˌmɪnɪkən ɹɪˈpʌblɪk/',
+  GAB: '/ɡɑˈboʊn/',
+  KIR: '/ˈkɪɹəˌbæs/',
+  NZL: '/ˌnu ˈzilənd/',
+  UZB: '/uzˈbɛkɪˌstæn/',
+  NPL: '/nəˈpɔːl/', // the entry's general line is an unusual reading (NAY-pahl)
   ARE: '/juˈnaɪtɪd ˈɛɹəb ˈɛmɪɹɪts/', // the entry's own transcription uses non-standard symbols
   IRL: '/ˈaɪɚlənd/', // the entry brackets the r
   COD: '/dɛməˈkɹætɪk ɹɪˈpʌblɪk əv ðə ˈkɑŋɡoʊ/', // the entry is a UK reading
@@ -70,8 +84,11 @@ for (const c of COUNTRIES) {
   // Phonemic (/…/) transcriptions only, not phonetic ([…]) ones. Order of preference: a US line, a line with no accent label,
   // a UK line, any line. Labels like "pin-pen" or "rare" mark a variant, so they never count as a plain US or UK line.
   const phonemic = lines.map((l) => ({ ...l, ipa: l.ipa.filter((p) => p.startsWith('/')) })).filter((l) => l.ipa.length);
-  const accent = (l, re) => l.labels.some((x) => re.test(x)) && l.labels.every((x) => /^(US|GenAm|General American|GA|CA|UK|RP|Received Pronunciation)$/i.test(x));
-  const line = phonemic.find((l) => accent(l, /^(US|GenAm|General American|GA)$/i)) || phonemic.find((l) => !l.labels.length)
+  const accent = (l, re) => l.labels.some((x) => re.test(x)) && l.labels.every((x) => /^(US|GenAm|General American|GA|CA|Canada|UK|RP|Received Pronunciation|AU|NZ)$/i.test(x));
+  const US = /^(US|GenAm|General American|GA)$/i;
+  // A US line with a further qualifier (e.g. "US,non-cot-caught") still beats an unlabelled or UK one, unless it marks a rare variant.
+  const qualified = (l) => l.labels.some((x) => US.test(x)) && !l.labels.some((x) => /rare|less common|pin-pen|dated|imitating/i.test(x));
+  const line = phonemic.find((l) => accent(l, US)) || phonemic.find(qualified) || phonemic.find((l) => !l.labels.length)
     || phonemic.find((l) => accent(l, /^(UK|RP|Received Pronunciation)$/i)) || phonemic[0];
   const ipa = IPA_OVERRIDES[c.iso] || line?.ipa[0];
   if (ipa) { try { out[c.iso] = { ipa, respell: respell(ipa) }; } catch (e) { console.log(c.iso, e.message); } }
