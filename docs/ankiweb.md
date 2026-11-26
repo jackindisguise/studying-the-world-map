@@ -42,7 +42,8 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 ---
 
 ## What the back of the card shows
-- **Name**, how to say it (a respelling like *kroh-AY-shuh* and the IPA), flag and region
+- **Name**, flag and region
+- **Pronunciation:** the IPA, with a plain-English respelling under it
 - **Capital**
 - **Bordering countries**
 - **Languages** and **Currency**
@@ -51,6 +52,22 @@ The cards fill the screen on a phone too: the map on top, and the details below 
 - **Ranked numbers:** population, GDP, GDP per capita, land area, density and happiness score
 
 > Ranked values show the country's world ranking, like *57,532,493 (#26/197)*. Empty rows are hidden.
+
+---
+
+## Pronunciation
+Each country shows how its name is said in US English, in two forms:
+
+> **Croatia**
+>
+> /ˌkɹoʊˈeɪ.ʃə/
+>
+> kroh-AY-shuh
+
+In the respelling, hyphens separate the syllables and the stressed one is in capitals.
+
+- **Vowels:** *a* cat, *ah* father, *air* care, *ar* start, *aw* thought, *ay* face, *e* bed, *ee* see, *eer* near, *er* nurse, *ai* price (written *y* after a consonant, as in *CHY-nuh*), *i* kit, *oh* goat, *oo* goose, *oor* poor, *or* north, *ow* mouth, *oy* choice, *uh* strut, *uu* foot
+- **Consonants:** *ch*, *j*, *sh*, *zh* (measure), *th* (thin), *dh* (this), *ng*, *y* (yes); the rest are as written
 
 ---
 
@@ -73,12 +90,13 @@ Within the deck, countries are ordered by population, largest first.
 ## Accuracy
 - Data was gathered in 2025. Leaders and parties change often, so check anything that matters.
 - Some values are blank where no source had a figure: government type (52 countries), religion (15 micro-states), happiness (51), party (36) and GDP (North Korea, Taiwan, Vatican City).
+- Names often have more than one accepted pronunciation; only one is shown, and the respelling is generated automatically.
 - Borders are land borders only. Island countries have none, and bridge or causeway links (Singapore, Bahrain) do not count.
 
 ---
 
 ## Sources
-- **Shapes:** Natural Earth (public domain). The Monaco and Vatican City outlines in the zoom boxes are OpenStreetMap contributors (ODbL, openstreetmap.org/copyright).
+- **Shapes:** Natural Earth (public domain). The Monaco and Vatican City outlines in the zoom boxes are © OpenStreetMap contributors (ODbL, openstreetmap.org/copyright).
 - **Pronunciation:** US English IPA from Wiktionary (CC BY-SA); the respelling is generated from it.
 - **Capitals, languages, currency, government, flags:** Wikidata and Wikimedia Commons.
 - **Population, GDP, land area, density:** World Bank.
