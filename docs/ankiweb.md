@@ -25,13 +25,13 @@ Name the country from its flag.
 Countries with very little land (here Monaco) also get a zoomed-in box in the top-left corner, with a scale bar.
 
 <img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/zoom.png" alt="Monaco with a zoom box: the front and back of the card" width="900">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-zoom.png" alt="Monaco with a zoom box on a phone: front and back" width="440">
 
 ### On a phone
 The cards fill the screen on a phone too: the map on top, and the details below it on the back.
 
 <img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-locate.png" alt="Locate on a phone: front and back" width="440">
 <img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-flag.png" alt="Flag to Country on a phone: front and back" width="440">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-zoom.png" alt="Monaco with a zoom box on a phone: front and back" width="440">
 
 ---
 

@@ -44,6 +44,8 @@ The map fills the screen, and on the back it shifts up into the middle of the ar
 <table>
 <tr><td align="center">Locate</td><td align="center">Flag to Country</td></tr>
 <tr><td><img src="docs/images/phone-locate.png" alt="Locate on a phone: front and back" width="420"></td><td><img src="docs/images/phone-flag.png" alt="Flag to Country on a phone: front and back" width="420"></td></tr>
+<tr><td align="center" colspan="2">Tiny country (Monaco)</td></tr>
+<tr><td align="center" colspan="2"><img src="docs/images/phone-zoom.png" alt="Monaco with a zoom box on a phone: front and back" width="420"></td></tr>
 </table>
 
 ### Tiny countries
@@ -51,8 +53,6 @@ The map fills the screen, and on the back it shifts up into the middle of the ar
 Countries with very little land (here Monaco) also get a zoomed-in box in the top-left corner, with a scale bar.
 
 <img src="docs/images/zoom.png" alt="Monaco with a zoom box: the front and back of the card" width="100%">
-
-<img src="docs/images/phone-zoom.png" alt="Monaco with a zoom box on a phone: front and back" width="420">
 
 ---
 
