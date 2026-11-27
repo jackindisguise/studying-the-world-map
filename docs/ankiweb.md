@@ -11,12 +11,12 @@
 
 ## Cards
 
-### 1. Map to Country
+### Map to Country
 Find the red country on a north-up map, then flip for the answer and its facts.
 
 <img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/locate.png" alt="Locate: the front and back of the card" width="900">
 
-### 2. Flag to Country
+### Flag to Country
 Name the country from its flag.
 
 <img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/flag.png" alt="Flag to Country: the front and back of the card" width="900">
@@ -29,8 +29,13 @@ Countries with very little land (here Monaco) also get a zoomed-in box in the to
 ### On a phone
 The cards fill the screen on a phone too: the map on top, and the details below it on the back.
 
+#### Map to Country
 <img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-locate.png" alt="Locate on a phone: front and back" width="440">
+
+#### Flag to Country
 <img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-flag.png" alt="Flag to Country on a phone: front and back" width="440">
+
+#### Tiny countries
 <img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-zoom.png" alt="Monaco with a zoom box on a phone: front and back" width="440">
 
 ---

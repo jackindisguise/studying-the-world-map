@@ -37,6 +37,10 @@ Screenshots rendered from the card templates with `node scripts/build-examples.j
 
 On the back, the map shifts to the middle of the space beside the details card, so the country isn't hidden behind it.
 
+**Tiny countries** (Monaco): countries with very little land also get a zoomed-in box in the top-left corner, with a scale bar.
+
+<img src="docs/images/zoom.png" alt="Monaco with a zoom box: the front and back of the card" width="100%">
+
 ### Phone
 
 The map fills the screen, and on the back it shifts up into the middle of the area above the details panel.
@@ -47,12 +51,6 @@ The map fills the screen, and on the back it shifts up into the middle of the ar
 <tr><td align="center" colspan="2">Tiny country (Monaco)</td></tr>
 <tr><td align="center" colspan="2"><img src="docs/images/phone-zoom.png" alt="Monaco with a zoom box on a phone: front and back" width="420"></td></tr>
 </table>
-
-### Tiny countries
-
-Countries with very little land (here Monaco) also get a zoomed-in box in the top-left corner, with a scale bar.
-
-<img src="docs/images/zoom.png" alt="Monaco with a zoom box: the front and back of the card" width="100%">
 
 ---
 
