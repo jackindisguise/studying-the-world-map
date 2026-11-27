@@ -1,4 +1,6 @@
 // Renders example card screenshots (docs/images/*.png) from templates/ and data/records.json, using headless Edge/Chrome.
+// The documentation images are drawn inside a mock Anki window or phone screen (scripts/anki-frame.js); test shots are the bare card.
+// A card's front and back are then joined into one picture with an arrow between them (scripts/pair-frame.js).
 // Desktop shots use the browser's screenshot flag. Phone shots drive the browser over the DevTools protocol so they
 // get mobile and touch emulation (no hover, coarse pointer), which is what makes the cards use their phone layout.
 // Needs the maps in build/media (npm run render, or node scripts/render-all.js KEN BRA) and the flags (npm run flags:copy).
@@ -9,6 +11,8 @@ import os from 'node:os';
 import path from 'node:path';
 import { execFileSync, spawn } from 'node:child_process';
 import { pathToFileURL } from 'node:url';
+import { ankiFrame } from './anki-frame.js';
+import { pairFrame } from './pair-frame.js';
 
 const BROWSERS = [
   'C:/Program Files (x86)/Microsoft/Edge/Application/msedge.exe',
@@ -28,8 +32,12 @@ const DOC_SHOTS = [
   ['phone-flag-front', 'flag-to-country', 'front', 'BRA', 390, 844, true],
   ['phone-flag-back', 'flag-to-country', 'back', 'BRA', 390, 844, true],
   ['zoom-front', 'locate', 'front', 'MCO', 1280, 720],
+  ['zoom-back', 'locate', 'back', 'MCO', 1280, 720],
   ['phone-zoom-front', 'locate', 'front', 'MCO', 390, 844, true],
+  ['phone-zoom-back', 'locate', 'back', 'MCO', 390, 844, true],
 ];
+// Documentation pictures that join "<name>-front" and "<name>-back"; those two are only intermediates, kept in build/examples/.
+const DOC_PAIRS = ['locate', 'flag', 'phone-locate', 'phone-flag', 'zoom', 'phone-zoom'];
 const testIsos = process.argv.slice(2);
 const SHOTS = testIsos.length
   ? testIsos.flatMap((iso) => [
@@ -93,25 +101,47 @@ const startBrowser = async () => {
 fs.mkdirSync('build/examples', { recursive: true });
 fs.mkdirSync(OUT_DIR, { recursive: true });
 let cdp;
+const sizes = {};
+// Screenshot of a page through the DevTools protocol, with or without phone emulation.
+const capture = async (page, out, { width, height }, mobile) => {
+  cdp ??= await startBrowser();
+  await cdp.send('Emulation.setDeviceMetricsOverride', { width, height, deviceScaleFactor: 1, mobile });
+  await cdp.send('Emulation.setTouchEmulationEnabled', mobile ? { enabled: true, maxTouchPoints: 5 } : { enabled: false });
+  await cdp.send('Page.enable');
+  await cdp.send('Page.navigate', { url: pathToFileURL(page).href });
+  await sleep(2500); // the card script re-fits at load and again after 150 and 600 ms
+  const { data } = await cdp.send('Page.captureScreenshot', { format: 'png' });
+  fs.writeFileSync(out, Buffer.from(data, 'base64'));
+};
 try {
   for (const [name, card, side, iso, w, h, phone] of SHOTS) {
     const tpl = fs.readFileSync(`templates/${card}/${side}.html`, 'utf8');
     const html = `<!doctype html><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><style>${css}</style><body class="card"><div id="qa">${render(tpl, fieldsOf(iso))}</div>`;
-    const page = path.resolve(`build/examples/${name}.html`);
+    let page = path.resolve(`build/examples/${name}.html`);
     fs.writeFileSync(page, html);
-    const out = path.resolve(`${OUT_DIR}/${name}.png`);
-    if (phone) {
-      cdp ??= await startBrowser();
-      await cdp.send('Emulation.setDeviceMetricsOverride', { width: w, height: h, deviceScaleFactor: 1, mobile: true });
-      await cdp.send('Emulation.setTouchEmulationEnabled', { enabled: true, maxTouchPoints: 5 });
-      await cdp.send('Page.enable');
-      await cdp.send('Page.navigate', { url: pathToFileURL(page).href });
-      await sleep(2500); // the card script re-fits at load and again after 150 and 600 ms
-      const { data } = await cdp.send('Page.captureScreenshot', { format: 'png' });
-      fs.writeFileSync(out, Buffer.from(data, 'base64'));
-    } else {
-      execFileSync(browser, ['--headless=new', '--disable-gpu', '--hide-scrollbars', `--screenshot=${out}`, `--window-size=${w},${h}`, '--virtual-time-budget=4000', pathToFileURL(page).href], { stdio: 'ignore' });
+    let size = { width: w, height: h };
+    if (!testIsos.length) {
+      const frame = ankiFrame(`${name}.html`, { side, isPhone: phone, w, h });
+      page = path.resolve(`build/examples/${name}-frame.html`);
+      fs.writeFileSync(page, frame.html);
+      size = frame;
     }
+    const paired = !testIsos.length && DOC_PAIRS.includes(name.replace(/-(front|back)$/, ''));
+    const out = path.resolve(`${paired ? 'build/examples' : OUT_DIR}/${name}.png`);
+    sizes[name] = { w: size.width, h: size.height, isPhone: phone };
+    if (phone) {
+      await capture(page, out, size, true);
+    } else {
+      execFileSync(browser, ['--headless=new', '--disable-gpu', '--hide-scrollbars', `--screenshot=${out}`, `--window-size=${size.width},${size.height}`, '--virtual-time-budget=4000', pathToFileURL(page).href], { stdio: 'ignore' });
+    }
+    console.log('wrote', path.relative('.', out));
+  }
+  for (const pair of testIsos.length ? [] : DOC_PAIRS) {
+    const frame = pairFrame(`${pair}-front.png`, `${pair}-back.png`, sizes[`${pair}-front`]);
+    const page = path.resolve(`build/examples/${pair}-pair.html`);
+    fs.writeFileSync(page, frame.html);
+    const out = path.resolve(`${OUT_DIR}/${pair}.png`);
+    await capture(page, out, frame, false);
     console.log('wrote', path.relative('.', out));
   }
 } finally {

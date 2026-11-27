@@ -23,23 +23,17 @@ This project holds everything needed to generate the deck's data, maps and packa
 
 ## Examples
 
-Screenshots rendered from the card templates with `node scripts/build-examples.js`.
+Screenshots rendered from the card templates with `node scripts/build-examples.js`, inside a mock Anki window and phone screen.
 
 ### Desktop
 
 **Locate** (Kenya): find the red country, then flip for its facts.
 
-<table>
-<tr><td align="center">Front</td><td align="center">Back</td></tr>
-<tr><td><img src="docs/images/locate-front.png" alt="Locate, front" width="480"></td><td><img src="docs/images/locate-back.png" alt="Locate, back" width="480"></td></tr>
-</table>
+<img src="docs/images/locate.png" alt="Locate: the front and back of the card" width="100%">
 
 **Flag to Country** (Brazil): name the country from its flag.
 
-<table>
-<tr><td align="center">Front</td><td align="center">Back</td></tr>
-<tr><td><img src="docs/images/flag-front.png" alt="Flag to Country, front" width="480"></td><td><img src="docs/images/flag-back.png" alt="Flag to Country, back" width="480"></td></tr>
-</table>
+<img src="docs/images/flag.png" alt="Flag to Country: the front and back of the card" width="100%">
 
 On the back, the map shifts to the middle of the space beside the details card, so the country isn't hidden behind it.
 
@@ -48,18 +42,17 @@ On the back, the map shifts to the middle of the space beside the details card, 
 The map fills the screen, and on the back it shifts up into the middle of the area above the details panel.
 
 <table>
-<tr><td align="center">Locate front</td><td align="center">Locate back</td><td align="center">Flag front</td><td align="center">Flag back</td></tr>
-<tr><td><img src="docs/images/phone-locate-front.png" alt="Locate on a phone, front" width="200"></td><td><img src="docs/images/phone-locate-back.png" alt="Locate on a phone, back" width="200"></td><td><img src="docs/images/phone-flag-front.png" alt="Flag to Country on a phone, front" width="200"></td><td><img src="docs/images/phone-flag-back.png" alt="Flag to Country on a phone, back" width="200"></td></tr>
+<tr><td align="center">Locate</td><td align="center">Flag to Country</td></tr>
+<tr><td><img src="docs/images/phone-locate.png" alt="Locate on a phone: front and back" width="420"></td><td><img src="docs/images/phone-flag.png" alt="Flag to Country on a phone: front and back" width="420"></td></tr>
 </table>
 
 ### Tiny countries
 
 Countries with very little land (here Monaco) also get a zoomed-in box in the top-left corner, with a scale bar.
 
-<table>
-<tr><td align="center">Desktop</td><td align="center">Phone</td></tr>
-<tr><td><img src="docs/images/zoom-front.png" alt="Monaco with a zoom box" width="480"></td><td><img src="docs/images/phone-zoom-front.png" alt="Monaco with a zoom box on a phone" width="200"></td></tr>
-</table>
+<img src="docs/images/zoom.png" alt="Monaco with a zoom box: the front and back of the card" width="100%">
+
+<img src="docs/images/phone-zoom.png" alt="Monaco with a zoom box on a phone: front and back" width="420">
 
 ---
 
