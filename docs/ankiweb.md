@@ -14,22 +14,24 @@
 ### 1. Map to Country
 Find the red country on a north-up map, then flip for the answer and its facts.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/locate-front.png" alt="Locate, front" width="640">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/locate-back.png" alt="Locate, back" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/locate.png" alt="Locate: the front and back of the card" width="900">
 
 ### 2. Flag to Country
 Name the country from its flag.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/flag-front.png" alt="Flag to Country, front" width="640">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/flag-back.png" alt="Flag to Country, back" width="640">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/flag.png" alt="Flag to Country: the front and back of the card" width="900">
+
+### Tiny countries
+Countries with very little land (here Monaco) also get a zoomed-in box in the top-left corner, with a scale bar.
+
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/zoom.png" alt="Monaco with a zoom box: the front and back of the card" width="900">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-zoom.png" alt="Monaco with a zoom box on a phone: front and back" width="440">
 
 ### On a phone
 The cards fill the screen on a phone too: the map on top, and the details below it on the back.
 
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-locate-front.png" alt="Locate on a phone, front" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-locate-back.png" alt="Locate on a phone, back" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-flag-front.png" alt="Flag to Country on a phone, front" width="240">
-<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-flag-back.png" alt="Flag to Country on a phone, back" width="240">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-locate.png" alt="Locate on a phone: front and back" width="440">
+<img src="https://raw.githubusercontent.com/jackindisguise/studying-the-world-map/main/docs/images/phone-flag.png" alt="Flag to Country on a phone: front and back" width="440">
 
 ---
 
